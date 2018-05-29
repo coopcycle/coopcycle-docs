@@ -1,6 +1,4 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://help.coopcycle.org/"
 theme = "coopcycle"
 
 DefaultContentLanguage = "fr"
