@@ -1,0 +1,20 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "coopcycle"
+
+DefaultContentLanguage = "fr"
+defaultContentLanguageInSubdir = true
+
+[blackfriday]
+extensions = ["hardLineBreak"]
+
+[Taxonomies]
+
+[Languages]
+
+[Languages.en]
+title = "CoopCycle - Help"
+
+[Languages.fr]
+title = "CoopCycle - Aide"
