@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, CoopCycle
+# This file is distributed under the same license as the CoopCycle package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CoopCycle \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-15 18:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../settings/pricing.rst:3
+msgid "Pricing"
+msgstr "Tarification"
+
+#: ../../settings/pricing.rst:5
+msgid ""
+"You can create pricings from the admin dashboard : `Settings` > `Pricing`"
+" . Afterwards, when you create a `Store`, you will be able to associate "
+"it to a `Pricing` in order to calculate the prices of the delivery "
+"created for this store."
+msgstr ""
+
+#: ../../settings/pricing.rst:8
+msgid "Create a pricing (admin only)"
+msgstr ""
+
+#: ../../settings/pricing.rst:10
+msgid ""
+"Each `Pricing` is composed of several `Rules`. A `Rule` is a set of "
+"conditions and a price. When creating a delivery, the rules are traversed"
+" in order, and the first one whose expression match the delivery is "
+"applied."
+msgstr ""
+
+#: ../../settings/pricing.rst:12
+msgid "Supported criterion for rules :"
+msgstr ""
+
+#: ../../settings/pricing.rst:14
+msgid "Length of delivery (in m)"
+msgstr ""
+
+#: ../../settings/pricing.rst:15
+msgid "Weight to deliver (in g)"
+msgstr ""
+
+#: ../../settings/pricing.rst:16
+msgid "Type of vehicle (`bike` or `cargo bike`)"
+msgstr ""
+
+#: ../../settings/pricing.rst:17
+msgid "Zone of delivery address"
+msgstr ""
+
+#: ../../settings/pricing.rst:20
+msgid "Assign a pricing to a store (admin only)"
+msgstr ""
+
+#: ../../settings/pricing.rst:22
+msgid "Each `Store` has a `Pricing`, you can assign it:"
+msgstr ""
+
+#: ../../settings/pricing.rst:24
+msgid "at store creation"
+msgstr ""
+
+#: ../../settings/pricing.rst:25
+msgid ""
+"later, thanks to the `Manage` dropdown on the right of each store in the "
+"`Stores` tab of the admin panel."
+msgstr ""
+

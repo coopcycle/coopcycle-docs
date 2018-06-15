@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2018, CoopCycle
+# This file is distributed under the same license as the CoopCycle package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CoopCycle \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-15 18:03+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.6.0\n"
+
+#: ../../settings/zones.rst:3
+msgid "Zones"
+msgstr ""
+
+#: ../../settings/zones.rst:5
+msgid ""
+"Vous pouvez enregistrer des zones sous forme de polygônes. Vous pourrez "
+"ensuite utiliser les zones enregistrées pour définir des règles "
+"tarifaires."
+msgstr ""
+
+#: ../../settings/zones.rst:9
+msgid "Créer les zones au format GeoJSON"
+msgstr ""
+
+#: ../../settings/zones.rst:11
+msgid ""
+"Pour créer les zones, vous devez d'abord les enregistrer au format "
+"[GeoJSON](https://fr.wikipedia.org/wiki/GeoJSON)."
+msgstr ""
+
+#: ../../settings/zones.rst:13
+msgid "Allez sur [geojson.io](http://geojson.io/)"
+msgstr ""
+
+#: ../../settings/zones.rst:15
+msgid "Zoomez à l'endroit désiré et utilisez les outils de dessin"
+msgstr ""
+
+#: ../../settings/zones.rst:17
+msgid "Cliquez sur **Save > GeoJSON** pour télécharger le fichier"
+msgstr ""
+
+#: ../../settings/zones.rst:19
+msgid "---"
+msgstr ""
+
+#: ../../settings/zones.rst:21
+msgid ""
+"![Dessiner un polygône](/img/help/zones/draw_polygon.png \"Dessiner un "
+"polygône\")"
+msgstr ""
+
