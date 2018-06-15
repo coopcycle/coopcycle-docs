@@ -1,13 +1,6 @@
-+++
-identifier = "pricing"
-draft = false
-title = "Pricing"
-description = "Comprendre le projet."
-lang = "en"
-slug = "pricing"
-menu = "main"
-weight = 1
-+++
+---
+description: Pricing
+---
 
 You can create pricings from the admin dashboard : `Settings` > `Pricing` . Afterwards, when you create a `Store`, you will be able to associate it to a `Pricing` in order to calculate the prices of the delivery created for this store.
 
