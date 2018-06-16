@@ -1,0 +1,16 @@
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
+    <nav class="site-nav">
+      <div class="trigger">
+      {%- for lang in site.data.langs -%}
+        <a class="page-link" href="{{ site.baseurl }}/{{ lang }}">{{ lang }}</a>
+      {%- endfor -%}
+      </div>
+    </nav>
+
+  </div>
+</header>
