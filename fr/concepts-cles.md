@@ -2,6 +2,7 @@
 layout: page
 title: Concepts clés
 lang: fr
+nav: true
 ---
 
 Créer une tâche

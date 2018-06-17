@@ -1,14 +1,33 @@
-{%- assign default_paths = site.pages | where:"lang", page.lang | map: "path" -%}
-{%- assign page_paths = site.header_pages | default: default_paths -%}
+{%- assign nav_pages = site.pages | where:"lang", page.lang | where:"nav", true -%}
+{%- assign subnav_pages = site.pages | where:"lang", page.lang | where:"subnav", true | sort: "nav_order" -%}
+{%- assign lang_dir = '/' | append: page.lang | append: '/' -%}
 
-{%- if page_paths -%}
+{%- if nav_pages -%}
   <nav>
     <ul>
-    {%- for path in page_paths -%}
-      {%- assign my_page = site.pages | where: "path", path | first -%}
-      {%- if my_page.title -%}
-      <li><a href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a></li>
-      {%- endif -%}
+    {%- for nav_page in nav_pages -%}
+      <li>
+        <a href="{{ nav_page.url | relative_url }}">{{ nav_page.title | escape }}</a>
+        {%- if subnav_pages -%}
+          <ul>
+          {%- for subnav_page in subnav_pages -%}
+            {%- if nav_page.dir != lang_dir and subnav_page.dir contains nav_page.dir -%}
+            <li>
+              <a href="{{ subnav_page.url | relative_url }}">{{ subnav_page.title | escape }}</a>
+              {%- assign leaf_pages = site.pages | where:"dir", subnav_page.dir | where_exp:"item", "item.name != 'index.md'" -%}
+              {%- if leaf_pages -%}
+              <ul>
+                {%- for leaf_page in leaf_pages -%}
+                  <li><a href="{{ leaf_page.url | relative_url }}">{{ leaf_page.title | escape }}</a></li>
+                {%- endfor -%}
+              </ul>
+              {%- endif -%}
+              {%- endif -%}
+            </li>
+          {%- endfor -%}
+          </ul>
+        {%- endif -%}
+      </li>
     {%- endfor -%}
     </ul>
   </nav>
