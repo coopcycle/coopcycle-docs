@@ -60,7 +60,8 @@ Instance CoopCycle
 ------------------
 
 Le logiciel CoopCycle fonctionne grâce au déploiement d’instances. Ces dernières sont des copies répliquées du logiciel qui sont autonomes les unes des autres. Cela permet à chaque ville de disposer de sa propre instances, des ses propres règles de tarifications, son espace de dispatch et de configurer le logiciel selon les besoins de chaque coopérative.
-les rôles dans les instances
+
+## Les rôles dans les instances
 
 Chaque instance dispose de rôles pour ses utilisateurs :
 - Administrateur
