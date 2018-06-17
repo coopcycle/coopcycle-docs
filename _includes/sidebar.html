@@ -4,7 +4,7 @@
 
 {%- if nav_pages -%}
   <nav>
-    <ul>
+    <ul class="main-nav">
     {%- for nav_page in nav_pages -%}
       <li>
         <a href="{{ nav_page.url | relative_url }}">{{ nav_page.title | escape }}</a>

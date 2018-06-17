@@ -8,6 +8,15 @@
   padding: 2rem 1rem;
   background-color: #fff;
   border-right: 1px solid #e8e8e8;
+
+  .main-nav {
+    list-style-type: none;
+    margin-left: 0;
+    ul {
+      list-style-type: none;
+    }
+  }
+
 }
 
 .wrapper {
