@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Onglet de commande
+title: Commandes
 lang: fr
 nav_order: 2
 ---

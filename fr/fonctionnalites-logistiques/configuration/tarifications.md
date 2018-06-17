@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tarification des courses
+title: Tarifications
 lang: fr
 ---
 
