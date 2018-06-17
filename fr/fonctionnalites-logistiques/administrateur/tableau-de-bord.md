@@ -102,16 +102,19 @@ Par tag
 ## Dropdown calendrier : Filter par jours
 
 Afin de filtrer par statut de tâche, il suffit d’utiliser le menu déroulant de filtre dans le menu supérieur du dashboard. Afin de filtrer par jour, il suffit d’utiliser le calendrier déroulant au même endroit. Il est possible de cumuler les filtres.
-Importer les tâches (en fichier CSV de traitement par lot)
+
+## Importer les tâches (en fichier CSV de traitement par lot)
+
 Pour éviter de créer manuellement un grand nombre de tâches, il est possible de les importer en masse via un fichier CSV. Sur le tableau de bord, cliquez sur le bouton « Importer » : une fenêtre s'ouvre pour permettre d'uploader un fichier. Vous devez au minimum spécifier une adresse pour chaque tâche, les autres colonnes sont optionnelles. Afin d’importer un fichier, cliquer sur le bouton “Import” situé dans le Dashboard sur la barre supérieure du dashboard.
+
 Les colonnes before et after pour spécifier le créneau horaire acceptent des valeurs sous différents formats. Voici les valeurs des colonnes accompagnées d’un exemple :
-Type : pickup
-Nom de l’adresse : Mairie du 2e
-Adresse : 1, rue de Rivoli Paris
-Début du créneau (Before) :15/02/2018 12:00
-Fin du créneau (After) : 15/02/2018 14:00
-Commentaire : Appeler le client au 01.02.03.04.05
-Tag : Important
+- Type : pickup
+- Nom de l’adresse : Mairie du 2e
+- Adresse : 1, rue de Rivoli Paris
+- Début du créneau (Before) :15/02/2018 12:00
+- Fin du créneau (After) : 15/02/2018 14:00
+- Commentaire : Appeler le client au 01.02.03.04.05
+- Tag : Important
 
 ## Exporter les tâches d'une journée (CSV)
 

@@ -7,15 +7,15 @@ nav_order: 4
 
 L’onglet de restaurant affiche l’ensemble des restaurants disponibles sur l’instance. La liste est composée des éléments suivants :
 Créer une restaurant, fonctionnalité administrateur de création d’un nouveau restaurant
-ID, lien vers le restaurant
-Nom du restaurant
-Adresse
-Horaire d'ouverture
-Gestion du restaurant (voir gestion Restaurant)
-Commande
-Menu activé
-Menus
-Paramètre
+- ID, lien vers le restaurant
+- Nom du restaurant
+- Adresse
+- Horaire d'ouverture
+- Gestion du restaurant (voir gestion Restaurant)
+- Commande
+- Menu activé
+- Menus
+- Paramètre
 
 Les restaurants disposent de la possibilités de créer plusieurs menus et d’activer celui qui correspond au besoin du moment. A l’intérieur de chaque restaurant s’affichent sous forme d’onglet les différentes parties de gestion du restaurant.
 
@@ -67,4 +67,4 @@ Liste des commande du restaurant
 Toutes les commandes d’un restaurant sont disponibles dans l’onglet “commande” du restaurant. Elles sont listées dans le volet gauche par date de traitement. Une commande possède un identifiant unique, un état (nouveau, validée, prête, annulée), une date de préparation avec un horaire, un résumé ainsi qu’un prix TTC. Cliquez sur un commande présente dans la liste pour afficher ses informations.
 Dans le volet de droite sont affichées les informations de la commande sélectionnée. Les plats y sont listés ainsi que le calcul des taxes. Enfin, les bouton permettent au restaurateur d’accepter ou de refuser la commande. Le restaurateur doit ensuite indiquer que la commande est prête, il peut encore à ce stade annuler la commande. Une fois que cette dernière a été notifiée comme prête, il n’est plus possible d’annuler une commande.
 
-Planning d’ouverture / fermeture du restaurant
+## Planning d’ouverture / fermeture du restaurant
