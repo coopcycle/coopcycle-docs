@@ -2,6 +2,7 @@
 layout: page
 title: Key concepts
 lang: en
+nav: true
 ---
 
 Create a task
