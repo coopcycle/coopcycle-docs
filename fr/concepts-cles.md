@@ -5,27 +5,37 @@ lang: fr
 nav: true
 ---
 
-Créer une tâche
----------------
+Les tâches
+----------
 
-Chaque livraison est composée d’au moins deux tâches qu’un dispatcheur assigné à un livreur.
-Il y a deux types de tâches différentes : une tâche “Récupérer” et une tâche “Déposer”.
-Cette forme binaire permet de couvrir tous les scénario du champ de la livraison à vélo.
+Les tâches sont la plus petite unité de travail sur la plateforme.\\
+Une tâche est **une action à effectuer à une adresse géographique, sur un créneau horaire défini**.\\
+Il existe deux types de tâches différentes :
+- **Récupérer**, pour un retrait de marchandise
+- **Déposer**, pour un dépôt de marchandise
+
+Cette forme binaire permet de couvrir tous les scénarii du champ de la livraison à vélo.
+
+
 
 ## Récupérer et Déposer
 
-Le livreur doit récupérer une marchandise à une adresse et l’amener à une autre adresse. Les informations suivantes doivent être renseignées par le dispatcheur pour chaque tâche :
+Le livreur doit récupérer une marchandise à une adresse et l’amener à une autre adresse.\\
+Les informations suivantes doivent être renseignées par le dispatcheur pour chaque tâche :
 - Créneaux
 - Adresse
 - Commentaire
-- Les informations suivantes permettent de suivre l’évolution d’une tâche dans le processus de livraison :
+
+Les informations suivantes permettent de suivre l’évolution d’une tâche dans le processus de livraison :
 - Statut
 - Historique
 
 Créer une livraison
 -------------------
 
-Assigner deux tâches, ou plus, à un livreur créer une livraison. Lorsque les tâches Récupérer et Déposer sont créées, le dispatcheur assigne ces tâches manuellement dans l’ordre le plus optimal qu’il juge. La création d’une livraison est matérialisé sur la carte par le biais d’un tracé GPS qui est proposé au coursier pour la livraison.
+Chaque livraison est composée d’au moins deux tâches qu’un dispatcheur assigne à un livreur.
+Assigner deux tâches, ou plus, à un livreur créer une livraison.
+Lorsque les tâches Récupérer et Déposer sont créées, le dispatcheur assigne ces tâches manuellement dans l’ordre le plus optimal qu’il juge. La création d’une livraison est matérialisé sur la carte par le biais d’un tracé GPS qui est proposé au coursier pour la livraison.
 
 Tarifications
 -------------

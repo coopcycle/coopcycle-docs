@@ -58,9 +58,12 @@ Champ : Note de fin
 ## Voir le coursier connecté sur l'instance
 
 Lorsqu’un coursier se log sur l’application et qu’il donne sa position GPS à cette dernière, il apparaît dans la liste d’ajout au planning du tableau de bord et le dispatcheur peut l’assigner à des tâches dès lors.
-Ajouter un coursier au planning
+
+## Ajouter un coursier au planning
+
 Ajouter un coursier au planning signifie qu’il est disponible pour être assigné à des tâches et donc à livrer des commandes. Afin d’ajouter un coursier au planning, il faut cliquer sur le bouton + (plus) de la section “Assigned”. Le choix de l’ajout au planing se fait par le biais d’un drag and drop.
-Assigner une tâche à un coursier
+
+## Assigner une tâche à un coursier
 S’il est possible d’assigner un coursier à une tâche à partir du popup de création ou d’édition d’une tâche, il est bien plus commode d’utiliser la fonction de drag’n drop du dashboard à déposer directement dans la zone d’assignation d’un coursier.
 
 ## Créer une tâche
@@ -92,7 +95,9 @@ Dans le Dashboard, le dispatcheur retrouvera les tags en créant une tâche ou e
 Cliquer sur le bouton “Ajouter un tag (roue cranté)” ;
 Ajouter le tag ;
 Il est possible d’assigner plusieurs tags à une tâche.
-Manipuler les différents filtres
+
+## Manipuler les différents filtres
+
 Différents filtres sont applicables afin de trier les tâches. Il est possible de :
 Dropdown : Filtrer par statut de tâche :
 Tâches terminées
@@ -119,5 +124,7 @@ Les colonnes before et after pour spécifier le créneau horaire acceptent des v
 ## Exporter les tâches d'une journée (CSV)
 
 L’exportation d’un fichier regroupant les commandes du jours se fait par le biais du bouton Export situé dans le Dashboard sur la barre supérieure du dashboard.
-Fullscreen Mode
+
+## Fullscreen Mode
+
 Afin de passer en mode FullScreen,  veuillez cliquer sur le bouton vert présent en haut à droite du dashboard.
