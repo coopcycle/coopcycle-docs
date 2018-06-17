@@ -14,7 +14,7 @@
             {%- if nav_page.dir != lang_dir and subnav_page.dir contains nav_page.dir -%}
             <li>
               <a href="{{ subnav_page.url | relative_url }}">{{ subnav_page.title | escape }}</a>
-              {%- assign leaf_pages = site.pages | where:"dir", subnav_page.dir | where_exp:"item", "item.name != 'index.md'" -%}
+              {%- assign leaf_pages = site.pages | where:"dir", subnav_page.dir | where_exp:"item", "item.name != 'index.md'" | sort: "nav_order" -%}
               {%- if leaf_pages -%}
               <ul>
                 {%- for leaf_page in leaf_pages -%}
