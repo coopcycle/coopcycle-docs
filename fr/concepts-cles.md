@@ -3,6 +3,7 @@ layout: page
 title: Concepts clés
 lang: fr
 nav: true
+ref: key-concepts
 ---
 
 Les tâches

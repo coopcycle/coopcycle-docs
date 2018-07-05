@@ -3,6 +3,7 @@ layout: page
 title: Key concepts
 lang: en
 nav: true
+ref: key-concepts
 ---
 
 Create a task
