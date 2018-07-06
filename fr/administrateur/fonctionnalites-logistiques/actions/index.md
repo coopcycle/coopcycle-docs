@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Configuration
+title: Actions
+role: admin
 lang: fr
 subnav: true
-nav_order: 3
+nav_order: 2
 ---

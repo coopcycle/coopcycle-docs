@@ -2,6 +2,7 @@
 layout: page
 title: Commandes
 lang: fr
+role: admin
 nav_order: 2
 ---
 

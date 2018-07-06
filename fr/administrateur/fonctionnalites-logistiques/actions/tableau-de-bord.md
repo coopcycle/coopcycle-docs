@@ -2,6 +2,7 @@
 layout: page
 title: Tableau de bord
 lang: fr
+role: admin
 nav_order: 1
 ---
 

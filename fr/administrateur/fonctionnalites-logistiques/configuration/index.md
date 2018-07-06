@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Admin
+title: Configuration
 lang: fr
+role: admin
 subnav: true
 nav_order: 1
 ---

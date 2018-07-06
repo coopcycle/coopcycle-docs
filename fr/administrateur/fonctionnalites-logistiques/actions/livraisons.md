@@ -2,6 +2,7 @@
 layout: page
 title: Livraisons
 lang: fr
+role: admin
 nav_order: 3
 ---
 

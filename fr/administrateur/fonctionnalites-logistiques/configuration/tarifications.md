@@ -2,6 +2,7 @@
 layout: page
 title: Tarifications
 lang: fr
+role: admin
 ---
 
 Gestion d’une série de règles tarification

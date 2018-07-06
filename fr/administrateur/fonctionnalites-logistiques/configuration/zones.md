@@ -1,5 +1,6 @@
 ---
 layout: page
-title: Créer un restaurant
+title: Zones
 lang: fr
+role: admin
 ---
