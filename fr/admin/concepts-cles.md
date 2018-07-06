@@ -4,6 +4,7 @@ title: Concepts clés
 lang: fr
 nav: true
 ref: key-concepts
+nav_order: 2
 ---
 
 Les tâches

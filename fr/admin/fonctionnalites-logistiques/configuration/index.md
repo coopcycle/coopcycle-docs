@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Administrateur
+title: Configuration
 lang: fr
 subnav: true
-nav_order: 1
+nav_order: 3
 ---
