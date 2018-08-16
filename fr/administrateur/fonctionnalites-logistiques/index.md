@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fonctionalités logistiques
+title: Fonctionnalités logistiques
 lang: fr
 role: admin
 nav: true

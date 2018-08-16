@@ -1,17 +1,15 @@
 <header class="site-header" role="banner">
-
-  <div class="wrapper">
-
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+        <img src="/assets/images/logo.png" width="40" height="40" alt="Logo">
+        <span class="brand-name">{{ site.title | escape }}</span>
+    </a>
     <nav class="site-nav">
       <div class="trigger">
         {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
         {%- for page in pages -%}
-          <a class="page-link" href="{{ page.url }}">{{ page.lang }}</a>
+          <a class="page-link {% if lang == page.lang %}active{% endif %}" href="{{ page.url }}">{{ page.lang }}</a>
         {%- endfor -%}
       </div>
     </nav>
-
   </div>
 </header>
