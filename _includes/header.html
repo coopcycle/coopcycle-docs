@@ -4,12 +4,15 @@
         <span class="brand-name">{{ site.title | escape }}</span>
     </a>
     <nav class="site-nav">
-      <div class="trigger">
-        {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-        {%- for page in pages -%}
-          <a class="page-link {% if lang == page.lang %}active{% endif %}" href="{{ page.url }}">{{ page.lang }}</a>
-        {%- endfor -%}
-      </div>
+      {%- for lang in site.data.langs -%}
+        {% assign translated_page=site.pages | where:"ref", page.ref | where:"lang", lang | first %}
+        {%- if translated_page -%}
+          <a class="page-link {% if lang == translated_page.lang %}active{% endif %}" href="{{ translated_page.url }}">{{ lang }}</a>
+        {% else %}
+          <!-- not translated yet -->
+          <a class="page-link unavailable" href="#">{{ lang }}</a>
+        {%- endif -%}
+      {%- endfor -%}
     </nav>
   </div>
 </header>

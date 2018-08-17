@@ -19,8 +19,8 @@ $grey: #ddd;
 $white: #fff;
 
 $base-length: 20px;
-$base-length-s: $base-length / 4;
-$base-length-xs: $base-length / 2;
+$base-length-xs: $base-length / 4;
+$base-length-s: $base-length / 2;
 $base-length-l: $base-length * 2;
 
 body {
@@ -110,6 +110,19 @@ h1, h2, h3, h4, h5, h6 {
     &::after {
       transform: scale(1, 1);
     }
+  }
+
+  .page-link.unavailable {
+    color: $grey;
+    cursor: default;
+    pointer-events: none;
+    &::after {
+        transform: scale(0, 1);
+    }
+  }
+
+  .page-link:not(:last-child) {
+    margin-right: $base-length-s;
   }
 }
 
