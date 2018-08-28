@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Restaurants
 lang: fr
 role: admin
-nav_order: 4
 ---
 
 L’onglet de restaurant affiche l’ensemble des restaurants disponibles sur l’instance. La liste est composée des éléments suivants :

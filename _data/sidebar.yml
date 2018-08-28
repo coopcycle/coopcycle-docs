@@ -19,7 +19,7 @@ fr:
         - title: Livraisons
           url: /fr/administrateur/fonctionnalites-logistiques/livraisons.html
   restaurant:
-      - title: Orders
+      - title: Commandes
         url: /fr/restaurateur/commandes.html
 
 en:

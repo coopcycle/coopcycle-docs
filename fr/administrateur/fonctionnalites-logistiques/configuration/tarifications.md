@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Tarifications
 lang: fr
 role: admin

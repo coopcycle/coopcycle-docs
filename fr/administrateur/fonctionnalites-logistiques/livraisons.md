@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Livraisons
 lang: fr
 role: admin
-nav_order: 3
 ---
 
 L’onglet de livraison permet d’afficher les livraison en cours.

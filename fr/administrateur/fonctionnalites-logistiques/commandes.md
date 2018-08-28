@@ -1,9 +1,7 @@
 ---
-layout: page
 title: Commandes
 lang: fr
 role: admin
-nav_order: 2
 ---
 
 L’onglet de commande affiche les commande passées depuis la plateforme par des clients.

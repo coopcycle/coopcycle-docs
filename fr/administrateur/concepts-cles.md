@@ -1,11 +1,8 @@
 ---
-layout: page
 title: Concepts clés
 lang: fr
 role: admin
-nav: true
 ref: key-concept
-nav_order: 1
 ---
 
 Les tâches
