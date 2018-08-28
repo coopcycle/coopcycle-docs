@@ -1,52 +1,35 @@
 {% comment %}Case 1: we get the help for a specified role{% endcomment %}
 
 {% if page.layout != "home" %}
-  {%- assign nav_pages = site.pages | where:"lang", page.lang | where:"role", page.role | where:"nav", true -%}
-  {%- assign subnav_pages = site.pages | where:"lang", page.lang | where:"role", page.role |where:"subnav", true | sort: "nav_order" -%}
-  {%- assign lang_dir = '/' | append: page.lang | append: '/' -%}
-
-  {%- if nav_pages -%}
     <nav>
       <ul class="main-nav">
-      {%- for nav_page in nav_pages -%}
+        {% for item in site.data.sidebar.[page.lang][page.role] %}
         <li>
-          {%- if nav_page.name == 'index.md' -%}
-            <span>{{ nav_page.title | escape }}</span>
-            {%- if subnav_pages -%}
-              <ul>
-              {%- for subnav_page in subnav_pages -%}
-                {%- if nav_page.dir != lang_dir and subnav_page.dir contains nav_page.dir -%}
-                <li>
-                  {%- if subnav_page.name == 'index.md' -%}
-                    <span>{{ subnav_page.title | escape }}</span>
-                  {%- else -%}
-                    <a href="{{ subnav_page.url | relative_url }}">{{ subnav_page.title | escape }}</a>
-                  {%- endif -%}
-                  {%- assign leaf_pages = site.pages |
-                      where:"dir", subnav_page.dir |
-                      where_exp:"item", "item.name != 'index.md'" |
-                      where_exp:"item", "item.url != subnav_page.url" |
-                      sort: "nav_order" -%}
-                  {%- if leaf_pages -%}
+          {% if item.url %}
+            <a href="{{ item.url | relative_url }}">{{ item.title | escape }}</a>
+          {% else %}
+            <span>{{ item.title | escape }}</span>
+          {% endif %}
+          {% if item.folders %}
+            <ul>
+              {% for folder in item.folders %}
+                {% if folder.items %}
+                  <li>{{ folder.title | escape }}</li>
                   <ul>
-                    {%- for leaf_page in leaf_pages -%}
-                      <li><a href="{{ leaf_page.url | relative_url }}">{{ leaf_page.title | escape }}</a></li>
-                    {%- endfor -%}
+                    {% for subitem in folder.items %}
+                      <li><a href="{{ subitem.url | relative_url }}">{{ subitem.title | escape }}</a></li>
+                    {% endfor %}
                   </ul>
-                  {%- endif -%}
-                  {%- endif -%}
-                </li>
-              {%- endfor -%}
-              </ul>
-            {%- endif -%}
-          {%- else -%}
-            <a href="{{ nav_page.url | relative_url }}">{{ nav_page.title | escape }}</a>
+                {% else %}
+                  <li><a href="{{ folder.url | relative_url }}">{{ folder.title | escape }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
           {% endif %}
         </li>
-      {%- endfor -%}
+        {% endfor %}
       </ul>
     </nav>
-  {%- endif -%}
 {% else %}
   {% comment %}Case 2: at the root of the admin{% endcomment %}
     <nav>

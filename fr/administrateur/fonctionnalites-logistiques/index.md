@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Fonctionnalités logistiques
-lang: fr
+title: Actions
 role: admin
-nav: true
+lang: fr
+subnav: true
 nav_order: 2
 ---

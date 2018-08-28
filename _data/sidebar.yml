@@ -1,0 +1,25 @@
+fr:
+  admin:
+    - title: Concepts clés
+      url: /fr/administrateur/concepts-cles.html
+    - title: Fonctionalités logistiques
+      folders:
+        - title: Configuration
+          items:
+            - title: Tags
+              url: /fr/administrateur/fonctionnalites-logistiques/configuration/tags.html
+            - title: Tarifications
+              url: /fr/administrateur/fonctionnalites-logistiques/configuration/tarifications.html
+            - title: Taxes
+              url: /fr/administrateur/fonctionnalites-logistiques/configuration/taxes.html
+            - title: Zones
+              url: /fr/administrateur/fonctionnalites-logistiques/configuration/zones.html
+        - title: Tableau de bord
+          url: /fr/administrateur/fonctionnalites-logistiques/tableau-de-bord.html
+        - title: Livraisons
+          url: /fr/administrateur/fonctionnalites-logistiques/livraisons.html
+  restaurant:
+      - title: Orders
+        url: /fr/restaurateur/commandes.html
+
+en:
