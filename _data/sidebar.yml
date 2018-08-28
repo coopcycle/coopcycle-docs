@@ -2,7 +2,7 @@ fr:
   admin:
     - title: Concepts clés
       url: /fr/administrateur/concepts-cles.html
-    - title: Fonctionalités logistiques
+    - title: Fonctionnalités logistiques
       folders:
         - title: Configuration
           items:
