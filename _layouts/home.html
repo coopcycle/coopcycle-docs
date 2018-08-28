@@ -7,8 +7,11 @@
 
     {%- include header.html -%}
 
-    <main class="page-content clearfix" aria-label="Content">
-      {{ content }}
+    <main class="page-content page-content--home" aria-label="Content">
+        <header>
+            <h1 class="post-header">{{ page.title }}</h1>
+        </header>
+        {{ content }}
     </main>
 
     {%- include footer.html -%}

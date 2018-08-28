@@ -22,6 +22,7 @@ $base-length: 20px;
 $base-length-xs: $base-length / 4;
 $base-length-s: $base-length / 2;
 $base-length-l: $base-length * 2;
+$base-length-xl: $base-length * 4;
 
 body {
   font-family: $font-family-base;
@@ -33,6 +34,11 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-content {
   padding: $base-length-s $base-length-l;
+  min-height: 400px;
+}
+
+.page-content--home {
+  margin: $base-length-s $base-length-xl;
 }
 
 .main {
