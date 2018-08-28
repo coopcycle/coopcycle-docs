@@ -23,3 +23,6 @@ fr:
         url: /fr/restaurateur/commandes.html
 
 en:
+  admin:
+    - title: Key concepts
+      url: /en/admin/key-concepts.html

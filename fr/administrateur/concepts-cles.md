@@ -2,7 +2,7 @@
 title: Concepts clés
 lang: fr
 role: admin
-ref: key-concept
+ref: key-concepts
 ---
 
 Les tâches
