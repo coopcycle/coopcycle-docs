@@ -2,6 +2,10 @@ fr:
   admin:
     - title: Concepts clés
       url: /fr/administrateur/concepts-cles.html
+    - title: Configuration
+      url: /fr/administrateur/configuration.html
+    - title: Paiements (via Stripe)
+      url: /fr/administrateur/paiements-stripe.html
     - title: Fonctionnalités logistiques
       folders:
         - title: Configuration
@@ -26,6 +30,8 @@ fr:
       url: /fr/administrateur/magasins.html
     - title: Gestion des utilisateurs
       url: /fr/administrateur/utilisateurs.html
+    - title: Applications smartphones
+      url: /fr/administrateur/applications-smartphone.html
   restaurant:
       - title: Commandes
         url: /fr/restaurateur/commandes.html

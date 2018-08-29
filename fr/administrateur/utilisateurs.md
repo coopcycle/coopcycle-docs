@@ -23,6 +23,24 @@ Il est possible d'activer/désactiver les utilisateurs. Un utilisateur désactiv
 
 ## Rôles
 
+Chaque utilisateur peut avoir un ou plusieurs rôles. Chaque rôle donne accès à des fonctionnalités de la plateforme.
+
+| Rôle                                      | Client   | Livreur   | Restaurant | Magasin    | Admin   |
+| -------------------------------           |:------:|:---------:|:----------:| :----------:| :----------:|
+| Éditer ses informations personelles       | ✔      | ✔         | ✔          | ✔           | ✔           |
+| Créer et modifier des restaurants         |        |           | ✔          |             | ✔           |
+| Gérer des commandes                       |        |           | ✔          |             | ✔           |
+| Éditer des factures                       |        |           | ✔          |             | ✔           |
+| Créer et modifier des menus               |        |           | ✔          |             | ✔           |
+| Créer des magasins                        |        |           |            |             | ✔           |
+| Modifier des magasins                     |        |           |            | ✔           | ✔           |
+| Créer une livraison                       |        |           |            | ✔           | ✔           |
+| Gérer des livraisons                      |        | ✔         |            |             | ✔           |
+| Accéder à l'API CoopCycle                 |        | ✔         | ✔          |             | ✔           |
+| Éditer les rôles utilisateurs             |        |           |            |             | ✔           |
+| Éditer les contrats et les tarifications  |        |           |            |             | ✔           |
+
+
 ## Assignation d'un magasin/restaurant
 
 Sur la fiche d'un utilisateur avec le rôle `Restaurant` vous pouvez lui assigner (le rendre propriétaire) un restaurant que vous avez créé précédemment. De même un utilisateur qui a le rôle `Commerçant` peut se voir attribuer un magasin créé précédemment.
