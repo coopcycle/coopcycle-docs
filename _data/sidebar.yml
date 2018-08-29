@@ -30,7 +30,7 @@ fr:
       url: /fr/administrateur/magasins.html
     - title: Gestion des utilisateurs
       url: /fr/administrateur/utilisateurs.html
-    - title: Applications smartphones
+    - title: Applications smartphone
       url: /fr/administrateur/applications-smartphone.html
   restaurant:
       - title: Commandes

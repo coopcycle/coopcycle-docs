@@ -1,5 +1,5 @@
 ---
-title: Applications smartphones
+title: Applications smartphone
 lang: fr
 role: admin
 refs: admin-smartphone-apps
