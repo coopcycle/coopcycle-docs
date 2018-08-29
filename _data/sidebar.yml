@@ -6,18 +6,26 @@ fr:
       folders:
         - title: Configuration
           items:
-            - title: Tags
-              url: /fr/administrateur/fonctionnalites-logistiques/configuration/tags.html
             - title: Tarifications
               url: /fr/administrateur/fonctionnalites-logistiques/configuration/tarifications.html
-            - title: Taxes
-              url: /fr/administrateur/fonctionnalites-logistiques/configuration/taxes.html
             - title: Zones
               url: /fr/administrateur/fonctionnalites-logistiques/configuration/zones.html
         - title: Tableau de bord
           url: /fr/administrateur/fonctionnalites-logistiques/tableau-de-bord.html
         - title: Livraisons
           url: /fr/administrateur/fonctionnalites-logistiques/livraisons.html
+    - title: Commandes
+      url: /fr/administrateur/commandes.html
+    - title: Restaurants
+      folders:
+        - title: Gestion des restaurants
+          url: /fr/administrateur/restaurants/restaurant.html
+        - title: Gestion du menu
+          url: /fr/administrateur/restaurants/menu.html
+    - title: Magasins
+      url: /fr/administrateur/magasins.html
+    - title: Gestion des utilisateurs
+      url: /fr/administrateur/utilisateurs.html
   restaurant:
       - title: Commandes
         url: /fr/restaurateur/commandes.html

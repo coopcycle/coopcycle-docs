@@ -1,7 +1,7 @@
 ---
 layout: home
 lang: fr
-title: Bienvenue sur la documentation CoopCycle.
+title: Bienvenue sur la documentation CoopCycle!
 ---
 
 Retrouvez nos guides :

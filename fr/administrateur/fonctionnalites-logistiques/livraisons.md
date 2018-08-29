@@ -4,15 +4,13 @@ lang: fr
 role: admin
 ---
 
-L’onglet de livraison permet d’afficher les livraison en cours.
-Les livraisons ont des courses créée par un administrateur ou un commerçant.
-La gestion des livraisons peut être effectuée en détail en consultant la section “livraison” du dashboard.
-On peut y consulter les tâches en cours ainsi que créer une nouvelle tâche.
+L’onglet de livraison permet d’afficher la liste des livraisons et des tâches.
 
-## Liste des livraison
+## Liste des livraisons
 
-Panel d'administration / Livraisons
-Cette liste regroupe en temps réel l’ensemble des tâches et des livraisons en cours sur la plateforme. Les information suivantes sont disponibles :
+![Livraisons]({{ "/assets/images/livraisons_fr.png" | absolute_url }})
+
+Cette liste regroupe l’ensemble des tâches et des livraisons réalisées sur la plateforme. Les information suivantes sont disponibles :
 - ID, le numéro de la tâche
 - Type de tâche
 - Dépôt
@@ -23,33 +21,22 @@ Cette liste regroupe en temps réel l’ensemble des tâches et des livraisons e
 
 ## Créer/éditer une livraison
 
-Panel d'administration / Livraisons / Créer une livraison
-La création d’une livraison se fait en cliquant sur le bouton situé en haut à droite de l’écran de la liste de tâches. Une livraison est composé des éléments suivants :
+La création d’une livraison se fait en cliquant sur le bouton situé en haut à droite de l’écran de la liste de tâches. Une livraison est composée des éléments suivants :
 - Type de véhicule
-- Vélo
-- Vélo cargo
-- Poids (en gramme)
-- Retrait (affichage de l'adresse)
-- Champ : adresse
-- Heure de retrait
-- Dropdown calendrier : jour
-- Dropdown deux colonnes : heure
-- Champ de textarea : instruction
-- Code postal
-- Ville
-- Dépôt (affichage de l'adresse)
-- Champ : adresse
-- Heure de retrait
-- Dropdown calendrier : jour
-- Dropdown deux colonnes : heure
-- Champ de textarea : instruction
-- Code postal
-- Ville
--
-Map : affichage du trajet de livraison
-Alert : type de tarification
-Affichage : Distance entre deux ponts (retour visuel)
-Affichage : Durée théorique de la livraison
-Affichage : Calcul du prix de la course automatique (à partir des règles)
-Bouton : Enregistrer
-Pour créer une livraison, vous devez choisir un type de véhicule entre le vélo simple et le vélo cargo. Le poids se spécifie en gramme et correspond au poids du produit transporté. Puis, vous devez créer une point de dépôt (pick-up) et un point de retrait (dropoff). Enfin, spécifiez une tarification parmis celles que vous aurez déjà créée. Il s’agit d'informations importante pour la facturation.
+    * Vélo
+    * Vélo cargo
+- Poids (en grammes)
+- Retrait
+    * Champ : adresse
+    * Code postal
+    * Ville
+    * Heure et jour de retrait
+    * Champ de textarea : instructions particulières pour le livreur
+- Dépôt
+    * Champ : adresse
+    * Code postal
+    * Ville
+    * Heure et jour de dépôt
+    * Champ de textarea : instructions particulières pour le livreur
+
+Sur la droite, en sus de la carte qui affiche le trajet de livraison, on peut soit choisir une tarification à appliquer à la livraison, soit entrer un prix libre.

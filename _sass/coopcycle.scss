@@ -32,13 +32,18 @@ h1, h2, h3, h4, h5, h6 {
   font-family: $headings-font-family;
 }
 
-.page-content {
-  padding: $base-length-s $base-length-l;
-  min-height: 400px;
+h1 {
+  font-size: 36px;
 }
 
 .page-content--home {
   margin: $base-length-s $base-length-xl;
+}
+
+.page-content {
+  padding: $base-length-s $base-length-l;
+  min-height: 400px;
+  flex: 4;
 }
 
 .main {
@@ -51,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sidebar {
-  width: 300px;
+  flex: 1;
   text-align: left;
   padding: $base-length-s $base-length;
   border-right: 1px solid $grey;

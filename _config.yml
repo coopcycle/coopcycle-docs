@@ -17,7 +17,7 @@ title: CoopCycle docs
 email: contact@coopcycle.org
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://docs.coopcycle.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: coopcycle
 github_username:  coopcycle
 
@@ -27,6 +27,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
