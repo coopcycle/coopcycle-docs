@@ -2,6 +2,7 @@
 layout: home
 lang: fr
 title: Bienvenue sur la documentation CoopCycle!
+ref: homepage
 ---
 
 Retrouvez nos guides :

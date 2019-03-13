@@ -2,6 +2,7 @@
 layout: home
 lang: en
 title: Welcome to CoopCycle docs!
+ref: homepage
 ---
 
 Find our guides below:
