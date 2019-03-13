@@ -1,6 +1,7 @@
 ---
 title: Key concepts
 lang: en
+role: admin
 ref: key-concepts
 ---
 
