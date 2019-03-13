@@ -2,6 +2,7 @@
 lang: fr
 role: admin
 title: Guide de l'administrateur
+ref: admin-home
 ---
 
 Bienvenue sur le guide administrateur de la plateforme CoopCycle.
@@ -24,4 +25,3 @@ La plateforme est composée en deux parties qui communiquent l’une avec l’au
     - un restaurateur reçoit la commande en temps réel, il peut ensuite l'accepter/la refuser ;
     - un restaurateur peut marquer la commande comme prête, dans ce cas le coursier est notifié ;
     - un restaurateur peut gérer son menu en ligne ;
-    - un restaurateur peut ses paiements en ligne.
