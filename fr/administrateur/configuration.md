@@ -2,7 +2,7 @@
 title: Configuration de votre instance
 lang: fr
 role: admin
-refs: admin-restaurants
+ref: admin-restaurants
 ---
 
 La coopérative gérant et utilisant l'instance peut la paramétrer selon ses besoins, depuis l'onglet `Configuration > Paramètres`.

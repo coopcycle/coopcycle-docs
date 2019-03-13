@@ -2,7 +2,7 @@
 title: Smartphone application
 lang: en
 role: admin
-refs: admin-smartphone-apps
+ref: admin-smartphone-apps
 ---
 
 Our iOS and Android application for bike messengers, restaurants and customers are not available yet on app stores.

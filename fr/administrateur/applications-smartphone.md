@@ -2,7 +2,7 @@
 title: Applications smartphone
 lang: fr
 role: admin
-refs: admin-smartphone-apps
+ref: admin-smartphone-apps
 ---
 
 Nos applications iOS et Android pour coursiers, restaurateurs et clients ne sont pas encore disponibles publiquement dans les app stores.
