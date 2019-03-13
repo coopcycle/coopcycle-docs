@@ -40,3 +40,5 @@ en:
   admin:
     - title: Key concepts
       url: /en/admin/key-concepts.html
+    - title: Smartphone apps
+      url: /en/admin/smartphone-apps.html
