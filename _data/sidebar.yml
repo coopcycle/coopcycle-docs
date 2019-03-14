@@ -38,15 +38,16 @@ fr:
 
 en:
   admin:
-    - title: Key concepts
-      url: /en/admin/key-concepts.html
-    - title: Smartphone apps
-      url: /en/admin/smartphone-apps.html
-    - title: Orders
-      url: /en/admin/orders.html
     - title: Configuration
       url: /en/admin/configuration-en.html
-    - title: Users
-      url: /en/admin/users.html
+    - title: Key concepts
+      url: /en/admin/key-concepts.html
+    - title: Orders
+      url: /en/admin/orders.html
     - title: Shops
       url: /en/admin/shops.html
+    - title: Smartphone apps
+      url: /en/admin/smartphone-apps.html
+    - title: Users
+      url: /en/admin/users.html
+
