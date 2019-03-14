@@ -48,3 +48,5 @@ en:
       url: /en/admin/configuration-en.html
     - title: Users
       url: /en/admin/users.html
+    - title: Shops
+      url: /en/admin/shops.html
