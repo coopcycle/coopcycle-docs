@@ -1,5 +1,5 @@
 ---
-title: orders
+title: Orders
 lang: en
 role: admin
 ref: admin-orders
