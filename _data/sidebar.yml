@@ -50,3 +50,6 @@ en:
       url: /en/admin/smartphone-apps.html
     - title: Users
       url: /en/admin/users.html
+  dev:
+    - title: API
+      url: /en/developer/api.html
