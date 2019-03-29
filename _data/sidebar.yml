@@ -39,7 +39,7 @@ fr:
 en:
   admin:
     - title: Configuration
-      url: /en/admin/configuration-en.html
+      url: /en/admin/configuration.html
     - title: Key concepts
       url: /en/admin/key-concepts.html
     - title: Orders
@@ -50,4 +50,3 @@ en:
       url: /en/admin/smartphone-apps.html
     - title: Users
       url: /en/admin/users.html
-
