@@ -13,7 +13,7 @@ L’onglet `Restaurants` affiche l’ensemble des restaurants créés sur l’in
 
 # Gestion d'un restaurant
 
-Les différentes pages de gestion d'un restaurant sont accessibles depuis la page du restaurant.
+Les différentes pages de gestion d'un restaurant sont représentées par des onglets dans le coin supérieur droit de la page du restaurant.
 
 ![Restaurant]({{ "/assets/images/restaurant_detail_fr.png" | absolute_url }})
 
