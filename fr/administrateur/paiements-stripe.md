@@ -9,7 +9,7 @@ ref: admin-stripe
 
 Stripe est un prestataire de paiement, qui nous permet de gérer les paiements par carte bleue de manière sécurisée. Par ailleurs la fonctionnalité “Stripe Connect” nous permet de gérer l’aspect “plateforme” du paiement, i.e la répartition des paiements entre la plateforme (argent revenant à la coopérative de livraison).
 
-Du fait de financement par cotisation de la coopérative européenne, nous (CoopCycle) ne percevons pas de commission sur les paiements. Stripe prélève une commission de 25cts + 1.4%  par paiement, à la charge du commerçant ou de la plateforme (tarification Stripe à jour ici : https://stripe.com/fr/pricing ).
+Du fait de financement par cotisation de la coopérative européenne, nous (CoopCycle) ne percevons pas de commission sur les paiements. Stripe prélève une commission de 25cts + 1.4%  par paiement, à la charge du commerçant ou de la plateforme ([Consultez la tarification Stripe à jour ici](https://stripe.com/fr/pricing){:target="_blank"}).
 
 ## Pourquoi avoir choisi Stripe?
 
@@ -17,7 +17,7 @@ Stripe s’est imposé comme la “rolls-royce” des services des paiements. Le
 
 ## Qu’est-ce que le “live mode” et le “test mode” Stripe?
 
-La plateforme CoopCycle peut-être configurée pour utiliser le mode “live” ou le mode “test” depuis la page “paramètres”. En mode test, les clients ne seront pas débités. Il faut utiliser des cartes tests (typiquement 4242 4242 4242 4242). N’oubliez pas de passer en “live” avant de passer en production !
+La plateforme CoopCycle peut-être configurée pour utiliser le mode “live” ou le mode “test” depuis la page “paramètres”. En mode test, les clients ne seront pas débités. Il faut utiliser des cartes tests (typiquement 4242 4242 4242 4242). **N’oubliez pas de passer en “live” avant de passer en production !**
 
 ## Comment configurer Stripe/Stripe Connect pour votre instance de la plateforme?
 
