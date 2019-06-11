@@ -9,11 +9,11 @@ custom_scripts:
 
 Le tableau de bord d’administration (appelé dashboard dans ce document) permet de contrôler l’ensemble des fonctionnalités de création et de gestion des tâches ainsi que de gérer le dispatch des coursiers manuellement. Il est possible de l’afficher en plein écran en cliquant sur le bouton <span syle="line-height=10px;">![Fullscreen]({{ "/assets/images/fullscreen.png" | absolute_url }})</span>
 
-![Tableau de bord](/assets/images/dashboard_fr.png)
+<span class="zoomable">![Tableau de bord](/assets/images/dashboard_fr.png)</span>
 
 ## Créer, assigner et éditer une tâche
 
-Une tâche est crée en cliquant sur le bouton + de la section `Non-assignées` du dashboard. Une popup s’ouvre et permet de configurer la tâche. Trois actions sont possible pour une tâche :
+Une tâche est crée en cliquant sur le bouton <i class="fa fa-plus fa-lg" aria-hidden="true"></i> de la section `Non-assignées` du dashboard. Une popup s’ouvre et permet de configurer la tâche. Trois actions sont possible pour une tâche :
 - Ajouter, qui permet de créer une tâche
 - Éditer, qui permet de changer ou de vérifier l’état et l’historique d’une tâche
 - Terminer la tâche, qui permet le changement de statut de la tâche en :
@@ -47,7 +47,7 @@ Les mêmes informations que "ajouter" sont disponibles à l’édition. En plus 
 
 ## Terminer la tâche
 
-Pour terminer une tâche, il suffit de cliquer sur le bouton “finish task” présent en haut à droite de la fenêtre de popup. Les fonctionnalités disponibles sont :
+Pour terminer une tâche, il suffit de cliquer sur le bouton “Terminer la tâche” présent en haut à droite de la fenêtre de popup. Les fonctionnalités disponibles sont :
 * Dropdown: "à faire", "échouée", "réussie"
 * Champ : Commentaire sur la réalisation de la tâche
 
