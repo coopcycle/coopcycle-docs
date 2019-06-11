@@ -6,7 +6,7 @@ role: admin
 
 Le tableau de bord d’administration (appelé dashboard dans ce document) permet de contrôler l’ensemble des fonctionnalités de création et de gestion des tâches ainsi que de gérer le dispatch des coursiers manuellement. Il est possible de l’afficher en plein écran en cliquant sur le bouton <span syle="line-height=10px;">![Fullscreen]({{ "/assets/images/fullscreen.png" | absolute_url }})</span>
 
-![Tableau de bord]({{ "/assets/images/dashboard_fr.png" | absolute_url }})
+![Tableau de bord](/assets/images/dashboard_fr.png)
 
 ## Créer, assigner et éditer une tâche
 
