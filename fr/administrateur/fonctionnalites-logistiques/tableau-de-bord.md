@@ -2,6 +2,9 @@
 title: Tableau de bord (dashboard)
 lang: fr
 role: admin
+custom_scripts:
+  - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
+  - "/assets/scripts/zoom.js"
 ---
 
 Le tableau de bord d’administration (appelé dashboard dans ce document) permet de contrôler l’ensemble des fonctionnalités de création et de gestion des tâches ainsi que de gérer le dispatch des coursiers manuellement. Il est possible de l’afficher en plein écran en cliquant sur le bouton <span syle="line-height=10px;">![Fullscreen]({{ "/assets/images/fullscreen.png" | absolute_url }})</span>
