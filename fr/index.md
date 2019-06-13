@@ -8,4 +8,4 @@ ref: homepage
 Retrouvez nos guides :
 
 - [Guide de l'administrateur](/fr/administrateur)
-- [Guide restaurateur](/fr/restaurateur)
+- [Guide du développeur](/fr/developpeur)

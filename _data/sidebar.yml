@@ -35,6 +35,9 @@ fr:
   restaurant:
       - title: Commandes
         url: /fr/restaurateur/commandes.html
+  dev:
+    - title: API
+      url: /fr/developpeur/api.html
 
 en:
   admin:
