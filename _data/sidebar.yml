@@ -24,10 +24,10 @@ fr:
       url: /fr/administrateur/commandes.html
     - title: Restaurants
       folders:
+        - title: Création des restaurants
+          url: /fr/administrateur/restaurants/creation-restaurant.html
         - title: Gestion des restaurants
           url: /fr/administrateur/restaurants/restaurant.html
-        - title: Gestion du menu
-          url: /fr/administrateur/restaurants/menu.html
     - title: Magasins
       url: /fr/administrateur/magasins.html
     - title: Applications smartphone
