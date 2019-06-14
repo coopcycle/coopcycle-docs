@@ -19,4 +19,4 @@ Pour créer les zones, vous devez d'abord les enregistrer au format [GeoJSON](ht
 
 ---
 
-![Dessiner un polygône](/img/help/zones/draw_polygon.png "Dessiner un polygône")
+![Utilisation de geojson.io]({{ "/assets/images/peek_geojson.gif" | absolute_url }})

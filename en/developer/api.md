@@ -40,7 +40,7 @@ Here is an example to encode your API credentials using PHP:
 php -r 'echo base64_encode("<api_key>:<api_secret>"), PHP_EOL;'
 ```
 
-Here is an example request to the `/oauth2/token` endpoint using cURL
+Here is an example request to the `/oauth2/token` endpoint using cURL:
 
 ```
 curl -X POST -d 'grant_type=client_credentials&scope=tasks+deliveries' -H 'Authorization: Basic <base64_credentials>' https://acme.coopcycle.org/oauth2/token

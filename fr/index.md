@@ -6,8 +6,6 @@ ref: homepage
 ---
 
 Retrouvez nos guides :
-<ul>
-    <li><a href="/fr/administrateur">Guide de l'administrateur</a></li>
-    <li><a href="/fr/restaurateur">Guide restaurateur</a></li>
-</ul>
 
+- [Guide de l'administrateur](/fr/administrateur)
+- [Guide du développeur](/fr/developpeur)

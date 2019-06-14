@@ -4,6 +4,8 @@ fr:
       url: /fr/administrateur/concepts-cles.html
     - title: Configuration
       url: /fr/administrateur/configuration.html
+    - title: Gestion des utilisateurs
+      url: /fr/administrateur/utilisateurs.html  
     - title: Paiements (via Stripe)
       url: /fr/administrateur/paiements-stripe.html
     - title: Fonctionnalités logistiques
@@ -22,19 +24,20 @@ fr:
       url: /fr/administrateur/commandes.html
     - title: Restaurants
       folders:
+        - title: Création des restaurants
+          url: /fr/administrateur/restaurants/creation-restaurant.html
         - title: Gestion des restaurants
           url: /fr/administrateur/restaurants/restaurant.html
-        - title: Gestion du menu
-          url: /fr/administrateur/restaurants/menu.html
     - title: Magasins
       url: /fr/administrateur/magasins.html
-    - title: Gestion des utilisateurs
-      url: /fr/administrateur/utilisateurs.html
     - title: Applications smartphone
       url: /fr/administrateur/applications-smartphone.html
   restaurant:
       - title: Commandes
         url: /fr/restaurateur/commandes.html
+  dev:
+    - title: API
+      url: /fr/developpeur/api.html
 
 en:
   admin:
