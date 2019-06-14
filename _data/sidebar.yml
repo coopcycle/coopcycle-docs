@@ -30,8 +30,6 @@ fr:
           url: /fr/administrateur/restaurants/restaurant.html
     - title: Magasins
       url: /fr/administrateur/magasins.html
-    - title: Applications smartphone
-      url: /fr/administrateur/applications-smartphone.html
   restaurant:
       - title: Commandes
         url: /fr/restaurateur/commandes.html
