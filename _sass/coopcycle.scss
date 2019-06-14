@@ -182,3 +182,39 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
+#home-btn {
+  ul {
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 100%;
+    li {
+      list-style-type: none;
+      a {
+        background: #ff0033;
+        font-size: 0.9em;
+        margin: 1em;
+        color: white;
+        text-decoration: none;
+        text-align: center;
+        border-radius: 3px;
+      }
+    }
+  }
+}
+
+#li-after-first {
+  @media(max-width: 756px) {
+        margin-top: 50px;
+    }
+}
+#a-first {
+  padding: 1em 3.7em;
+}
+
+#a-second {
+  padding: 1em 4.37em;
+}
