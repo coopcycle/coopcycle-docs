@@ -7,7 +7,7 @@ ref: key-concepts
 
 # Tâches et livraisons
 
-Les tâches sont la plus petite unité de travail sur la plateforme.\\
+Les tâches sont les plus petites unités de travail sur la plateforme.\\
 Une tâche est **une action à effectuer à une adresse géographique, sur un créneau horaire défini**.\\
 Il existe deux types de tâches différentes :
 - **Récupérer**, pour un retrait de marchandise
@@ -29,7 +29,7 @@ Les informations suivantes permettent de suivre l’évolution d’une tâche da
 
 # Instance CoopCycle
 
-Le logiciel CoopCycle fonctionne grâce au déploiement d’instances. Ces dernières sont des copies répliquées du logiciel qui sont autonomes les unes des autres. Cela permet à chaque coopérative de ses propres règles de tarification, son espace de dispatch et de configurer le logiciel selon ses besoins. Les données (clients, coursiers, commandes) sont isolées entre chaque instance.
+Le logiciel CoopCycle fonctionne grâce au déploiement d’instances. Ces dernières sont des copies répliquées du logiciel qui sont autonomes les unes des autres. Cela permet à chaque coopérative d'avoir ses propres règles de tarification, son espace de dispatch et de configurer le logiciel selon ses besoins. Les données (clients, coursiers, commandes) sont isolées entre chaque instance.
 
 ### Les rôles dans les instances
 
@@ -40,4 +40,4 @@ Chaque instance dispose de rôles pour ses utilisateurs :
 - Magasin
 - Client
 
-A ces rôles sont assignés à des permissions dans la plateforme. Voir la section [Utilisateurs](/fr/administrateur/utilisateurs.html) de la documentation pour plus d'informations.
+À ces rôles sont assignés des permissions dans la plateforme. Voir la section [Utilisateurs](/fr/administrateur/utilisateurs.html) de la documentation pour plus d'informations.
