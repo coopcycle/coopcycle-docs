@@ -40,4 +40,4 @@ Chaque instance dispose de rôles pour ses utilisateurs :
 - Magasin
 - Client
 
-À ces rôles sont assignés des permissions dans la plateforme. Voir la section [Utilisateurs](/fr/administrateur/utilisateurs.html) de la documentation pour plus d'informations.
+À ces rôles sont assignées des permissions dans la plateforme. Voir la section [Utilisateurs](/fr/administrateur/utilisateurs.html) de la documentation pour plus d'informations.
