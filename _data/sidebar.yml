@@ -36,6 +36,11 @@ fr:
   dev:
     - title: API
       url: /fr/developpeur/api.html
+  coursier:
+    - title: Compléter une tâche
+      url: /fr/coursier/tache.html
+    - title: Récupérer une preuve de livraison
+      url: /fr/coursier/preuve.html
 
 en:
   admin:
