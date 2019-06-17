@@ -26,7 +26,7 @@ La plateforme CoopCycle peut-être configurée pour utiliser le mode “live” 
     * Récupérer les deux identifiants Stripe Connect (live et test) ici : <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings">https://dashboard.stripe.com/account/applications/settings</a>
     * Les copier dans les champs correspondants dans la page “paramètres” de l’admin
 
-Note: Les clés et identifiants live et test ne s'affichent pas en même temps à l'écran. Il y a sur la page un intérupteur qui permet d'afficher soit les données test, soit les données live.
+Note: Les clés et identifiants live et test ne s'affichent pas en même temps à l'écran. Il y a sur la page un interrupteur qui permet d'afficher soit les données test, soit les données live.
 
 2. Configurer l’url de redirection pour Stripe Connect
    * Aller sur <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings">https://dashboard.stripe.com/account/applications/settings</a>
