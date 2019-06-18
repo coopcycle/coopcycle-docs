@@ -2,7 +2,7 @@
 lang: en
 role: courier
 title: Proof of delivery
-ref: courier-home
+ref: courier-proof-delivery
 ---
 
 ## Collect proof of delivery :

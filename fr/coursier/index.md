@@ -1,6 +1,6 @@
 ---
 lang: fr
-role: coursier
+role: courier
 title: Guide du coursier
-ref: coursier-home
+ref: courier-home
 ---

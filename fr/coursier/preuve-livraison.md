@@ -1,8 +1,8 @@
 ---
 lang: fr
-role: coursier
+role: courier
 title: Preuve de livraison
-ref: coursier-home
+ref: courier-proof-delivery
 ---
 
 ## Récupérer une preuve de livraison :

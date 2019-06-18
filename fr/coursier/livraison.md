@@ -1,8 +1,8 @@
 ---
 lang: fr
-role: coursier
+role: courier
 title: Livraison
-ref: coursier-home
+ref: courier-delivery
 ---
 
 ## Compléter une tâche :

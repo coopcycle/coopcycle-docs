@@ -2,7 +2,7 @@
 lang: en
 role: courier
 title: Delivery
-ref: courier-home
+ref: courier-delivery
 ---
 
 ## Complete a task :
