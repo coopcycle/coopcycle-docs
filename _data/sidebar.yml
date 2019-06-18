@@ -59,3 +59,8 @@ en:
   dev:
     - title: API
       url: /en/developer/api.html
+  courier:
+    - title: Delivery
+      url: /en/courier/delivery.html
+    - title: Proof of delivery
+      url: /en/courier/proof-of-delivery.html
