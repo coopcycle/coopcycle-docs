@@ -36,7 +36,7 @@ fr:
   dev:
     - title: API
       url: /fr/developpeur/api.html
-  coursier:
+  courier:
     - title: Livraison
       url: /fr/courier/livraison.html
     - title: Preuve de livraison
