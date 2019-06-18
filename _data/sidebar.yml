@@ -38,9 +38,9 @@ fr:
       url: /fr/developpeur/api.html
   coursier:
     - title: Livraison
-      url: /fr/coursier/livraison.html
+      url: /fr/courier/livraison.html
     - title: Preuve de livraison
-      url: /fr/coursier/preuve-livraison.html
+      url: /fr/courier/preuve-de-livraison.html
 
 en:
   admin:
