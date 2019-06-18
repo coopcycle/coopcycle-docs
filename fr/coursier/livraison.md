@@ -1,17 +1,17 @@
 ---
 lang: fr
 role: coursier
-title: Guide du coursier
+title: Livraison
 ref: coursier-home
 ---
 
 ## Compléter une tâche :
 
 Dès qu'une nouvelle tâche vous est assigné, vous recevez une notification sur votre téléphone.
-Pour accéder à toutes les informations concernant cette tâches, il existe deux possibilités :
+Pour accéder à toutes les informations concernant cette tâche, il existe deux possibilités :
 
 - Soit en cliquant sur l'icône ![Position tâche](/assets/images/geoloc_icone.png) correspondant à votre tâche sur la map de l'écran d'accueil.
-- Soit en cliquant sur l'icône ![Liste de tâche](/assets/images/list_icon.png) en bas à droit de l'écran représentant la liste des tâches puis en cliquant sur la tâche désirée.
+- Soit en cliquant sur l'icône ![Liste de tâche](/assets/images/list_icon.png) en bas à droite de l'écran puis en cliquant sur la tâche désirée.
 
 ![liste des tâches](/assets/images/task_list_fr.png)
 

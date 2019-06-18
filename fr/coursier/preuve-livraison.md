@@ -1,7 +1,7 @@
 ---
 lang: fr
 role: coursier
-title: Guide du coursier
+title: Preuve de livraison
 ref: coursier-home
 ---
 
