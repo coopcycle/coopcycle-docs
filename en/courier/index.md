@@ -1,6 +1,6 @@
 ---
-lang: fr
+lang: en
 role: courier
-title: Guide du coursier
+title: Courier's guide
 ref: courier-home
 ---

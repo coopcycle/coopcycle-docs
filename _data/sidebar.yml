@@ -30,14 +30,17 @@ fr:
           url: /fr/administrateur/restaurants/restaurant.html
     - title: Magasins
       url: /fr/administrateur/magasins.html
-    - title: Applications smartphone
-      url: /fr/administrateur/applications-smartphone.html
   restaurant:
       - title: Commandes
         url: /fr/restaurateur/commandes.html
   dev:
     - title: API
       url: /fr/developpeur/api.html
+  courier:
+    - title: Livraison
+      url: /fr/coursier/livraison.html
+    - title: Preuve de livraison
+      url: /fr/coursier/preuve-de-livraison.html
 
 en:
   admin:
@@ -56,3 +59,8 @@ en:
   dev:
     - title: API
       url: /en/developer/api.html
+  courier:
+    - title: Delivery
+      url: /en/courier/delivery.html
+    - title: Proof of delivery
+      url: /en/courier/proof-of-delivery.html
