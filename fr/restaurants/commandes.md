@@ -23,7 +23,7 @@ ref: restaurant-order
 	<br>
 	Ici apparaît toutes les nouvelles commandes client en attente de validation de votre part.
 	<br>
-	Vous pouvez également l'a refusée, s'offrent alors à vous trois choix :
+	Vous pouvez également la refuser, s'offrent alors à vous trois choix :
 		- Je suis en rupture de stock
 		<br>
 		Cette commande sera annulée et vous continuerez à recevoir de nouvelles commandes.
@@ -35,7 +35,7 @@ ref: restaurant-order
 		Cette commande sera annulée et vous ne recevrez plus de nouvelles commandes.
 	- **Commandes acceptées :**
 	<br>
-	Ici s'affiche toutes les commandes acceptées.
+	Ici s'affichent toutes les commandes acceptées.
 	<br>
 	A partir de cette étape, si tout se passe bien vous n'avez qu'à préparer la commande, attendre le livreur et automatiquement la commande passera dans la section ci-dessous [commande livrée](#commande-livree).
 	<br>

@@ -80,8 +80,8 @@ In each of the sections, the orders are represented by their id, the total of th
 	When the rush mode is activated you no longer receive any orders, to continue receiving orders again, disable it.
 - **Manage products :**
 <br>
-	In this section, you can see a list of all the products that make up your card and the ability to disable each of them.
-	This function allows you to remove a product from the card visible to the customer, this can be useful if, for example, you are out of stock on an ingredient essential for preparing a dish. 
+	In this section, you can see a list of all the products that make up your catalog and the ability to disable each of them.
+	Disabled products are not visible by the customer, this can be useful if, for example, you are out of stock on an ingredient essential for preparing a dish. 
 	By default, all products are enabled.
 
 <br>
