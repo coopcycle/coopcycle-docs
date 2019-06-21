@@ -32,7 +32,7 @@ fr:
       url: /fr/administrateur/magasins.html
   restaurant:
       - title: Commandes
-        url: /fr/restaurateur/commandes.html
+        url: /fr/restaurants/commandes.html
   dev:
     - title: API
       url: /fr/developpeur/api.html
@@ -64,3 +64,6 @@ en:
       url: /en/courier/delivery.html
     - title: Proof of delivery
       url: /en/courier/proof-of-delivery.html
+  restaurant:
+    - title: Orders
+      url: /en/restaurants/orders.html
