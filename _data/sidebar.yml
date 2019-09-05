@@ -5,7 +5,7 @@ fr:
     - title: Configuration
       url: /fr/administrateur/configuration.html
     - title: Gestion des utilisateurs
-      url: /fr/administrateur/utilisateurs.html  
+      url: /fr/administrateur/utilisateurs.html
     - title: Paiements (via Stripe)
       url: /fr/administrateur/paiements-stripe.html
     - title: Fonctionnalités logistiques
@@ -36,6 +36,8 @@ fr:
   dev:
     - title: API
       url: /fr/developpeur/api.html
+    - title: Livraisons
+      url: /fr/developpeur/api/livraisons.html
   courier:
     - title: Livraison
       url: /fr/coursier/livraison.html
