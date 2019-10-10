@@ -44,6 +44,11 @@ h1 {
   padding: $base-length-s $base-length-l;
   min-height: 400px;
   flex: 4;
+
+  &__header {
+    margin-bottom: 20px;
+    text-align: right;
+  }
 }
 
 .main {

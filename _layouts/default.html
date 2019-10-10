@@ -11,9 +11,15 @@
       <aside class="sidebar">
         {%- include sidebar.html -%}
       </aside>
-      <div class="page-content">
+      <section class="page-content">
+        <header class="page-content__header">
+          <a
+            class="btn"
+            href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">{{ site.data.common[page.lang].button.edit }}</a>
+        </header>
+
         {{ content }}
-      </div>
+      </section>
     </main>
 
     {%- include footer.html -%}
