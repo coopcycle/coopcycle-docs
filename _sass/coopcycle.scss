@@ -24,7 +24,20 @@ $base-length-s: $base-length / 2;
 $base-length-l: $base-length * 2;
 $base-length-xl: $base-length * 4;
 
+
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
+  position: relative;
+  margin: 0;
+  min-height: 100%;
   font-family: $font-family-base;
 }
 
@@ -42,8 +55,8 @@ h1 {
 
 .page-content {
   padding: $base-length-s $base-length-l;
-  min-height: 400px;
-  flex: 4;
+  //min-height: 400px;
+  flex: 1;
 
   &__header {
     margin-bottom: 20px;
@@ -54,14 +67,16 @@ h1 {
 .main {
   display: flex;
   background-color: $white;
-  max-width: 1200px;
+  //max-width: 1200px;
   padding: $base-length;
-  min-height: 600px;
-  margin-bottom: $base-length-l;
+  //min-height: 600px;
+  //margin-bottom: $base-length-l;
 }
 
+
 .sidebar {
-  flex: 1;
+  //flex: 1;
+  flex: 0 0 20vw;
   text-align: left;
   padding: $base-length-s $base-length;
   border-right: 1px solid $grey;
@@ -148,40 +163,48 @@ h1 {
  */
 
 .blog-footer {
-  padding: 10px 0;
-  color: $white;
-  text-align: center;
   background-color: $red;
+  bottom: 0;
+  left: 0;
+  padding: 10px 0 20px;
+  position: absolute;
+  right: 0;
+  text-align: center;
 
-  .nav {
-    display: block;
-    margin-bottom: 0;
-  }
-
-  .nav-item {
-    display: inline-block;
-  }
-
-  .nav-link {
-    padding: $base-length-s $base-length;
-    display: inline-block;
+  &__contact {
     color: $white;
   }
+}
 
-  .nav-link .fa {
-    font-size: 22px;
+.nav-footer {
+  margin: 0;
+  padding: 0;
+
+  &__item {
+    display: inline-block;
+    padding: $base-length-s $base-length;
+  }
+
+  &__link {
+    color: $white;
+    display: inline-block;
+
+    &--mediapart {
+      background-image: url('/assets/images/mediapart.svg');
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: bottom center;
+      height: 20px;
+      width: 32px;
+      box-sizing: border-box;
+    }
+
+    .fa {
+      font-size: 22px;
+    }
   }
 }
 
-#footer-mediapart {
-  background-image: url('/assets/images/mediapart.svg');
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: bottom center;
-  height: 20px;
-  width: 32px;
-  box-sizing: border-box;
-}
 
 pre {
   white-space: pre-wrap;
