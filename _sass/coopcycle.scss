@@ -195,6 +195,10 @@ $sidebar-width: 20vw;
     color: $white;
     display: inline-block;
 
+    &:visited {
+      color: $white;
+    }
+
     &--mediapart {
       background-image: url('/assets/images/mediapart.svg');
       background-repeat: no-repeat;
