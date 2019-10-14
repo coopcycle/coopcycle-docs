@@ -3,6 +3,7 @@ title: Orders
 lang: en
 role: admin
 ref: admin-orders
+parent: Administrator's guide
 ---
 
 Orders page displays the orders engaged by clients on the platform. It enables to manage restaurant's orders.

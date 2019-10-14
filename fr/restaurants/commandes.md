@@ -3,6 +3,7 @@ lang: fr
 role: restaurant
 title: Gestion des commandes
 ref: restaurant-order
+parent: Guide du restaurateur
 ---
 
 ---
@@ -39,7 +40,7 @@ ref: restaurant-order
 	<br>
 	A partir de cette étape, si tout se passe bien vous n'avez qu'à préparer la commande, attendre le livreur et automatiquement la commande passera dans la section ci-dessous [commande livrée](#commande-livree).
 	<br>
-	Dans le cas contraire vous pouvez : 
+	Dans le cas contraire vous pouvez :
 		- Retarder la commande :
 			- De 10 minutes.
 			- De 20 minutes.
@@ -71,7 +72,7 @@ Dans chacunes des sections, les commandes sont représentées par leur id, le to
 ---
 <br>
 
-## Réglages 
+## Réglages
 
 #### **Les réglages sont accessibles via l'icône ![settings](/assets/images/resto_param_icon.png) en haut à droite de la page. Ils se décomposent en deux parties :**
 
@@ -81,9 +82,9 @@ Dans chacunes des sections, les commandes sont représentées par leur id, le to
 - **Gérer les produits** :
 <br>
 	Dans cette partie, vous pouvez voir une liste de tous les produits qui composent votre carte et la possibilité de désactiver chacuns d'eux.
-	Cette fonction permet de retirer un produit de la carte visible par le client, cela peut vous être utile si par exemple vous êtes en rupture de stock sur un ingrédient indispensable à la préparation d'un plat. 
+	Cette fonction permet de retirer un produit de la carte visible par le client, cela peut vous être utile si par exemple vous êtes en rupture de stock sur un ingrédient indispensable à la préparation d'un plat.
 	Par défaut, tous les produit sont activés.
-	
+
 <br>
 <br>
 

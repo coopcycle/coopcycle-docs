@@ -3,6 +3,7 @@ title: Créer des livraisons à travers l'API
 lang: fr
 role: dev
 ref: dev-api-deliveries
+parent: Guide du développeur
 ---
 
 En tant que client, vous souhaiterez probablement pouvoir créer des livraisons depuis un système externe.

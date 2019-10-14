@@ -3,6 +3,7 @@ lang: en
 role: admin
 title: Administrator's guide
 ref: admin-home
+has_children: true
 ---
 
 Welcome to the administrator's guide for CoopCycle platform.

@@ -3,6 +3,7 @@ lang: en
 role: courier
 title: Proof of delivery
 ref: courier-proof-delivery
+parent: Courier's guide
 ---
 
 ## Collect proof of delivery :

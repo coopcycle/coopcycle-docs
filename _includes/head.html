@@ -1,14 +1,14 @@
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    {%- seo -%}
-    <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-    {%- feed_meta -%}
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-        {%- include google-analytics.html -%}
-    {%- endif -%}
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,700">
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,700">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico">
+  <link rel="stylesheet" href="{{ "/assets/css/just-the-docs.css" | absolute_url }}">
+  {% if site.search_enabled != nil %}
+  <script type="text/javascript" src="{{ "/assets/js/vendor/lunr.min.js" | absolute_url }}"></script>
+  {% endif %}
+  <script type="text/javascript" src="{{ "/assets/js/just-the-docs.js" | absolute_url }}"></script>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>

@@ -3,6 +3,7 @@ lang: en
 role: courier
 title: Delivery
 ref: courier-delivery
+parent: Courier's guide
 ---
 
 ## Complete a task :

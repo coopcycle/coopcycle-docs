@@ -3,6 +3,7 @@ title: Utilisation de l'API CoopCycle
 lang: fr
 role: dev
 ref: dev-api
+parent: Guide du développeur
 ---
 
 [Ouvrir la documentation API / Swagger](https://demo.coopcycle.org/api/docs)
@@ -22,14 +23,14 @@ Si vous créez une application Web qui n'a pas besoin d'agir au nom d'un utilisa
 
 **Obtention des identifiants API**
 
-Pour créer des jetons d'accès, vous aurez besoin des identifiants API (une clé publique et une clé secrète). 
+Pour créer des jetons d'accès, vous aurez besoin des identifiants API (une clé publique et une clé secrète).
 <br>
 Demandez aux administrateurs de la plate-forme de créer une application API et de vous envoyer les identifiants API.
 
 **Utiliser les informations d'identification pour obtenir un jeton d'accès**
 
 La première étape pour faire des demandes authentifiées est d'obtenir un **jeton d'accès**.
-<br> 
+<br>
 Pour obtenir un jeton d'accès, vous devez d'abord faire une demande au endpoint `/oauth2/token`, avec vos identifiants API encodés en Base64.
 
 Voici un exemple d'encodage de vos identifiants API en PHP:

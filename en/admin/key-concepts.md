@@ -3,6 +3,7 @@ title: Key concepts
 lang: en
 role: admin
 ref: key-concepts
+parent: Administrator's guide
 ---
 
 Create a task

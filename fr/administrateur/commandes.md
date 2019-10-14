@@ -3,6 +3,7 @@ title: Commandes
 lang: fr
 role: admin
 ref: admin-orders
+parent: Guide de l'administrateur
 ---
 
 L’onglet de commande affiche les commande passées depuis la plateforme par des clients. Elle permet de gérer les commandes des restaurants.

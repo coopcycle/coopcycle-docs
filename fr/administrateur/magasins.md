@@ -3,6 +3,7 @@ title: Magasins
 lang: fr
 role: admin
 ref: admin-shops
+parent: Guide de l'administrateur
 ---
 
 Un magasin permet a un commerçant de créer des livraisons via un backoffice. Le prix de la livraison est calculé suivant la tarification associée au magasin par un administrateur. Les magasins ne disposent pas pour l'instant de page publique permettant à un client de commander directement.

@@ -3,6 +3,7 @@ title: Shops
 lang: en
 role: admin
 ref: admin-shops
+parent: Administrator's guide
 ---
 
 A shop enables a shop-owner to create deliveries through a backoffice. The price of the delivery is calcuted according to the tarification which is associated to the shop by an administrator. The shops don't have for the moment a public page which enable an end customer to directly order
@@ -18,7 +19,7 @@ The page `Shops` lists the shops which were configured on the platform. A shop-o
 ## Creation / management of a shop
 
 Only administrators can create a shop. Shop-owners can only configure parameters of their shop and engage orders. The creation of a shop displays these options :
-- To upload a picture 
+- To upload a picture
 - Name of the sop
 - Legal name of the shop
 - Website

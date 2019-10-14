@@ -3,6 +3,7 @@ lang: en
 role: restaurant
 title: Order management
 ref: restaurant-order
+parent: Restaurateur's guide
 ---
 
 ---
@@ -39,7 +40,7 @@ ref: restaurant-order
 	<br>
 	From this step, if everything goes well you only have to prepare the order, wait for the delivery person and automatically the order will be placed in the section below [delivered order](#order-delivery).
 	<br>
-	If not, you can : 
+	If not, you can :
 		- Delay the order :
 			- By 10 minutes.
 			- 20 minutes.
@@ -81,7 +82,7 @@ In each of the sections, the orders are represented by their id, the total of th
 - **Manage products :**
 <br>
 	In this section, you can see a list of all the products that make up your catalog and the ability to disable each of them.
-	Disabled products are not visible by the customer, this can be useful if, for example, you are out of stock on an ingredient essential for preparing a dish. 
+	Disabled products are not visible by the customer, this can be useful if, for example, you are out of stock on an ingredient essential for preparing a dish.
 	By default, all products are enabled.
 
 <br>

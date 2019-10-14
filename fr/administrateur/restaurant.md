@@ -3,6 +3,8 @@ title: Gestion des restaurants
 lang: fr
 role: admin
 ref: admin-restaurant
+parent: Restaurants
+grand_parent: Guide de l'administrateur
 ---
 
 ## Informations du restaurant
@@ -12,11 +14,11 @@ Les informations générales du restaurant sont accessibles et modifiables à to
 Vous trouverez également sur cette page **les termes du contrat** entre le collectif local de livraison et le restaurant. Ils couvrent les aspects suivants :
 
 - Zone de livraison
-- Prix de la livraison 
+- Prix de la livraison
     - Forfait ou pourcentage
     - Part à la charge du.de la restaurateur.rice
     - Part à la charge du.de la client.e final.e
-- Montant minimum du panier 
+- Montant minimum du panier
 - Frais de paiement (Stripe) : payés par la plateforme ou le.la restaurateur.rice
 
 ## Les pages de gestion
