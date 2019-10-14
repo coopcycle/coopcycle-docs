@@ -1,6 +1,10 @@
 fr:
+  footer:
+    contact: Contacter Coopcycle par mail à l'adresse contact@coopcycle.org
   button:
     edit: Modifier la page
 en:
+  footer:
+    contact: "Contact Coopcycle by mail at contact@coopcycle.org"
   button:
     edit: Edit page
