@@ -2,9 +2,9 @@
   <ul class="navigation-list">
   {% assign pages_list = site.html_pages | where:"lang", page.lang | sort:"nav_order" %}
   {% for node in pages_list %}
-      <li class="navigation-list-item{% if page.url == node.url %} active{% endif %} js-side-nav-item">
+      <li class="navigation-list-item {% if page.url == node.url %} active{% endif %} js-side-nav-item">
         {% if node.parent == nil or node.has_children == true %}
-        <a href="{{ node.url | absolute_url }}" class="navigation-list-link{% if page.url == node.url or (page.parent != nil and page.parent == node.parent) %} active{% endif %}">{{ node.title }}</a>
+        <a href="{{ node.url | absolute_url }}" class="navigation-list-link {% if page.url == node.url or (page.parent != nil and page.parent == node.parent) %} active{% endif %}">{{ node.title }}</a>
           {% if (node.has_children == true and node.parent == page.parent) %}
             {% assign children_list = site.html_pages | where:"lang", page.lang | sort:"nav_order" %}
             <ul class="navigation-list-child-list">

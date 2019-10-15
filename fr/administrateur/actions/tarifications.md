@@ -3,9 +3,11 @@ title: Tarifications
 lang: fr
 role: admin
 ref: pricings
+parent: Actions
+grand_parent: Guide de l'administrateur
 ---
 
-Dans le cadre de la création d'un compte magasin, il est possible de créer des tarifications (ex: tarification express, tarification normale) depuis la partie administration en cliquant sur l'icône <i class="fa fa-cog" aria-hidden="true"></i> puis sur la section Tarification. 
+Dans le cadre de la création d'un compte magasin, il est possible de créer des tarifications (ex: tarification express, tarification normale) depuis la partie administration en cliquant sur l'icône <i class="fa fa-cog" aria-hidden="true"></i> puis sur la section Tarification.
 
 ![Tarification]({{ "/assets/images/config_pricing_fr.png" | absolute_url }})
 

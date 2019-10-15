@@ -4,6 +4,7 @@ role: admin
 title: Guide de l'administrateur
 ref: admin-home
 has_children: true
+nav_order: 1
 ---
 
 Bienvenue sur le guide administrateur de la plateforme CoopCycle.

@@ -2,6 +2,8 @@
 title: Livraisons
 lang: fr
 role: admin
+parent: Actions
+grand_parent: Guide de l'administrateur
 ---
 
 L’onglet de livraison permet d’afficher la liste des livraisons et des tâches.

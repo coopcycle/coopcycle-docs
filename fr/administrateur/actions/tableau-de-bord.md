@@ -2,6 +2,8 @@
 title: Tableau de bord (dashboard)
 lang: fr
 role: admin
+parent: Actions
+grand_parent: Guide de l'administrateur
 custom_scripts:
   - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
   - "/assets/scripts/zoom.js"
