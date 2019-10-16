@@ -4,7 +4,10 @@ lang: fr
 role: dev
 ref: dev-api-deliveries
 parent: Guide du développeur
+nav_order: 2
 ---
+
+# Créer des livraisons à travers l'API
 
 En tant que client, vous souhaiterez probablement pouvoir créer des livraisons depuis un système externe.
 
@@ -13,7 +16,7 @@ Après avoir obtenu [vos identifiants API et vous être authentifié](/fr/develo
 Les informations minimales dont nous avons besoin pour les points de retrait et de dépôt sont **l'adresse et l'horaire**.
 Toutes les autes informations sont optionnelles.
 
-#### Créer une livraison avec les coordonnées géographiques
+## Créer une livraison avec les coordonnées géographiques
 
 Si vous disposez des coordonnées géographiques précises des points à livrer, vous pouvez les fournir directement.
 C'est la méthode préférée pour créer des livraisons.
@@ -37,7 +40,7 @@ C'est la méthode préférée pour créer des livraisons.
 }
 ```
 
-#### Créer une livraison avec géocodage
+## Créer une livraison avec géocodage
 
 S'il ne vous est pas possible d'obtenir les informations géographiques des points de retrait et de depôt, il est possible de fournir l'adresse sous forme de texte. Dans ce cas, l'adresse sera géocodée.
 
@@ -56,7 +59,7 @@ S'il ne vous est pas possible d'obtenir les informations géographiques des poin
 }
 ```
 
-#### Créer une livraison avec une adresse de retrait implicite
+## Créer une livraison avec une adresse de retrait implicite
 
 En général, une adresse de retrait par défaut est attribuée à votre compte utilisateur.
 Si c'est le cas, il n'est pas nécessaire de spécifier l'adresse de retrait, vous pouvez spécifier seulement l'adresse de dépôt.
@@ -71,7 +74,7 @@ Si c'est le cas, il n'est pas nécessaire de spécifier l'adresse de retrait, vo
 }
 ```
 
-#### Créer une livraison en précisant un créneau horaire
+## Créer une livraison en précisant un créneau horaire
 
 En général, les horaires de retrait et de dépôt sont spécifiés sur un créneau horaire plus ou moins large.
 De votre côté, vous devez vous assurer que la personne qui doit remettre la marchandise ou la réceptionner sera disponible sur le créneau horaire choisi.

@@ -5,7 +5,10 @@ role: admin
 ref: admin-restaurant
 parent: Restaurants
 grand_parent: Guide de l'administrateur
+nav_order: 2
 ---
+
+# Gestion des restaurants
 
 ## Informations du restaurant
 

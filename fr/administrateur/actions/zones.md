@@ -3,8 +3,9 @@ title: Zones
 lang: fr
 role: admin
 ref: zones
-parent: Actions
+parent: Fonctionnalités logistiques
 grand_parent: Guide de l'administrateur
+nav_order: 2
 ---
 
 Vous pouvez enregistrer des zones sous forme de polygones. Vous pourrez ensuite utiliser les zones enregistrées pour définir des règles tarifaires. Pour créer une zone, vous aurez besoin d'uploader un fichier geoJSON représentant la zone de livraison.

@@ -7,11 +7,12 @@ parent: Restaurateur's guide
 ---
 
 ---
-<br>
+
+# Order management
 
 ## Orders
 
-#### **The main screen is organized as follows :**
+### The main screen is organized as follows :
 
 ![restaurant's interface for orders](/assets/images/resto_order_list_fr.png)
 
@@ -74,7 +75,7 @@ In each of the sections, the orders are represented by their id, the total of th
 
 ## Settings
 
-#### **The settings are accessible via the icon ![settings](/assets/images/resto_param_icon.png) at the top right of the page. They are divided into two parts :**
+### The settings are accessible via the icon ![settings](/assets/images/resto_param_icon.png) at the top right of the page. They are divided into two parts :
 
 - **Switch to rush mode :**
 <br>

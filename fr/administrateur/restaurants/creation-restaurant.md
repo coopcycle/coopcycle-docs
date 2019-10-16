@@ -5,10 +5,13 @@ role: admin
 ref: admin-restaurant
 parent: Restaurants
 grand_parent: Guide de l'administrateur
+nav_order: 1
 custom_scripts:
   - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
   - "/assets/scripts/zoom.js"
 ---
+
+# Création des restaurants
 
 Cette page décrit le processus pour créer un restaurant sur la plateforme CoopCycle. N’hésitez pas à demander de l’aide à [contact@coopcycle.org](mailto:contact@coopcycle.org) pour configurer les premiers restaurants. Celui-ci se déroule en deux étapes :
 
@@ -44,7 +47,7 @@ Informations optionnelles :
 - Numéro de SIRET
 
 
-### **1- Création du restaurant**
+## 1- Création du restaurant
 
 
 
@@ -56,7 +59,7 @@ Informations optionnelles :
 - Cliquer sur “Enregistrer”
 
 
-### **2- Création du compte Stripe lié au restaurant**
+## 2- Création du compte Stripe lié au restaurant
 
 - **Depuis votre dashboard Stripe**, [https://dashboard.stripe.com/account](https://dashboard.stripe.com/account) , créer un nouveau compte en cliquant en haut à gauche sur “New Account”. Indiquer le nom du restaurant.
 

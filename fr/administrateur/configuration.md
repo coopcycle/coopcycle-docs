@@ -1,10 +1,13 @@
 ---
-title: Configuration de votre instance
+title: Configuration
 lang: fr
 role: admin
 ref: admin-restaurants
 parent: Guide de l'administrateur
+nav_order: 2
 ---
+
+# Configuration de votre instance
 
 La coopérative gérant et utilisant l'instance peut la paramétrer selon ses besoins, depuis l'onglet `Configuration > Paramètres`.
 

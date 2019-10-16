@@ -4,7 +4,10 @@ lang: en
 role: admin
 ref: admin-shops
 parent: Administrator's guide
+nav_order: 4
 ---
+
+# Shops
 
 A shop enables a shop-owner to create deliveries through a backoffice. The price of the delivery is calcuted according to the tarification which is associated to the shop by an administrator. The shops don't have for the moment a public page which enable an end customer to directly order
 

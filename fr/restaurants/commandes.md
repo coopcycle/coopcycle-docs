@@ -7,11 +7,12 @@ parent: Guide du restaurateur
 ---
 
 ---
-<br>
+
+# Gestion des commandes
 
 ## Commandes
 
-#### **L'écran principal est organisé de la manière suivante :**
+### L'écran principal est organisé de la manière suivante :
 
 ![restaurant's interface for orders](/assets/images/resto_order_list_fr.png)
 
@@ -74,7 +75,7 @@ Dans chacunes des sections, les commandes sont représentées par leur id, le to
 
 ## Réglages
 
-#### **Les réglages sont accessibles via l'icône ![settings](/assets/images/resto_param_icon.png) en haut à droite de la page. Ils se décomposent en deux parties :**
+### Les réglages sont accessibles via l'icône ![settings](/assets/images/resto_param_icon.png) en haut à droite de la page. Ils se décomposent en deux parties :
 
 - **Passer en mode rush** :
 <br>

@@ -1,10 +1,13 @@
 ---
-title: Gestion des paiements via Stripe
+title: Paiements (via Stripe)
 lang: fr
 role: admin
 ref: admin-stripe
 parent: Guide de l'administrateur
+nav_order: 4
 ---
+
+# Gestion des paiements via Stripe
 
 ## Qu’est ce que Stripe ?
 

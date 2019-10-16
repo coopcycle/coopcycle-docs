@@ -4,7 +4,10 @@ lang: fr
 role: dev
 ref: dev-api
 parent: Guide du développeur
+nav_order: 1
 ---
+
+# Utilisation de l'API CoopCycle
 
 [Ouvrir la documentation API / Swagger](https://demo.coopcycle.org/api/docs)
 

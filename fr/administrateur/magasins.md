@@ -6,6 +6,8 @@ ref: admin-shops
 parent: Guide de l'administrateur
 ---
 
+# Magasins
+
 Un magasin permet a un commerçant de créer des livraisons via un backoffice. Le prix de la livraison est calculé suivant la tarification associée au magasin par un administrateur. Les magasins ne disposent pas pour l'instant de page publique permettant à un client de commander directement.
 
 L’onglet `Magasins` liste l’ensemble des commerces enregistrés sur l’instance. Un commerçant verra s’afficher la liste des commerces dont il a la gestion. La liste des commerce affiche :

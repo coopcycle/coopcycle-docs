@@ -4,9 +4,13 @@ role: admin
 title: Administrator's guide
 ref: admin-home
 has_children: true
+nav_order: 2
 ---
 
+# Administrator's guide
+
 Welcome to the administrator's guide for CoopCycle platform.
+{: .fs-6 }
 
 Our software is a complete logistics and e-commerce system allowing the delivery of a product from A to Z. The platform is dedicated to bicycle delivery and its license is designed to reserve the use for worker-owned co-ops.
 

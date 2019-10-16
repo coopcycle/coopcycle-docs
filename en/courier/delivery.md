@@ -4,7 +4,10 @@ role: courier
 title: Delivery
 ref: courier-delivery
 parent: Courier's guide
+nav_order: 1
 ---
+
+# Delivery
 
 ## Complete a task :
 

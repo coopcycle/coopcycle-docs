@@ -1,10 +1,13 @@
 ---
-title: Configuration of your software
+title: Configuration
 lang: en
 role: admin
 ref: admin-restaurants
 parent: Administrator's guide
+nav_order: 1
 ---
+
+# Configuration of your software
 
 The cooperative which manages and uses the software can configure it according to its needs, with the page `Configuration > Parameters`.
 
