@@ -3,7 +3,8 @@
 //
 
 .site-title {
-  display: block;
+  align-items: center;
+  display: flex;
   flex: 1 1 auto;
   background-color: $grey-lt-000;
 
@@ -15,6 +16,15 @@
     height: 60px;
     padding-top: $sp-4;
     border-bottom: $border $border-color;
+  }
+
+  img {
+    margin-right: 10px;
+  }
+
+  img,
+  a {
+    flex: 0 0 auto;
   }
 }
 

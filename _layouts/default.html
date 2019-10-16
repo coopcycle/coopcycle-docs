@@ -5,7 +5,12 @@
 
   <main class="page-wrap">
     <aside class="side-bar">
-      <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 text-grey-dk-300 lh-tight">{{ site.title }}</a>
+      <span class="site-title">
+      {% if site.logo %}
+        <img src="{{ site.logo }}" alt="" width="30" height="30">
+      {% endif %}
+        <a href="{{ site.url }}{{ site.baseurl }}" class="fs-5 text-grey-dk-300 lh-tight">{{ site.title }}</a>
+      </span>
       <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
         {% include nav.html %}
