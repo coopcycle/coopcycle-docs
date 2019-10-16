@@ -71,6 +71,18 @@
   &.active {
     .navigation-list-child-list {
       display: block;
+
+      .navigation-list-item {
+        .navigation-list-child-list {
+          display: none;
+        }
+
+        &.active {
+          .navigation-list-child-list {
+            display: block;
+          }
+        }
+      }
     }
   }
 }
