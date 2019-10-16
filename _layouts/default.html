@@ -3,19 +3,37 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 {% include head.html %}
 
-  <div class="page-wrap">
-    <div class="side-bar">
+  <main class="page-wrap">
+    <aside class="side-bar">
       <a href="{{ site.url }}{{ site.baseurl }}" class="site-title fs-6 text-grey-dk-300 lh-tight">{{ site.title }}</a>
       <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
       <div class="navigation main-nav js-main-nav">
         {% include nav.html %}
       </div>
       <footer role="contentinfo" class="site-footer">
-        <p class="text-small text-grey-dk-000 mb-0">This site uses <a href="https://github.com/pmarsceill/just-the-docs">Just the Docs</a>, a documentation theme for Jekyll.</p>
+        <ul class="sidebar-footer-nav" itemscope itemtype="http://schema.org/Organization">
+          <link itemprop="url" href="https://coopcycle.org">
+          <li class="sidebar-footer-nav__item">
+            <a class="sidebar-footer-nav__link" href="https://github.com/coopcycle" target="_blank"><i class="fa fa-github"></i></a>
+          </li>
+          <li class="sidebar-footer-nav__item">
+            <a class="sidebar-footer-nav__link" href="https://twitter.com/coopcycle" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          <li class="sidebar-footer-nav__item">
+            <a class="sidebar-footer-nav__link" href="https://www.facebook.com/coopcycle" target="_blank"><i class="fa fa-facebook"></i></a>
+          </li>
+          <li class="sidebar-footer-nav__item">
+            <a class="sidebar-footer-nav__link sidebar-footer-nav__link--mediapart" href="https://blogs.mediapart.fr/coopcycle" id="footer-mediapart" target="_blank"></a>
+          </li>
+        </ul>
+        <a
+          class="fs-2"
+          title="{{ site.data.common[page.lang].footer.contact }}"
+          href="mailto:contact@coopcycle.org">contact@coopcycle.org</a>
       </footer>
-    </div>
-    <div class="main-content-wrap">
-      <div class="page-header">
+    </aside>
+    <section class="main-content-wrap">
+      <header class="page-header">
         <div class="main-content">
           <nav class="nav-lang js-search">
             {%- for lang in site.data.langs -%}
@@ -48,9 +66,9 @@
             </ul>
             {% endif %} -->
         </div>
-      </div>
-      <div class="main-content">
-      {% unless page.url == "/" %}
+      </header>
+      <section class="main-content">
+        {% unless page.url == "/" %}
           {% if page.parent %}
             <nav class="breadcrumb-nav">
               <ol class="breadcrumb-nav-list">
@@ -82,9 +100,17 @@
             {% endfor %}
           </ul>
           {% endif %}
+
+          {% if site.footer_content != nil %}
+            <hr>
+            <footer role="contentinfo">
+              <p class="text-small text-grey-dk-000 mb-0">{{ site.footer_content }}</p>
+            </footer>
+          {% endif %}
+
         </div>
-      </div>
-    </div>
-  </div>
+      </section>
+    </section>
+  </main>
   {%- include scripts.html -%}
 </html>
