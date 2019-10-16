@@ -142,11 +142,70 @@ body {
   }
 }
 
+// Edit button
 .edit {
   display: inline-block;
   padding-bottom: $gutter-spacing-sm;
 
   @include mq(md) {
     padding-bottom: 0;
+  }
+}
+
+// Navigation languages
+.nav-lang {
+  display: none;
+  flex-grow: 1;
+  margin-bottom: $sp-3;
+  padding: $sp-2;
+
+  @include mq(md) {
+    display: block;
+    margin-bottom: 0;
+    padding: $sp-1 0 0;
+  }
+
+  &__link {
+    padding: $sp-2;
+    position: relative;
+    text-decoration: none;
+
+    &:not(:last-child) {
+      margin-right: $sp-2;
+    }
+
+    &::after {
+      background-color: $red-200;
+      bottom: 0;
+      content: '';
+      display: block;
+      height: 4px;
+      left: 0;
+      position: absolute;
+      right: 0;
+      transform: scale(0, 1);
+      transition: all 400ms cubic-bezier(.45,1,.32,1);
+    }
+
+    &:hover,
+    &.active {
+      &::after {
+        transform: scale(1, 1);
+      }
+    }
+
+    &.unavailable {
+      color: $grey-lt-300;
+      cursor: default;
+      pointer-events: none;
+
+      &::after {
+        transform: scale(0, 1);
+      }
+    }
+  }
+
+  &.nav-open {
+    display: block;
   }
 }
