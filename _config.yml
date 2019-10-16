@@ -21,11 +21,11 @@ url: "https://docs.coopcycle.org" # the base hostname & protocol for your site, 
 twitter_username: coopcycle
 github_username:  coopcycle
 
-# Aux links for the upper right navigation
-aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/logo.png"
 
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
 
 # Build settings
 markdown: kramdown
@@ -35,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+# Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
 
 # Exclude from processing.
