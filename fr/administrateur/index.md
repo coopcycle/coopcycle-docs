@@ -3,9 +3,14 @@ lang: fr
 role: admin
 title: Guide de l'administrateur
 ref: admin-home
+has_children: true
+nav_order: 2
 ---
 
+# Guide de l'administrateur
+
 Bienvenue sur le guide administrateur de la plateforme CoopCycle.
+{: .fs-6 }
 
 Notre logiciel est un système complet de logistique et de e-commerce permettant la livraison d’un produit de A à Z. La plateforme est dédiée à la livraison à vélo et sa licence est conçue pour en réserver l’usage aux coopératives détenues par leurs salariés.
 

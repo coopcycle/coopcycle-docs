@@ -3,7 +3,10 @@ title: Using the CoopCycle API
 lang: en
 role: dev
 ref: dev-api
+parent: Developer's guide
 ---
+
+# Using the CoopCycle API
 
 [Open API / Swagger documentation](https://demo.coopcycle.org/api/docs)
 

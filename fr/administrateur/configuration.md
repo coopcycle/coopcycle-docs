@@ -1,9 +1,13 @@
 ---
-title: Configuration de votre instance
+title: Configuration
 lang: fr
 role: admin
 ref: admin-restaurants
+parent: Guide de l'administrateur
+nav_order: 2
 ---
+
+# Configuration de votre instance
 
 La coopérative gérant et utilisant l'instance peut la paramétrer selon ses besoins, depuis l'onglet `Configuration > Paramètres`.
 
@@ -14,4 +18,3 @@ Il est possible de :
 * Configurer les identifiants Stripe (Clé publique Stripe, Clé secrète Stripe, Identifiant Stripe Connect) : voir la partie [Stripe](/fr/administrateur/paiements-stripe.html) de la documentation
 * Utiliser Stripe en mode test/live : voir la partie [Stripe](/fr/administrateur/paiements-stripe.html) de la documentation
 * Taux de TVA utilisé pour la livraisons (créer préalablement le taux dans `Configuration > Taxes`)
-

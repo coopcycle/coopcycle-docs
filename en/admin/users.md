@@ -1,9 +1,13 @@
 ---
-title: Management of users
+title: Users
 lang: en
 role: admin
 ref: admin-users
+parent: Administrator's guide
+nav_order: 5
 ---
+
+# Management of users
 
 The list of administrators is disponible in the page `Users`. This list describes accounts which are inscribed on the platform and their associated informations. It also enables to add/create a new user.
 

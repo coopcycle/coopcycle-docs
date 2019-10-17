@@ -3,16 +3,19 @@ title: Key concepts
 lang: en
 role: admin
 ref: key-concepts
+parent: Administrator's guide
+nav_order: 2
 ---
 
-Create a task
----------------
+# Key concepts
+
+## Create a task
 
 Each delivery consists of at least two tasks that a dispatcher assigned to a deliveryman.
 There are two different types of tasks: a "Recover" task and a "Submit" task.
 This binary form covers all the scenarios of the bike delivery field.
 
-## Retrieve and Deposit
+### Retrieve and Deposit
 
 The deliverer must pick up merchandise at an address and bring it to another address. The following information must be completed by the dispatcher for each task:
 - Crenellations
@@ -22,13 +25,11 @@ The deliverer must pick up merchandise at an address and bring it to another add
 - Status
 - History
 
-Create a delivery
--------------------
+## Create a delivery
 
 Assign two or more tasks to a delivery person creating a delivery. When the Retrieve and Drop tasks are created, the dispatcher assigns these tasks manually in the most optimal order that they judge. The creation of a delivery is materialized on the map by means of a GPS track which is proposed to the courier for delivery.
 
-pricing
--------------
+### Pricing
 
 Pricing is configured in the administration dashboard through a set of rules based on the following variables:
 The distance that is measured in meters. This distance can be defined with the operators of:
@@ -56,8 +57,7 @@ in the department of 93 with cargo bike.
 
 If a delivery within Paris is created with the need to deliver by cargo bike, the first pricing will apply because no type of bike is specified for it and the bad price will be charged. Being precise at the top of the pile and GP at the bottom of the track allows
 
-CoopCycle Instance
-------------------
+## CoopCycle Instance
 
 CoopCycle software works by deploying instances. These are replicated copies of the software that are autonomous from each other. This allows each city to have its own instances, its own pricing rules, dispatch space and configure the software according to the needs of each cooperative.
 roles in instances

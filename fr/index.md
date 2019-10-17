@@ -1,9 +1,11 @@
 ---
 layout: home
 lang: fr
-title: Bienvenue sur la documentation CoopCycle!
+title: Accueil
 ref: homepage
+nav_order: 1
 ---
+# Bienvenue sur la documentation CoopCycle !
 
 Retrouvez nos guides :
 

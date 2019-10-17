@@ -3,7 +3,11 @@ title: Gestion des utilisateurs
 lang: fr
 role: admin
 ref: admin-users
+parent: Guide de l'administrateur
+nav_order: 3
 ---
+
+# Gestion des utilisateurs
 
 La liste des utilisateurs de la plateforme est disponible dans l’onglet `Utilisateurs`. Cette liste détaille l’ensemble de comptes inscrits sur la plateforme ainsi que les informations qui leurs sont relatives et la possibilité d’ajouter / créer un nouvel utilisateur.
 

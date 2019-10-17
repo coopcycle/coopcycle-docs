@@ -3,6 +3,8 @@ title: Concepts clés
 lang: fr
 role: admin
 ref: key-concepts
+parent: Guide de l'administrateur
+nav_order: 1
 ---
 
 # Tâches et livraisons
@@ -15,7 +17,7 @@ Il existe deux types de tâches différentes :
 
 Une livraison est composée d’au moins deux tâches. Dans une livraison l'ordre des tâches est imposé (classiquement récupérer avant de déposer).
 
-### Attributs d'une tâches
+## Attributs d'une tâche
 
 Le livreur doit récupérer une marchandise à une adresse et l’amener à une autre adresse.\\
 Les informations suivantes doivent être renseignées par le dispatcheur pour chaque tâche :
@@ -27,7 +29,7 @@ Les informations suivantes permettent de suivre l’évolution d’une tâche da
 - Statut
 - Historique
 
-# Instance CoopCycle
+## Instance CoopCycle
 
 Le logiciel CoopCycle fonctionne grâce au déploiement d’instances. Ces dernières sont des copies répliquées du logiciel qui sont autonomes les unes des autres. Cela permet à chaque coopérative d'avoir ses propres règles de tarification, son espace de dispatch et de configurer le logiciel selon ses besoins. Les données (clients, coursiers, commandes) sont isolées entre chaque instance.
 

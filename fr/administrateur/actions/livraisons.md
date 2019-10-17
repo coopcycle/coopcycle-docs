@@ -2,6 +2,10 @@
 title: Livraisons
 lang: fr
 role: admin
+ref: deliveries
+parent: Fonctionnalités logistiques
+grand_parent: Guide de l'administrateur
+nav_order: 4
 ---
 
 L’onglet de livraison permet d’afficher la liste des livraisons et des tâches.

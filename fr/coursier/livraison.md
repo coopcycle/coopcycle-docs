@@ -3,9 +3,13 @@ lang: fr
 role: courier
 title: Livraison
 ref: courier-delivery
+parent: Guide du coursier
+nav_order: 1
 ---
 
-## Compléter une tâche :
+# Livraison
+
+## Compléter une tâche
 
 Dès qu'une nouvelle tâche vous est assigné, vous recevez une notification sur votre téléphone.
 Pour accéder à toutes les informations concernant cette tâche, il existe deux possibilités :

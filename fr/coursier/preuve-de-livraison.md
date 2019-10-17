@@ -3,9 +3,13 @@ lang: fr
 role: courier
 title: Preuve de livraison
 ref: courier-proof-delivery
+parent: Guide du coursier
+nav_order: 2
 ---
 
-## Récupérer une preuve de livraison :
+# Preuve de livraison
+
+## Récupérer une preuve de livraison
 
 La récupération de preuves de livraison se fait via photo et signature.
 
