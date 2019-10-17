@@ -51,15 +51,15 @@
               {%- endif -%}
             {%- endfor -%}
           </nav>
-          <!-- {% if site.search_enabled != nil %}
+          {% if site.search_enabled != nil %}
           <div class="search js-search">
             <div class="search-input-wrap">
-              <input type="text" class="js-search-input search-input" placeholder="Search {{ site.title }}" aria-label="Search {{ site.title }}" autocomplete="off">
-              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>Search</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
+              <input type="text" class="js-search-input search-input" placeholder="{{ site.data.common[page.lang].search }}" aria-label="{{ site.data.common[page.lang].search }}" autocomplete="off">
+              <svg width="14" height="14" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg" class="search-icon"><title>{{ site.data.common[page.lang].search }}</title><g fill-rule="nonzero"><path d="M17.332 20.735c-5.537 0-10-4.6-10-10.247 0-5.646 4.463-10.247 10-10.247 5.536 0 10 4.601 10 10.247s-4.464 10.247-10 10.247zm0-4c3.3 0 6-2.783 6-6.247 0-3.463-2.7-6.247-6-6.247s-6 2.784-6 6.247c0 3.464 2.7 6.247 6 6.247z"/><path d="M11.672 13.791L.192 25.271 3.02 28.1 14.5 16.62z"/></g></svg>
             </div>
             <div class="js-search-results search-results-wrap"></div>
           </div>
-          {% endif %} -->
+          {% endif %}
           <span class="edit fs-3 js-aux-nav aux-nav">
             <a class="btn btn-blue" href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">{{ site.data.common[page.lang].button.edit }}</a>
           </span>

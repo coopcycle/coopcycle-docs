@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CoopCycle docs
+title: CoopCycle
 email: contact@coopcycle.org
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -25,7 +25,7 @@ github_username:  coopcycle
 logo: "/assets/images/logo.png"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "This site uses <a href=\"https://github.com/pmarsceill/just-the-docs\">Just the Docs</a>, a documentation theme for Jekyll.<br />Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: ~
 
 # Build settings
 markdown: kramdown
@@ -38,6 +38,8 @@ plugins:
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
+
+search_enabled: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
