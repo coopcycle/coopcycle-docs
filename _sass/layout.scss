@@ -124,6 +124,32 @@
   }
 }
 
+.site-title {
+  align-items: center;
+  display: flex;
+  flex: 1 1 auto;
+  background-color: $grey-lt-000;
+
+  @include mq(md) {
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 101;
+    height: 60px;
+    padding-top: $sp-4;
+    border-bottom: $border $border-color;
+  }
+
+  img {
+    margin-right: 10px;
+  }
+
+  img,
+  a {
+    flex: 0 0 auto;
+  }
+}
+
 // stylelint-disable selector-no-type
 body {
   position: relative;
