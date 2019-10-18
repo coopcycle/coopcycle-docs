@@ -4,6 +4,7 @@ lang: fr
 role: admin
 ref: admin-shops
 parent: Guide de l'administrateur
+nav_order: 7
 ---
 
 # Magasins
