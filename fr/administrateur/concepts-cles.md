@@ -28,18 +28,3 @@ Les informations suivantes doivent être renseignées par le dispatcheur pour ch
 Les informations suivantes permettent de suivre l’évolution d’une tâche dans le processus de livraison :
 - Statut
 - Historique
-
-## Instance CoopCycle
-
-Le logiciel CoopCycle fonctionne grâce au déploiement d’instances. Ces dernières sont des copies répliquées du logiciel qui sont autonomes les unes des autres. Cela permet à chaque coopérative d'avoir ses propres règles de tarification, son espace de dispatch et de configurer le logiciel selon ses besoins. Les données (clients, coursiers, commandes) sont isolées entre chaque instance.
-
-### Les rôles dans les instances
-
-Chaque instance dispose de rôles pour ses utilisateurs :
-- Administrateur
-- Coursier
-- Restaurant
-- Magasin
-- Client
-
-À ces rôles sont assignées des permissions dans la plateforme. Voir la section [Utilisateurs](/fr/administrateur/utilisateurs.html) de la documentation pour plus d'informations.

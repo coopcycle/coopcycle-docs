@@ -56,17 +56,3 @@ in Paris intramural with cargo bike;
 in the department of 93 with cargo bike.
 
 If a delivery within Paris is created with the need to deliver by cargo bike, the first pricing will apply because no type of bike is specified for it and the bad price will be charged. Being precise at the top of the pile and GP at the bottom of the track allows
-
-## CoopCycle Instance
-
-CoopCycle software works by deploying instances. These are replicated copies of the software that are autonomous from each other. This allows each city to have its own instances, its own pricing rules, dispatch space and configure the software according to the needs of each cooperative.
-roles in instances
-
-Each instance has roles for its users:
-- Administrator
-- Courier
-- Restaurant
-- Shop
-- Customer
-
-These roles are assigned rights of use in the platform.
