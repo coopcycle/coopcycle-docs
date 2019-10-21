@@ -3,7 +3,7 @@ lang: fr
 role: courier
 title: Installer l'application
 ref: app-home
-nav_order: 5
+nav_order: 6
 ---
 
 ### Android
