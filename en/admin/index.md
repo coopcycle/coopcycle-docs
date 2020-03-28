@@ -32,4 +32,4 @@ Management of restaurants and shops allowing the following user actions:
 - The customer can order via the platform or via the smartphone application
 - The restaurant owner receives the order in real time, they can then accept or reject it
 - A restaurant owner can mark the order as ready, in this case the courier is notified
-- A restaurant owner can manage his menu online
+- A restaurant owner can manage their menu online
