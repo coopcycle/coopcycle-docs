@@ -10,23 +10,26 @@ nav_order: 2
 # Administrator's guide
 
 Welcome to the administrator's guide for CoopCycle platform.
-{: .fs-6 }
 
-Our software is a complete logistics and e-commerce system allowing the delivery of a product from A to Z. The platform is dedicated to bicycle delivery and its license is designed to reserve the use for worker-owned co-ops.
+Our software is a complete logistics and e-commerce system allowing the delivery of a product from A to B. Our platform is dedicated to bicycle delivery and its license is designed to reserve the use for worker owned co-operatives only.
 
-The platform is composed in two parts that communicate with each other:
+The platform is composed of two components:
 
-* a logistics part - tour management organized into a task system (two tasks form a delivery) allowing the following user actions:
-    - an administrator can assign tasks or task lists to a courier;
-    - an administrator can track the position of a courier in real time from the dispatch screen; adding can be done the day before (tour organization) or in real time;
-    - a courier can receive spots on his smartphone (iOS and Android);
-    - a courier can mark a task as done / missed (eg absence of the addressee), adding a comment.
-    - an administrator can manage the pricing by store (by weight, distance, zone, type of bike);
-    - a customer can order a delivery on the platform and pay (automated price calculation).
-<br><br>
-* an e-commerce part (management of restaurants and shops) allowing the following user actions:
-    - a customer can order a meal at a restaurant, by selecting the delivery time and address;
-    - the customer can order via the platform or via the smartphone application;
-    - a restaurant owner receives the order in real time, he can then accept / reject it;
-    - a restaurant owner can mark the order as ready, in this case the courier is notified;
-    - a restaurant owner can manage his menu online;
+## Logistics 
+Pick up and drop off management organised into a task system (two tasks form a delivery) allowing the following user actions:
+
+- An administrator can assign tasks or task lists to a courier
+- An administrator can track the position of a courier in real time from the dispatch screen; adding tasks can be done the day before or in real time
+- A courier can receive spots on their smartphone (iOS and Android)
+- A courier can mark a task as done or missed and can add a comment
+- An administrator can manage the pricing by store (by weight, distance, zone, type of bike)
+- A customer can order a delivery on the platform and pay (automated price calculation)
+
+## E-commerce 
+Management of restaurants and shops allowing the following user actions:
+
+- A customer can order a meal at a restaurant, by selecting the delivery time and address
+- The customer can order via the platform or via the smartphone application
+- The restaurant owner receives the order in real time, they can then accept or reject it
+- A restaurant owner can mark the order as ready, in this case the courier is notified
+- A restaurant owner can manage his menu online
