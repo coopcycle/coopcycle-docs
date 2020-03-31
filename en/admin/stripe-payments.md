@@ -1,3 +1,13 @@
+---
+title: Stripe payments
+lang: en
+role: admin
+ref: admin-stripe
+parent: Administrator's guide
+nav_order: 4
+---
+
+
 # Managing payments via Stripe
 
 ## What is Stripe?
