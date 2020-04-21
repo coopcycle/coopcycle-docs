@@ -6,12 +6,9 @@ ref: homepage
 nav_order: 1
 ---
 
-# Welcome to CoopCycle docs!
+**Welcome!**
 
-Find our guides below:
+This documentation is hosted on [GitHub Pages](https://pages.github.com/).
 
-- [Administrator's guide](/en/admin)
-- [Developer's guide](/en/developer)
-- [Courier 's guide](/en/courier)
-- [Restaurant's guide](/en/restaurants)
-- [Application](/en/app)
+You can use the « Edit this page » button to be redirected to GitHub online editor.
+
