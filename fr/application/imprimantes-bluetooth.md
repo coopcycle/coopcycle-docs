@@ -2,7 +2,7 @@
 lang: fr
 title: Connecter une imprimante Bluetooth
 ref: app-bluetooth-printers
-nav_order: 2
+nav_order: 3
 parent: Application
 ---
 
