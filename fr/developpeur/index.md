@@ -1,13 +1,8 @@
 ---
 lang: fr
 role: dev
-title: Guide du développeur
+title: Développeur
 ref: dev-home
 has_children: true
-nav_order: 3
+nav_order: 8
 ---
-
-# Guide du développeur
-
-Bienvenue sur le guide du développeur pour la plateforme CoopCycle.
-{: .fs-6 }

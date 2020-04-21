@@ -4,7 +4,7 @@ lang: en
 role: admin
 ref: admin-restaurants
 parent: Administrator's guide
-nav_order: 1
+nav_order: 2
 ---
 
 # Configuration of your software

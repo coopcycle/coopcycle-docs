@@ -4,7 +4,7 @@ lang: en
 role: admin
 ref: key-concepts
 parent: Administrator's guide
-nav_order: 2
+nav_order: 1
 ---
 
 # Key concepts

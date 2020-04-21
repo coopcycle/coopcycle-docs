@@ -3,7 +3,7 @@ title: Using the CoopCycle API
 lang: en
 role: dev
 ref: dev-api
-parent: Developer's guide
+parent: Developer
 ---
 
 # Using the CoopCycle API
