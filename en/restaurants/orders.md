@@ -1,6 +1,5 @@
 ---
 lang: en
-role: restaurant
 title: Order management
 ref: restaurant-order
 parent: Restaurateur's guide

@@ -1,7 +1,6 @@
 ---
 title: Commandes
 lang: fr
-role: admin
 ref: admin-orders
 parent: Guide de l'administrateur
 nav_order: 6

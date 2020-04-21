@@ -1,7 +1,6 @@
 ---
 title: Tableau de bord
 lang: fr
-role: admin
 ref: dashboard
 parent: Fonctionnalités logistiques
 grand_parent: Guide de l'administrateur

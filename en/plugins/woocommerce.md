@@ -1,6 +1,5 @@
 ---
 lang: en
-role: plugins
 title: WooCommerce
 ref: plugins-woocommerce
 parent: Plugins

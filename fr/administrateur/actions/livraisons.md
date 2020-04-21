@@ -1,7 +1,6 @@
 ---
 title: Livraisons
 lang: fr
-role: admin
 ref: deliveries
 parent: Fonctionnalités logistiques
 grand_parent: Guide de l'administrateur

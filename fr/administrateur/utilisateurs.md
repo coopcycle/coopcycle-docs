@@ -1,7 +1,6 @@
 ---
 title: Gestion des utilisateurs
 lang: fr
-role: admin
 ref: admin-users
 parent: Guide de l'administrateur
 nav_order: 3

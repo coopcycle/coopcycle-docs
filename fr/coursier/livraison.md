@@ -1,6 +1,5 @@
 ---
 lang: fr
-role: courier
 title: Livraison
 ref: courier-delivery
 parent: Guide du coursier

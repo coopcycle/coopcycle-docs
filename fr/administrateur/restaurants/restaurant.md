@@ -1,7 +1,6 @@
 ---
 title: Gestion des restaurants
 lang: fr
-role: admin
 ref: admin-restaurant
 parent: Restaurants
 grand_parent: Guide de l'administrateur

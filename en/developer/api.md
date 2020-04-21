@@ -1,7 +1,6 @@
 ---
 title: Using the CoopCycle API
 lang: en
-role: dev
 ref: dev-api
 parent: Developer
 ---

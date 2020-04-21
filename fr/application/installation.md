@@ -1,6 +1,5 @@
 ---
 lang: fr
-role: courier
 title: Installation
 ref: app-install
 nav_order: 1

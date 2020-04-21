@@ -1,6 +1,5 @@
 ---
 lang: en
-role: dev
 title: Developer
 ref: dev-home
 has_children: true

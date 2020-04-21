@@ -1,7 +1,6 @@
 ---
 title: Stripe payments
 lang: en
-role: admin
 ref: admin-stripe
 parent: Administrator's guide
 nav_order: 4
@@ -30,8 +29,8 @@ The CoopCycle platform can be configured to use the "live" or "test" mode from t
 1. Create a Stripe account <a target="_blank" href="https://dashboard.stripe.com/register">ici</a> , then:
     * Get the four API stripe keys (Private/Public live, Private/Public test) here: <a target="_blank" href="https://dashboard.stripe.com/apikeys">https://dashboard.stripe.com/apikeys</a> (<a target="_blank" href="https://www.youtube.com/watch?v=XLzg_K_0C5k">in video</a>)
     * Get the two Stripe Connect identifiers (Live/Test) here: <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings">https://dashboard.stripe.com/account/applications/settings</a>
-    * Past them in the corresponding fields on the administrator's “parameters” tab. 
-    
+    * Past them in the corresponding fields on the administrator's “parameters” tab.
+
 Note: Live and test keys and IDs are not displayed on the screen at the same time. There is a switch on the page to display either test or live data.
 
 2. Configure the redirection url for Stripe Connect

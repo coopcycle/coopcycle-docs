@@ -1,7 +1,6 @@
 ---
 title: Configuration
 lang: en
-role: admin
 ref: admin-restaurants
 parent: Administrator's guide
 nav_order: 2

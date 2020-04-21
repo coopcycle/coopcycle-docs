@@ -1,6 +1,5 @@
 ---
 lang: fr
-role: restaurant
 title: Gestion des commandes
 ref: restaurant-order
 parent: Guide du restaurateur

@@ -1,7 +1,6 @@
 ---
 title: Tarifications
 lang: fr
-role: admin
 ref: pricings
 parent: Fonctionnalités logistiques
 grand_parent: Guide de l'administrateur

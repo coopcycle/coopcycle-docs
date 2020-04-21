@@ -1,7 +1,6 @@
 ---
 title: Creation des restaurants
 lang: fr
-role: admin
 ref: admin-restaurant
 parent: Restaurants
 grand_parent: Guide de l'administrateur
@@ -77,7 +76,7 @@ Informations optionnelles :
 - Entrer les informations du restaurateur correspondantes. <span style="color: red">**Attention : dans le champ “Customer phone number” indiquez votre numéro de téléphone pas celui du restaurateur.**</span>
 
 
-- Vérifiez votre numéro de téléphone à l’adresse suivante :  
+- Vérifiez votre numéro de téléphone à l’adresse suivante :
 [https://dashboard.stripe.com/phone-verification?source=email](https://dashboard.stripe.com/phone-verification?source=email): entrez votre numéro de téléphone puis recopiez le code reçu par SMS (vous avez dû recevoir une notification mail)
 
 

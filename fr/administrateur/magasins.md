@@ -1,7 +1,6 @@
 ---
 title: Magasins
 lang: fr
-role: admin
 ref: admin-stores
 parent: Guide de l'administrateur
 nav_order: 7

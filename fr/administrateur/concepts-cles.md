@@ -1,7 +1,6 @@
 ---
 title: Concepts clés
 lang: fr
-role: admin
 ref: key-concepts
 parent: Guide de l'administrateur
 nav_order: 1

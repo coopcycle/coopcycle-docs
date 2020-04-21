@@ -1,7 +1,6 @@
 ---
 title: Paiements (via Stripe)
 lang: fr
-role: admin
 ref: admin-stripe
 parent: Guide de l'administrateur
 nav_order: 4

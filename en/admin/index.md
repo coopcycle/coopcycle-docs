@@ -1,6 +1,5 @@
 ---
 lang: en
-role: admin
 title: Administrator's guide
 ref: admin-home
 has_children: true
@@ -15,7 +14,7 @@ Our software is a complete logistics and e-commerce system allowing the delivery
 
 The platform is composed of two components:
 
-## Logistics 
+## Logistics
 Pick up and drop off management organised into a task system (two tasks form a delivery) allowing the following user actions:
 
 - An administrator can assign tasks or task lists to a courier
@@ -25,7 +24,7 @@ Pick up and drop off management organised into a task system (two tasks form a d
 - An administrator can manage the pricing by store (by weight, distance, zone, type of bike)
 - A customer can order a delivery on the platform and pay (automated price calculation)
 
-## E-commerce 
+## E-commerce
 Management of restaurants and shops allowing the following user actions:
 
 - A customer can order a meal at a restaurant, by selecting the delivery time and address

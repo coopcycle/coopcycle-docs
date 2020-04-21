@@ -1,7 +1,6 @@
 ---
 title: Créer des livraisons à travers l'API
 lang: fr
-role: dev
 ref: dev-api-deliveries
 parent: Développeur
 nav_order: 2

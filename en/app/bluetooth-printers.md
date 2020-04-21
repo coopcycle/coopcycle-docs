@@ -1,6 +1,5 @@
 ---
 lang: en
-role: courier
 title: Connecting a Bluetooth printer
 ref: app-bluetooth-printers
 nav_order: 2

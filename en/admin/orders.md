@@ -1,7 +1,6 @@
 ---
 title: Orders
 lang: en
-role: admin
 ref: admin-orders
 parent: Administrator's guide
 nav_order: 3

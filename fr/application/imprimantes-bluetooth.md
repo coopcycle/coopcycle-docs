@@ -1,6 +1,5 @@
 ---
 lang: fr
-role: courier
 title: Connecter une imprimante Bluetooth
 ref: app-bluetooth-printers
 nav_order: 2

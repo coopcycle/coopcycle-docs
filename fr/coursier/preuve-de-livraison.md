@@ -1,6 +1,5 @@
 ---
 lang: fr
-role: courier
 title: Preuve de livraison
 ref: courier-proof-delivery
 parent: Guide du coursier

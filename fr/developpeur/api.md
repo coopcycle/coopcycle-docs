@@ -1,7 +1,6 @@
 ---
 title: Utilisation de l'API CoopCycle
 lang: fr
-role: dev
 ref: dev-api
 parent: Développeur
 nav_order: 1

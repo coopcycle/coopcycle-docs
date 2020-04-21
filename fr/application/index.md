@@ -1,6 +1,5 @@
 ---
 lang: fr
-role: courier
 title: Application
 ref: app-home
 has_children: true

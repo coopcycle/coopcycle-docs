@@ -1,7 +1,6 @@
 ---
 title: Zones
 lang: fr
-role: admin
 ref: zones
 parent: Fonctionnalités logistiques
 grand_parent: Guide de l'administrateur

@@ -1,7 +1,6 @@
 ---
 title: Stores
 lang: en
-role: admin
 ref: admin-stores
 parent: Administrator's guide
 nav_order: 4

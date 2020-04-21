@@ -1,6 +1,5 @@
 ---
 lang: en
-role: restaurant
 title: Restaurateur's guide
 ref: restaurant-home
 has_children: true

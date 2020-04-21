@@ -1,7 +1,6 @@
 ---
 title: Users
 lang: en
-role: admin
 ref: admin-users
 parent: Administrator's guide
 nav_order: 5
