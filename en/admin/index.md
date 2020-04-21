@@ -36,7 +36,7 @@ Management of restaurants and shops, allowing the following user actions:
   - can place an order via the platform (website) or via the smartphone application.
   - can place an order from a restaurant, by inputing their address and selecting a delivery time.
 
-- The **buisness**: 
+- The **business**: 
   - receives the order in real time, they can then accept or reject it.
   - can mark the order as ready, in this case the courier is notified.
   - can manage their menu online.
