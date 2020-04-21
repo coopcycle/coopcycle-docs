@@ -10,5 +10,5 @@ nav_order: 1
 
 This documentation is hosted on [GitHub Pages](https://pages.github.com/).
 
-You can use the « Edit this page » button to be redirected to GitHub online editor.
+You can use the « Edit this page » button to be redirected to the GitHub online editor.
 
