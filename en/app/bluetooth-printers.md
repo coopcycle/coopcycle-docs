@@ -2,8 +2,8 @@
 lang: en
 title: Connecting a Bluetooth printer
 ref: app-bluetooth-printers
-nav_order: 3
 parent: Application
+nav_order: 4
 ---
 
 ### Debugging Bluetooth devices

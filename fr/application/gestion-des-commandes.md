@@ -1,10 +1,9 @@
 ---
 lang: fr
 title: Gestion des commandes
-ref: restaurant-order
-parent: Guide du restaurateur
----
-
+ref: app-order-management
+parent: Application
+nav_order: 3
 ---
 
 # Gestion des commandes

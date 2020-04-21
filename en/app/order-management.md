@@ -1,10 +1,9 @@
 ---
 lang: en
 title: Order management
-ref: restaurant-order
-parent: Restaurateur's guide
----
-
+ref: app-order-management
+parent: Application
+nav_order: 3
 ---
 
 # Order management

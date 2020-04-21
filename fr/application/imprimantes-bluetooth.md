@@ -2,8 +2,8 @@
 lang: fr
 title: Connecter une imprimante Bluetooth
 ref: app-bluetooth-printers
-nav_order: 3
 parent: Application
+nav_order: 4
 ---
 
 ### Debugguer les appareils Bluetooth
