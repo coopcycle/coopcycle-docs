@@ -2,7 +2,7 @@
 title: Stores
 lang: en
 ref: admin-stores
-parent: Administrator's guide
+parent: Admin's guide
 nav_order: 4
 ---
 
