@@ -7,7 +7,7 @@ grand_parent: Administrator's guide
 nav_order: 1
 ---
 
-### Pricing
+# Pricing
 
 Pricing is configured in the administration dashboard through a set of rules based on the following variables:
 The distance that is measured in meters. This distance can be defined with the operators of:
