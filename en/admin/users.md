@@ -2,7 +2,7 @@
 title: Users
 lang: en
 ref: admin-users
-parent: Administrator's guide
+parent: Admin's guide
 nav_order: 5
 ---
 
