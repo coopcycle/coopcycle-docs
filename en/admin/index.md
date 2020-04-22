@@ -1,12 +1,12 @@
 ---
 lang: en
-title: Administrator's guide
+title: Admin's guide
 ref: admin-home
 has_children: true
 nav_order: 2
 ---
 
-# Administrator's guide
+# Admin's guide
 
 Welcome to the administrator's guide for the CoopCycle platform.
 
