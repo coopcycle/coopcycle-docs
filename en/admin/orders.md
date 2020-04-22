@@ -2,7 +2,7 @@
 title: Orders
 lang: en
 ref: admin-orders
-parent: Administrator's guide
+parent: Admin's guide
 nav_order: 3
 ---
 
