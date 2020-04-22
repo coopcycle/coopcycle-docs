@@ -45,6 +45,10 @@ Go to WooCommerce › Settings › Shipping. If you haven't already, click on «
 
 Click on « Add shipping method », and select « CoopCycle ».
 
+Once the shipping method has been added, you can configure it. The settings are the same as the standard [Flat Rate Shipping](https://docs.woocommerce.com/document/flat-rate-shipping/) method of WooCommerce.
+
+The most important thing that you need to configure is the **shipping cost**.
+
 Congratulations! 🎉
 
 Now, when entering an address that matches with the shipping zone, customers will be allowed to choose the CoopCycle shipping method.
