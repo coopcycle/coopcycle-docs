@@ -2,7 +2,7 @@
 lang: en
 title: Task management
 ref: app-task-management
-parent: Application
+parent: App
 nav_order: 2
 ---
 

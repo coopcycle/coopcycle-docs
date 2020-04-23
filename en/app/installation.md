@@ -3,7 +3,7 @@ lang: en
 title: Installation
 ref: app-install
 nav_order: 1
-parent: Application
+parent: App
 ---
 
 ### Android

@@ -2,7 +2,7 @@
 lang: en
 title: Order management
 ref: app-order-management
-parent: Application
+parent: App
 nav_order: 3
 ---
 
