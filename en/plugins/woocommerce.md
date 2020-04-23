@@ -15,7 +15,7 @@ and to transmit the shipping data to CoopCycle directly, using the API.
 
 If one of your partners already has an e-commerce website based on WooCommerce, it the best way to have a seamless integration.
 
-On CoopCycle, the shipping data sent will be attached to a [store](/en/admin/shops), so you will need to create a store if you don't have one already.
+On CoopCycle, the shipping data sent will be attached to a [store](en/admin/stores), so you will need to create a store if you don't have one already.
 The settings of the store modify the behavior of the plugin, in particular the configuration of the time slot used.
 
 Obtaining an API token
@@ -44,6 +44,10 @@ Once the CoopCycle plugin is configured, you need to add to a [shipping method t
 Go to WooCommerce › Settings › Shipping. If you haven't already, click on « Add shipping zone », or edit one of your existing shipping zones.
 
 Click on « Add shipping method », and select « CoopCycle ».
+
+Once the shipping method has been added, you can configure it. The settings are the same as the standard [Flat Rate Shipping](https://docs.woocommerce.com/document/flat-rate-shipping/) method of WooCommerce.
+
+The most important thing that you need to configure is the **shipping cost**.
 
 Congratulations! 🎉
 

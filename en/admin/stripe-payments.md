@@ -2,7 +2,7 @@
 title: Stripe payments
 lang: en
 ref: admin-stripe
-parent: Administrator's guide
+parent: Admin's guide
 nav_order: 4
 ---
 
