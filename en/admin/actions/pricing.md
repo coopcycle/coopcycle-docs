@@ -1,43 +1,17 @@
 ---
-title: Key concepts
+title: Pricing
 lang: en
-ref: key-concepts
-parent: Admin's guide
+ref: pricings
+parent: Logistics
+grand_parent: Admin's guide
 nav_order: 1
 ---
 
-# Key concepts
+# Pricing
 
-## Tasks and Orders
+As part of the creation of a store account, it is possible to create prices (e.g. express prices, normal prices) from the administration section by clicking on the icon then on the Prices section.
 
-### Tasks
-A **task** is the smallest unit of a delivery order.\
-A **task** is a To-Do unit under a specific address and a set timeframe.
-
-There are **two** types of tasks:
-- **Pickup** or Collection
-- **Dropoff** or Delivery
-
-Each **order** consists of a minimum of two **tasks** that a dispatcher assigns to a courier.
-
-#### Pickup and Dropoff
-
-The following information must be completed by the dispatcher for each task:
-- Address
-- Time range 
-- Commentary
-
-The following information is used to track the progress of a task in the delivery process:
-
-- Status
-- History
-The courier must pick up merchandise at an address and bring it to another address. 
-
-## Orders
-
-Assign two or more tasks to a delivery person creating a delivery. When the Retrieve and Drop tasks are created, the dispatcher assigns these tasks manually in the most optimal order that they judge. The creation of a delivery is materialized on the map by means of a GPS track which is proposed to the courier for delivery.
-
-### Pricing
+[screenshot]
 
 Pricing is configured in the administration dashboard through a set of rules based on the following variables:
 The distance that is measured in meters. This distance can be defined with the operators of:
@@ -51,6 +25,8 @@ The type of bike that is defined by selecting it from a list in which are availa
 The simple bike
 The cargo bike
 
+[screenshot]
+
 These rules are organized as a stack in order of processing, the pricing at the top of the list will be the first to be processed by the software that will check if it matches the characteristics of the delivery, that is not the case the software will go to the second pricing in the list and so on. With each delivery created, this stack will be used to create the pricing. The choice is automatically made according to the criteria specified for each delivery.
 
 For example, I create a rule that specifies a pricing:
@@ -63,4 +39,11 @@ in intramural paris;
 in Paris intramural with cargo bike;
 in the department of 93 with cargo bike.
 
-If a delivery within Paris is created with the need to deliver by cargo bike, the first pricing will apply because no type of bike is specified for it and the bad price will be charged. Being precise at the top of the pile and GP at the bottom of the track allows
+If a delivery is created for intramural Paris with a cargo bike, then the first rule will be ignored. The second corresponds to the delivery, its price will therefore be applied. The second rule being fulfilled, the third is ignored.
+
+The most precise rules (i.e. with the most parameters) must be at the top of the stack and the most general rules at the bottom of the stack, so that the specific cases are selected by the software as a basis for pricing. If, for example, I modify the above pricing as follows:
+
+in intramural Paris;
+in intramural Paris with cargo bike;
+in the 93 department with cargo bike.
+If a delivery in intramural Paris is created with the need to deliver by cargo bike, the price specified for the first rule will apply because no type of bike is specified for it and the second will be ignored.
