@@ -1,5 +1,5 @@
 ---
-title: Create a zone
+title: Configure a zone
 lang: en
 ref: tutorials-zones
 parent: Tutorials
@@ -21,3 +21,13 @@ To create zones, you first need to save them in [GeoJSON](https://fr.wikipedia.o
 ---
 
 ![Utilisation de geojson.io]({{ "/assets/images/peek_geojson.gif" | absolute_url }})
+
+## Import a GeoJSON file on the platform.
+
+[upload .gif]
+
+## Assign GeoJSON file
+
+[upload .gif]
+
+
