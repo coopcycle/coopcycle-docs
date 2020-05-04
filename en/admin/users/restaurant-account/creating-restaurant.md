@@ -1,7 +1,7 @@
 ---
 title: Creating a restaurant
 lang: en
-ref: restaurant-account
+ref: creating-restaurant
 parent: Restaurant account
 grand_parent: Users
 nav_order: 5
