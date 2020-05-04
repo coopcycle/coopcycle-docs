@@ -1,9 +1,10 @@
 ---
-title: User accounts
+title: Admin account
 lang: en
-ref: admin-users
+ref: admin-account
 parent: Users
 grand_parent: Admin's guide
-has_children: true
 nav_order: 5
 ---
+
+# Admin's account
