@@ -1,9 +1,9 @@
 ---
 title: Creating a restaurant
 lang: en
-ref: admin-restaurant
-parent: Restaurants
-grand_parent: Admin's guide
+ref: creating-restaurant
+parent: Restaurant account
+grand_parent: Users
 nav_order: 1
 custom_scripts:
   - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
