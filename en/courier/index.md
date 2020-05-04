@@ -2,6 +2,7 @@
 lang: en
 title: Courier's guide
 ref: courier-home
+parent: Courier's guide
 has_children: true
 nav_order: 3
 ---
