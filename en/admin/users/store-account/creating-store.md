@@ -1,8 +1,8 @@
 ---
-title: Store account
+title: Creating a store
 lang: en
-ref: store-account
-parent: Users
+ref: creating-store
+parent: Store account
 grand_parent: Admin's guide
 nav_order: 5
 ---
