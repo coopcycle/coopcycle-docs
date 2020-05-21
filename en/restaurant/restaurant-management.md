@@ -95,3 +95,19 @@ In the right pane are displayed the information of the selected command. The dis
 ### Scheduling opening hours / closing a restaurant
 
 This feature allows you to temporarily close a restaurant. Scheduled closings are visible on the calendar.
+
+### Behavior of opening hours
+
+This feature allows you to determine how the client can choose the time of delivery.
+"As soon as possible" will only allow her to order at the first time slot avalaible. 
+"Time slot" will allow her to determine a time slot in advance for the delivery.
+
+### Additional delay before ordering
+
+This feature allows you to force clients to order with a minimum delay. 
+For instance, if you want to have clients to order at least one day before the opening of the restaurant you can choose 1 day an 0 hours.
+
+### Number of shipping choices (in days)
+
+This parameter determines the maximum advance days for ordering a delivery. 
+
