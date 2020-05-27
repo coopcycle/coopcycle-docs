@@ -2,7 +2,7 @@
 lang: en
 title: Connecting a Bluetooth printer
 ref: app-bluetooth-printers
-parent: App
+parent: Restaurant's guide
 nav_order: 4
 ---
 
