@@ -8,22 +8,6 @@ nav_order: 2
 
 # Managing a restaurant
 
-## Restaurant information
-
-The general information of the restaurant is accessible and modifiable at any time on the home page of the latter or from a tab by clicking on the link with the name of the restaurant at the top left of the page.
-
-You will also find on this page **the terms of the contract** between the local delivery collective and the restaurant. They cover the following aspects:
-
-- Delivery zone
-- Delivery price
-     - Package or percentage
-     - Part to be paid by the.of the restaurateur.rice
-     - Part to be borne by the. Of the final client.
-- Minimum basket amount
-- Payment fees (Stripe): paid by the platform or the restaurant owner
-
-## Restaurant management pages
-
 The different management pages of a restaurant are represented by tabs in the upper right corner of the restaurant page.
 
 
@@ -38,15 +22,15 @@ The different management pages of a restaurant are represented by tabs in the up
 
 ### Products
 
-The product list allows you to record the different products that the restaurant delivers. The restaurateur must create the dishes that he makes available on the platform:
+The product list allows you to record the different products that the restaurant delivers. The restaurant must create the dishes that he makes available on the platform:
 - the name of the product
 - the description
 - whether or not the product is activated
 - the price and the tax applied
 
-A product can have several associated options (see below), which must be created beforehand. For example a choice of ketchup, mayonnaise, white sauce for a portion of fries.
-
 ### Options and extras / Adding extras
+
+A product can have several associated options (see below), which must be created beforehand. For example a choice of ketchup, mayonnaise, white sauce for a portion of fries.
 
 The options allow you to make the products configurable. They allow for example to add supplements, or to choose the elements of a menu (accompaniment, drinks). A supplement is a list of products assigned to a product on the menu.
 
@@ -88,9 +72,11 @@ Do not forget to click on the "Save changes" button.
 
 ### Orders
 
-All orders for a restaurant are available in the "order" tab of the restaurant. They are listed in the left pane by date of treatment. An order has a unique identifier, a status (new, validated, ready, canceled), a preparation date with a schedule, a summary and a price including tax. Click on an order present in the list to display its information.
+All orders for a restaurant are available in the "order" tab of the restaurant. They are listed in the left panel by date of treatment. An order has a unique identifier, a status (new, validated, ready, canceled), a preparation date with a schedule, a summary and a price including tax. Click on an order present in the list to display its information.
 
-In the right pane are displayed the information of the selected command. The dishes are listed there as well as the calculation of taxes. Finally, the buttons allow the restaurateur / administrator to accept or refuse the order. After indicating "accepted", the restaurateur must indicate that the order is ready. He can still at this stage cancel the order. Once the latter has been notified as ready, it is no longer possible to cancel an order.
+In the right panel are displayed the information of the selected command. The dishes are listed there as well as the calculation of taxes. Finally, the buttons allow the restaurateur / administrator to accept or refuse the order. After indicating "accepted", the restaurateur must indicate that the order is ready. He can still at this stage cancel the order. Once the latter has been notified as ready, it is no longer possible to cancel an order.
+
+You can also activate `rush mode` on this page.
 
 ### Scheduling opening hours / closing a restaurant
 
