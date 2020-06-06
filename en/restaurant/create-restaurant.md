@@ -114,10 +114,10 @@ Only administrators can link an account with a restaurant. On the same `edit`pag
 
 After step, when restaurant-owner is connecting to CoopCycle with his or her username and password, he/her will only have access to his/her restaurant.
 
-## Step 3 : Create a Dtripe account and link it to your restaurant 
+## Step 3 : Create a Stripe account and link it to your restaurant 
 
-About the creation of your Dtripe account, please see [Admin's guide/Stripe]{https://docs.coopcycle.org/fr/administrateur/paiements-stripe.html}. Instructions are the same for cooperative and restaurant. The only difference is what you do next with your Stripe account.
+About the creation of your Stripe account, please see [Admin's guide/Stripe]{https://docs.coopcycle.org/fr/administrateur/paiements-stripe.html}. Instructions are the same for cooperative and restaurant. The only difference is what you do next with your Stripe account.
 
 When a restaurant has created its Stripe account, this one can be connected to CoopCycle platform and to the restaurant : 
-- If administrators enabled restaurant to manage its own stripe account, restaurant-owner with his/her own account can connect Stripe account by going on *General information* by clicking on the name of the restaurant, or on the `edit` button. Then click on the `Payment` tab and connect with Stripe.
-- If administrators disabled restaurant to manage its own stripe account, you have to follow the same steps but with an administator account to connect restaurant stripe account.
+- If administrators enabled restaurant to manage its own Stripe account, restaurant-owner with his/her own account can connect Stripe account by going on *General information* by clicking on the name of the restaurant, or on the `edit` button. Then click on the `Payment` tab and connect with Stripe.
+- If administrators disabled restaurant to manage its own Stripe account, you have to follow the same steps but with an administator account to connect restaurant stripe account.
