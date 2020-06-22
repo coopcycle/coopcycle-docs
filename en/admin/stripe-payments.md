@@ -35,7 +35,8 @@ Note: Live and test keys and IDs are not displayed on the screen at the same tim
 
 2. Configure the redirection url for Stripe Connect
    * Go to <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings">https://dashboard.stripe.com/account/applications/settings</a>
-   * Click on "Add redirect URI" (** It has to be done in live and  test mode**). Then enter this value "https://<domain_name>/stripe/connect/standard" (e.g. `https://demo.coopcycle.org/stripe/connect/standard`)
+   * On the "Integration" part, click on "Add redirect URI" (** It has to be done in live and  test mode**).
+   *  Then enter this value "https://<domain_name>/stripe/connect/standard" (e.g. `https://demo.coopcycle.org/stripe/connect/standard`)
 
 ## How to activate your Stripe account to use the platform?
 
