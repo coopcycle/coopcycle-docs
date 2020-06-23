@@ -15,4 +15,3 @@ It is possible to:
 - Set administrator's email address which notifications of new orders will be send to
 - Indicate the latitude/longitude of your location in order to center the map on your area of operation
 - Configure Stripe for credit card payments. For more information, take a look at the [Stripe documentation](/en/admin/stripe-payments.html)
-- Tax (e.g. VAT) rate used for the delivery (set this rate in `Configuration > Taxes`)
