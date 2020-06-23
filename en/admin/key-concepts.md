@@ -11,7 +11,9 @@ nav_order: 1
 ## Tasks and Orders
 
 ### Tasks
-A **task** is the smallest unit of a delivery order.\
+
+A **task** is the smallest unit of a delivery order.
+
 A **task** is a To-Do unit under a specific address and a set timeframe.
 
 There are **two** types of tasks:
@@ -24,14 +26,14 @@ Each **order** consists of a minimum of two **tasks** that a dispatcher assigns 
 
 The following information must be completed by the dispatcher for each task:
 - Address
-- Time range 
+- Time range
 - Commentary
 
 The following information is used to track the progress of a task in the delivery process:
 
 - Status
 - History
-The courier must pick up merchandise at an address and bring it to another address. 
+The courier must pick up merchandise at an address and bring it to another address.
 
 ## Orders
 
