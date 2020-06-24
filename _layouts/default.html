@@ -5,13 +5,15 @@
 
   <main class="page-wrap">
     <aside class="side-bar">
-      <span class="site-title">
-      {% if site.logo %}
-        <img src="{{ site.logo }}" alt="" width="30" height="30">
-      {% endif %}
-        <a href="{{ site.url }}{{ site.baseurl }}" class="fs-5 text-grey-dk-300 lh-tight">{{ site.title }}</a>
-      </span>
-      <span class="fs-3"><button class="js-main-nav-trigger navigation-list-toggle btn btn-outline" type="button" data-text-toggle="Hide">Menu</button></span>
+      <div class="site-header">
+        <a href="{{ site.url }}{{ site.baseurl }}" class="site-title lh-tight">
+          {% if site.logo %}
+          <img src="{{ site.logo }}" alt="" width="30" height="30" class="mr-2">
+          {% endif %}
+          {{ site.title }}
+        </a>
+        <button class="menu-button fs-3 js-main-nav-trigger" type="button" data-text-toggle="Hide">Menu</button>
+      </div>
       <div class="navigation main-nav js-main-nav">
         {% include nav.html %}
       </div>
@@ -37,9 +39,9 @@
           href="mailto:contact@coopcycle.org">contact@coopcycle.org</a>
       </footer>
     </aside>
-    <section class="main-content-wrap js-main-content">
-      <header class="page-header">
-        <div class="main-content">
+    <section class="main-content-wrap js-main-content" tabindex="0">
+      <section class="main-content">
+        <header class="page-header">
           <nav class="nav-lang js-search">
             {%- for lang in site.data.langs -%}
               {% assign translated_page=site.pages | where:"ref", page.ref | where:"lang", lang | first %}
@@ -70,49 +72,50 @@
               {% endfor %}
             </ul>
             {% endif %} -->
-        </div>
-      </header>
-      <section class="main-content">
-        {% unless page.url == "/" %}
-          {% if page.parent %}
-            <nav class="breadcrumb-nav">
-              <ol class="breadcrumb-nav-list">
-                {% if page.grand_parent %}
-                  <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
-                  <li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a></li>
-                {% else %}
-                  <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a></li>
-                {% endif %}
-                <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
-              </ol>
-            </nav>
-          {% endif %}
-        {% endunless %}
-        <div class="page-content">
-          {{ content }}
+        </header>
+        <div class="page">
+          {% unless page.url == "/" %}
+            {% if page.parent %}
+              <nav class="breadcrumb-nav">
+                <ol class="breadcrumb-nav-list">
+                  {% if page.grand_parent %}
+                    <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.grand_parent }}</a></li>
+                    <li class="breadcrumb-nav-list-item"><a href="{{ second_level_url }}">{{ page.parent }}</a></li>
+                  {% else %}
+                    <li class="breadcrumb-nav-list-item"><a href="{{ first_level_url }}">{{ page.parent }}</a></li>
+                  {% endif %}
+                  <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
+                </ol>
+              </nav>
+            {% endif %}
+          {% endunless %}
 
-          {% if page.has_children == true %}
-          <hr>
-          <h2 class="text-delta">Table of contents</h2>
-          {% assign children_list = site.pages | sort:"nav_order" %}
-          <ul>
-            {% for child in children_list %}
-              {% if child.parent == page.title and child.title != page.title %}
-              <li>
-                <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
-              </li>
-              {% endif %}
-            {% endfor %}
-          </ul>
-          {% endif %}
+          <div class="page-content">
+            {{ content }}
 
-          {% if site.footer_content != nil %}
+            {% if page.has_children == true %}
             <hr>
-            <footer role="contentinfo">
-              <p class="text-small text-grey-dk-000 mb-0">{{ site.footer_content }}</p>
-            </footer>
-          {% endif %}
+            <h2 class="text-delta">Table of contents</h2>
+            {% assign children_list = site.pages | sort:"nav_order" %}
+            <ul>
+              {% for child in children_list %}
+                {% if child.parent == page.title and child.title != page.title %}
+                <li>
+                  <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+            {% endif %}
 
+            {% if site.footer_content != nil %}
+              <hr>
+              <footer role="contentinfo">
+                <p class="text-small text-grey-dk-000 mb-0">{{ site.footer_content }}</p>
+              </footer>
+            {% endif %}
+
+          </div>
         </div>
       </section>
     </section>
