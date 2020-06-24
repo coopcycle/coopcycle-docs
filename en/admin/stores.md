@@ -6,30 +6,33 @@ parent: Admin's guide
 nav_order: 4
 ---
 
-# Stores
+In CoopCycle's « vocabulary », a **Store** represents a B2B customer, i.e. a professional merchant to whom the cooperative offers its delivery services.
 
-A store allows a business owner to create deliveries via the backoffice. The price of the delivery is calcuted according to the tarification which is associated to the store by an administrator. The stores don't have for the moment a public page which enable an end customer to directly order
+Basically, a **Store** is a container for deliveries.
+Users can be attached to a **Store**, and once attached, they can use the web interface to order deliveries using a form.
+The deliveries ordered this way land directly in the dispatch.
 
-The page `Stores` lists the stores which were configured on the platform. A store-owner will display a list of stores that he manages.
+## Store Settings
 
-The list of stores displays :
-- Button : To create un store
-- ID, link towards the store
-- Name of the store
-- Adresse of the store
-- Tarification
-- Timetable
+The settings will change the behavior of the form to order a delivery.
 
-## Creation / management of a store
+![Store Settings](/assets/images/store_settings_en.png)
 
-Only administrators can create a store. Shop-owners can only configure parameters of their store and engage orders. The creation of a store displays these options :
-- To upload a picture
-- Name of the sop
-- Legal name of the store
-- Website
-- Telephone number
-- Siret number
+### Pricing
 
-Every store is associated to a tarification. See `tarifications` part for further informations.
+This allows to decide how the prices for this **Store** will be calculated.
+You can choose among the **Pricing Rules** that you have configured previously.
 
-A button which is above the informations of the store enables a store-owner to create an order. Therefore, an order can be created by an administrator or by a store-owner. The price of the delivery is calculated thanks to the tarification associated to the store
+[Learn more about defining Pricing Rules](/en/admin/actions/pricing.html).
+
+Heads up
+{: .label }
+
+If you want the price to be displayed to the user, you need to check the « Create orders » checkbox.
+
+### Time Slot
+
+This allows to decide which time slots the user will be able to select.
+
+[Learn more about defining Time Slots](/en/admin/actions/time-slots.html).
+
