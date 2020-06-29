@@ -27,6 +27,8 @@ The product list allows you to record the different products that the restaurant
 - the description
 - whether or not the product is activated
 - the price and the tax applied
+- the allergens (Warning: the restaurant is responsible for the information given to the customer)
+- the specific diets the product is ok with.
 
 ### Options and extras / Adding extras
 
@@ -42,8 +44,12 @@ This list has the following characteristics:
   - Free, no additional price for the supplement
   - Fixed price whatever the choice, the price is the same whatever the supplement chosen
   - Price depending on the choice, the price is variable depending on the chosen supplement
-- Checkbox: is the supplement optional or not?
-
+- Checkbox: is the supplement additional or not? 
+      -If not, then the customer is obliged to choose one the options. 
+      -If you check the box, it means you can :
+          -Set to 0 the minimum value, which means the customer does not have to choose an option.
+          -Set the maximum to X, leaving him/her the possibility to make multiples choices. (eg: Choosing both Ketchup and Mayonnaise for a free sauce option, eg 2: Choose onion           rings (+3€), french fries (+2€) and extra cheese (+1,5€) with a burger
+        
 You must first create the necessary supplements in the dedicated tab using the "add" button before you can associate them with a product.
 To assign a supplement to a product, simply activate it in a product in your restaurant. Go to the “product” tab of your restaurant, then click on the “modify” button of the product of your choice,
 At the bottom of each product option, you will find the supplements that you previously created. You only have to tick the one or those of your choice.
@@ -58,17 +64,22 @@ Each restaurateur can independently manage their card from their back office. Re
 
 In the "Menus" tab, you can create as many menus as you want. This allows you to configure menus in advance and easily activate the right one at the right time.
 
+Menus refer to specific products you work with at specific times. For example: Lunch, dinner, week days, week ends, summer, winter, valentine's day, Week A/B...
+
 To create a menu, click the Add button. Then simply indicate the name of your menu and click on “save”. Your menu is ready to be configured! You can then activate your menu by clicking on the “Activate” button. A menu is indicated as activated by a check mark next to its name.
 
 #### Adding a section to the menu
 
-To configure your menu, you must first add one or more menu sections. For example: Starter, main course, dessert. To do this, enter the name of the section you want to create and click on “Add a section”.
+To configure your menu, you must first add one or more menu sections. For example: Starter, main course, dessert. Sections can also be things like "House's specials" "Set menus"... To do this, enter the name of the section you want to create and click on “Add a section”.
+
+Note here that it is easier to create all of the products of a section and affect these products directly to the right section. (especially if you have a big list of products) rather than creating all of them and then dragging them to the right sections.
 
 #### Configuring a menu
 
 Use the menu editor to compose add or remove products from the menu by dragging them - see below for creating a product. To make them available for sale you only have to drag and drop the products in the sections on the left. If you wish to withdraw a product from sale, drop it in the "Products" section on the right.
 
-Do not forget to click on the "Save changes" button.
+Do not forget to click on the "Save changes" button at the bottom of the page.
+
 
 ### Orders
 
@@ -76,7 +87,7 @@ All orders for a restaurant are available in the "order" tab of the restaurant. 
 
 In the right panel are displayed the information of the selected command. The dishes are listed there as well as the calculation of taxes. Finally, the buttons allow the restaurateur / administrator to accept or refuse the order. After indicating "accepted", the restaurateur must indicate that the order is ready. He can still at this stage cancel the order. Once the latter has been notified as ready, it is no longer possible to cancel an order.
 
-You can also activate `rush mode` on this page.
+You can also activate `rush mode` on this page. Rush mode multiplies by 2 the time of preparation you set up when in "normal mode"
 
 ### Scheduling opening hours / closing a restaurant
 
@@ -91,7 +102,7 @@ This feature allows you to determine how the client can choose the time of deliv
 ### Additional delay before ordering
 
 This feature allows you to force clients to order with a minimum delay. 
-For instance, if you want to have clients to order at least one day before the opening of the restaurant you can choose 1 day an 0 hours.
+For instance, if you want to have clients to order at least one day before the opening of the restaurant you can choose 1 day and 0 hours.
 
 ### Number of shipping choices (in days)
 
