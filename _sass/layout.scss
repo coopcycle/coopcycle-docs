@@ -2,20 +2,6 @@
 // The basic two column layout
 //
 
-.site-footer {
-  position: absolute;
-  bottom: 0;
-  padding-top: $sp-4;
-  padding-bottom: $sp-4;
-
-  @include mq(md) {
-    position: static;
-    align-self: flex-end;
-    justify-self: end;
-    background-color: $grey-lt-000;
-  }
-}
-
 // Edit button
 .edit {
   display: inline-block;
@@ -40,7 +26,6 @@
   }
 
   &__link {
-    padding: $sp-2;
     position: relative;
     text-decoration: none;
 

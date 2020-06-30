@@ -1,0 +1,15 @@
+<nav aria-label="Auxiliary" class="aux-nav">
+  <ul class="aux-nav-list">
+    {%- for lang in site.data.langs -%}
+      {% assign translated_page=site.pages | where:"ref", page.ref | where:"lang", lang | first %}
+      <li class="aux-nav-list-item">
+      {%- if translated_page -%}
+        <a class="site-button nav-lang__link {% if lang == page.lang %}active{% endif %}" href="{{ translated_page.url }}">{{ lang }}</a>
+      {% else %}
+        <!-- not translated yet -->
+        <a class="site-button nav-lang__link unavailable" href="#">{{ lang }}</a>
+      {%- endif -%}
+      </li>
+    {%- endfor -%}
+  </ul>
+</nav>
