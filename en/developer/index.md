@@ -3,7 +3,7 @@ lang: en
 title: Developer
 ref: dev-home
 has_children: true
-nav_order: 8
+nav_order: 6
 ---
 
 # Developer's guide
