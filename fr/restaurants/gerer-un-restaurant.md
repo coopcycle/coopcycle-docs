@@ -2,7 +2,7 @@
 title: Gerer un restaurant
 lang: fr
 ref: admin-restaurant
-parent: Guide du restaurateur
+parent: Guide du restaurant
 nav_order: 2
 ---
 
@@ -46,11 +46,11 @@ Il vous faudra donc remplir pour chaque option:
   - Un prix fixe quel que soit le choix par exemple dans le cas où vous suggérez une option payante au client.
   - Un prix variable, en fonction de l'option choisie. (Exemple de boisson gratuite dans un menu, mais un supplément de 1€ pour une bière)
 - Déterminer si l'option est additionnelle ou non.
-      -Si vous ne cochez pas la case, cela forcera le client à choisir une des options (par exemple la cuisson d'une viande). 
+      -Si vous ne cochez pas la case, cela forcera le client à choisir une des options (par exemple la cuisson d'une viande).
       -Cocher la case signifie que l'option est additionnelle, donc qu'elle permet de:
           -Choisir une valeur minimale de 0, permettant au client de ne pas choisir d'option.
           -Choisir une valeur maximale de X, permettant au client de faire plusieurs choix dans la limite de X. (par exemple, plusieurs choix gratuits de sauce "je souhaiterais du ketchup, de la mayonnaise et de la harissa, ou autre exemple, cumuler les suppléments payants "bacon (+1,5€) et onion rings (+1€) + extra steak (+2€).
-        
+
 L'option devra être configurée avant de pouvoir l'assigner à un produit. Pour assigner une option/un supplément, il vous faudra simplement l'activer dans le produit auquel il se réfère en "modifiant" le produit et cochant les cases correspondant aux options que vous voulez activer sur le-dit produit.
 
 ### Menus
@@ -92,7 +92,7 @@ Pensez à prévoir autant que possible vos fermetures sur la plate-forme pour é
 ### Comportement des heures d'ouverture.
 
 Dans "Exécution", sous la photo de votre restaurant dans l'onglet d'accueil, vous avez la possibilité de déterminer comment le client peut choisir son mode de livraison.
-"Au plus tôt" permet au client de commander pour le plus vite possible, temps qui tiendra compte à la fois du temps de préparation et du temps de livraison. 
+"Au plus tôt" permet au client de commander pour le plus vite possible, temps qui tiendra compte à la fois du temps de préparation et du temps de livraison.
 "Tranche horaire" permet au client plutôt de choisir un créneau horaire à déterminer à l'avance pour la livraison.
 
 ### Délai additionnel pour les prises de commande

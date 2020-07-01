@@ -1,8 +1,7 @@
 ---
-title: Guide du restaurant
 lang: fr
-ref: restaurants-home
-parent: Guide du restaurant
+title: Guide du restaurant
+ref: restaurant-home
 has_children: true
 nav_order: 5
 ---
