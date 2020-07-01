@@ -3,7 +3,7 @@ lang: en
 title: Restaurant's guide
 ref: restaurant-home
 has_children: true
-nav_order: 2
+nav_order: 8
 ---
 
 # Restaurant's guide (overview)
