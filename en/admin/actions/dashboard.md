@@ -4,7 +4,7 @@ lang: en
 ref: dashboard
 parent: Logistics
 grand_parent: Admin's guide
-nav_order: 3
+nav_order: 1
 custom_scripts:
   - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
   - "/assets/scripts/zoom.js"
@@ -12,7 +12,7 @@ custom_scripts:
 
 # Dashboard
 
-The administration dashboard (called dashboard in this document) allows you to control all the functions for creating and managing tasks as well as to manage the dispatch of couriers manually. It is possible to display it in full screen by clicking on the button 
+The administration dashboard (called dashboard in this document) allows you to control all the functions for creating and managing tasks as well as to manage the dispatch of couriers manually. It is possible to display it in full screen by clicking on the button
 
 <span class="zoomable">![Dashboard](/assets/images/dashboard_fr.png)</span>
 
@@ -25,11 +25,11 @@ A task is created by clicking on the <i class = "fa fa-plus fa-lg" aria-hidden =
    - To Do
    - Success
    - Failure
-   
+
 As long as a task is not assigned to a courier, the latter remains in the `Unassigned` section.
-   
+
 ## Add / Create a task
-   
+
    The following information is available to create a task:
 * Checkbox: type of task
   - Pickup

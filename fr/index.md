@@ -11,3 +11,7 @@ nav_order: 1
 Cette documentation est hébergée sur [GitHub Pages](https://pages.github.com/).
 
 Vous pouvez utiliser le bouton « Modifier cette page » pour être redirigé vers l'éditeur en ligne sur GitHub.
+
+---
+
+Pour commencer, jetez un œil aux [concepts clés](/fr/administrateur/concepts-cles.html).

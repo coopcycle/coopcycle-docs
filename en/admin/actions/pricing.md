@@ -4,7 +4,7 @@ lang: en
 ref: pricings
 parent: Logistics
 grand_parent: Admin's guide
-nav_order: 1
+nav_order: 2
 ---
 
 # Pricing
