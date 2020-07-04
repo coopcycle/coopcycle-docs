@@ -1,42 +1,42 @@
 ---
-lang: en
-title: Admin's guide
+lang: pt-BR
+title: Guia do Administrador
 ref: admin-home
 has_children: true
 nav_order: 2
 ---
 
-# Admin's guide
+# Guia do administrador
 
-Welcome to the administrator's guide for the CoopCycle platform.
+Bem-vindo ao guia do administrador da plataforma CoopCycle.
 
-Our software is a complete logistics and e-commerce system allowing the delivery of a product from A to B. Our platform is dedicated to bicycle delivery and its license is designed to reserve the use for worker owned co-operatives only.
+Nosso software é um sistema completo de logística e comércio eletrônico que permite a entrega de um produto de A até B. Nossa plataforma é dedicada à entrega de bicicletas e sua licença foi projetada para reservar o uso apenas para cooperativas de propriedade de trabalhadores.
 
-The platform is composed of two components:
+A plataforma é composta por dois componentes:
 
-## Logistics
-Pickup and dropoff management organised into a task system (two tasks form a delivery) allowing the following user actions:
+## Logística
+Gerenciamento de retirada e entrega organizado em um sistema de tarefas (duas tarefas formam uma entrega), permitindo as seguintes ações do usuário:
 
-- The **administrator**:
-  - can assign tasks or task lists to a courier.
-  - can track the position of a courier in real time from the dispatch (dashboard) screen; assigning tasks can be done the day before or in real time.
-  - can manage pricing for stores (by weight, distance, zone, type of bike).
+- O **administrador**:
+  - pode atribuir tarefas ou listas de tarefas a um mensageiro/entregador.
+  - pode rastrear a posição de um mensageiro/entregador em tempo real a partir da tela de expedição (painel); A atribuição de tarefas pode ser feita no dia anterior ou em tempo real.
+  - pode gerenciar preços de lojas (por peso, distância, zona, tipo de bicicleta).
   
-- The **courier**:
-  - will receive the tasks on their smartphone (iOS and Android).
-  - can mark a task as completed or failed and can add a comment.
+- O **mensageiro/entregador**:
+  - receberá as tarefas em seus smartphones (iOS e Android).
+  - pode marcar uma tarefa como concluída ou com falha e pode adicionar um comentário.
 
-- The **customer**:
-  - can place an order on the platform and pay (price calculation is automated and secured through Stripe).
+- O **cliente**:
+  - pode fazer um pedido na plataforma e pagar (o cálculo do preço é automatizado e protegido através do Stripe).
 
-## E-commerce
-Management of restaurants and shops, allowing the following user actions:
+## Comércio eletrônico
+Gerenciamento de restaurantes e lojas, permitindo as seguintes ações do usuário:
 
-- The **customer**: 
-  - can place an order via the platform (website) or via the smartphone application.
-  - can place an order from a restaurant, by inputing their address and selecting a delivery time.
+- O **cliente**:
+  - pode fazer um pedido pela plataforma (site) ou pelo aplicativo do smartphone.
+  - pode fazer um pedido em um restaurante, inserindo o endereço e selecionando um horário de entrega.
 
-- The **business**: 
-  - receives the order in real time, they can then accept or reject it.
-  - can mark the order as ready, in this case the courier is notified.
-  - can manage their menu online.
+- O **negócio**:
+  - recebe o pedido em tempo real, eles podem aceitá-lo ou rejeitá-lo.
+  - pode marcar o pedido como pronto; nesse caso, o mensageiro/entregador é notificado.
+  - pode gerenciar seu menu online.
