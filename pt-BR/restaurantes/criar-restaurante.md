@@ -1,123 +1,125 @@
-title: Create a Restaurant
-lang: en
+---
+title: Criar um restaurante
+lang: pt-BR
 ref: creation-restaurant
-parent: Restaurant's guide
+parent: Guida do Restaurante
 nav_order: 5
+---
 
-# Create a Restaurant
+# Criar um restaurante
 
-Please contact a cooperative of CoopCycle. Only an administrator can create a new restaurant.
+Entre em contato com uma cooperativa da CoopCycle. Somente um administrador pode criar um novo restaurante.
 
-## Step 1 : Add General information
+## Etapa 1: adicionar informações gerais
 
-Now you have to add general information about your restaurant. Some of these informations would be possibly editing later with your restaurant account, but other - such as the terms of the contract or options - are only accessible with adminstrator account. 4 tabs have to be complete :
+Agora você deve adicionar informações gerais sobre o seu restaurante. Algumas dessas informações podem ser editadas posteriormente com a conta do restaurante, mas outras, como os termos do contrato ou as opções, só podem ser acessadas com a conta do administrador. 4 guias devem estar completas:
 
-- [General](#General)
-- [Options](#Options)
-- [Fulfillment](#Fulfillment)
-- [Settlement](#Settlement)
+- [Geral] (#Geral)
+- [Opções] (#Opções)
+- [Planejamento] (#Planejamento)
+- [Contrato] (#Contrato)
 
-### General
+### Geral
 
-On this `General` tab, you can modify general informations about your restaurant :
+Nesta guia 'Geral', você pode modificar as informações gerais sobre o seu restaurante:
 
-- Displayed to clients :
-  - Name of the Restaurant on CoopCycle
-  - Type of Business
-  - Adress
-  - Description of your restaurant 
-  - Web
+- Exibido aos clientes:
+  - Nome do restaurante no CoopCycle
+  - Tipo de negócios
+  - Endereço
+  - Descrição do seu restaurante
+  - Redes Sociais
   
-- Not displayed to clients :
-  - Website
-  - Telephone number
-  - Business information 
+- Não exibido para clientes:
+  - Site
+  - Número de telefone
+  - Informação de negócios
   
-### Options
+### Opções
 
-4 options have to be decided on this tab :
+4 opções devem ser decididas nesta guia:
 
-- Restaurant is exclusive which means that it is only available on CoopCycle
-- Restaurant is featured on homepage 
-- Restaurant also accepts quotes (e.g.:catering)
-- Enable Deposit-Refund system
+- O restaurante é exclusivo, o que significa que ele só está disponível no CoopCycle.
+- Restaurante é destaque na página inicial
+- O restaurante também aceita preços fixoa (por exemplo: refeições)
+- Ativar sistema de pagamento e reembolso
 
-### Fulfillment
+### Planejamento
 
-#### Schedules
-On this page, you can choose between two types of activity, or chose both :
-- Collect, which means that the customer comes to the restaurant to take-away his or her order
-- Delivery, which means that the cooperative delivers the order to the customer
+#### Horários
+Nesta página, você pode escolher entre dois tipos de atividades ou escolher os dois:
+- Retirada, o que significa que o cliente vem ao restaurante para retirar seu pedido
+- Entrega, o que significa que a cooperativa entrega o pedido ao cliente
 
-For each activity, you can edit a schedule which determines when customers can receive their orders or come take them at the restaurant. 
+Para cada atividade, você pode editar uma programação que determina quando os clientes podem receber seus pedidos ou comparecer ao restaurante.
 
-For each schedule you have to choose between *As soon as possible* and *time slot* :
-- *As soon as possible* : The customer receives his or her order as soon as possible. On his or her application, the customer during his or her order sees : "in XX minutes"
-- *Time slot* : The customer choses when he or she receives the order. On his or her application, the customer during his or her order sees : "Between XX PM/AM and XX PM/AM"
+Para cada programação, você deve escolher entre *O mais rápido possível* e *Horário marcado*:
+- *Assim que possível*: o cliente recebe seu pedido o mais rápido possível. Em seu pedido, o cliente durante o pedido vê: "em XX minutos"
+- *Horário marcado*: o cliente escolhe quando recebe o pedido. Em sua inscrição, o cliente durante o pedido vê: "Entre XX PM/AM e XX PM/AM"
 
-For each schedule, you have to chose with the administrator if the restaurant-owner has the right to change these schedules. Click on `allow editing` if it is the case.
+Para cada agendamento, você deve escolher com o administrador se o proprietário do restaurante tem o direito de alterar esses agendamentos. Clique em "permitir edição", se for o caso.
 
-#### Global options
+#### Opções globais
 
-- Define a delivery perimeter
-- Define, if needed, an additional delay before ordering. For instance, if you put 1 in the `day` field, customers have to order the day before.
-- Define, if needed, a number of shipping choices
+- Definir um perímetro de entrega
+- Defina, se necessário, uma antecedência ao fazer o pedido. Por exemplo, se você colocar 1 no campo 'dia', os clientes terão que pedir no dia anterior.
+- Defina, se necessário, várias opções de remessa
 
-### Settlement
+### Contrato
 
-You will find on this page **the terms of the contract** between the local delivery collective and the restaurant. They cover the following aspects :
-- Delivery price :
-    - Part to be paid by the restaurant ("Amount charged by the platform" for a fixed cost and "Platform fee for deliveries" for a proportionnal fee). It is also possible to create your own rule of pricing and apply it in this page. Please see the documentation about pricing in administrator's guide/logistics.
-    - Part to be paid by the final client.("Amount paid by the customer" for a fixed cost and "Fees paid by the customer" for a proportionnal fee). It is also possible to create your own rule of pricing and apply it in this page. 
-- Minimum basket amount
-- Platform fees for take-away.
+Você encontrará nesta página **os termos do contrato** entre o coletivo de entrega local e o restaurante. Eles abrangem os seguintes aspectos:
+- Preço de entrega :
+    - Parte a ser paga pelo restaurante ("Valor cobrado pela plataforma" por um custo fixo e "Taxa da plataforma por entregas" por uma taxa proporcional). Também é possível criar sua própria regra de preço e aplicá-la nesta página. Consulte a documentação sobre preços no guia logística do administrador.
+    - Parte a ser paga pelo cliente final ("Valor pago pelo cliente" por um custo fixo e "Taxas pagas pelo cliente" por uma taxa proporcional). Também é possível criar sua própria regra de preço e aplicá-la nesta página.
+- Valor mínimo da cesta
+- Taxas de plataforma para retirada no local.
 
-## Step 2 : Link an account with a restaurant
+## Etapa 2: vincular uma conta a um restaurante
 
-### Create an account or invitation
+### Crie uma conta ou convite
 
-#### Method 1 : create your account
-Restaurant owner has to create an account on CoopCycle. It has to fill the following informations : 
+#### Método 1: crie sua conta
+O proprietário do restaurante precisa criar uma conta no CoopCycle. Ele deve preencher as seguintes informações:
 
-- Email
-- Username
-- Password
-- Given Name and Family Name
-- Telephone Number
+- O email
+- Nome do usuário
+- Senha
+- Nome e sobrenome
+- Número de telefone
 
-Keep secret your username and password, you will have to use it when you are using CoopCycle to manage your restaurant.
+Mantenha segredo seu nome de usuário e senha, você terá que usá-lo quando estiver usando o CoopCycle para gerenciar seu restaurante.
 
-#### Method 2 : Invitation
+#### Método 2: convite
 
-In this second method, it is administrators who invite you on CoopCycle. 
+Neste segundo método, são os administradores que convidam você no CoopCycle.
 
-In order to do that, Administrators have to click on `users` tab on the top of the administrator's dashboard. On this new page, a blue button `Invite an user` enables administrators to create an account on behalf of an user. It has to fill following fields :
-- Username
-- Email (of the invited person)
-- Given name and Family name
-- The status of the account - In this case, chose *Restaurant* if you invite a restaurant-owner -
+Para fazer isso, os Administradores precisam clicar na guia 'usuários' na parte superior do painel do administrador. Nesta nova página, um botão azul "Convidar um usuário" permite que os administradores criem uma conta em nome de um usuário. Ele deve preencher os seguintes campos:
+- Nome do usuário
+- Email (da pessoa convidada)
+- Nome e sobrenome
+- O status da conta - Nesse caso, escolha *Restaurante* se você convidar o proprietário de um restaurante
 
-At the end, it is the user who will chose his/her password, which is secret.
+No final, é o usuário quem escolherá sua senha, que é secreta.
 
-### Add a role : restaurant-owner
+### Adicionar uma função: dono de restaurante
 
-Only administrators can add you a role on your account of *Restaurant*. If you used *Method 2*, you don't need to change the status of the account, because your account has already been created as *Restaurant*.
+Somente os administradores podem adicionar uma função na sua conta de *Restaurante*. Se você usou o *Método 2*, não precisa alterar o status da conta, porque sua conta já foi criada como *Restaurante*.
 
-If you used *Methode 1*, you have to follow theses steps : 
-- Administrators click on `users` tab on the top of the administrator's dashboard.
-- Administrators search your username of the `searching`field or find you on the list and click on green `edit` button.
-- Administrators add you a *Restaurant* role and click on `save`
+Se você usou o *Método 1*, deve seguir estas etapas:
+- Os administradores clicam na guia 'usuários' na parte superior do painel do administrador.
+- Os administradores pesquisam seu nome de usuário no campo 'busca' ou encontram na lista e clicam no botão verde 'editar'.
+- Os administradores adicionam a você uma função *Restaurante* e clicam em 'salvar'
 
-### Link an account with one or more restaurant.
+### Vincule uma conta a um ou mais restaurantes.
 
-Only administrators can link an account with a restaurant. On the same `edit`page that before, please fill the `add a restaurant` field with the name of the restaurant.
+Somente administradores podem vincular uma conta a um restaurante. Na mesma página 'editar' de antes, preencha o campo 'adicionar um restaurante' com o nome do restaurante.
 
-After step, when restaurant-owner is connecting to CoopCycle with his or her username and password, he/her will only have access to his/her restaurant.
+Após essa etapa, quando o proprietário do restaurante estiver se conectando ao CoopCycle com seu nome de usuário e senha, ele só terá acesso ao seu restaurante.
 
-## Step 3 : Create a Stripe account and link it to your restaurant 
+## Etapa 3: crie uma conta do Stripe e vincule-a ao seu restaurante
 
-About the creation of your Stripe account, please see [Admin's guide/Stripe]{https://docs.coopcycle.org/fr/administrateur/paiements-stripe.html}. Instructions are the same for cooperative and restaurant. The only difference is what you do next with your Stripe account.
+Sobre a criação da sua conta do Stripe, consulte [Guia do administrador/Stripe]{https://docs.coopcycle.org/pt-BR/admin/pagamentos-stripe.html}. As instruções são as mesmas para cooperativas e restaurantes. A única diferença é o que você faz a seguir com sua conta do Stripe.
 
-When a restaurant has created its Stripe account, this one can be connected to CoopCycle platform and to the restaurant : 
-- If administrators enabled restaurant to manage its own Stripe account, restaurant-owner with his/her own account can connect Stripe account by going on *General information* by clicking on the name of the restaurant, or on the `edit` button. Then click on the `Payment` tab and connect with Stripe.
-- If administrators disabled restaurant to manage its own Stripe account, you have to follow the same steps but with an administator account to connect restaurant stripe account.
+Quando um restaurante cria sua conta do Stripe, esta pode ser conectada à plataforma CoopCycle e ao restaurante:
+- Se os administradores ativaram o restaurante para gerenciar sua própria conta do Stripe, o proprietário do restaurante com sua própria conta pode conectar a conta do Stripe acessando *Informações gerais* clicando no nome do restaurante ou no botão 'editar'. Em seguida, clique na guia 'Pagamento' e conecte-se ao Stripe.
+- Se os administradores desativaram o restaurante para gerenciar sua própria conta do Stripe, você deve seguir as mesmas etapas, mas com uma conta de administrador para conectar a conta do restaurante.

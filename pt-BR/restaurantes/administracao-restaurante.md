@@ -12,11 +12,11 @@ As páginas de administração de restaurante são apresentadas em abas no canto
 
 ![Restaurante]({{ "/assets/images/restaurant_detail_fr.png" | absolute_url }})
 
-- [Produtos](#products)
-- [Opções](#options-and-extras--adding-extras)
-- [Menus](#menus)
-- [Pedidos](#orders)
-- [Agenda](#scheduling-opening-hours--closing-a-restaurant)
+- [Produtos](#Produtos)
+- [Opções](#Opções-e-extras--Colocando-extras)
+- [Menus](#Menus)
+- [Pedidos](#Pedidos)
+- [Agenda](#Agenda)
 
 
 ### Produtos
@@ -88,6 +88,7 @@ No painel do lado direito, são exibidas as informações do comando selecionado
 
 Você também pode ativar o 'modo lotado' nesta página. O modo lotado multiplica por 2 o tempo de preparação que você configurou no "modo normal"
 
+### Agenda
 ### Programando horários de funcionamento / fechando um restaurante
 
 Esse recurso permite fechar temporariamente um restaurante. Os fechamentos programados são visíveis no calendário.

@@ -1,70 +1,70 @@
 ---
-lang: en
-title: Restaurant information
+lang: pt-BR
+title: Informações do Restaurante
 ref: rest-info
-parent: Restaurant's guide
+parent: Guia do Restaurante
 nav_order: 5
 ---
 
-# Restaurant information
+# Informações do restaurante
 
-The general information of the restaurant is accessible and modifiable at any time on the home page of by clicking on `Edit` button near of the name of the restaurant at the top left of the page.
+As informações gerais do restaurante podem ser acessadas e modificadas a qualquer momento na página inicial, clicando no botão 'Editar' ao lado do nome do restaurante no canto superior esquerdo da página.
 
-On this page you can :
+Nesta página você pode:
 
-- Change the **image** of your restaurant, which will appear to clients on CoopCycle. In order to do that, you can directly drop an image where it is indicated.
-- Disable or enable your restaurant to appear on CoopCycle. When disabled the restaurant page is not accessible by visitors.
+- Alterar a **imagem** do seu restaurante, que aparecerá para os clientes no CoopCycle. Para fazer isso, você pode soltar diretamente uma imagem onde ela é indicada.
+- Desativar ou ativar seu restaurante para aparecer no CoopCycle. Quando desativada, a página do restaurante não está acessível aos visitantes.
 
-Four tabs are accessible on this page in order to look or modify your informations - please don't forget to click on `save` button at the bottom of the page when you are modifying fields :
+Quatro guias estão acessíveis nesta página para procurar ou modificar suas informações - não se esqueça de clicar no botão 'salvar' na parte inferior da página quando você estiver modificando os campos:
 
-- [General](#General)
-- [Options](#Options)
-- [Fulfillment](#Fulfillment)
-- [Settlement](#Settlement)
+- [Geral](#Geral)
+- [Opções](#Opções)
+- [Planejamento](#Planejamento)
+- [Promoção](#Promoção)
 
-## General
+## Geral
 
-On this `General` tab, you can modify general informations about your restaurant :
+Nesta guia 'Geral', você pode modificar as informações gerais sobre o seu restaurante:
 
-- Displayed to clients :
-  - Name of the Restaurant on CoopCycle
-  - Type of Business
-  - Adress
-  - Description of your restaurant
-  - Website
+- Exibido aos clientes:
+  - Nome do restaurante no CoopCycle
+  - Tipo de negócio
+  - Endereço
+  - Descrição do seu restaurante
+  - Site
 
-## Options
+## Opções
 
-Options are not accessible from a restaurant account. In order to change them, you need to connect with an administrator account, which means that theses options are decided with the delivery cooperative.
+As opções não estão acessíveis em uma conta de restaurante. Para alterá-los, você precisa se conectar a uma conta de administrador, o que significa que essas opções são decididas com a cooperativa de entrega.
 
-## Fulfillment
+## Planejamento
 
-On this page, you have two schedules : collection (take-away orders) or delivery. In order to activate one or both schedules, you also have to contact an administrator of CoopCycle.
+Nesta página, você tem dois planejamentos: coleta (pedidos de retirada) ou entrega. Para ativar um ou ambos os agendamentos, você também precisa entrar em contato com um administrador do CoopCycle.
 
-### Collection
+### Coleta
 
-On this page, you can decide your **Collect time slots** which means when your clients can collect their command in your restaurant. You don't need to connect as an administrator to change these options, because this schedule does not affect the delivery cooperative.
-There is also an option to decide if CoopCycle proposes to customers to collect the order as soon as possible, or propose time slots.
+Nesta página, você pode decidir o seu **Horário de coleta**, o que significa quando seus clientes podem coletar seus pedidos em seu restaurante. Você não precisa se conectar como administrador para alterar essas opções, porque esse agendamento não afeta a cooperativa de entrega.
+Há também uma opção para decidir se a CoopCycle propõe aos clientes coletar o pedido o mais rápido possível ou propor intervalos de tempo.
 
-### Delivery
+### Entrega
 
-On this page, you can see what are your **Delivery time slots** which means when your customers can be delivered their orders. You can't change this schedule unless you are connected as administrator.
-There is also an option to decide if CoopCycle proposes to customers to reveive the order as soon as possible, or propose time slots.
+Nesta página, você pode ver quais são seus **prazos de entrega**, o que significa quando seus clientes podem receber seus pedidos. Você não pode alterar esta programação, a menos que esteja conectado como administrador.
+Há também uma opção para decidir se a CoopCycle propõe aos clientes a retirada do pedido o mais rápido possível, ou propõe intervalos de tempo.
 
-### Global options
+### Opções globais
 
-2 options are proposed to modify globally these two schedules :
-- Add delay before ordering. For instance, if you put 1 in the `day`field, customers have to order the day before.
-- Number of shipping choices (in days)
+Duas opções são propostas para modificar globalmente esses dois planejamentos:
+- Adicione antecedência antes de fazer o pedido. Por exemplo, se você colocar 1 no campo "dia", os clientes terão que pedir no dia anterior.
+- Número de opções de envio (em dias)
 
-## Settlement
+## Contrato
 
-You will find on this page **the terms of the contract** between the local delivery collective and the restaurant. They cover the following aspects:
-- Delivery price :
-    - Part to be paid by the restaurant ("Amount charged by the platform" for a fixed cost and "Platform fee for deliveries" for a proportionnal fee)
-    - Part to be paid by the final client.("Amount paid by the customer" for a fixed cost and "Fees paid by the customer" for a proportionnal fee)
-- Minimum basket amount
-- Platform fees for take-away.
-- Payment fees (Stripe): paid by the platform or the restaurant owner
+Você encontrará nesta página **os termos do contrato** entre o coletivo de entrega local e o restaurante. Eles abrangem os seguintes aspectos:
+- Preço de entrega :
+    - Parte a ser paga pelo restaurante ("Valor cobrado pela plataforma" por um custo fixo e "Taxa da plataforma por entregas" por uma taxa proporcional)
+    - Parte a ser paga pelo cliente final ("Valor pago pelo cliente" por um custo fixo e "Taxas pagas pelo cliente" por uma taxa proporcional)
+- Valor mínimo da cesta
+- Taxas de plataforma para retirada no local.
+- Taxas de pagamento (faixa de pagamento): pagas pela plataforma ou pelo proprietário do restaurante
 
-Only administrators can modify these information.
+Somente administradores podem modificar essas informações.

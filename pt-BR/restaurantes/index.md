@@ -1,13 +1,13 @@
 ---
-lang: en
-title: Restaurant's guide
+lang: pt-BR
+title: Guia do Restaurante
 ref: restaurant-home
 has_children: true
 nav_order: 8
 ---
 
-# Restaurant's guide (overview)
+# Guida do Restaurante (Geral)
 
-## Restaurant's guide on the platform
+## Guia do Restaurante na Plataforma
 
-## Restaurant's guide on the app
+## Guia do Restaurante no App
