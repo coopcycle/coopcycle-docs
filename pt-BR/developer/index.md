@@ -1,12 +1,12 @@
 ---
-lang: en
-title: Developer
+lang: pt-BR
+title: Desenvolvedor
 ref: dev-home
 has_children: true
 nav_order: 6
 ---
 
-# Developer's guide
+# Guia do desenvolvedor
 
-Welcome to the developer's guide for CoopCycle platform.
+Bem vindo ao guia do desenvolvedor do coopcycle.
 {: .fs-6 }

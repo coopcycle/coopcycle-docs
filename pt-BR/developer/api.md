@@ -1,67 +1,67 @@
 ---
-title: Using the CoopCycle API
-lang: en
+title: Usando a API CoopCycle
+lang: pt-BR
 ref: dev-api
 parent: Developer
 ---
 
-# Using the CoopCycle API
+# Usando a API CoopCycle
 
-[Open API / Swagger documentation](https://demo.coopcycle.org/api/docs)
+[Documentação Open API / Swagger](https://demo.coopcycle.org/api/docs)
 
-## Authentication
+## Autenticação
 
-Most of the API endpoints require authentication, and also authorization.
+A maioria dos pontos de extremidade da API requer autenticação e também autorização.
 <br>
-Authentication is implemented by sending a [JSON Web Token](https://jwt.io/introduction/) via HTTP headers.
+A autenticação é implementada enviando um [JSON Web Token](https://jwt.io/introduction/) através de cabeçalhos HTTP.
 
-```
-Authorization: Bearer <token>
-```
+`` ``
+Autorização: Portador <token>
+`` ``
 
-### Authenticating as a web application
+### Autenticando como um aplicativo Web
 
-If you are creating a web application that does not need to act on behalf of a user, you need to use the [OAuth client credentials](https://oauth.net/2/grant-types/client-credentials/) flow to obtain an access token.
+Se você estiver criando um aplicativo Web que não precise agir em nome de um usuário, precisará usar o fluxo [credenciais do cliente OAuth] (https://oauth.net/2/grant-types/client-credentials/) para obter um token de acesso.
 
-**Obtaining API credentials**
+**Obtendo credenciais da API**
 
-To create access tokens, you will need API credentials (an API key and an API secret).
+Para criar tokens de acesso, você precisará de credenciais da API (uma chave e um segredo da API).
 <br>
-Ask the platform administrators to create a API application and send you the API credentials.
+Peça aos administradores da plataforma para criar um aplicativo de API e enviar as credenciais da API.
 
-**Using the credentials to obtain an access token**
+**Usando as credenciais para obter um token de acesso**
 
-The first step to make authenticated requests is to obtain an **access token**.
+A primeira etapa para fazer solicitações autenticadas é obter um **token de acesso**.
 <br>
-To obtain an access token, you first need to make a request to the `/oauth2/token` endpoint,
-with your API credentials encoded as Base64.
+Para obter um token de acesso, primeiro você precisa fazer uma solicitação para o terminal `/ oauth2 / token`
+com suas credenciais de API codificadas como Base64.
 
-Here is an example to encode your API credentials using PHP:
+Aqui está um exemplo para codificar suas credenciais de API usando PHP:
 
-```
+`` ``
 php -r 'echo base64_encode("<api_key>:<api_secret>"), PHP_EOL;'
-```
+`` ``
 
-Here is an example request to the `/oauth2/token` endpoint using cURL:
+Aqui está um exemplo de solicitação para o terminal `/ oauth2 / token` usando cURL:
 
-```
+`` ``
 curl -X POST -d 'grant_type=client_credentials&scope=tasks+deliveries' -H 'Authorization: Basic <base64_credentials>' https://acme.coopcycle.org/oauth2/token
-```
+`` ``
 
-The response should look like this:
+A resposta deve ser assim:
 
-```
+`` ``
 {
     "token_type": "Bearer",
     "expires_in": 3600,
     "access_token": "<access_token>"
 }
-```
+`` ``
 
-**Using the access token to make authenticated requests**
+**Usando o token de acesso para fazer solicitações autenticadas**
 
-You can now use the access token to make authenticated requests to the API
+Agora você pode usar o token de acesso para fazer solicitações autenticadas à API
 
-```
+`` ``
 curl -X POST -d '{ ... }' -H 'Content-Type: application/ld+json' -H 'Authorization: Bearer <access_token>' https://acme.coopcycle.org/api/deliveries
-```
+`` ``
