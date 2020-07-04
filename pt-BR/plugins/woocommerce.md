@@ -1,54 +1,53 @@
 ---
-lang: en
+lang: pt-BR
 title: WooCommerce
 ref: plugins-woocommerce
 parent: Plugins
 ---
 
-CoopCycle ships with a [WordPress plugin for WooCommerce](https://wordpress.org/plugins/coopcycle/).
+O CoopCycle é enviado com um [plugin WordPress para WooCommerce](https://wordpress.org/plugins/coopcycle/).
 
-Overview
+Visão geral
 --------
 
-The CoopCycle plugin for WordPress allows to add a [shipping method](https://docs.woocommerce.com/document/setting-up-shipping-zones/) to WooCommerce,
-and to transmit the shipping data to CoopCycle directly, using the API.
+O plug-in CoopCycle para WordPress permite adicionar um [método de envio](https://docs.woocommerce.com/document/setting-up-shipping-zones/) ao WooCommerce, e transmitir os dados de entrega para a CoopCycle diretamente, usando a API.
 
-If one of your partners already has an e-commerce website based on WooCommerce, it the best way to have a seamless integration.
+Se um de seus parceiros já tiver um site de comércio eletrônico baseado no WooCommerce, é a melhor maneira de ter uma integração perfeita.
 
-On CoopCycle, the shipping data sent will be attached to a [store](en/admin/stores), so you will need to create a store if you don't have one already.
-The settings of the store modify the behavior of the plugin, in particular the configuration of the time slot used.
+No CoopCycle, os dados de entrega enviados serão anexados a uma [loja](pt-BR/admin/lojas), portanto, você precisará criar uma loja se ainda não a tiver.
+As configurações da loja modificam o comportamento do plug-in, em particular a configuração do intervalo de tempo usado.
 
-Obtaining an API token
+Obtendo um token de API
 ----------------------
 
-The first thing to do is to obtain an API token, so that the website running WooCommerce can interact with the CoopCycle API.
+A primeira coisa a fazer é obter um token da API, para que o site que executa o WooCommerce possa interagir com a API CoopCycle.
 
-Go to Configuration › API, and click « Add ». Enter the name of the app (for example, the name of the website running WooCommerce), select the store you want to generate an API token for, and hit « Save ».
+Vá para Configuração ›API e clique em «Adicionar». Digite o nome do aplicativo (por exemplo, o nome do site executando o WooCommerce), selecione a loja para a qual você deseja gerar um token de API e pressione «Salvar».
 
-You should obtain a pair of credentials, a « API Key » and « API Secret », that you will need to configure the plugin.
+Você deve obter duas credenciais, uma "API Key" e "API Secret", necessárias para configurar o plug-in.
 
-Installing and configuring the plugin
+Instalando e configurando o plug-in
 -------------------------------------
 
-The CoopCycle plugin for WooCommerce can be installed from [wordpress.org](https://wordpress.org/plugins/coopcycle/).
+O plug-in CoopCycle para WooCommerce pode ser instalado em [wordpress.org] (https://wordpress.org/plugins/coopcycle/).
 
-In the WordPress admin area, go to the Plugins page, and search for « coopcycle ».
+Na área de administração do WordPress, vá para a página Plugins e procure por "coopcycle".
 
-In the settings page of the plugin, enter the base url of the CoopCycle instance, the « API Key » and « API Secret », and save changes.
+Na página de configurações do plug-in, insira o URL base da instância CoopCycle, a «API Key» e a «API Secret» e salve as alterações.
 
-Configuring WooCommerce
+Configurando o WooCommerce
 -----------------------
 
-Once the CoopCycle plugin is configured, you need to add to a [shipping method to a zone](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-6).
+Depois que o plug-in CoopCycle estiver configurado, você precisará adicionar a um [método de envio para uma zona](https://docs.woocommerce.com/document/setting-up-shipping-zones/#section-6).
 
-Go to WooCommerce › Settings › Shipping. If you haven't already, click on « Add shipping zone », or edit one of your existing shipping zones.
+Vá para WooCommerce › Configurações › entrega. Se ainda não o fez, clique em «Adicionar zona de expedição» ou edite uma das suas zonas de expedição existentes.
 
-Click on « Add shipping method », and select « CoopCycle ».
+Clique em «Adicionar método de envio» e selecione «CoopCycle».
 
-Once the shipping method has been added, you can configure it. The settings are the same as the standard [Flat Rate Shipping](https://docs.woocommerce.com/document/flat-rate-shipping/) method of WooCommerce.
+Após a adição do método de envio, você pode configurá-lo. As configurações são as mesmas do método padrão [Envio de taxa fixa](https://docs.woocommerce.com/document/flat-rate-shipping/) do WooCommerce.
 
-The most important thing that you need to configure is the **shipping cost**.
+A coisa mais importante que você precisa configurar é o **custo de envio**.
 
-Congratulations! 🎉
+Parabéns! 🎉
 
-Now, when entering an address that matches with the shipping zone, customers will be allowed to choose the CoopCycle shipping method.
+Agora, ao inserir um endereço que corresponda à zona de entrega, os clientes poderão escolher o método de entrega CoopCycle.
