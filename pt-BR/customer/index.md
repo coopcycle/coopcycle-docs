@@ -1,14 +1,14 @@
 ---
-lang: en
-title: Customer's guide
+lang: pt-BR
+title: Guia do Cliente
 ref: customer-home
 nav_order: 5
 ---
 
-# Customer's guide
+# Guia do cliente
 
-Welcome to the customer's guide for the CoopCycle platform.
+Bem-vindo ao guia do cliente da plataforma CoopCycle.
 
-## Customer's guide on the website
+## Guia do cliente no site
 
-## Customer's guide on the app
+## Guia do cliente no aplicativo

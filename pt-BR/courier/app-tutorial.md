@@ -1,13 +1,13 @@
 ---
-lang: en
-title: App tutorial
+lang: pt-BR
+title: Guia do App
 ref: app-tutorial
-parent: Courier's guide
+parent: Guia do Entregador
 nav_order: 1
 ---
 
-# App tutorial
+# Guia do App
 
-## Task management
+## Gerenciamento de tarefas
 
-## Order management
+## Gerenciamento de pedidos

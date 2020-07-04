@@ -1,15 +1,15 @@
 ---
-lang: en
-title: Courier's guide
+lang: pt-BR
+title: Guia do Entregador
 ref: courier-home
 has_children: true
 nav_order: 4
 ---
 
-# Courier's guide
+# Guia do Entregador
 
-Welcome to the courier's guide for the CoopCycle platform.
+Bem-vindo ao guia do entregador para a plataforma CoopCycle.
 
-## Courier's guide on the platform
+## Guia do entregador na plataforma
 
-## Courier's guide on the app
+## Guia do entregador no aplicativo
