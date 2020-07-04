@@ -1,22 +1,22 @@
 ---
-title: Create a zone
-lang: en
+title: Criar uma zona
+lang: pt-BR
 ref: tutorials-zones
 parent: Tutorials
 nav_order: 1
 ---
 
-You can save zones as polygons. You can then use the zones to define pricing rules, for example. To create a zone, you will need to upload a GeoJSON file representing the delivery zone.
+Você pode salvar zonas como polígonos. Use as zonas para definir regras de cobrança, por exemplo,. Para criar uma zona você precisa fazer o upload para um arquivo GeoJSON que represente a área de entrega.
 
-## Create a GeoJSON zone
+## Criando uma zona em GeoJSON
 
-To create zones, you first need to save them in [GeoJSON](https://fr.wikipedia.org/wiki/GeoJSON).
+Para criar zonas, você precisa primeiro salvá-las em [GeoJSON](https://pt.wikipedia.org/wiki/GeoJSON).
 
-1. Go to [geojson.io](http://geojson.io/)
+1. Vá para [geojson.io](http://geojson.io/)
 
-2. Zoom in to the desired location and use the drawing tools
+2. Dê zoom na região desejada e use a ferramenta de desenho.
 
-3. Click on **Save > GeoJSON** to download the file
+3. Clique em **Save > GeoJSON** para fazer o download
 
 ---
 

@@ -6,14 +6,14 @@ ref: homepage
 nav_order: 1
 ---
 
-**Bom vinde!**
+**Bem vindo!**
 
-This documentation is hosted on [GitHub Pages](https://pages.github.com/).
+Essa documentação é hospedada no [GitHub Pages](https://pages.github.com/).
 
-You can use the « Edit this page » button to be redirected to the GitHub online editor.
+Você pode usar o botão « Edit this page » para ser direcionado para o editor online do Github.
 
-For a guide on how to edit the docs see [Edit Docs] or go to Tutorials → Editing Docs.
+Para um guia de como editar a documentação veja [Edit Docs] ou vá para os tutoriais → Editing Docs.
 
 ---
 
-To get started, take a look at the [key concepts](/en/admin/key-concepts.html).
+Para começar, veja os conceitos chave em [key concepts](/pt/admin/key-concepts.html).

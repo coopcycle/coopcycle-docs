@@ -1,6 +1,6 @@
 ---
 lang: pt-BR
-title: Installation
+title: Instalação
 ref: app-install
 nav_order: 1
 parent: App
