@@ -1554,10 +1554,6 @@
 				"partials/functions/lang/es.php"
 			],
 			[
-				"pt-BR",
-				"partials/functions/lang/pt-BR.php"
-			],
-			[
 				"shopj",
 				"src/assets/js/src/shop.js"
 			],
