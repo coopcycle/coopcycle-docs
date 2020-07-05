@@ -1,49 +1,49 @@
 ---
-title: Pricing
-lang: en
+title: Preços
+lang: pt-BR
 ref: pricings
-parent: Logistics
-grand_parent: Admin's guide
+parent: Logística
+grand_parent: Guia do Administrador
 nav_order: 2
 ---
 
-# Pricing
+# Precificação
 
-As part of the creation of a store account, it is possible to create prices (e.g. express prices, normal prices) from the administration section by clicking on the icon then on the Prices section.
-
-[screenshot]
-
-Pricing is configured in the administration dashboard through a set of rules based on the following variables:
-The distance that is measured in meters. This distance can be defined with the operators of:
-- &gt; greater than * variable in meter *
-- &lt; less than * variable in meter *
-between two variables
-
-The weight which is evaluated in gram. This weight can be defined with the same operators as the distance
-The zone defined by loading a GeoJSON file into the instance configuration;
-The type of bike that is defined by selecting it from a list in which are available:
-The simple bike
-The cargo bike
+Como parte da criação de uma conta da loja, é possível criar preços (por exemplo, preços expressos, preços normais) a partir da seção de administração, clicando no ícone e na seção Preços.
 
 [screenshot]
 
-These rules are organized as a stack in order of processing, the pricing at the top of the list will be the first to be processed by the software that will check if it matches the characteristics of the delivery, that is not the case the software will go to the second pricing in the list and so on. With each delivery created, this stack will be used to create the pricing. The choice is automatically made according to the criteria specified for each delivery.
+O preço é configurado no painel de administração por meio de um conjunto de regras com base nas seguintes variáveis:
+A distância que é medida em metros. Essa distância pode ser definida com os operadores de:
+- &gt; maior que *variável em metros*
+- &lt; menor que *variável em metros*
+entre duas variáveis
 
-For example, I create a rule that specifies a pricing:
-- in the department of 93 with cargo bike placed at the top of the pile;
-- in Paris intramural with cargo bike placed in the middle of the pile;
-- in intramural Paris placed at the bottom of the pile.
+O peso que é avaliado em gramas. Esse peso pode ser definido com os mesmos operadores que a distância. 
+A zona definida ao carregar um arquivo GeoJSON na configuração da instância;
+O tipo de bicicleta que é definido selecionando-o em uma lista na qual estão disponíveis:
+A bicicleta simples
+A bicicleta cargueira
 
-If a delivery is created involving a series of tasks in Paris intramural with a single bike, then the first rule will be ignored, and the second used as delivery basis. The precise rules (ie with the most variables) must be at the top of the stack and the most general ones at the bottom of the stack so that special cases are selected by the software as a basis for pricing. . If, for example, I take my pricing list higher as follows:
-in intramural paris;
-in Paris intramural with cargo bike;
-in the department of 93 with cargo bike.
+[screenshot]
 
-If a delivery is created for intramural Paris with a cargo bike, then the first rule will be ignored. The second corresponds to the delivery, its price will therefore be applied. The second rule being fulfilled, the third is ignored.
+Essas regras são organizadas como uma pilha em ordem de processamento; o preço no topo da lista será o primeiro a ser processado pelo software, que verificará se ele corresponde às características da entrega; não é o caso do software ir para o segundo preço na lista e assim por diante. Com cada entrega criada, essa pilha será usada para criar o preço. A escolha é feita automaticamente de acordo com os critérios especificados para cada entrega.
 
-The most precise rules (i.e. with the most parameters) must be at the top of the stack and the most general rules at the bottom of the stack, so that the specific cases are selected by the software as a basis for pricing. If, for example, I modify the above pricing as follows:
+Por exemplo, eu crio uma regra que especifica um preço:
+- no departamento 93 com bicicleta cargueira colocada no topo da pilha;
+- em Paris intramural com bicicleta cargueira colocada no meio da pilha;
+- na Paris intramural colocada no fundo da pilha.
 
-in intramural Paris;
-in intramural Paris with cargo bike;
-in the 93 department with cargo bike.
-If a delivery in intramural Paris is created with the need to deliver by cargo bike, the price specified for the first rule will apply because no type of bike is specified for it and the second will be ignored.
+Se uma entrega for criada envolvendo uma série de tarefas em Paris intramurais com uma única bicicleta, a primeira regra será ignorada e a segunda será usada como base de entrega. As regras precisas (ou seja, com a maioria das variáveis) devem estar no topo da pilha e as mais gerais na parte inferior da pilha, para que casos especiais sejam selecionados pelo software como base de preço. . Se, por exemplo, elevar minha lista de preços da seguinte forma:
+em Paris intramural;
+em Paris intramural com bicicleta cargueira;
+no departamento de 93 com bicicleta cargueira.
+
+Se uma entrega for criada para Paris intramural com uma bicicleta cargueira, a primeira regra será ignorada. O segundo corresponde à entrega, portanto seu preço será aplicado. A segunda regra sendo cumprida, a terceira é ignorada.
+
+As regras mais precisas (ou seja, com o maior número de parâmetros) devem estar no topo da pilha e as regras mais gerais na parte inferior da pilha, para que os casos específicos sejam selecionados pelo software como base para o preço. Se, por exemplo, eu modificar os preços acima da seguinte maneira:
+
+na Paris intramural;
+na Paris intramural com bicicleta cargueira;
+no departamento 93 com bicicleta cargueira.
+Se uma entrega em Paris intramural for criada com a necessidade de entrega por bicicleta cargueira, o preço especificado para a primeira regra será aplicado, porque nenhum tipo de bicicleta é especificado para ela e a segunda será ignorada.

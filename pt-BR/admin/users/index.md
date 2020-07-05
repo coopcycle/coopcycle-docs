@@ -1,8 +1,8 @@
 ---
-title: Users
-lang: en
+title: Usuários
+lang: pt-BR
 ref: admin-users
-parent: Users
-grand_parent: Admin's guide
+parent: Usuários
+grand_parent: Guia do Administrador
 nav_order: 7
 ---

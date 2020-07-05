@@ -1,46 +1,46 @@
 ---
-title: Time Slots
-lang: en
+title: Intervalos de Tempo
+lang: pt-BR
 ref: time-slots
-parent: Logistics
-grand_parent: Admin's guide
+parent: Logística
+grand_parent: Guia do Administrador
 nav_order: 3
 ---
 
-**Time Slots** allow to configure what time ranges will be proposed to a user requesting a delivery.
+**Intervalos de Tempo** permitem configurar quais intervalos de tempo serão propostos para um usuário solicitando uma entrega.
 
-In most cases, we don't want to let users decide of a precise time when the delivery needs to be done.
-Instead, we want them to choose a time range (for example, between 2PM and 4PM), so that we can organize with the other jobs.
+Na maioria dos casos, não queremos que os usuários decidam um horário preciso em que a entrega precisa ser feita.
+Em vez disso, queremos que eles escolham um intervalo de tempo (por exemplo, entre 14h e 16h), para que possamos nos organizar com os outros trabalhos.
 
-In the end, a **Time Slot** will translate to a dropdown like on the image below
+No final, um **intervalo de tempo** será traduzido para um menu suspenso, como na imagem abaixo
 
-![Time Slot Dropdown](/assets/images/time_slot_dropdown_en.png)
+![Menu suspenso de intervalo de tempo] (/assets/images/time_slot_dropdown_en.png)
 
 ---
 
-## Configuring Time Slots
+## Configuração de intervalos de tempo
 
-Depending on the way ou are working, you can either create a unique **Time Slot** for everybody, or create a custom **Time Slot** per customer.
+Dependendo da maneira como você está trabalhando, você pode criar um **Intervalo de Tempo** geral para todos, ou criar um **Intervalo de Tempo** personalizado por cliente.
 
-![Time Slots](/assets/images/time_slots_en.png)
+![Time Slots] (/assets/images/time_slots_en.png)
 
-### Interval
+### Intervalo
 
-The **Interval** setting allows to change the number of days that will appear in the dropdown.
-More or less, it allows to configure how much time in advance the user will be allowed to order a delivery.
+A configuração **Intervalo** permite alterar o número de dias que aparecerão no menu suspenso.
+Mais ou menos, permite configurar quanto tempo de antecedência o usuário poderá solicitar uma entrega.
 
-Actually, it's more complicated than that… because there are weekends.
+Na verdade, é mais complicado do que isso... porque há fins de semana.
 
-For example, let's say that you configure « 2 days », only during the week (from Monday to Friday).
-On Saturdays, the user will still be allowed to choose time ranges on Monday and Tuesday.
+Por exemplo, digamos que você configure "2 dias", apenas durante a semana (de segunda a sexta-feira).
+Aos sábados, o usuário ainda poderá escolher períodos na segunda e na terça-feira.
 
-### Prior Notice
+### Aviso prévio
 
-The **Prior Notice** setting allows to decide how much time in advance the user will be allowed to choose a time range.
+A configuração **Aviso prévio** permite decidir quanto tempo de antecedência o usuário poderá escolher um intervalo de tempo.
 
-For example, let's say that you configure a time range from 4PM to 6PM, with a 2 hours prior notice.
-It means that the user will be able to select the 4PM-6PM time range until 2PM.
+Por exemplo, digamos que você configure um intervalo de tempo das 16:00 às 18:00, com um aviso prévio de duas horas.
+Isso significa que o usuário poderá selecionar o intervalo de 16:00 às 18:00 até 14:00.
 
-### Same Day Cutoff
+### Corte do dia
 
-The **Same Day Cutoff** setting allows to decide until which time of the day it is possible to order for the same day.
+A configuração **corte do dia** permite decidir até que hora do dia é possível fazer o pedido para o mesmo dia.

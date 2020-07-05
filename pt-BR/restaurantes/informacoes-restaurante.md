@@ -65,6 +65,6 @@ Você encontrará nesta página **os termos do contrato** entre o coletivo de en
     - Parte a ser paga pelo cliente final ("Valor pago pelo cliente" por um custo fixo e "Taxas pagas pelo cliente" por uma taxa proporcional)
 - Valor mínimo da cesta
 - Taxas de plataforma para retirada no local.
-- Taxas de pagamento (faixa de pagamento): pagas pela plataforma ou pelo proprietário do restaurante
+- Taxas de pagamento (intervalo de pagamento): pagas pela plataforma ou pelo proprietário do restaurante
 
 Somente administradores podem modificar essas informações.
