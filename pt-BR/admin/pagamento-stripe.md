@@ -20,26 +20,26 @@ Por que o Stripe?
 
 O Stripe se estabeleceu como o "rols-Royce" dos serviços de pagamento. O serviço tem a reputação de ser de excelente qualidade. É possível encontrar serviços mais baratos, mas acreditamos que o preço vale a pena. Um ponto negativo conhecido sobre o Stripe é que a (boa) interface de administração do Stripe nem sempre está disponível no idioma do usuário.
 
-## O que é o "modo ao vivo" e o "modo de teste" do Stripe?
+## O que é o "modo produção" e o "modo de teste" do Stripe?
 
-A plataforma CoopCycle pode ser configurada para usar o modo "ao vivo" ou "teste" na aba "configurações". No modo de teste, os clientes não serão debitados. Você precisa usar cartões de teste (normalmente 4242 4242 4242 4242 4242). **Não se esqueça de mudar para o modo "ao vivo" antes de entrar em produção!**
+A plataforma CoopCycle pode ser configurada para usar o modo "produção" ou "teste" na aba "configurações". No modo de teste, os clientes não serão debitados. Você precisa usar cartões de teste (normalmente 4242 4242 4242 4242 4242). **Não se esqueça de mudar para o modo "produção" antes de entrar em produção!**
 
 ## Como configurar o Stripe/Stripe Connect na sua plataforma?
 
 1. Crie uma conta do Stripe <a target="_blank" href="https://dashboard.stripe.com/register"> aqui </a> e, em seguida:
-    * Obtenha as quatro chaves de distribuição da API (teste Privado/Público ao vivo, Privado/Público) aqui: <a target="_blank" href="https://dashboard.stripe.com/apikeys"> https://dashboard.stripe.com/apikeys </a> (<a target="_blank" href="https://www.youtube.com/watch?v=XLzg_K_0C5k"> em vídeo </a>)
-    * Obtenha os dois identificadores do Stripe Connect (ao vivo/teste) aqui: <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings"> https://dashboard.stripe.com/account/applications/settings </a>
+    * Obtenha as quatro chaves de distribuição da API (teste Privado/Público produção, Privado/Público) aqui: <a target="_blank" href="https://dashboard.stripe.com/apikeys"> https://dashboard.stripe.com/apikeys </a> (<a target="_blank" href="https://www.youtube.com/watch?v=XLzg_K_0C5k"> em vídeo </a>)
+    * Obtenha os dois identificadores do Stripe Connect (produção/teste) aqui: <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings"> https://dashboard.stripe.com/account/applications/settings </a>
     * Cole-os nos campos correspondentes na guia "parâmetros" do administrador.
 
-Nota: As chaves e IDs ativos e de teste não são exibidos na tela ao mesmo tempo. Há uma opção na página para exibir dados de teste ou ao vivo.
+Nota: As chaves e IDs ativos e de teste não são exibidos na tela ao mesmo tempo. Há uma opção na página para exibir dados de teste ou produção.
 
 2. Configure o URL de redirecionamento para o Stripe Connect
    * Vá para <a target="_blank" href="https://dashboard.stripe.com/account/applications/settings"> https://dashboard.stripe.com/account/applications/settings </a>
-   * Clique em "Adicionar URI de redirecionamento" (**Isso deve ser feito nos modos ao vivo e teste**). Em seguida, insira este valor "https://<nome_do_domínio>/stripe/connect/standard" (por exemplo, `https://demo.coopcycle.org/stripe/connect/standard`)
+   * Clique em "Adicionar URI de redirecionamento" (**Isso deve ser feito nos modos produção e teste**). Em seguida, insira este valor "https://<nome_do_domínio>/stripe/connect/standard" (por exemplo, `https://demo.coopcycle.org/stripe/connect/standard`)
 
 ## Como ativar sua conta do Stripe para usar a plataforma?
 
-Você precisa ativar sua conta do Stripe para começar a usar a plataforma "ao vivo". Clique em "Ativar sua conta" à esquerda e insira as informações necessárias. (vídeo: <a target="_blank" href="https://www.youtube.com/watch?v=XLzg_K_0C5k"> https://www.youtube.com/watch?v=XLzg_K_0C5k </a>)
+Você precisa ativar sua conta do Stripe para começar a usar a plataforma "produção". Clique em "Ativar sua conta" à esquerda e insira as informações necessárias. (vídeo: <a target="_blank" href="https://www.youtube.com/watch?v=XLzg_K_0C5k"> https://www.youtube.com/watch?v=XLzg_K_0C5k </a>)
 
 ## Como ver o dinheiro ganho através da plataforma?
 
