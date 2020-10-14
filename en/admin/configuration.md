@@ -3,7 +3,7 @@ title: Configuration
 lang: en
 ref: admin-restaurants
 parent: Admin's guide
-nav_order: 2
+nav_order: 1
 ---
 
 # Configuration of your software

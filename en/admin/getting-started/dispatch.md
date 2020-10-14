@@ -1,8 +1,8 @@
 ---
-title: Dashboard
+title: Dispatch
 lang: en
-ref: dashboard
-parent: Logistics
+ref: dispatch
+parent: Getting Started
 grand_parent: Admin's guide
 nav_order: 1
 custom_scripts:
@@ -10,7 +10,7 @@ custom_scripts:
   - "/assets/scripts/zoom.js"
 ---
 
-# Dashboard
+# Dispatch
 
 The administration dashboard (called dashboard in this document) allows you to control all the functions for creating and managing tasks as well as to manage the dispatch of couriers manually. It is possible to display it in full screen by clicking on the button
 

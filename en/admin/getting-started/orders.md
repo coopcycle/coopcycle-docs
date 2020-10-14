@@ -2,9 +2,9 @@
 title: Orders
 lang: en
 ref: deliveries
-parent: Logistics
+parent: Getting Started
 grand_parent: Admin's guide
-nav_order: 4
+nav_order: 2
 ---
 
 The delivery tab is used to display the list of deliveries and tasks.

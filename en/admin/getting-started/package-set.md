@@ -2,9 +2,9 @@
 title: Package Sets
 lang: en
 ref: packages-set
-parent: Logistics
+parent: Getting Started
 grand_parent: Admin's guide
-nav_order: 4
+nav_order: 3
 ---
 
 **Package Sets** allow to configure different units of volume when stores create orders.

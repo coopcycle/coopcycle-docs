@@ -2,9 +2,9 @@
 title: Time Slots
 lang: en
 ref: time-slots
-parent: Logistics
+parent: Getting Started
 grand_parent: Admin's guide
-nav_order: 3
+nav_order: 5
 ---
 
 **Time Slots** allow to configure what time ranges will be proposed to a user requesting a delivery.

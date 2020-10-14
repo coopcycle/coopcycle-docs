@@ -3,7 +3,7 @@ title: Users
 lang: en
 ref: admin-users
 parent: Admin's guide
-nav_order: 5
+nav_order: 6
 ---
 
 # Management of users

@@ -3,6 +3,7 @@ title: Using the CoopCycle API
 lang: en
 ref: dev-api
 parent: Developer
+nav_order: 1
 ---
 
 # Using the CoopCycle API

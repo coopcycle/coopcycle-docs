@@ -1,16 +1,23 @@
+---
 title: Create a Restaurant
 lang: en
 ref: creation-restaurant
 parent: Restaurant's guide
-nav_order: 5
+nav_order: 3
+---
 
-# Create a Restaurant
+>To create your e-commerce store please contact the cooperative of CoopCycle from your city. Only an administrator can create a new e-commerce store.
 
-Please contact a cooperative of CoopCycle. Only an administrator can create a new restaurant.
+## Creating an e-commerce store on the platform
 
-## Step 1 : Add General information
+1. Click `Restaurant` on the top menu bar.
+2. Click `Create a new restaurant`.
 
-Now you have to add general information about your restaurant. Some of these informations would be possibly editing later with your restaurant account, but other - such as the terms of the contract or options - are only accessible with adminstrator account. 4 tabs have to be complete :
+![create](/assets/images/create-resto-en-1.png)
+
+### Add General information
+
+On the next screen you need to input the store details. These can be edited at a later date.
 
 - [General](#General)
 - [Options](#Options)

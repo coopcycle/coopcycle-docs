@@ -1,7 +1,7 @@
 ---
 title: Tableau de bord
 lang: fr
-ref: dashboard
+ref: dispatch
 parent: Fonctionnalités logistiques
 grand_parent: Guide de l'administrateur
 nav_order: 3

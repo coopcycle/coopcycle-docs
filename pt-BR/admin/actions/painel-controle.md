@@ -1,7 +1,7 @@
 ---
 title: Painel de Controle
 lang: pt-BR
-ref: dashboard
+ref: dispatch
 parent: Logística
 grand_parent: Guia do Administrador
 nav_order: 1

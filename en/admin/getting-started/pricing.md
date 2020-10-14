@@ -2,9 +2,9 @@
 title: Pricing
 lang: en
 ref: pricings
-parent: Logistics
+parent: Getting Started
 grand_parent: Admin's guide
-nav_order: 2
+nav_order: 4
 ---
 
 # Pricing

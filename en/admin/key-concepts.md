@@ -3,7 +3,7 @@ title: Key concepts
 lang: en
 ref: key-concepts
 parent: Admin's guide
-nav_order: 1
+nav_order: 2
 ---
 
 # Key concepts

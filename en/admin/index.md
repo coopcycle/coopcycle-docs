@@ -3,7 +3,7 @@ lang: en
 title: Admin's guide
 ref: admin-home
 has_children: true
-nav_order: 2
+nav_order: 7
 ---
 
 # Admin's guide
