@@ -1,9 +1,8 @@
 ---
 title: Creation des restaurants
 lang: fr
-ref: admin-restaurant
-parent: Restaurants
-grand_parent: Guide de l'administrateur
+ref: creation-restaurant
+parent: Guide du restaurant
 nav_order: 1
 custom_scripts:
   - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"

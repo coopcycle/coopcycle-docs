@@ -2,8 +2,7 @@
 title: Gestion des restaurants
 lang: fr
 ref: admin-restaurant
-parent: Restaurants
-grand_parent: Guide de l'administrateur
+parent: Guide du restaurant
 nav_order: 2
 ---
 
