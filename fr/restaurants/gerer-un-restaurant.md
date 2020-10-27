@@ -4,6 +4,8 @@ lang: fr
 ref: admin-restaurant
 parent: Guide du restaurant
 nav_order: 2
+redirect_from:
+  - /fr/administrateur/restaurants/gerer-un-restaurant.html
 ---
 
 # Gérer un restaurant

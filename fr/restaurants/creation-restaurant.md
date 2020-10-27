@@ -7,6 +7,8 @@ nav_order: 1
 custom_scripts:
   - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
   - "/assets/scripts/zoom.js"
+redirect_from:
+  - /fr/administrateur/restaurants/creation-restaurant.html
 ---
 
 # Création des restaurants
