@@ -1,0 +1,310 @@
+{"0": {
+    "doc": "Restaurants",
+    "title": "Restaurants",
+    "hpath": "admin.users.restaurants",
+    "content": " ",
+    "url": "http://localhost:4000/notes/020e07ff-d946-48fe-a528-f01be68c5f70.html",
+    "relUrl": "/notes/020e07ff-d946-48fe-a528-f01be68c5f70.html"
+  },"1": {
+    "doc": "Suggestions",
+    "title": "Suggestions",
+    "hpath": "admin.configuration.suggestions",
+    "content": " ",
+    "url": "http://localhost:4000/notes/04f81709-8f7e-4965-bca4-c716540aacc6.html",
+    "relUrl": "/notes/04f81709-8f7e-4965-bca4-c716540aacc6.html"
+  },"2": {
+    "doc": "Developer",
+    "title": "Developer",
+    "hpath": "developer",
+    "content": " ",
+    "url": "http://localhost:4000/notes/110e618f-e566-490b-bdf3-87c4b95476bd.html",
+    "relUrl": "/notes/110e618f-e566-490b-bdf3-87c4b95476bd.html"
+  },"3": {
+    "doc": "API",
+    "title": "API",
+    "hpath": "developer.api",
+    "content": " ",
+    "url": "http://localhost:4000/notes/185bdd50-4444-4c31-b8bd-2febd4284760.html",
+    "relUrl": "/notes/185bdd50-4444-4c31-b8bd-2febd4284760.html"
+  },"4": {
+    "doc": "Orders",
+    "title": "Orders",
+    "hpath": "admin.orders",
+    "content": " ",
+    "url": "http://localhost:4000/notes/222abb37-c573-45fd-88db-983c22d39e9f.html",
+    "relUrl": "/notes/222abb37-c573-45fd-88db-983c22d39e9f.html"
+  },"5": {
+    "doc": "Configuration",
+    "title": "Configuration",
+    "hpath": "admin.configuration",
+    "content": ". This is where you find the general settings for your instance. ",
+    "url": "http://localhost:4000/notes/26e9af49-0524-496c-a5db-db625198575e.html",
+    "relUrl": "/notes/26e9af49-0524-496c-a5db-db625198575e.html"
+  },"6": {
+    "doc": "Zones",
+    "title": "Zones",
+    "hpath": "admin.configuration.zones",
+    "content": " ",
+    "url": "http://localhost:4000/notes/288a37cc-ef9e-42eb-9269-5e888350e0e2.html",
+    "relUrl": "/notes/288a37cc-ef9e-42eb-9269-5e888350e0e2.html"
+  },"7": {
+    "doc": "Admin",
+    "title": "Admin",
+    "hpath": "admin",
+    "content": ". ",
+    "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html",
+    "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html"
+  },"8": {
+    "doc": "Admin",
+    "title": "Admin access",
+    "hpath": "admin",
+    "content": "Having admin access means your local coop has an instance on the CoopCycle platform (e.g.: https://awesomecoop.coopcycle.org) . If you have admin access it means your user account on your CoopCycle instance has been given admin privileges by the developer. ",
+    "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-access",
+    "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-access"
+  },"9": {
+    "doc": "Admin",
+    "title": "Admin privileges",
+    "hpath": "admin",
+    "content": "Admin privileges means you have full control over your CoopCycle instance. Check the sub-categories under Admin to learn more about your instance. ",
+    "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-privileges",
+    "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-privileges"
+  },"10": {
+    "doc": "Deliveries",
+    "title": "Deliveries",
+    "hpath": "admin.deliveries",
+    "content": " ",
+    "url": "http://localhost:4000/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html",
+    "relUrl": "/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html"
+  },"11": {
+    "doc": "Customers",
+    "title": "Customers",
+    "hpath": "admin.users.customers",
+    "content": " ",
+    "url": "http://localhost:4000/notes/3ff0f62b-88e0-4373-ade9-369aae214882.html",
+    "relUrl": "/notes/3ff0f62b-88e0-4373-ade9-369aae214882.html"
+  },"12": {
+    "doc": 404,
+    "title": "404",
+    "hpath": null,
+    "content": "Page not found . ",
+    "url": "http://localhost:4000/404.html#404",
+    "relUrl": "/404.html#404"
+  },"13": {
+    "doc": 404,
+    "title": 404,
+    "hpath": null,
+    "content": " ",
+    "url": "http://localhost:4000/404.html",
+    "relUrl": "/404.html"
+  },"14": {
+    "doc": "Stores",
+    "title": "Stores",
+    "hpath": "admin.users.stores",
+    "content": " ",
+    "url": "http://localhost:4000/notes/4bae6a67-b72f-4396-a187-70789f8a1da7.html",
+    "relUrl": "/notes/4bae6a67-b72f-4396-a187-70789f8a1da7.html"
+  },"15": {
+    "doc": "Packages",
+    "title": "Packages",
+    "hpath": "admin.configuration.packages",
+    "content": " ",
+    "url": "http://localhost:4000/notes/5b594171-ff51-428b-8faa-3afa4a535f9d.html",
+    "relUrl": "/notes/5b594171-ff51-428b-8faa-3afa4a535f9d.html"
+  },"16": {
+    "doc": "Pricing",
+    "title": "Pricing",
+    "hpath": "admin.configuration.pricing",
+    "content": " ",
+    "url": "http://localhost:4000/notes/5d597864-b0c0-4248-ac5d-1152de165149.html",
+    "relUrl": "/notes/5d597864-b0c0-4248-ac5d-1152de165149.html"
+  },"17": {
+    "doc": "Users",
+    "title": "Users",
+    "hpath": "admin.users",
+    "content": " ",
+    "url": "http://localhost:4000/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html",
+    "relUrl": "/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html"
+  },"18": {
+    "doc": "API",
+    "title": "API",
+    "hpath": "admin.configuration.api",
+    "content": "API to integrate the CoopCycle plugin for WordPress websites with WooCommerce. API is a pair of keys (Identifier and Secret key) which you use to integrate different softwares. ",
+    "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#api",
+    "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#api"
+  },"19": {
+    "doc": "API",
+    "title": "First things first",
+    "hpath": "admin.configuration.api",
+    "content": "If you need to create and use this API it means your client (a business you deliver for) have a WordPress online shop with WooCommerce. ",
+    "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#first-things-first",
+    "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#first-things-first"
+  },"20": {
+    "doc": "API",
+    "title": "What does the API do?",
+    "hpath": "admin.configuration.api",
+    "content": "It allows for purchases on a WordPress website with WooCommerce be sent directly into your CoopCycle instance. These purchases (orders) will show up under your client’s Store account. ",
+    "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#what-does-the-api-do",
+    "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#what-does-the-api-do"
+  },"21": {
+    "doc": "API",
+    "title": "Create the API keys",
+    "hpath": "admin.configuration.api",
+    "content": "Before creating the keys (Identifier and Secret key) you need to create a Store for that business. A pair of API keys are created for each individual Store. | Click the + Add button | Give your API key pair a name under App name | Choose the Store under Store | Click the blue button Save | . After you’ve created the keys, you will be automatically directed to the API main page. The newly created API keys should like this with the respective name and Store you chose. ",
+    "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#create-the-api-keys",
+    "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#create-the-api-keys"
+  },"22": {
+    "doc": "API",
+    "title": "Use the API keys",
+    "hpath": "admin.configuration.api",
+    "content": "⚠️ You have to share these keys only with the developer of the WordPress website who will set up the CoopCycle plugin. Use the Copy button for each key and send them securely to the person who will configure the plugin. To learn how to set up the CoopCycle plugin go here. ",
+    "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#use-the-api-keys",
+    "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#use-the-api-keys"
+  },"23": {
+    "doc": "API",
+    "title": "API",
+    "hpath": "admin.configuration.api",
+    "content": "| ",
+    "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html",
+    "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html"
+  },"24": {
+    "doc": "External Display (Order Form)",
+    "title": "External display (Order form)",
+    "hpath": "admin.configuration.externaldisplay",
+    "content": "The order form can be embedded on any website external to the CoopCycle platform. It allows for anyone to place an order on your instance without requiring a user account. Delivery creation form . | Click the + Add button | Choose a Pricing | Choose a Time slot or select the deafult option. a. The default option allows for custom date and time selection. | Select the default option for Package set Package set option will be deprecated in the near future. | Add vechicle choice. If checked it will give a simple choice to the customer to select between biycle or cargo bike. | If checked, Ask for weight of goods make it mandatory to the customer to insert the weight of their in kilograms. | . ",
+    "url": "http://localhost:4000/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html#external-display-order-form",
+    "relUrl": "/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html#external-display-order-form"
+  },"25": {
+    "doc": "External Display (Order Form)",
+    "title": "External Display (Order Form)",
+    "hpath": "admin.configuration.externaldisplay",
+    "content": "| ",
+    "url": "http://localhost:4000/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html",
+    "relUrl": "/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html"
+  },"26": {
+    "doc": "Timeslots",
+    "title": "Timeslots",
+    "hpath": "admin.configuration.timeslots",
+    "content": " ",
+    "url": "http://localhost:4000/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html",
+    "relUrl": "/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html"
+  },"27": {
+    "doc": "Taxation",
+    "title": "Taxation",
+    "hpath": "admin.configuration.taxation",
+    "content": " ",
+    "url": "http://localhost:4000/notes/a2c42910-57df-4b50-84b1-73201ca0a1d7.html",
+    "relUrl": "/notes/a2c42910-57df-4b50-84b1-73201ca0a1d7.html"
+  },"28": {
+    "doc": "Statistics",
+    "title": "Statistics",
+    "hpath": "admin.statistics",
+    "content": " ",
+    "url": "http://localhost:4000/notes/b72d9fda-2717-4289-b9a1-b22db54665aa.html",
+    "relUrl": "/notes/b72d9fda-2717-4289-b9a1-b22db54665aa.html"
+  },"29": {
+    "doc": "Dashboard",
+    "title": "Dashboard",
+    "hpath": "admin.dashboard",
+    "content": " ",
+    "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html",
+    "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html"
+  },"30": {
+    "doc": "Courier",
+    "title": "Courier",
+    "hpath": "admin.users.courier",
+    "content": " ",
+    "url": "http://localhost:4000/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html",
+    "relUrl": "/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html"
+  },"31": {
+    "doc": "Settings",
+    "title": "Settings",
+    "hpath": "admin.configuration.settings",
+    "content": " ",
+    "url": "http://localhost:4000/notes/c1ab6c62-c38a-4484-8734-693095c52733.html",
+    "relUrl": "/notes/c1ab6c62-c38a-4484-8734-693095c52733.html"
+  },"32": {
+    "doc": "Customize",
+    "title": "Customize",
+    "hpath": "admin.configuration.customize",
+    "content": "Here you can customize the front-page of your instance and add your coop's legal documentation. ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#customize",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#customize"
+  },"33": {
+    "doc": "Customize",
+    "title": "Motto",
+    "hpath": "admin.configuration.customize",
+    "content": ". | Here you can write anything you want for customers to see when they visit your instance. | Click Save at the bottom of the page. | . Navigate to your instance to check it out. 💡 Markdown . The text boxes where you write your custom documentation are in Markdown format. You can write your docs in plain text or check here on how to format in Markdown, it's super easy and fun! ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#motto",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#motto"
+  },"34": {
+    "doc": "Customize",
+    "title": "Enable about us page",
+    "hpath": "admin.configuration.customize",
+    "content": "Checking the box will display an About us link on the header on the front-page of your instance. About us page content . Here you can insert a short description of your coop in the box on the left (Markdown format). The box on the right will show a Rich-text preview. Make sure to check ☑️ Enable about us page . The following three sections are displayed in the links in the footer of your instance. You have to enable ☑️ each, otherwise the default CoopCycle documentation will be displayed. ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#enable-about-us-page",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#enable-about-us-page"
+  },"35": {
+    "doc": "Customize",
+    "title": "Custom legal notice page content",
+    "hpath": "admin.configuration.customize",
+    "content": "Here you can insert your coop’s Legal notice documentation. ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-legal-notice-page-content",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-legal-notice-page-content"
+  },"36": {
+    "doc": "Customize",
+    "title": "Custom terms &amp; conditions page content",
+    "hpath": "admin.configuration.customize",
+    "content": "Here you can insert your coop’s Terms &amp; Conditions. ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-terms--conditions-page-content",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-terms--conditions-page-content"
+  },"37": {
+    "doc": "Customize",
+    "title": "Custom privacy policy page content",
+    "hpath": "admin.configuration.customize",
+    "content": "Here you can insert your coop’s Privacy Policy. ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-privacy-policy-page-content",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-privacy-policy-page-content"
+  },"38": {
+    "doc": "Customize",
+    "title": "Custom banner",
+    "hpath": "admin.configuration.customize",
+    "content": "Here you can change the banner on your instance. The default one for every instance is the one under the Motto section. To update your banner simply drag &amp; drop the file in the dashed rectangle. File format has to be .svg and recommended size is 300x100px. ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-banner",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-banner"
+  },"39": {
+    "doc": "Customize",
+    "title": "Customize",
+    "hpath": "admin.configuration.customize",
+    "content": "| ",
+    "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html",
+    "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html"
+  },"40": {
+    "doc": "Tags",
+    "title": "Tags",
+    "hpath": "admin.configuration.tags",
+    "content": " ",
+    "url": "http://localhost:4000/notes/ca1e0937-a622-4292-a2e9-ea57c0cf2b92.html",
+    "relUrl": "/notes/ca1e0937-a622-4292-a2e9-ea57c0cf2b92.html"
+  },"41": {
+    "doc": "Promotions",
+    "title": "Promotions",
+    "hpath": "admin.configuration.promotions",
+    "content": " ",
+    "url": "http://localhost:4000/notes/e58b8faf-356f-4a50-a764-ad9dcc270f8a.html",
+    "relUrl": "/notes/e58b8faf-356f-4a50-a764-ad9dcc270f8a.html"
+  },"42": {
+    "doc": "Gettins started",
+    "title": "Welcome to the Docs!",
+    "hpath": "root",
+    "content": ". To get started go to the respective documentation depending on your access: . | Admin / Coop | Courier | Customer | E-commerce shop owner | Store owner | . This documentation is hosted on GitHub Pages. You can use the “Edit this page” button to be redirected to the GitHub online editor. For a guide on how to edit the docs see Edit Docs. ",
+    "url": "http://localhost:4000/#welcome-to-the-docs",
+    "relUrl": "/#welcome-to-the-docs"
+  },"43": {
+    "doc": "Gettins started",
+    "title": "Gettins started",
+    "hpath": "root",
+    "content": "| ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  }
+}
