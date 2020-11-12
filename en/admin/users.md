@@ -8,7 +8,7 @@ nav_order: 6
 
 # Management of users
 
-The list of administrators is disponible in the page `Users`. This list describes accounts which are inscribed on the platform and their associated informations. It also enables to add/create a new user.
+The list of administrators is available in the page `Users`. This list describes accounts which are inscribed on the platform and their associated informations. It also enables to add/create a new user.
 
 ## User profil
 
