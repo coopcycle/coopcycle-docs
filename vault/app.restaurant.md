@@ -1,7 +1,7 @@
 ---
 id: 7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16
 title: Restaurant
-desc: ""
+desc: ''
 updated: 1605207945212
 created: 1605207746067
 ---

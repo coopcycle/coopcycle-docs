@@ -5,8 +5,8 @@ desc: ''
 updated: 1605205496016
 created: 1604767433483
 custom_scripts:
-  - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
-  - "/assets/scripts/zoom.js"
+  - 'https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js'
+  - /assets/scripts/zoom.js
 ---
 
 The delivery tab is used to display the list of deliveries and tasks.

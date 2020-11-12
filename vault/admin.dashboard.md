@@ -1,12 +1,12 @@
 ---
 id: bb18d7f9-cecb-4ac1-b69d-88c7bf28c895
 title: Dashboard
-desc: ""
+desc: ''
 updated: 1605203692033
 created: 1604766036139
 custom_scripts:
-  - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
-  - "/assets/scripts/zoom.js"
+  - 'https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js'
+  - /assets/scripts/zoom.js
 ---
 
 # Dispatch

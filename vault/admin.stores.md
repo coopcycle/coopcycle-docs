@@ -1,7 +1,7 @@
 ---
 id: 70546c61-ca21-4276-9263-d9aaefac7c44
 title: Stores
-desc: ""
+desc: ''
 updated: 1605210372542
 created: 1605204479484
 ---

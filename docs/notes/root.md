@@ -1,14 +1,20 @@
 ---
 id: root
-title: Gettins started
+title: Getting started
 desc: ''
-updated: 1604775072864
+updated: 1605213156987
 created: 1604763545555
 parent: null
 children:
   - 2ef3587e-bc8d-4d67-8496-1e9536df5c3c
   - 472c5df7-1fdf-42db-95fa-381245efb5b9
+  - c077f31c-eb81-41c8-a1fc-dfe6f9c5906d
+  - 3ff0f62b-88e0-4373-ade9-369aae214882
   - 110e618f-e566-490b-bdf3-87c4b95476bd
+  - 46bdebf4-9ed7-4c0b-8525-f540aa7297f8
+  - 2ee1ef8b-3424-4624-8764-685e6769e015
+  - 020e07ff-d946-48fe-a528-f01be68c5f70
+  - 4bae6a67-b72f-4396-a187-70789f8a1da7
 nav_order: 0
 fname: root
 hpath: root
@@ -25,16 +31,17 @@ permalink: /
 
 To get started go to the respective documentation depending on your access:
 
-- [Admin / Coop](<>)
-- [Courier](<>)
-- [Customer](<>)
-- [E-commerce shop owner](<>)
-- [Store owner](<>)
+- [Admin / Coop](notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c)
+- [Courier](notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d)
+- [Customer](notes/3ff0f62b-88e0-4373-ade9-369aae214882)
+- [Restaurant / E-commerce](notes/020e07ff-d946-48fe-a528-f01be68c5f70)
+- [Store](notes/4bae6a67-b72f-4396-a187-70789f8a1da7)
 
 * * *
 
-> This documentation is hosted on [GitHub Pages](https://pages.github.com/). 
-> You can use the "Edit this page" button to be redirected to the GitHub online editor.
-
-For a guide on how to edit the docs see [Edit Docs](<>).
+<div class="alert alert-success" role="alert">
+This documentation is hosted on <a class="alert-link" href="https://pages.github.com/">GitHub Pages</a>. 
+You can use the "Edit this page" button to be redirected to the GitHub online editor.<br>
+For a guide on how to edit the docs see Edit docs.
+</div>
 

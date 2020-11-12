@@ -5,8 +5,8 @@ desc: ''
 updated: 1605209408313
 created: 1605208498122
 custom_scripts:
-  - "https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js"
-  - "/assets/scripts/zoom.js"
+  - 'https://cdnjs.cloudflare.com/ajax/libs/jquery-zoom/1.7.21/jquery.zoom.min.js'
+  - /assets/scripts/zoom.js
 ---
 
 # Creating restaurants
