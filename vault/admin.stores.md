@@ -1,0 +1,52 @@
+---
+id: 70546c61-ca21-4276-9263-d9aaefac7c44
+title: Stores
+desc: ""
+updated: 1605210372542
+created: 1605204479484
+---
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
+# Stores
+
+<div class="alert alert-info" role="alert">
+In CoopCycle's "vocabulary", a <strong>Store</strong> represents a B2B customer, i.e. a professional merchant to whom the cooperative offers its delivery services.<br><br>
+Basically, a <strong>Store</strong> is a container for deliveries.<br>
+Users can be attached to a <strong>Store</strong>, and once attached, they can use the web interface to order deliveries using a form.
+The deliveries ordered this way land directly in the dispatch.
+</div>
+
+---
+
+## Creating a store
+
+Click on the <span class="badge badge-success">+ Create a new store</span> button.
+
+## Setting up a store
+
+### Store Settings
+
+The settings will change the behavior of the form to order a delivery.
+
+![Store Settings](/assets/images/store_settings_en.png)
+
+#### Pricing
+
+This allows to decide how the prices for this **Store** will be calculated.
+You can choose among the **Pricing Rules** that you have configured previously.
+
+[Learn more about defining Pricing Rules](/en/admin/actions/pricing.html).
+
+<div class="alert alert-warning" role="alert">
+<h3 class="alert-heading">⚠️ Heads up!</h3>If you want the price to be displayed to the user, you need to check the <strong>Create orders</strong> checkbox.
+</div>
+
+#### Time Slot
+
+This allows to decide which time slots the user will be able to select.
+
+[Learn more about defining Time Slots](/en/admin/actions/time-slots.html).

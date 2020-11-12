@@ -1,23 +1,94 @@
 ---
 id: 2ef3587e-bc8d-4d67-8496-1e9536df5c3c
 title: Admin
-desc: ''
-updated: 1604776263701
+desc: ""
+updated: 1605205344502
 created: 1604763615065
 ---
 
-# Admin
+# Admin's guide
+
 ---
+
+Welcome to the administrator's guide for the CoopCycle platform.
+
+Our software is a complete logistics and e-commerce system allowing the delivery of a product from A to B. Our platform is dedicated to bicycle delivery and its license is designed to reserve the use for worker owned co-operatives only.
+
+The platform is composed of two components:
+
+## Logistics
+
+Pickup and dropoff management organised into a task system (two tasks form a delivery) allowing the following user actions:
+
+- The **administrator**:
+  - can assign tasks or task lists to a courier.
+  - can track the position of a courier in real time from the dispatch (dashboard) screen; assigning tasks can be done the day before or in real time.
+  - can manage pricing for stores (by weight, distance, zone, type of bike).
+- The **courier**:
+
+  - will receive the tasks on their smartphone (iOS and Android).
+  - can mark a task as completed or failed and can add a comment.
+
+- The **customer**:
+  - can place an order on the platform and pay (price calculation is automated and secured through Stripe).
+
+## E-commerce
+
+Management of restaurants and shops, allowing the following user actions:
+
+- The **customer**:
+
+  - can place an order via the platform (website) or via the smartphone application.
+  - can place an order from a restaurant, by inputing their address and selecting a delivery time.
+
+- The **business**:
+  - receives the order in real time, they can then accept or reject it.
+  - can mark the order as ready, in this case the courier is notified.
+  - can manage their menu online.
 
 ## Admin access
 
 Having admin access means your local coop has an instance on the CoopCycle platform (e.g.: https://awesomecoop.coopcycle.org)
 
-If you have admin access it means your user account on your [CoopCycle](https://coopcycle.org/en/) instance has been given admin privileges by the developer. 
-
+If you have admin access it means your user account on your [CoopCycle](https://coopcycle.org/en/) instance has been given admin privileges by the developer.
 
 ## Admin privileges
 
-Admin privileges means you have full control over your CoopCycle instance. 
+Admin privileges means you have full control over your CoopCycle instance.
 
 Check the sub-categories under **Admin** to learn more about your instance.
+
+# Key concepts
+
+---
+
+## Tasks and Orders
+
+### Tasks
+
+A **task** is the smallest unit of a delivery order.
+
+A **task** is a To-Do unit under a specific address and a set timeframe.
+
+There are **two** types of tasks:
+- **Pickup** or Collection
+- **Dropoff** or Delivery
+
+Each **order** consists of a minimum of two **tasks** that a dispatcher assigns to a courier.
+
+#### Pickup and Dropoff
+
+The following information must be completed by the dispatcher for each task:
+- Address
+- Time range
+- Commentary
+
+The following information is used to track the progress of a task in the delivery process:
+
+- Status
+- History
+The courier must pick up merchandise at an address and bring it to another address.
+
+## Orders
+
+Assign two or more tasks to a delivery person creating a delivery. When the Retrieve and Drop tasks are created, the dispatcher assigns these tasks manually in the most optimal order that they judge. The creation of a delivery is materialized on the map by means of a GPS track which is proposed to the courier for delivery.
