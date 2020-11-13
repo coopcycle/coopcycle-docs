@@ -2,21 +2,21 @@
     "doc": "Restaurants",
     "title": "Restaurants",
     "hpath": "restaurant",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/020e07ff-d946-48fe-a528-f01be68c5f70.html",
     "relUrl": "/notes/020e07ff-d946-48fe-a528-f01be68c5f70.html"
   },"1": {
     "doc": "Suggestions",
     "title": "Suggestions",
     "hpath": "admin.configuration.suggestions",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/04f81709-8f7e-4965-bca4-c716540aacc6.html",
     "relUrl": "/notes/04f81709-8f7e-4965-bca4-c716540aacc6.html"
   },"2": {
     "doc": "Product settings",
     "title": "Product settings",
     "hpath": "admin.restaurants.productsettings",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/06998b4a-f9e0-4bea-a20f-32ec678214cc.html",
     "relUrl": "/notes/06998b4a-f9e0-4bea-a20f-32ec678214cc.html"
   },"3": {
@@ -44,28 +44,28 @@
     "doc": "API",
     "title": "API",
     "hpath": "developer.api",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/185bdd50-4444-4c31-b8bd-2febd4284760.html",
     "relUrl": "/notes/185bdd50-4444-4c31-b8bd-2febd4284760.html"
   },"7": {
     "doc": "Payment",
-    "title": "Configure payment handler",
+    "title": "Configure payment processor",
     "hpath": "admin.restaurants.generalsettings.payment",
-    "content": ". Refer to th following documentation on how to configure your payment handler. Configure Stripe Configure Adyen Configure MercadoPago . ",
-    "url": "http://localhost:4000/notes/19caa901-4e9d-49c6-84b9-4b3a4da301dc.html#configure-payment-handler",
-    "relUrl": "/notes/19caa901-4e9d-49c6-84b9-4b3a4da301dc.html#configure-payment-handler"
+    "content": ". Refer to th following documentation on how to configure your payment processor. Configure Stripe Configure Adyen Configure MercadoPago . ",
+    "url": "http://localhost:4000/notes/19caa901-4e9d-49c6-84b9-4b3a4da301dc.html#configure-payment-processor",
+    "relUrl": "/notes/19caa901-4e9d-49c6-84b9-4b3a4da301dc.html#configure-payment-processor"
   },"8": {
     "doc": "Payment",
     "title": "Payment",
     "hpath": "admin.restaurants.generalsettings.payment",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/19caa901-4e9d-49c6-84b9-4b3a4da301dc.html",
     "relUrl": "/notes/19caa901-4e9d-49c6-84b9-4b3a4da301dc.html"
   },"9": {
     "doc": "Adyen",
     "title": "Adyen",
     "hpath": "paymentprocessors.adyen",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/1cd85f53-e489-402b-85c1-be683a3b91fc.html",
     "relUrl": "/notes/1cd85f53-e489-402b-85c1-be683a3b91fc.html"
   },"10": {
@@ -73,8 +73,8 @@
     "title": "Orders",
     "hpath": "admin.orders",
     "content": "Orders page displays the orders engaged by clients on the platform. It enables to manage restaurant’s orders. There are two types of orders : . | Foodtech orders, engaged by end customers | Orders of deliveries, engaged with the integrated form for instance. | . An order can have these following status : . | New, the order was not accepted by the restaurant yet | Accepted, the order is in preparation | Refused, the order has been refused | Ready, the order is waiting a bike messenger or its delivery is underway | Done, the order was delivered | Cancelled, the order was cancelled by the client or the restaurant | . ",
-    "url": "http://localhost:4000/notes/222abb37-c573-45fd-88db-983c22d39e9f.html",
-    "relUrl": "/notes/222abb37-c573-45fd-88db-983c22d39e9f.html"
+    "url": "http://localhost:4000/notes/222abb37-c573-45fd-88db-983c22d39e9f.html#orders",
+    "relUrl": "/notes/222abb37-c573-45fd-88db-983c22d39e9f.html#orders"
   },"11": {
     "doc": "Orders",
     "title": "List of orders",
@@ -83,867 +83,902 @@
     "url": "http://localhost:4000/notes/222abb37-c573-45fd-88db-983c22d39e9f.html#list-of-orders",
     "relUrl": "/notes/222abb37-c573-45fd-88db-983c22d39e9f.html#list-of-orders"
   },"12": {
+    "doc": "Orders",
+    "title": "Orders",
+    "hpath": "admin.orders",
+    "content": "| ",
+    "url": "http://localhost:4000/notes/222abb37-c573-45fd-88db-983c22d39e9f.html",
+    "relUrl": "/notes/222abb37-c573-45fd-88db-983c22d39e9f.html"
+  },"13": {
     "doc": "Configuration",
     "title": "Configuration",
     "hpath": "admin.configuration",
     "content": ". This is where you find the general settings for your instance. ",
+    "url": "http://localhost:4000/notes/26e9af49-0524-496c-a5db-db625198575e.html#configuration",
+    "relUrl": "/notes/26e9af49-0524-496c-a5db-db625198575e.html#configuration"
+  },"14": {
+    "doc": "Configuration",
+    "title": "Configuration",
+    "hpath": "admin.configuration",
+    "content": "| ",
     "url": "http://localhost:4000/notes/26e9af49-0524-496c-a5db-db625198575e.html",
     "relUrl": "/notes/26e9af49-0524-496c-a5db-db625198575e.html"
-  },"13": {
+  },"15": {
     "doc": "Zones",
     "title": "Zones",
     "hpath": "admin.configuration.zones",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/288a37cc-ef9e-42eb-9269-5e888350e0e2.html",
     "relUrl": "/notes/288a37cc-ef9e-42eb-9269-5e888350e0e2.html"
-  },"14": {
+  },"16": {
     "doc": "Plugin",
     "title": "Plugin",
     "hpath": "plugin",
     "content": ". CoopCycle plugins that can be used to integrate with third-party websites. | WordPress plugin for WooCommerce | PrestaShop plugin (coming soon) | . ",
+    "url": "http://localhost:4000/notes/2ee1ef8b-3424-4624-8764-685e6769e015.html#plugin",
+    "relUrl": "/notes/2ee1ef8b-3424-4624-8764-685e6769e015.html#plugin"
+  },"17": {
+    "doc": "Plugin",
+    "title": "Plugin",
+    "hpath": "plugin",
+    "content": "| ",
     "url": "http://localhost:4000/notes/2ee1ef8b-3424-4624-8764-685e6769e015.html",
     "relUrl": "/notes/2ee1ef8b-3424-4624-8764-685e6769e015.html"
-  },"15": {
+  },"18": {
     "doc": "Admin",
     "title": "Admin’s guide",
     "hpath": "admin",
     "content": ". Welcome to the administrator’s guide for the CoopCycle platform. Our software is a complete logistics and e-commerce system allowing the delivery of a product from A to B. Our platform is dedicated to bicycle delivery and its license is designed to reserve the use for worker owned co-operatives only. The platform is composed of two components: . ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admins-guide",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admins-guide"
-  },"16": {
+  },"19": {
     "doc": "Admin",
     "title": "Logistics",
     "hpath": "admin",
     "content": "Pickup and dropoff management organised into a task system (two tasks form a delivery) allowing the following user actions: . | The administrator: . | can assign tasks or task lists to a courier. | can track the position of a courier in real time from the dispatch (dashboard) screen; assigning tasks can be done the day before or in real time. | can manage pricing for stores (by weight, distance, zone, type of bike). | . | The courier: . | will receive the tasks on their smartphone (iOS and Android). | can mark a task as completed or failed and can add a comment. | . | The customer: . | can place an order on the platform and pay (price calculation is automated and secured through Stripe). | . | . ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#logistics",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#logistics"
-  },"17": {
+  },"20": {
     "doc": "Admin",
     "title": "E-commerce",
     "hpath": "admin",
     "content": "Management of restaurants and shops, allowing the following user actions: . | The customer: . | can place an order via the platform (website) or via the smartphone application. | can place an order from a restaurant, by inputing their address and selecting a delivery time. | . | The business: . | receives the order in real time, they can then accept or reject it. | can mark the order as ready, in this case the courier is notified. | can manage their menu online. | . | . ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#e-commerce",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#e-commerce"
-  },"18": {
+  },"21": {
     "doc": "Admin",
     "title": "Admin access",
     "hpath": "admin",
     "content": "Having admin access means your local coop has an instance on the CoopCycle platform (e.g.: https://awesomecoop.coopcycle.org) . If you have admin access it means your user account on your CoopCycle instance has been given admin privileges by the developer. ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-access",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-access"
-  },"19": {
+  },"22": {
     "doc": "Admin",
     "title": "Admin privileges",
     "hpath": "admin",
     "content": "Admin privileges means you have full control over your CoopCycle instance. Check the sub-categories under Admin to learn more about your instance. ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-privileges",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#admin-privileges"
-  },"20": {
+  },"23": {
     "doc": "Admin",
     "title": "Key concepts",
     "hpath": "admin",
     "content": ". ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#key-concepts",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#key-concepts"
-  },"21": {
+  },"24": {
     "doc": "Admin",
     "title": "Tasks and Orders",
     "hpath": "admin",
     "content": "Tasks . A task is the smallest unit of a delivery order. A task is a To-Do unit under a specific address and a set timeframe. There are two types of tasks: . | Pickup or Collection | Dropoff or Delivery | . Each order consists of a minimum of two tasks that a dispatcher assigns to a courier. Pickup and Dropoff . The following information must be completed by the dispatcher for each task: . | Address | Time range | Commentary | . The following information is used to track the progress of a task in the delivery process: . | Status | History The courier must pick up merchandise at an address and bring it to another address. | . ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#tasks-and-orders",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#tasks-and-orders"
-  },"22": {
+  },"25": {
     "doc": "Admin",
     "title": "Orders",
     "hpath": "admin",
     "content": "Assign two or more tasks to a delivery person creating a delivery. When the Retrieve and Drop tasks are created, the dispatcher assigns these tasks manually in the most optimal order that they judge. The creation of a delivery is materialized on the map by means of a GPS track which is proposed to the courier for delivery. ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#orders",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html#orders"
-  },"23": {
+  },"26": {
     "doc": "Admin",
     "title": "Admin",
     "hpath": "admin",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html",
     "relUrl": "/notes/2ef3587e-bc8d-4d67-8496-1e9536df5c3c.html"
-  },"24": {
+  },"27": {
     "doc": "Courier",
     "title": "Completing tasks",
     "hpath": "app.courier",
     "content": "As soon as a new task is assigned to you, you will receive a notification on your phone. To access all the information concerning this task, there are two possibilities : . | Either by clicking on the icon corresponding to your task on the home screen’s map. | Either by clicking on the icon at the bottom right of the screen and then clicking on the desired task. | . Once the task is completed, simply swipe to the right on the “Finish” button at the bottom of the page to display the green validation button and press it twice to confirm that the task has been completed. Otherwise, if you are faced with a problem that prevents you from completing your delivery, you can swipe to the left the “Finish” button to report a problem. ",
     "url": "http://localhost:4000/notes/3140f2e4-f880-4eea-8522-3053d9a6b86f.html#completing-tasks",
     "relUrl": "/notes/3140f2e4-f880-4eea-8522-3053d9a6b86f.html#completing-tasks"
-  },"25": {
+  },"28": {
     "doc": "Courier",
     "title": "Collectings proofs of delivery",
     "hpath": "app.courier",
     "content": "Proof of delivery is collected via photo and signature. It is done from the interface of the task in question by clicking on the icon at the top right of the page. Once the photo has been taken and the recipient’s signature has been affixed, simply click on “Send image” and the images will be sent to the administrator. ",
     "url": "http://localhost:4000/notes/3140f2e4-f880-4eea-8522-3053d9a6b86f.html#collectings-proofs-of-delivery",
     "relUrl": "/notes/3140f2e4-f880-4eea-8522-3053d9a6b86f.html#collectings-proofs-of-delivery"
-  },"26": {
+  },"29": {
     "doc": "Courier",
     "title": "Courier",
     "hpath": "app.courier",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/3140f2e4-f880-4eea-8522-3053d9a6b86f.html",
     "relUrl": "/notes/3140f2e4-f880-4eea-8522-3053d9a6b86f.html"
-  },"27": {
+  },"30": {
     "doc": "Deliveries",
     "title": "Orders list",
     "hpath": "admin.deliveries",
     "content": ". This list groups together all the tasks and deliveries carried out on the platform. The following information is available: . | ID, the task number | Type of task | Deposit | Withdrawal | Deadline (date and time) | Name of the courier | Delivery address | . ",
     "url": "http://localhost:4000/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html#orders-list",
     "relUrl": "/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html#orders-list"
-  },"28": {
+  },"31": {
     "doc": "Deliveries",
     "title": "Create / Edit an order",
     "hpath": "admin.deliveries",
     "content": "Creating a delivery is done by clicking on the button at the top right of the task list screen. A delivery consists of the following elements: . | Vehicle type . | Bike | Cargo bike | . | Weight (in grams) | Withdrawal . | Field: address | Postal code | City | Time and day of withdrawal | Textarea field: specific instructions for the delivery man | . | Deposit . | Field: address | Postal code | City | Time and day of filing | Textarea field: specific instructions for the delivery person | . | . On the right, in addition to the map which displays the delivery route, you can either choose a price to apply to the delivery, or enter a free price. ",
     "url": "http://localhost:4000/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html#create--edit-an-order",
     "relUrl": "/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html#create--edit-an-order"
-  },"29": {
+  },"32": {
     "doc": "Deliveries",
     "title": "Deliveries",
     "hpath": "admin.deliveries",
-    "content": "The delivery tab is used to display the list of deliveries and tasks. ",
+    "content": "| The delivery tab is used to display the list of deliveries and tasks. ",
     "url": "http://localhost:4000/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html",
     "relUrl": "/notes/35eab0e1-02a6-49e8-a513-7759157e193b.html"
-  },"30": {
+  },"33": {
     "doc": "Customers",
     "title": "Customers",
     "hpath": "customer",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/3ff0f62b-88e0-4373-ade9-369aae214882.html",
     "relUrl": "/notes/3ff0f62b-88e0-4373-ade9-369aae214882.html"
-  },"31": {
+  },"34": {
     "doc": 404,
     "title": "404",
     "hpath": null,
     "content": "Page not found . ",
     "url": "http://localhost:4000/404.html#404",
     "relUrl": "/404.html#404"
-  },"32": {
+  },"35": {
     "doc": 404,
     "title": 404,
     "hpath": null,
     "content": " ",
     "url": "http://localhost:4000/404.html",
     "relUrl": "/404.html"
-  },"33": {
+  },"36": {
     "doc": "Stripe",
     "title": "Stripe",
     "hpath": "paymentprocessors.stripe",
     "content": ". ",
     "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#stripe",
     "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#stripe"
-  },"34": {
+  },"37": {
     "doc": "Stripe",
     "title": "What is Stripe?",
     "hpath": "paymentprocessors.stripe",
     "content": "Stripe is a payment service provider, which allows us to manage credit card payments in a secure manner. In addition, the “Stripe Connect” functionality allows us to manage the “platform” aspect of the payment, i.e. the distribution of payments between the platform (money going to the delivery cooperative) and the restaurant. Due to the fact that the european cooperative is fund by contributions, we (CoopCycle) do not charge a commission on payments. Stripe takes a fee on each transaction (check the pricing for your country here). ",
     "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#what-is-stripe",
     "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#what-is-stripe"
-  },"35": {
+  },"38": {
     "doc": "Stripe",
     "title": "Why Stripe?",
     "hpath": "paymentprocessors.stripe",
     "content": "Stripe has established itself as the “rolls-royce” of payment services. The service is reputed to be of excellent quality. It is possible to find cheaper services, but we believe the price is worth the candle. A known negative point about Stripe is that the (nice) Stripe admin interface is not always available in the user’s language. For creating and integrating a Stripe account with CoopCycle refer to the links below. | Create a Stripe account You can also ask you local coop to create a Stripe account on your behalf and they can seamlessly integrate with your e-commerce account. Then they will give you admin access to your Stripe account. | Integrate with CoopCycle | . ",
     "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#why-stripe",
     "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#why-stripe"
-  },"36": {
+  },"39": {
     "doc": "Stripe",
     "title": "Stripe",
     "hpath": "paymentprocessors.stripe",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html",
     "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html"
-  },"37": {
+  },"40": {
     "doc": "Payment processors",
     "title": "Payment processors",
     "hpath": "paymentprocessors",
     "content": ". CoopCycle integrates with the following payment processors: . | Adyen (Canada) | MercadoPago (Latin America) | Stripe (across Europe) | . ",
+    "url": "http://localhost:4000/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html#payment-processors",
+    "relUrl": "/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html#payment-processors"
+  },"41": {
+    "doc": "Payment processors",
+    "title": "Payment processors",
+    "hpath": "paymentprocessors",
+    "content": "| ",
     "url": "http://localhost:4000/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html",
     "relUrl": "/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html"
-  },"38": {
+  },"42": {
     "doc": "App",
     "title": "App",
     "hpath": "app",
     "content": ". We have apps for iOS and Android. Android . You can install the Android app directly from Google Play. Search for “CoopCycle” on Google Play, or click on the link below. Requires Android 4.3 or later. Install the Android app . iOS . You can install the iOS app directly from the App Store. Search for “CoopCycle” on the App Store, or click on the link below. Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch. Install the iOS app . See the index below for the guide your require. ",
     "url": "http://localhost:4000/notes/472c5df7-1fdf-42db-95fa-381245efb5b9.html#app",
     "relUrl": "/notes/472c5df7-1fdf-42db-95fa-381245efb5b9.html#app"
-  },"39": {
+  },"43": {
     "doc": "App",
     "title": "App",
     "hpath": "app",
     "content": "| ",
     "url": "http://localhost:4000/notes/472c5df7-1fdf-42db-95fa-381245efb5b9.html",
     "relUrl": "/notes/472c5df7-1fdf-42db-95fa-381245efb5b9.html"
-  },"40": {
+  },"44": {
     "doc": "Stores",
     "title": "Stores",
     "hpath": "store",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/4bae6a67-b72f-4396-a187-70789f8a1da7.html",
     "relUrl": "/notes/4bae6a67-b72f-4396-a187-70789f8a1da7.html"
-  },"41": {
+  },"45": {
     "doc": "Fulfillment",
     "title": "Fulfillment",
     "hpath": "admin.restaurants.generalsettings.fulfillment",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/4eb2409c-253d-4023-bd8f-e26c49675177.html",
     "relUrl": "/notes/4eb2409c-253d-4023-bd8f-e26c49675177.html"
-  },"42": {
+  },"46": {
     "doc": "Creating a restaurant",
     "title": "Creating restaurants",
     "hpath": "admin.restaurants.creatingarestaurant",
     "content": "This page describes the process for creating a restaurant on the CoopCycle platform. Don’t hesitate to ask for help contact@coopcycle.org to configure the first restaurants. This takes place in two stages: . | Create the restaurant on the CoopCycle platform | Create a Stripe account | . After performing these two steps: . | Create an account for the restaurateur in the “Users” section | Assign the restaurant to this restaurateur so that he can access the back office | . Prerequisite: . | Having correctly configured the Stripe account linked to the platform (link to the corresponding page) | . Minimum information required beforehand: . | Name, first name of the restaurateur | Legal name of the restaurant | Restaurant phone number | Restaurant address | IBAN of the restaurant | Color front / back scan of the restaurant owner’s identity card in JPEG or PNG format (Stripe request after the first orders for identity verification) | Contractual information (what delivery rate for the restaurant owner? For the customer? Who pays the payment fees?) | . Optional information: . | Opening hours (times when delivery is activated) | Number Siret | . ",
     "url": "http://localhost:4000/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html#creating-restaurants",
     "relUrl": "/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html#creating-restaurants"
-  },"43": {
+  },"47": {
     "doc": "Creating a restaurant",
     "title": "1 - Creating a restaurant",
     "hpath": "admin.restaurants.creatingarestaurant",
     "content": ". | From the “Restaurants” tab, click on “Add a restaurant” | Enter information in the corresponding fields | . | Click on “Save” | .   . ",
     "url": "http://localhost:4000/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html#1---creating-a-restaurant",
     "relUrl": "/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html#1---creating-a-restaurant"
-  },"44": {
+  },"48": {
     "doc": "Creating a restaurant",
     "title": "2 - Creating a restaurant Stripe account",
     "hpath": "admin.restaurants.creatingarestaurant",
     "content": ". | From your Stripe dashboard, https://dashboard.stripe.com/account, create a new account by clicking on the top left on “New Account”. Indicate the name of the restaurant. | .   . | From the restaurant page on the platform, in the “Stripe Account” section, click on the “Connect with Stripe” button. The process must be repeated for dev operation and live operation. | . | A Stripe page opens. In the “Switch account” dropdown select the corresponding restaurant. | . | Entrer les informations du restaurateur correspondantes. Attention : dans le champ “Customer phone number” indiquez votre numéro de téléphone pas celui du restaurateur. | Check your phone number at the following address: https://dashboard.stripe.com/phone-verification?source=email: enter your phone number then copy the code received by SMS (you should have received an email notification) . | And There you go ! To check that everything is in order with Stripe: . | In the Stripe dashboard, select your main account (the cooperative’s account) from the dropdown in the top left | Click on “Connect” then “Accounts” in the left column | In the “Recently connected accounts” list which appears click on the first (the last linked account) | Check that “Payments” and “Payouts” are green - in case of problems contact dev@coopcycle.org | . | . ",
     "url": "http://localhost:4000/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html#2---creating-a-restaurant-stripe-account",
     "relUrl": "/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html#2---creating-a-restaurant-stripe-account"
-  },"45": {
+  },"49": {
     "doc": "Creating a restaurant",
     "title": "Creating a restaurant",
     "hpath": "admin.restaurants.creatingarestaurant",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html",
     "relUrl": "/notes/55e4d9a3-e1ec-4ddb-acab-e77ee7287c69.html"
-  },"46": {
+  },"50": {
     "doc": "Packages",
     "title": "Packages",
     "hpath": "admin.configuration.packages",
     "content": "Packages will be deprecated in the new future. Use Pricing to set weight. ",
     "url": "http://localhost:4000/notes/5b594171-ff51-428b-8faa-3afa4a535f9d.html#packages",
     "relUrl": "/notes/5b594171-ff51-428b-8faa-3afa4a535f9d.html#packages"
-  },"47": {
+  },"51": {
     "doc": "Packages",
     "title": "Packages",
     "hpath": "admin.configuration.packages",
     "content": "| ",
     "url": "http://localhost:4000/notes/5b594171-ff51-428b-8faa-3afa4a535f9d.html",
     "relUrl": "/notes/5b594171-ff51-428b-8faa-3afa4a535f9d.html"
-  },"48": {
+  },"52": {
     "doc": "Pricing",
     "title": "Pricing (for Stores and Order forms)",
     "hpath": "admin.configuration.pricing",
     "content": ". As part of the creation of a store account, it is possible to create prices (e.g. express prices, normal prices) from the administration section by clicking on the icon then on the Prices section. [screenshot] . Pricing is configured in the administration dashboard through a set of rules based on the following variables: The distance that is measured in meters. This distance can be defined with the operators of: . | &gt; greater than _ variable in meter _ | &lt; less than _ variable in meter _ between two variables | . The weight which is evaluated in gram. This weight can be defined with the same operators as the distance The zone defined by loading a GeoJSON file into the instance configuration; The type of bike that is defined by selecting it from a list in which are available: The simple bike The cargo bike . [screenshot] . These rules are organized as a stack in order of processing, the pricing at the top of the list will be the first to be processed by the software that will check if it matches the characteristics of the delivery, that is not the case the software will go to the second pricing in the list and so on. With each delivery created, this stack will be used to create the pricing. The choice is automatically made according to the criteria specified for each delivery. For example, I create a rule that specifies a pricing: . | in the department of 93 with cargo bike placed at the top of the pile; | in Paris intramural with cargo bike placed in the middle of the pile; | in intramural Paris placed at the bottom of the pile. | . If a delivery is created involving a series of tasks in Paris intramural with a single bike, then the first rule will be ignored, and the second used as delivery basis. The precise rules (ie with the most variables) must be at the top of the stack and the most general ones at the bottom of the stack so that special cases are selected by the software as a basis for pricing. If, for example, I take my pricing list higher as follows: in intramural paris; in Paris intramural with cargo bike; in the department of 93 with cargo bike. If a delivery is created for intramural Paris with a cargo bike, then the first rule will be ignored. The second corresponds to the delivery, its price will therefore be applied. The second rule being fulfilled, the third is ignored. The most precise rules (i.e. with the most parameters) must be at the top of the stack and the most general rules at the bottom of the stack, so that the specific cases are selected by the software as a basis for pricing. If, for example, I modify the above pricing as follows: . in intramural Paris; in intramural Paris with cargo bike; in the 93 department with cargo bike. If a delivery in intramural Paris is created with the need to deliver by cargo bike, the price specified for the first rule will apply because no type of bike is specified for it and the second will be ignored. ",
     "url": "http://localhost:4000/notes/5d597864-b0c0-4248-ac5d-1152de165149.html#pricing-for-stores-and-order-forms",
     "relUrl": "/notes/5d597864-b0c0-4248-ac5d-1152de165149.html#pricing-for-stores-and-order-forms"
-  },"49": {
+  },"53": {
     "doc": "Pricing",
     "title": "Pricing",
     "hpath": "admin.configuration.pricing",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/5d597864-b0c0-4248-ac5d-1152de165149.html",
     "relUrl": "/notes/5d597864-b0c0-4248-ac5d-1152de165149.html"
-  },"50": {
+  },"54": {
     "doc": "Users",
     "title": "Management of users",
     "hpath": "admin.users",
     "content": "The list of administrators is available in the page Users. This list describes accounts which are inscribed on the platform and their associated informations. It also enables to add/create a new user. ",
     "url": "http://localhost:4000/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#management-of-users",
     "relUrl": "/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#management-of-users"
-  },"51": {
+  },"55": {
     "doc": "Users",
     "title": "User profil",
     "hpath": "admin.users",
     "content": "An user account is associated to the following informations : . | User name | First name | Last name | Telephone number | Password | Email adress | . It is possible to activate/desactivate users. A desactivated user is disconnected and can’t access the platform anymore. ",
     "url": "http://localhost:4000/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#user-profil",
     "relUrl": "/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#user-profil"
-  },"52": {
+  },"56": {
     "doc": "Users",
     "title": "Roles",
     "hpath": "admin.users",
     "content": "Every user can have one or several roles. Every role gives access to some platform features. | Role | Customer | Bike messenger | Restaurant | Shop | Admin | . | To edit his/her own personal informations | ✔ | ✔ | ✔ | ✔ | ✔ | . | To create and modify restaurants |   |   | ✔ |   | ✔ | . | Mannage orders |   |   | ✔ |   | ✔ | . | To edit a receipt |   |   | ✔ |   | ✔ | . | To create and modify menus |   |   | ✔ |   | ✔ | . | To create shops |   |   |   |   | ✔ | . | To modify shops |   |   |   | ✔ | ✔ | . | To create a delivery |   |   |   | ✔ | ✔ | . | To manage deliveries |   | ✔ |   |   | ✔ | . | To access CoopCycle API |   | ✔ | ✔ |   | ✔ | . | To edit roles for users |   |   |   |   | ✔ | . | To edit contracts and tarifications |   |   |   |   | ✔ | . ",
     "url": "http://localhost:4000/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#roles",
     "relUrl": "/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#roles"
-  },"53": {
+  },"57": {
     "doc": "Users",
     "title": "Assignation of a shop/restaurant",
     "hpath": "admin.users",
     "content": "On the informations about an user which has the Restaurant role, you can assignate him/her (To make him/her owner) a shop that you have previously created. It also works for an user who has a shop-owner role. ",
     "url": "http://localhost:4000/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#assignation-of-a-shoprestaurant",
     "relUrl": "/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html#assignation-of-a-shoprestaurant"
-  },"54": {
+  },"58": {
     "doc": "Users",
     "title": "Users",
     "hpath": "admin.users",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html",
     "relUrl": "/notes/6980441b-9485-49c0-85a3-5d58e59a7f7e.html"
-  },"55": {
+  },"59": {
     "doc": "Stores",
     "title": "Stores",
     "hpath": "admin.stores",
     "content": "In CoopCycle's \"vocabulary\", a Store represents a B2B customer, i.e. a professional merchant to whom the cooperative offers its delivery services. Basically, a Store is a container for deliveries. Users can be attached to a Store, and once attached, they can use the web interface to order deliveries using a form. The deliveries ordered this way land directly in the dispatch. ",
     "url": "http://localhost:4000/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html#stores",
     "relUrl": "/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html#stores"
-  },"56": {
+  },"60": {
     "doc": "Stores",
     "title": "Creating a store",
     "hpath": "admin.stores",
     "content": "Click on the + Create a new store button. ",
     "url": "http://localhost:4000/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html#creating-a-store",
     "relUrl": "/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html#creating-a-store"
-  },"57": {
+  },"61": {
     "doc": "Stores",
     "title": "Setting up a store",
     "hpath": "admin.stores",
     "content": "Store Settings . The settings will change the behavior of the form to order a delivery. Pricing . This allows to decide how the prices for this Store will be calculated. You can choose among the Pricing Rules that you have configured previously. Learn more about defining Pricing Rules. ⚠️ Heads up! . If you want the price to be displayed to the user, you need to check the Create orders checkbox. Time Slot . This allows to decide which time slots the user will be able to select. Learn more about defining Time Slots. ",
     "url": "http://localhost:4000/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html#setting-up-a-store",
     "relUrl": "/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html#setting-up-a-store"
-  },"58": {
+  },"62": {
     "doc": "Stores",
     "title": "Stores",
     "hpath": "admin.stores",
     "content": "| ",
     "url": "http://localhost:4000/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html",
     "relUrl": "/notes/70546c61-ca21-4276-9263-d9aaefac7c44.html"
-  },"59": {
+  },"63": {
     "doc": "API",
     "title": "API",
     "hpath": "admin.configuration.api",
     "content": "API to integrate the CoopCycle plugin with third-party websites, such as a WordPress websites with WooCommerce. API is a pair of keys (Identifier and Secret key) which you use to integrate different softwares. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#api",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#api"
-  },"60": {
+  },"64": {
     "doc": "API",
     "title": "First things first",
     "hpath": "admin.configuration.api",
     "content": "If you need to create and use this API it means your client (a business you deliver for) have their own website with e-commerce. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#first-things-first",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#first-things-first"
-  },"61": {
+  },"65": {
     "doc": "API",
     "title": "What does the API do?",
     "hpath": "admin.configuration.api",
     "content": "It allows for orders placed on a third-party website to be sent directly to the Store account on your CoopCycle instance. These purchases (orders) will show up under your client’s Store account. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#what-does-the-api-do",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#what-does-the-api-do"
-  },"62": {
+  },"66": {
     "doc": "API",
     "title": "Create the API keys",
     "hpath": "admin.configuration.api",
-    "content": "Before creating the keys (Identifier and Secret key) you need to create a Store for that business. A pair of API keys are created for each individual Store. | Click the + Add button | Give your API key pair a name under App name | Choose the Store under Store | Click the blue button Save | . After you’ve created the keys, you will be automatically directed to the API main page. The newly created API keys should like this with the respective name and Store you chose. ",
+    "content": "Before creating the keys (Identifier and Secret key) you need to create a Store for that business. A pair of API keys are created for each individual Store. 1. Click the + Add button . 2. Give your API key pair a name under `App name` . 3. Choose the Store under `Store` . 4. Click the blue button Save . After you’ve created the keys, you will be automatically directed to the API main page. The newly created API keys should like this with the respective name and Store you chose. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#create-the-api-keys",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#create-the-api-keys"
-  },"63": {
+  },"67": {
     "doc": "API",
     "title": "Use the API keys",
     "hpath": "admin.configuration.api",
     "content": "⚠️ Only share these keys with the developer of your client's website who will set up the CoopCycle API. Use the Copy button for each key and send them securely to the person who will configure the plugin. To learn how to set up the CoopCycle plugin go here. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#use-the-api-keys",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#use-the-api-keys"
-  },"64": {
+  },"68": {
     "doc": "API",
     "title": "API",
     "hpath": "admin.configuration.api",
     "content": "| ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html"
-  },"65": {
+  },"69": {
     "doc": "Restaurant",
     "title": "Order management",
     "hpath": "app.restaurant",
     "content": " ",
     "url": "http://localhost:4000/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#order-management",
     "relUrl": "/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#order-management"
-  },"66": {
+  },"70": {
     "doc": "Restaurant",
     "title": "Orders",
     "hpath": "app.restaurant",
     "content": "The main screen is organized as follows : . | By date (the default current date) : Also allows you to have a history of previous and future orders by selecting the date of your choice via the calendar by clicking on the following button . | By section : . | New orders : . Here you will see all new customer orders awaiting validation from you. You can also refuse it, then you have three choices: - I’m out of stock . This order will be cancelled and you will continue to receive new orders. - I’m in the middle of a rush. This order will be cancelled and you will continue to receive new orders. - I’m going to close up. This order will be cancelled and you will not receive any more new orders. | Accepted orders : . Here you can see all accepted orders. From this step, if everything goes well you only have to prepare the order, wait for the delivery person and automatically the order will be placed in the section below delivered order. If not, you can : - Delay the order : - By 10 minutes. - 20 minutes. - By 30 minutes. - Cancel the order : - Cancelled by the customer . This order will be cancelled and you will continue to receive new orders. - I’m out of stock . This order will be cancelled and you will continue to receive new orders. - I’m in the middle of a rush. This order will be cancelled and you will continue to receive new orders. | Orders cancelled : . Here is a list of all the orders that have been cancelled. | Orders delivered: . Here is a list of all the orders that have been delivered. | . | . In each of the sections, the orders are represented by their id, the total of the order and the time to start preparing it. To access the details of the order and interact with it, simply click on it. Note that you can at any time via the button refresh the page to the current date. ",
     "url": "http://localhost:4000/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#orders",
     "relUrl": "/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#orders"
-  },"67": {
+  },"71": {
     "doc": "Restaurant",
     "title": "Settings",
     "hpath": "app.restaurant",
     "content": "The settings are accessible via the icon at the top right of the page. They are divided into two parts : . | Switch to rush mode : . When the rush mode is activated you no longer receive any orders, to continue receiving orders again, disable it. | Manage products : . In this section, you can see a list of all the products that make up your catalog and the ability to disable each of them. Disabled products are not visible by the customer, this can be useful if, for example, you are out of stock on an ingredient essential for preparing a dish. By default, all products are enabled. | . ",
     "url": "http://localhost:4000/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#settings",
     "relUrl": "/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#settings"
-  },"68": {
+  },"72": {
     "doc": "Restaurant",
     "title": "Online closing/reopening restaurant",
     "hpath": "app.restaurant",
     "content": "This button allows you to display your restaurant as closed on the customer’s interface, so he will no longer be able to place orders. To reset the restaurant to “open” status, simply click on the close button of the banner below that appears after you close your restaurant. ",
     "url": "http://localhost:4000/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#online-closingreopening-restaurant",
     "relUrl": "/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html#online-closingreopening-restaurant"
-  },"69": {
+  },"73": {
     "doc": "Restaurant",
     "title": "Restaurant",
     "hpath": "app.restaurant",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html",
     "relUrl": "/notes/7ad2b44e-ecaf-4934-b1f3-b0a5ff244a16.html"
-  },"70": {
+  },"74": {
     "doc": "Restaurants",
     "title": "Restaurants (admin access)",
     "hpath": "admin.restaurants",
     "content": ". The restaurant guide is split into two sections: . | Product settings | General settings | . To access those settings refer to the Creating a restaurant guide. ",
     "url": "http://localhost:4000/notes/7df210ad-8f65-46b0-8d0b-4a745bd43de6.html#restaurants-admin-access",
     "relUrl": "/notes/7df210ad-8f65-46b0-8d0b-4a745bd43de6.html#restaurants-admin-access"
-  },"71": {
+  },"75": {
     "doc": "Restaurants",
     "title": "Restaurants",
     "hpath": "admin.restaurants",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/7df210ad-8f65-46b0-8d0b-4a745bd43de6.html",
     "relUrl": "/notes/7df210ad-8f65-46b0-8d0b-4a745bd43de6.html"
-  },"72": {
+  },"76": {
     "doc": "External Display (Order Form)",
     "title": "External display (Order form)",
     "hpath": "admin.configuration.externaldisplay",
     "content": "The order form can be embedded on any website external to the CoopCycle platform. It allows for anyone to place an order on your instance without requiring a user account. Delivery creation form . | Click the + Add button | Choose a Pricing | Choose a Time slot or select the deafult option. a. The default option allows for custom date and time selection. | Select the default option for Package set Package set option will be deprecated in the near future. | Add vechicle choice. If checked it will give a simple choice to the customer to select between biycle or cargo bike. | If checked, Ask for weight of goods make it mandatory to the customer to insert the weight of their in kilograms. | . ",
     "url": "http://localhost:4000/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html#external-display-order-form",
     "relUrl": "/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html#external-display-order-form"
-  },"73": {
+  },"77": {
     "doc": "External Display (Order Form)",
     "title": "External Display (Order Form)",
     "hpath": "admin.configuration.externaldisplay",
     "content": "| ",
     "url": "http://localhost:4000/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html",
     "relUrl": "/notes/84efe93e-ad9f-46f0-9f18-26a0b2aa6787.html"
-  },"74": {
+  },"78": {
     "doc": "Stores",
     "title": "API for Store deliveries",
     "hpath": "developer.api.stores",
     "content": "A common usage of the API is to create deliveries. For example, an external e-commerce website offering local shipping options may want to push deliveries directly to our system. Creating a delivery . To create a delivery, you will need to make a POST request to the /api/deliveries endpoint. A delivery consists of two tasks, a pickup task and a dropoff task. The minimal information we need is the address, and the timeframe of each task. POST /api/deliveries { \"pickup\": { \"address\": \"24, Rue de la Paix, Paris, France\", \"before\": \"tomorrow 12:00\" }, \"dropoff\": { \"address\": \"48, Rue de Rivoli, Paris, France\", \"before\": \"tomorrow 13:30\" } } . If possible, you should provide as much additional information as possible, like the phone number &amp; name of the recipient. There are multiple fields that can be specified. Take a look at our functional tests to learn more about available fields. Tracking the status of a delivery . When the delivery has been created, you obtain a response like below: . { \"@context\":\"/api/contexts/Delivery\", \"@type\":\"http://schema.org/ParcelDelivery\", \"@id\":\"/api/deliveries/123\", \"pickup\": { \"@id\":\"/api/tasks/456\", \"@type\":\"Task\", \"status\":\"TODO\", // ... other fields }, \"dropoff\": { \"@id\":\"/api/tasks/457\", \"@type\":\"Task\", \"status\":\"TODO\", // ... other fields } } . To be able to track the status of the parcel, make sure to store in your system the IRIs of the created resources. Then, you can later poll the API to know if the tasks have been completed. GET /api/tasks/456 { \"@id\":\"/api/tasks/456\", \"@type\":\"Task\", \"status\":\"DONE\", // ... other fields } . When a task is completed, the status property will change from TODO to DONE. When both tasks are completed, it means the delivery is completed! . ",
     "url": "http://localhost:4000/notes/8970feb9-8e81-4775-aa3b-72d51e75d1ea.html#api-for-store-deliveries",
     "relUrl": "/notes/8970feb9-8e81-4775-aa3b-72d51e75d1ea.html#api-for-store-deliveries"
-  },"75": {
+  },"79": {
     "doc": "Stores",
     "title": "Stores",
     "hpath": "developer.api.stores",
     "content": "| ",
     "url": "http://localhost:4000/notes/8970feb9-8e81-4775-aa3b-72d51e75d1ea.html",
     "relUrl": "/notes/8970feb9-8e81-4775-aa3b-72d51e75d1ea.html"
-  },"76": {
+  },"80": {
     "doc": "Timeslots",
     "title": "Time slots (for Stores and Order forms)",
     "hpath": "admin.configuration.timeslots",
     "content": ". Time Slots allow to configure what time ranges will be proposed to a user requesting a delivery. In most cases, we don’t want to let users decide of a precise time when the delivery needs to be done. Instead, we want them to choose a time range (for example, between 2PM and 4PM), so that we can organize with the other jobs. In the end, a Time Slot will translate to a dropdown like on the image below . ",
     "url": "http://localhost:4000/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html#time-slots-for-stores-and-order-forms",
     "relUrl": "/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html#time-slots-for-stores-and-order-forms"
-  },"77": {
+  },"81": {
     "doc": "Timeslots",
     "title": "Configuring Time Slots",
     "hpath": "admin.configuration.timeslots",
     "content": "Depending on the way ou are working, you can either create a unique Time Slot for everybody, or create a custom Time Slot per customer. Interval . The Interval setting allows to change the number of days that will appear in the dropdown. More or less, it allows to configure how much time in advance the user will be allowed to order a delivery. Actually, it’s more complicated than that… because there are weekends. For example, let’s say that you configure « 2 days », only during the week (from Monday to Friday). On Saturdays, the user will still be allowed to choose time ranges on Monday and Tuesday. Prior Notice . The Prior Notice setting allows to decide how much time in advance the user will be allowed to choose a time range. For example, let’s say that you configure a time range from 4PM to 6PM, with a 2 hours prior notice. It means that the user will be able to select the 4PM-6PM time range until 2PM. Same Day Cutoff . The Same Day Cutoff setting allows to decide until which time of the day it is possible to order for the same day. ",
     "url": "http://localhost:4000/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html#configuring-time-slots",
     "relUrl": "/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html#configuring-time-slots"
-  },"78": {
+  },"82": {
     "doc": "Timeslots",
     "title": "Timeslots",
     "hpath": "admin.configuration.timeslots",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html",
     "relUrl": "/notes/8cf91d4a-3465-4fe9-b730-b9ed84f0ba18.html"
-  },"79": {
+  },"83": {
     "doc": "Payment processors",
     "title": "Payment Handlers",
     "hpath": "developer.paymentprocessors",
     "content": ". Payment handlers integrated in CoopCycle. Stripe . Mainly across Europe . Adyen . In Canada . MercadoPago . In Latin America . ",
     "url": "http://localhost:4000/notes/9c713905-eec3-44d8-a8a7-197f6ef22257.html#payment-handlers",
     "relUrl": "/notes/9c713905-eec3-44d8-a8a7-197f6ef22257.html#payment-handlers"
-  },"80": {
+  },"84": {
     "doc": "Payment processors",
     "title": "Payment processors",
     "hpath": "developer.paymentprocessors",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/9c713905-eec3-44d8-a8a7-197f6ef22257.html",
     "relUrl": "/notes/9c713905-eec3-44d8-a8a7-197f6ef22257.html"
-  },"81": {
+  },"85": {
     "doc": "General",
     "title": "General",
     "hpath": "admin.restaurants.generalsettings.general",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/9fa81d5d-93e4-4f9b-8cb5-d1f33af6c861.html",
     "relUrl": "/notes/9fa81d5d-93e4-4f9b-8cb5-d1f33af6c861.html"
-  },"82": {
+  },"86": {
     "doc": "Stripe",
     "title": "Setting up Stripe",
     "hpath": "developer.paymentprocessors.stripe",
     "content": "This page describes how to create a restaurant as an admin on the CoopCycle platform. Please ask for help at dev@coopcycle.org if you need to. ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html#setting-up-stripe",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html#setting-up-stripe"
-  },"83": {
+  },"87": {
     "doc": "Stripe",
     "title": "What is the “live mode” and “test mode” of Stripe?",
     "hpath": "developer.paymentprocessors.stripe",
     "content": "The CoopCycle platform can be configured to use the “live” or “test” mode from the “settings” tab. In test mode clients will not be debited. You have to use test cards (typically 4242 4242 4242 4242 4242). Don’t forget to switch to “live” mode before going into production ! . ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html#what-is-the-live-mode-and-test-mode-of-stripe",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html#what-is-the-live-mode-and-test-mode-of-stripe"
-  },"84": {
+  },"88": {
     "doc": "Stripe",
     "title": "How to configure Stripe/Stripe Connect on your platform?",
     "hpath": "developer.paymentprocessors.stripe",
     "content": ". | Create a Stripe account here , then: . | Get the four API stripe keys (Private/Public live, Private/Public test) here: https://dashboard.stripe.com/apikeys (in video) | Get the two Stripe Connect identifiers (Live/Test) here: https://dashboard.stripe.com/account/applications/settings | Past them in the corresponding fields on the administrator’s “parameters” tab. | . | . Note: Live and test keys and IDs are not displayed on the screen at the same time. There is a switch on the page to display either test or live data. | Configure the redirection url for Stripe Connect . | Go to https://dashboard.stripe.com/account/applications/settings | Click on “Add redirect URI” (It has to be done in live and test mode). Then enter this value “https://&lt;domain_name&gt;/stripe/connect/standard” (e.g. https://demo.coopcycle.org/stripe/connect/standard) | . | . ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-configure-stripestripe-connect-on-your-platform",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-configure-stripestripe-connect-on-your-platform"
-  },"85": {
+  },"89": {
     "doc": "Stripe",
     "title": "How to activate your Stripe account to use the platform?",
     "hpath": "developer.paymentprocessors.stripe",
     "content": "You need to activate your Stripe account to start using the platform in “live”. Click on “Activate your account” on the left and enter the required informations. (video: https://www.youtube.com/watch?v=XLzg_K_0C5k) . ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-activate-your-stripe-account-to-use-the-platform",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-activate-your-stripe-account-to-use-the-platform"
-  },"86": {
+  },"90": {
     "doc": "Stripe",
     "title": "How to see the money earned through the platform?",
     "hpath": "developer.paymentprocessors.stripe",
     "content": "The funds earned by the platform (the delivery cooperative) are calculated as a commission on the merchant’s payment. Go to this URL https://dashboard.stripe.com/test/applications/fees. ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-see-the-money-earned-through-the-platform",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-see-the-money-earned-through-the-platform"
-  },"87": {
+  },"91": {
     "doc": "Stripe",
     "title": "How to receive this money on your account?",
     "hpath": "developer.paymentprocessors.stripe",
     "content": "Payments from your Stripe account to your bank account will be made regularly (“payouts”). You can access the list of payouts here : https://dashboard.stripe.com/test/balance/overview. You can also request on this page an immediate transfer to your account. This process has two steps: Create the restaurant on the CoopCycle platform Create the linked Stripe account . Before: You need to have configured correctly the Stripe account linked to the platform . After this two steps have been achieved : Create an user account in the “User” section On the created user page, assign him/her the restaurant so he can access its backoffice . Necessary informations : Name &amp; first name of the restaurant owner Legal name of the restaurant Phone number of the restaurant Restaurants address Restaurants IBAN Contractual informations What delivery price for the restaurant owner? What delivery price for the customer? Who is paying Stripe fees? Proof of identity of the restaurant . Additional informations : Delivery hours . 2- Creating the Stripe account linked to the restaurant . From your Stripe dashboard, https://dashboard.stripe.com/account , create a new account by clicking on the top left corner on “New account”. Indicate the restaurants name. IMAGE . From the restaurant page on the platform, in the “Stripe account” section, click on “Connect with Stripe” button. The process have to be made twice, once for test and once for live payments. IMAGE . A Stripe page opens. In the “Switch accounts” dropdown select the correct restaurant. IMAGE . Enter the informations. Attention : in the “Customer phone number” field please indicate your phone number not the restaurant’s one. Verify your phone number at the following address : https://dashboard.stripe.com/phone-verification?source=email . Enter your phone number then copy the code received by SMS (you may have received a mail notification about the phone verification) . Your done ! To check that everything’s in order : In the Stripe dashboard select the main account (the one linked to the platform) on the top left corner Clicked on “Connect” then on “Accounts” on the left column In the “Recently connected accounts” list click on the first item (= the last account added) Verify that “Payments” and “Payouts” are well and green - in case of issue please contact dev@coopcycle.org . IMAGE . ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-receive-this-money-on-your-account",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html#how-to-receive-this-money-on-your-account"
-  },"88": {
+  },"92": {
     "doc": "Stripe",
     "title": "Stripe",
     "hpath": "developer.paymentprocessors.stripe",
     "content": "| ",
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html"
-  },"89": {
+  },"93": {
     "doc": "Bluetooth printers",
     "title": "Bluetooth printers",
     "hpath": "restaurant.bluetoothprinters",
     "content": ". Connecting a Bluetooth printer . Debugging Bluetooth devices . If you Bluetooth printer is not recognized, it helps if you can debug the device capabilities. To do so, install the nRF Connect for Mobile app on Google Play. Once installed, launch the app, and scan for devices. When your device is detected, tap on “CONNECT”. Once connected, the nRF Connect for Mobile app will show the device details. Unfold all the device capabilities by tapping on them, and send screenshots to dev@coopcycle.org . ",
+    "url": "http://localhost:4000/notes/a19dd428-315d-4149-be8e-e298d2618d21.html#bluetooth-printers",
+    "relUrl": "/notes/a19dd428-315d-4149-be8e-e298d2618d21.html#bluetooth-printers"
+  },"94": {
+    "doc": "Bluetooth printers",
+    "title": "Bluetooth printers",
+    "hpath": "restaurant.bluetoothprinters",
+    "content": "| ",
     "url": "http://localhost:4000/notes/a19dd428-315d-4149-be8e-e298d2618d21.html",
     "relUrl": "/notes/a19dd428-315d-4149-be8e-e298d2618d21.html"
-  },"90": {
+  },"95": {
     "doc": "Taxation",
     "title": "Taxation",
     "hpath": "admin.configuration.taxation",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/a2c42910-57df-4b50-84b1-73201ca0a1d7.html",
     "relUrl": "/notes/a2c42910-57df-4b50-84b1-73201ca0a1d7.html"
-  },"91": {
+  },"96": {
     "doc": "Mercadpago",
     "title": "Mercadpago",
     "hpath": "paymentprocessors.mercadpago",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/a6ac02e3-5ae3-496e-a54d-2b968efc17d8.html",
     "relUrl": "/notes/a6ac02e3-5ae3-496e-a54d-2b968efc17d8.html"
-  },"92": {
+  },"97": {
     "doc": "Wordpress",
     "title": "Overview",
     "hpath": "plugin.wordpress",
     "content": "The CoopCycle plugin for WordPress allows to add a shipping method to WooCommerce, and to transmit the shipping data to CoopCycle directly, using the API. If one of your partners already has an e-commerce website based on WooCommerce, it the best way to have a seamless integration. On CoopCycle, the shipping data sent will be attached to a store, so you will need to create a store if you don’t have one already. The settings of the store modify the behavior of the plugin, in particular the configuration of the time slot used. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#overview",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#overview"
-  },"93": {
+  },"98": {
     "doc": "Wordpress",
     "title": "Obtaining an API token",
     "hpath": "plugin.wordpress",
     "content": "The first thing to do is to obtain an API token, so that the website running WooCommerce can interact with the CoopCycle API. Go to Configuration › API, and click « Add ». Enter the name of the app (for example, the name of the website running WooCommerce), select the store you want to generate an API token for, and hit « Save ». You should obtain a pair of credentials, a « API Key » and « API Secret », that you will need to configure the plugin. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#obtaining-an-api-token",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#obtaining-an-api-token"
-  },"94": {
+  },"99": {
     "doc": "Wordpress",
     "title": "Installing and configuring the plugin",
     "hpath": "plugin.wordpress",
     "content": "The CoopCycle plugin for WooCommerce can be installed from wordpress.org. In the WordPress admin area, go to the Plugins page, and search for « coopcycle ». In the settings page of the plugin, enter the base url of the CoopCycle instance, the « API Key » and « API Secret », and save changes. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#installing-and-configuring-the-plugin",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#installing-and-configuring-the-plugin"
-  },"95": {
+  },"100": {
     "doc": "Wordpress",
     "title": "Configuring WooCommerce",
     "hpath": "plugin.wordpress",
     "content": "Once the CoopCycle plugin is configured, you need to add to a shipping method to a zone. Go to WooCommerce › Settings › Shipping. If you haven’t already, click on « Add shipping zone », or edit one of your existing shipping zones. Click on « Add shipping method », and select « CoopCycle ». Once the shipping method has been added, you can configure it. The settings are the same as the standard Flat Rate Shipping method of WooCommerce. The most important thing that you need to configure is the shipping cost. Congratulations! 🎉 . Now, when entering an address that matches with the shipping zone, customers will be allowed to choose the CoopCycle shipping method. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#configuring-woocommerce",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#configuring-woocommerce"
-  },"96": {
+  },"101": {
     "doc": "Wordpress",
     "title": "Wordpress",
     "hpath": "plugin.wordpress",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html"
-  },"97": {
+  },"102": {
     "doc": "Statistics",
     "title": "Statistics",
     "hpath": "admin.statistics",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/b72d9fda-2717-4289-b9a1-b22db54665aa.html",
     "relUrl": "/notes/b72d9fda-2717-4289-b9a1-b22db54665aa.html"
-  },"98": {
+  },"103": {
     "doc": "Dashboard",
     "title": "Dispatch",
     "hpath": "admin.dashboard",
     "content": ". The administration dashboard (called dashboard in this document) allows you to control all the functions for creating and managing tasks as well as to manage the dispatch of couriers manually. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dispatch",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dispatch"
-  },"99": {
+  },"104": {
     "doc": "Dashboard",
     "title": "Create, assign and edit a task",
     "hpath": "admin.dashboard",
     "content": "A task is created by clicking on the button in the Unassigned section of the dashboard. A popup opens and allows you to configure the task. Three actions are possible for a task: . | Add, which allows you to create a task | Edit, which allows you to change or check the status and history of a task | Finish the task, which allows the status change of the task by:    - To Do    - Success    - Failure | . As long as a task is not assigned to a courier, the latter remains in the Unassigned section. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-assign-and-edit-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-assign-and-edit-a-task"
-  },"100": {
+  },"105": {
     "doc": "Dashboard",
     "title": "Add / Create a task",
     "hpath": "admin.dashboard",
     "content": "The following information is available to create a task: . | Checkbox: type of task . | Pickup | DropOff | . | Field: address of drop-off or pick-up point | +: more options . | Field: Postal code (automatic filling) | Field: City (automatic filling) | Field: Floor | Field: instructions | . | Dropdown: niche of achievement . | Start date | End date | . | Dropdown: choose a tag | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add--create-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add--create-a-task"
-  },"101": {
+  },"106": {
     "doc": "Dashboard",
     "title": "Edit a task",
     "hpath": "admin.dashboard",
     "content": "The same information as “add” is available for editing. In addition to this it is possible: . | Dropdown: Assign a courier | Dropdown: See history | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#edit-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#edit-a-task"
-  },"102": {
+  },"107": {
     "doc": "Dashboard",
     "title": "Complete a task",
     "hpath": "admin.dashboard",
     "content": "To complete a task, just click on the “Finish task” button at the top right of the popup window. The available features are: . | Dropdown: “to do”, “failed”, “successful” | Field: Comment on the completion of the task | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#complete-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#complete-a-task"
-  },"103": {
+  },"108": {
     "doc": "Dashboard",
     "title": "See the courier connected on the dashboard",
     "hpath": "admin.dashboard",
     "content": "When a courier connects to the application and its location is activated, a marker indicating its position is displayed on the dashboard. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#see-the-courier-connected-on-the-dashboard",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#see-the-courier-connected-on-the-dashboard"
-  },"104": {
+  },"109": {
     "doc": "Dashboard",
     "title": "Add a courier to the Assigned section.",
     "hpath": "admin.dashboard",
     "content": "Adding a courier to the schedule means that he is available to be assigned to tasks and therefore to deliver orders. In order to add a courier to the schedule, click on the + button in the Assigned section. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add-a-courier-to-the-assigned-section",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add-a-courier-to-the-assigned-section"
-  },"105": {
+  },"110": {
     "doc": "Dashboard",
     "title": "Assign a task to a courier.",
     "hpath": "admin.dashboard",
     "content": "If it is possible to assign a courier to a task from the popup for creating or editing a task, it is much more convenient to use the drag’n drop function of the dashboard: drop the task directly in the courier assignment area. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-a-task-to-a-courier",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-a-task-to-a-courier"
-  },"106": {
+  },"111": {
     "doc": "Dashboard",
     "title": "Create task",
     "hpath": "admin.dashboard",
     "content": "The task appears in the Unassigned section. The dispatcher moves the task to a courier previously added to the schedule. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-task"
-  },"107": {
+  },"112": {
     "doc": "Dashboard",
     "title": "Get information from an order",
     "hpath": "admin.dashboard",
     "content": "As soon as two tasks are assigned to a courier, a delivery is created. Several information is available: . | Estimated duration of delivery; | The distance to be covered (relative to the route of the route) (“Map” button: Show / hide the delivery route, which is the route proposed to the courier for delivery) | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#get-information-from-an-order",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#get-information-from-an-order"
-  },"108": {
+  },"113": {
     "doc": "Dashboard",
     "title": "Assign tasks to a courier considering optimization",
     "hpath": "admin.dashboard",
     "content": "The dispatcher can optimize the delivery route of the courier by moving the races in the task stack which are assigned to the latter. In order, the first in the stack will be the first route point taken into account and so on until the end of the stack. The dispatcher can move the tasks in the stack to re-organize them. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-tasks-to-a-courier-considering-optimization",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-tasks-to-a-courier-considering-optimization"
-  },"109": {
+  },"114": {
     "doc": "Dashboard",
     "title": "Create a tag and tag a task",
     "hpath": "admin.dashboard",
     "content": "Tags are values that can be assigned to a task in order to sort them in the dashboard. A tag is made up of a title and a color. In order to assign a tag to a task, you must first create the tags that the dispatcher needs. | Go to the configuration panel, “Tag” section; | Create a tag by clicking on the “Create a new tag” button; | Give a name and a color to the tag; | Validate. | . In the dashboard, the dispatcher will find the tags by creating a task or by editing it. | Click on the button Add a tag (toothed wheel); | Add the tag; It is possible to assign multiple tags to a task. | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-a-tag-and-tag-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-a-tag-and-tag-a-task"
-  },"110": {
+  },"115": {
     "doc": "Dashboard",
     "title": "Manipulate the different filters",
     "hpath": "admin.dashboard",
     "content": "Different filters are applicable in order to display only certain tasks. It is possible to filter by: . | Task status: | Completed tasks | Untagged tasks | By tag | . It is possible to combine the filters. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#manipulate-the-different-filters",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#manipulate-the-different-filters"
-  },"111": {
+  },"116": {
     "doc": "Dashboard",
     "title": "Dropdown calendar : change the date",
     "hpath": "admin.dashboard",
     "content": "To change the day, just use the drop-down calendar to the left of the top bar of the dashboard. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dropdown-calendar--change-the-date",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dropdown-calendar--change-the-date"
-  },"112": {
+  },"117": {
     "doc": "Dashboard",
     "title": "Import tasks from a CSV file",
     "hpath": "admin.dashboard",
     "content": "To avoid manually creating a large number of tasks, it is possible to mass import them via a CSV file. On the dashboard, click on the Import button: a window opens to allow you to upload a file. You must at least specify an address for each task, the other columns are optional. To import a file, click on the `Import ‘button located on the top bar of the dashboard. The before and after columns to specify the time slot accept values in different formats. Here are the values of the columns accompanied by an example: . | type | address.name | address.telephone | address | adress.floor | address.description | after | before | comments | tags | . You can download a sample file. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#import-tasks-from-a-csv-file",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#import-tasks-from-a-csv-file"
-  },"113": {
+  },"118": {
     "doc": "Dashboard",
     "title": "Export tasks in a CSV file",
     "hpath": "admin.dashboard",
     "content": "L’exportation d’un fichier .csv résumant les commandes du jours se fait par le biais du bouton Export situé sur la barre supérieure du dashboard. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#export-tasks-in-a-csv-file",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#export-tasks-in-a-csv-file"
-  },"114": {
+  },"119": {
     "doc": "Dashboard",
     "title": "Dashboard",
     "hpath": "admin.dashboard",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html"
-  },"115": {
+  },"120": {
     "doc": "Courier",
     "title": "Courier’s guide",
     "hpath": "courier",
     "content": ". Welcome to the courier’s guide for the CoopCycle platform. Refer to the corresponding guide. | App guide for couriers | [[]] | . ",
     "url": "http://localhost:4000/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html#couriers-guide",
     "relUrl": "/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html#couriers-guide"
-  },"116": {
+  },"121": {
     "doc": "Courier",
     "title": "Courier",
     "hpath": "courier",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html",
     "relUrl": "/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html"
-  },"117": {
+  },"122": {
     "doc": "Settings",
     "title": "Settings",
     "hpath": "admin.configuration.settings",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/c1ab6c62-c38a-4484-8734-693095c52733.html",
     "relUrl": "/notes/c1ab6c62-c38a-4484-8734-693095c52733.html"
-  },"118": {
+  },"123": {
     "doc": "Embed",
     "title": "Embed",
     "hpath": "admin.restaurants.generalsettings.embed",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/c416a379-05a4-46cc-9629-c1052f64e9e4.html",
     "relUrl": "/notes/c416a379-05a4-46cc-9629-c1052f64e9e4.html"
-  },"119": {
+  },"124": {
     "doc": "Customize",
     "title": "Customize",
     "hpath": "admin.configuration.customize",
     "content": "Here you can customize the front-page of your instance and add your coop's legal documentation. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#customize",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#customize"
-  },"120": {
+  },"125": {
     "doc": "Customize",
     "title": "Motto",
     "hpath": "admin.configuration.customize",
     "content": ". | Here you can write anything you want for customers to see when they visit your instance. | Click Save at the bottom of the page. | . Navigate to your instance to check it out. 💡 Markdown . The text boxes where you write your custom documentation are in Markdown format. You can write your docs in plain text or check here on how to format in Markdown, it's super easy and fun! ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#motto",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#motto"
-  },"121": {
+  },"126": {
     "doc": "Customize",
     "title": "Enable about us page",
     "hpath": "admin.configuration.customize",
     "content": "Checking the box will display an About us link on the header on the front-page of your instance. About us page content . Here you can insert a short description of your coop in the box on the left (Markdown format). The box on the right will show a Rich-text preview. Make sure to check ☑️ Enable about us page . The following three sections are displayed in the links in the footer of your instance. You have to enable ☑️ each, otherwise the default CoopCycle documentation will be displayed. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#enable-about-us-page",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#enable-about-us-page"
-  },"122": {
+  },"127": {
     "doc": "Customize",
     "title": "Custom legal notice page content",
     "hpath": "admin.configuration.customize",
     "content": "Here you can insert your coop’s Legal notice documentation. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-legal-notice-page-content",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-legal-notice-page-content"
-  },"123": {
+  },"128": {
     "doc": "Customize",
     "title": "Custom terms &amp; conditions page content",
     "hpath": "admin.configuration.customize",
     "content": "Here you can insert your coop’s Terms &amp; Conditions. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-terms--conditions-page-content",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-terms--conditions-page-content"
-  },"124": {
+  },"129": {
     "doc": "Customize",
     "title": "Custom privacy policy page content",
     "hpath": "admin.configuration.customize",
     "content": "Here you can insert your coop’s Privacy Policy. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-privacy-policy-page-content",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-privacy-policy-page-content"
-  },"125": {
+  },"130": {
     "doc": "Customize",
     "title": "Custom banner",
     "hpath": "admin.configuration.customize",
     "content": "Here you can change the banner on your instance. The default one for every instance is the one under the Motto section. To update your banner simply drag &amp; drop the file in the dashed rectangle. File format has to be .svg and recommended size is 300x100px. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-banner",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-banner"
-  },"126": {
+  },"131": {
     "doc": "Customize",
     "title": "Customize",
     "hpath": "admin.configuration.customize",
     "content": "| ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html"
-  },"127": {
+  },"132": {
     "doc": "Tags",
     "title": "Tags",
     "hpath": "admin.configuration.tags",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/ca1e0937-a622-4292-a2e9-ea57c0cf2b92.html",
     "relUrl": "/notes/ca1e0937-a622-4292-a2e9-ea57c0cf2b92.html"
-  },"128": {
+  },"133": {
     "doc": "Taxonomy",
     "title": "Taxonomy",
     "hpath": "admin.restaurants.generalsettings.taxonomy",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/ca90bbc7-b43d-496b-a10f-a2ef8943b20f.html",
     "relUrl": "/notes/ca90bbc7-b43d-496b-a10f-a2ef8943b20f.html"
-  },"129": {
+  },"134": {
     "doc": "General settings",
     "title": "General settings",
     "hpath": "admin.restaurants.generalsettings",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/d28d38aa-e425-4489-ab7d-676475e91019.html",
     "relUrl": "/notes/d28d38aa-e425-4489-ab7d-676475e91019.html"
-  },"130": {
+  },"135": {
     "doc": "Options",
     "title": "Options",
     "hpath": "admin.restaurants.generalsettings.options",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/d37f3793-7b44-42f8-844a-09f9c233f9f2.html",
     "relUrl": "/notes/d37f3793-7b44-42f8-844a-09f9c233f9f2.html"
-  },"131": {
+  },"136": {
     "doc": "Settlement",
     "title": "Settlement",
     "hpath": "admin.restaurants.generalsettings.settlement",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/dc91e4d1-92bc-4c47-b2f6-2e7af24d2595.html",
     "relUrl": "/notes/dc91e4d1-92bc-4c47-b2f6-2e7af24d2595.html"
-  },"132": {
+  },"137": {
     "doc": "Promotions",
     "title": "Promotions",
     "hpath": "admin.configuration.promotions",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/e58b8faf-356f-4a50-a764-ad9dcc270f8a.html",
     "relUrl": "/notes/e58b8faf-356f-4a50-a764-ad9dcc270f8a.html"
-  },"133": {
+  },"138": {
     "doc": "Admin",
     "title": "Admin",
     "hpath": "app.admin",
-    "content": " ",
+    "content": "| ",
     "url": "http://localhost:4000/notes/ffac9d49-baeb-4e33-86dd-83bf5baa3f52.html",
     "relUrl": "/notes/ffac9d49-baeb-4e33-86dd-83bf5baa3f52.html"
-  },"134": {
+  },"139": {
     "doc": "Getting started",
     "title": "Welcome to the Docs!",
     "hpath": "root",
     "content": ". To get started go to the respective documentation depending on your access: . | Admin / Coop | Courier | Customer | Restaurant / E-commerce | Store | . This documentation is hosted on GitHub Pages. You can use the \"Edit this page on GitHub\" button at the bottom of any page to be redirected to the GitHub online editor. For a guide on how to edit the docs see Edit docs. ",
     "url": "http://localhost:4000/#welcome-to-the-docs",
     "relUrl": "/#welcome-to-the-docs"
-  },"135": {
+  },"140": {
     "doc": "Getting started",
     "title": "Getting started",
     "hpath": "root",
