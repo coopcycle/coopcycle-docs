@@ -49,7 +49,7 @@ Optional information:
 - From the “Restaurants” tab, click on “Add a restaurant”
 - Enter information in the corresponding fields
 
-![Creation d'un restaurant](/assets/images/creation_resto_fr.png)
+![Creation d'un restaurant](coopcycle-docs/assets/images/creation_resto_fr.png)
 
 - Click on “Save”
 
@@ -59,18 +59,18 @@ Optional information:
 
 - **From your Stripe dashboard**, <https://dashboard.stripe.com/account>, create a new account by clicking on the top left on “New Account”. Indicate the name of the restaurant.
 
-<span class="zoomable">![Stripe](/assets/images/stripe_resto_account_fr.png)</span>
-![Stripe](/assets/images/stripe_resto_account_fr_2.png)
+<span class="zoomable">![Stripe](coopcycle-docs/assets/images/stripe_resto_account_fr.png)</span>
+![Stripe](coopcycle-docs/assets/images/stripe_resto_account_fr_2.png)
 
  
 
 - **From the restaurant page on the platform**, in the “Stripe Account” section, click on the “Connect with Stripe” button. The process must be repeated for dev operation and live operation.
 
-![Stripe](/assets/images/stripe_resto_account_fr_3.png)
+![Stripe](coopcycle-docs/assets/images/stripe_resto_account_fr_3.png)
 
 - A Stripe page opens. In the “Switch account” dropdown select the corresponding restaurant.
 
-![Stripe](/assets/images/stripe_resto_account_fr_4.png)
+![Stripe](coopcycle-docs/assets/images/stripe_resto_account_fr_4.png)
 
 - Entrer les informations du restaurateur correspondantes. <span style="color: red">**Attention : dans le champ “Customer phone number” indiquez votre numéro de téléphone pas celui du restaurateur.**</span>
 
@@ -84,5 +84,5 @@ Optional information:
   - In the “Recently connected accounts” list which appears click on the first (the last linked account)
   - Check that “Payments” and “Payouts” are green - in case of problems contact [dev@coopcycle.org](mailto:dev@coopcycle.org)
 
-  ![Stripe](/assets/images/stripe_resto_account_fr_5.png)
+  ![Stripe](coopcycle-docs/assets/images/stripe_resto_account_fr_5.png)
 

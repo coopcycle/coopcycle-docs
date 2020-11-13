@@ -4,3 +4,4 @@ site:
         - root
     siteRootDir: docs
     usePrettyRefs: true
+    assetsPrefix: coopcycle-docs  # <-- add this
