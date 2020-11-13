@@ -2,7 +2,7 @@
 id: 70e34ac3-b89c-4d64-9dfa-2ab23ce85083
 title: API
 desc: ''
-updated: 1604793287789
+updated: 1605263940320
 created: 1604769912018
 ---
 
@@ -16,7 +16,7 @@ created: 1604769912018
 # API
 
 <div class="alert alert-info" role="alert">
-API to integrate the CoopCycle plugin for WordPress websites with WooCommerce.
+API to integrate the CoopCycle plugin with third-party websites, such as a WordPress websites with WooCommerce.
 <hr><p class="mb-0">API is a pair of <em>keys</em> (<strong>Identifier</strong> and <strong>Secret key</strong>) which you use to integrate different softwares.</p>
 </div>
 
@@ -24,11 +24,11 @@ API to integrate the CoopCycle plugin for WordPress websites with WooCommerce.
 
 ## First things first
 
-If you need to create and use this API it means your client (a business you deliver for) have a **WordPress** online shop with **WooCommerce**.
+If you need to create and use this API it means your client (a business you deliver for) have their own website with e-commerce.
 
 ## What does the API do?
 
-It allows for purchases on a WordPress website with WooCommerce be sent directly into your CoopCycle instance.
+It allows for orders placed on a third-party website to be sent directly to the Store account on your CoopCycle instance.
 
 These purchases (orders) will show up under your client's Store account.
 
@@ -54,7 +54,7 @@ After you've created the keys, you will be automatically directed to the API mai
 ## Use the API keys
 
 <div class="alert alert-danger" role="alert">
-⚠️ You have to share these keys only with the developer of the WordPress website who will set up the CoopCycle plugin.
+⚠️ Only share these keys with the developer of your client's website who will set up the CoopCycle API.
 </div>
 
 Use the <i class="fa fa-copy"></i> `Copy` button for each key and send them securely to the person who will configure the plugin.

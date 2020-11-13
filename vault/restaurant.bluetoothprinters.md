@@ -1,12 +1,14 @@
 ---
 id: a19dd428-315d-4149-be8e-e298d2618d21
-title: Bluetoothprinters
+title: Bluetooth printers
 desc: ''
-updated: 1605215766030
+updated: 1605267019724
 created: 1605215726181
 ---
 
 # Bluetooth printers 
+
+
 ---
 
 ### Connecting a Bluetooth printer

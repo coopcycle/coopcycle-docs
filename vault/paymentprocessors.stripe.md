@@ -2,9 +2,10 @@
 id: 45f0d392-ea3d-4836-bebb-1052282382ec
 title: Stripe
 desc: ''
-updated: 1605215466422
+updated: 1605289329024
 created: 1605215048714
 ---
+<script src="https://kit.fontawesome.com/489c6dd9c4.js" crossorigin="anonymous"></script>
 
 # Stripe
 ---
@@ -22,5 +23,8 @@ Stripe has established itself as the "rolls-royce" of payment services. The serv
 
 For creating and integrating a Stripe account with CoopCycle refer to the links below.
 
-- [Create a Stripe account](https://dashboard.stripe.com/register)
+- [Create a Stripe account <i class="fas fa-external-link-alt"></i>](https://dashboard.stripe.com/register){:target="_blank"}
+    <div class="alert alert-info"> 
+    You can also ask you local coop to create a Stripe account on your behalf and they can seamlessly integrate with your e-commerce account. Then they will give you admin access to your Stripe account.</div>
 - [[Integrate with CoopCycle|developer.paymentprocessors.stripe]]
+

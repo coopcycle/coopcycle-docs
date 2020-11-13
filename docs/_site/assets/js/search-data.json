@@ -23,7 +23,7 @@
     "doc": "Developer",
     "title": "Developer",
     "hpath": "developer",
-    "content": "Welcome to the developer's guide for CoopCycle platform. ",
+    "content": "Welcome to the developer's guide for CoopCycle platform. Hello . ",
     "url": "http://localhost:4000/notes/110e618f-e566-490b-bdf3-87c4b95476bd.html#developer",
     "relUrl": "/notes/110e618f-e566-490b-bdf3-87c4b95476bd.html#developer"
   },"4": {
@@ -100,7 +100,7 @@
     "doc": "Plugin",
     "title": "Plugin",
     "hpath": "plugin",
-    "content": ". CoopCycle plugins that can be used to integrate with third-party websites. | WordPress plugin for WooCommerce | . ",
+    "content": ". CoopCycle plugins that can be used to integrate with third-party websites. | WordPress plugin for WooCommerce | PrestaShop plugin (coming soon) | . ",
     "url": "http://localhost:4000/notes/2ee1ef8b-3424-4624-8764-685e6769e015.html",
     "relUrl": "/notes/2ee1ef8b-3424-4624-8764-685e6769e015.html"
   },"15": {
@@ -234,8 +234,8 @@
     "title": "Stripe",
     "hpath": "paymentprocessors.stripe",
     "content": ". ",
-    "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html",
-    "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html"
+    "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#stripe",
+    "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#stripe"
   },"34": {
     "doc": "Stripe",
     "title": "What is Stripe?",
@@ -247,21 +247,21 @@
     "doc": "Stripe",
     "title": "Why Stripe?",
     "hpath": "paymentprocessors.stripe",
-    "content": "Stripe has established itself as the “rolls-royce” of payment services. The service is reputed to be of excellent quality. It is possible to find cheaper services, but we believe the price is worth the candle. A known negative point about Stripe is that the (nice) Stripe admin interface is not always available in the user’s language. For creating and integrating a Stripe account with CoopCycle refer to the links below. | Create a Stripe account | Integrate with CoopCycle | . ",
+    "content": "Stripe has established itself as the “rolls-royce” of payment services. The service is reputed to be of excellent quality. It is possible to find cheaper services, but we believe the price is worth the candle. A known negative point about Stripe is that the (nice) Stripe admin interface is not always available in the user’s language. For creating and integrating a Stripe account with CoopCycle refer to the links below. | Create a Stripe account You can also ask you local coop to create a Stripe account on your behalf and they can seamlessly integrate with your e-commerce account. Then they will give you admin access to your Stripe account. | Integrate with CoopCycle | . ",
     "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#why-stripe",
     "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html#why-stripe"
   },"36": {
-    "doc": "Paymentprocessors",
+    "doc": "Stripe",
+    "title": "Stripe",
+    "hpath": "paymentprocessors.stripe",
+    "content": " ",
+    "url": "http://localhost:4000/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html",
+    "relUrl": "/notes/45f0d392-ea3d-4836-bebb-1052282382ec.html"
+  },"37": {
+    "doc": "Payment processors",
     "title": "Payment processors",
     "hpath": "paymentprocessors",
-    "content": ". CoopCycle integrates with the following payment processors: . | Stripe (across Europe) | Adyen (Canada) | MercadoPago (Latin America) | . ",
-    "url": "http://localhost:4000/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html#payment-processors",
-    "relUrl": "/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html#payment-processors"
-  },"37": {
-    "doc": "Paymentprocessors",
-    "title": "Paymentprocessors",
-    "hpath": "paymentprocessors",
-    "content": " ",
+    "content": ". CoopCycle integrates with the following payment processors: . | Adyen (Canada) | MercadoPago (Latin America) | Stripe (across Europe) | . ",
     "url": "http://localhost:4000/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html",
     "relUrl": "/notes/46bdebf4-9ed7-4c0b-8525-f540aa7297f8.html"
   },"38": {
@@ -415,21 +415,21 @@
     "doc": "API",
     "title": "API",
     "hpath": "admin.configuration.api",
-    "content": "API to integrate the CoopCycle plugin for WordPress websites with WooCommerce. API is a pair of keys (Identifier and Secret key) which you use to integrate different softwares. ",
+    "content": "API to integrate the CoopCycle plugin with third-party websites, such as a WordPress websites with WooCommerce. API is a pair of keys (Identifier and Secret key) which you use to integrate different softwares. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#api",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#api"
   },"60": {
     "doc": "API",
     "title": "First things first",
     "hpath": "admin.configuration.api",
-    "content": "If you need to create and use this API it means your client (a business you deliver for) have a WordPress online shop with WooCommerce. ",
+    "content": "If you need to create and use this API it means your client (a business you deliver for) have their own website with e-commerce. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#first-things-first",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#first-things-first"
   },"61": {
     "doc": "API",
     "title": "What does the API do?",
     "hpath": "admin.configuration.api",
-    "content": "It allows for purchases on a WordPress website with WooCommerce be sent directly into your CoopCycle instance. These purchases (orders) will show up under your client’s Store account. ",
+    "content": "It allows for orders placed on a third-party website to be sent directly to the Store account on your CoopCycle instance. These purchases (orders) will show up under your client’s Store account. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#what-does-the-api-do",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#what-does-the-api-do"
   },"62": {
@@ -443,7 +443,7 @@
     "doc": "API",
     "title": "Use the API keys",
     "hpath": "admin.configuration.api",
-    "content": "⚠️ You have to share these keys only with the developer of the WordPress website who will set up the CoopCycle plugin. Use the Copy button for each key and send them securely to the person who will configure the plugin. To learn how to set up the CoopCycle plugin go here. ",
+    "content": "⚠️ Only share these keys with the developer of your client's website who will set up the CoopCycle API. Use the Copy button for each key and send them securely to the person who will configure the plugin. To learn how to set up the CoopCycle plugin go here. ",
     "url": "http://localhost:4000/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#use-the-api-keys",
     "relUrl": "/notes/70e34ac3-b89c-4d64-9dfa-2ab23ce85083.html#use-the-api-keys"
   },"64": {
@@ -622,335 +622,328 @@
     "url": "http://localhost:4000/notes/a0540556-6e35-40c0-9904-974727fd2405.html",
     "relUrl": "/notes/a0540556-6e35-40c0-9904-974727fd2405.html"
   },"89": {
-    "doc": "Bluetoothprinters",
+    "doc": "Bluetooth printers",
     "title": "Bluetooth printers",
     "hpath": "restaurant.bluetoothprinters",
     "content": ". Connecting a Bluetooth printer . Debugging Bluetooth devices . If you Bluetooth printer is not recognized, it helps if you can debug the device capabilities. To do so, install the nRF Connect for Mobile app on Google Play. Once installed, launch the app, and scan for devices. When your device is detected, tap on “CONNECT”. Once connected, the nRF Connect for Mobile app will show the device details. Unfold all the device capabilities by tapping on them, and send screenshots to dev@coopcycle.org . ",
-    "url": "http://localhost:4000/notes/a19dd428-315d-4149-be8e-e298d2618d21.html#bluetooth-printers",
-    "relUrl": "/notes/a19dd428-315d-4149-be8e-e298d2618d21.html#bluetooth-printers"
-  },"90": {
-    "doc": "Bluetoothprinters",
-    "title": "Bluetoothprinters",
-    "hpath": "restaurant.bluetoothprinters",
-    "content": " ",
     "url": "http://localhost:4000/notes/a19dd428-315d-4149-be8e-e298d2618d21.html",
     "relUrl": "/notes/a19dd428-315d-4149-be8e-e298d2618d21.html"
-  },"91": {
+  },"90": {
     "doc": "Taxation",
     "title": "Taxation",
     "hpath": "admin.configuration.taxation",
     "content": " ",
     "url": "http://localhost:4000/notes/a2c42910-57df-4b50-84b1-73201ca0a1d7.html",
     "relUrl": "/notes/a2c42910-57df-4b50-84b1-73201ca0a1d7.html"
-  },"92": {
+  },"91": {
     "doc": "Mercadpago",
     "title": "Mercadpago",
     "hpath": "paymentprocessors.mercadpago",
     "content": " ",
     "url": "http://localhost:4000/notes/a6ac02e3-5ae3-496e-a54d-2b968efc17d8.html",
     "relUrl": "/notes/a6ac02e3-5ae3-496e-a54d-2b968efc17d8.html"
-  },"93": {
+  },"92": {
     "doc": "Wordpress",
     "title": "Overview",
     "hpath": "plugin.wordpress",
     "content": "The CoopCycle plugin for WordPress allows to add a shipping method to WooCommerce, and to transmit the shipping data to CoopCycle directly, using the API. If one of your partners already has an e-commerce website based on WooCommerce, it the best way to have a seamless integration. On CoopCycle, the shipping data sent will be attached to a store, so you will need to create a store if you don’t have one already. The settings of the store modify the behavior of the plugin, in particular the configuration of the time slot used. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#overview",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#overview"
-  },"94": {
+  },"93": {
     "doc": "Wordpress",
     "title": "Obtaining an API token",
     "hpath": "plugin.wordpress",
     "content": "The first thing to do is to obtain an API token, so that the website running WooCommerce can interact with the CoopCycle API. Go to Configuration › API, and click « Add ». Enter the name of the app (for example, the name of the website running WooCommerce), select the store you want to generate an API token for, and hit « Save ». You should obtain a pair of credentials, a « API Key » and « API Secret », that you will need to configure the plugin. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#obtaining-an-api-token",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#obtaining-an-api-token"
-  },"95": {
+  },"94": {
     "doc": "Wordpress",
     "title": "Installing and configuring the plugin",
     "hpath": "plugin.wordpress",
     "content": "The CoopCycle plugin for WooCommerce can be installed from wordpress.org. In the WordPress admin area, go to the Plugins page, and search for « coopcycle ». In the settings page of the plugin, enter the base url of the CoopCycle instance, the « API Key » and « API Secret », and save changes. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#installing-and-configuring-the-plugin",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#installing-and-configuring-the-plugin"
-  },"96": {
+  },"95": {
     "doc": "Wordpress",
     "title": "Configuring WooCommerce",
     "hpath": "plugin.wordpress",
     "content": "Once the CoopCycle plugin is configured, you need to add to a shipping method to a zone. Go to WooCommerce › Settings › Shipping. If you haven’t already, click on « Add shipping zone », or edit one of your existing shipping zones. Click on « Add shipping method », and select « CoopCycle ». Once the shipping method has been added, you can configure it. The settings are the same as the standard Flat Rate Shipping method of WooCommerce. The most important thing that you need to configure is the shipping cost. Congratulations! 🎉 . Now, when entering an address that matches with the shipping zone, customers will be allowed to choose the CoopCycle shipping method. ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#configuring-woocommerce",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html#configuring-woocommerce"
-  },"97": {
+  },"96": {
     "doc": "Wordpress",
     "title": "Wordpress",
     "hpath": "plugin.wordpress",
     "content": " ",
     "url": "http://localhost:4000/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html",
     "relUrl": "/notes/b28135eb-867f-4713-9a4c-f4c037a3b381.html"
-  },"98": {
+  },"97": {
     "doc": "Statistics",
     "title": "Statistics",
     "hpath": "admin.statistics",
     "content": " ",
     "url": "http://localhost:4000/notes/b72d9fda-2717-4289-b9a1-b22db54665aa.html",
     "relUrl": "/notes/b72d9fda-2717-4289-b9a1-b22db54665aa.html"
-  },"99": {
+  },"98": {
     "doc": "Dashboard",
     "title": "Dispatch",
     "hpath": "admin.dashboard",
     "content": ". The administration dashboard (called dashboard in this document) allows you to control all the functions for creating and managing tasks as well as to manage the dispatch of couriers manually. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dispatch",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dispatch"
-  },"100": {
+  },"99": {
     "doc": "Dashboard",
     "title": "Create, assign and edit a task",
     "hpath": "admin.dashboard",
     "content": "A task is created by clicking on the button in the Unassigned section of the dashboard. A popup opens and allows you to configure the task. Three actions are possible for a task: . | Add, which allows you to create a task | Edit, which allows you to change or check the status and history of a task | Finish the task, which allows the status change of the task by:    - To Do    - Success    - Failure | . As long as a task is not assigned to a courier, the latter remains in the Unassigned section. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-assign-and-edit-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-assign-and-edit-a-task"
-  },"101": {
+  },"100": {
     "doc": "Dashboard",
     "title": "Add / Create a task",
     "hpath": "admin.dashboard",
     "content": "The following information is available to create a task: . | Checkbox: type of task . | Pickup | DropOff | . | Field: address of drop-off or pick-up point | +: more options . | Field: Postal code (automatic filling) | Field: City (automatic filling) | Field: Floor | Field: instructions | . | Dropdown: niche of achievement . | Start date | End date | . | Dropdown: choose a tag | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add--create-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add--create-a-task"
-  },"102": {
+  },"101": {
     "doc": "Dashboard",
     "title": "Edit a task",
     "hpath": "admin.dashboard",
     "content": "The same information as “add” is available for editing. In addition to this it is possible: . | Dropdown: Assign a courier | Dropdown: See history | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#edit-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#edit-a-task"
-  },"103": {
+  },"102": {
     "doc": "Dashboard",
     "title": "Complete a task",
     "hpath": "admin.dashboard",
     "content": "To complete a task, just click on the “Finish task” button at the top right of the popup window. The available features are: . | Dropdown: “to do”, “failed”, “successful” | Field: Comment on the completion of the task | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#complete-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#complete-a-task"
-  },"104": {
+  },"103": {
     "doc": "Dashboard",
     "title": "See the courier connected on the dashboard",
     "hpath": "admin.dashboard",
     "content": "When a courier connects to the application and its location is activated, a marker indicating its position is displayed on the dashboard. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#see-the-courier-connected-on-the-dashboard",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#see-the-courier-connected-on-the-dashboard"
-  },"105": {
+  },"104": {
     "doc": "Dashboard",
     "title": "Add a courier to the Assigned section.",
     "hpath": "admin.dashboard",
     "content": "Adding a courier to the schedule means that he is available to be assigned to tasks and therefore to deliver orders. In order to add a courier to the schedule, click on the + button in the Assigned section. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add-a-courier-to-the-assigned-section",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#add-a-courier-to-the-assigned-section"
-  },"106": {
+  },"105": {
     "doc": "Dashboard",
     "title": "Assign a task to a courier.",
     "hpath": "admin.dashboard",
     "content": "If it is possible to assign a courier to a task from the popup for creating or editing a task, it is much more convenient to use the drag’n drop function of the dashboard: drop the task directly in the courier assignment area. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-a-task-to-a-courier",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-a-task-to-a-courier"
-  },"107": {
+  },"106": {
     "doc": "Dashboard",
     "title": "Create task",
     "hpath": "admin.dashboard",
     "content": "The task appears in the Unassigned section. The dispatcher moves the task to a courier previously added to the schedule. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-task"
-  },"108": {
+  },"107": {
     "doc": "Dashboard",
     "title": "Get information from an order",
     "hpath": "admin.dashboard",
     "content": "As soon as two tasks are assigned to a courier, a delivery is created. Several information is available: . | Estimated duration of delivery; | The distance to be covered (relative to the route of the route) (“Map” button: Show / hide the delivery route, which is the route proposed to the courier for delivery) | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#get-information-from-an-order",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#get-information-from-an-order"
-  },"109": {
+  },"108": {
     "doc": "Dashboard",
     "title": "Assign tasks to a courier considering optimization",
     "hpath": "admin.dashboard",
     "content": "The dispatcher can optimize the delivery route of the courier by moving the races in the task stack which are assigned to the latter. In order, the first in the stack will be the first route point taken into account and so on until the end of the stack. The dispatcher can move the tasks in the stack to re-organize them. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-tasks-to-a-courier-considering-optimization",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#assign-tasks-to-a-courier-considering-optimization"
-  },"110": {
+  },"109": {
     "doc": "Dashboard",
     "title": "Create a tag and tag a task",
     "hpath": "admin.dashboard",
     "content": "Tags are values that can be assigned to a task in order to sort them in the dashboard. A tag is made up of a title and a color. In order to assign a tag to a task, you must first create the tags that the dispatcher needs. | Go to the configuration panel, “Tag” section; | Create a tag by clicking on the “Create a new tag” button; | Give a name and a color to the tag; | Validate. | . In the dashboard, the dispatcher will find the tags by creating a task or by editing it. | Click on the button Add a tag (toothed wheel); | Add the tag; It is possible to assign multiple tags to a task. | . ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-a-tag-and-tag-a-task",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#create-a-tag-and-tag-a-task"
-  },"111": {
+  },"110": {
     "doc": "Dashboard",
     "title": "Manipulate the different filters",
     "hpath": "admin.dashboard",
     "content": "Different filters are applicable in order to display only certain tasks. It is possible to filter by: . | Task status: | Completed tasks | Untagged tasks | By tag | . It is possible to combine the filters. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#manipulate-the-different-filters",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#manipulate-the-different-filters"
-  },"112": {
+  },"111": {
     "doc": "Dashboard",
     "title": "Dropdown calendar : change the date",
     "hpath": "admin.dashboard",
     "content": "To change the day, just use the drop-down calendar to the left of the top bar of the dashboard. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dropdown-calendar--change-the-date",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#dropdown-calendar--change-the-date"
-  },"113": {
+  },"112": {
     "doc": "Dashboard",
     "title": "Import tasks from a CSV file",
     "hpath": "admin.dashboard",
     "content": "To avoid manually creating a large number of tasks, it is possible to mass import them via a CSV file. On the dashboard, click on the Import button: a window opens to allow you to upload a file. You must at least specify an address for each task, the other columns are optional. To import a file, click on the `Import ‘button located on the top bar of the dashboard. The before and after columns to specify the time slot accept values in different formats. Here are the values of the columns accompanied by an example: . | type | address.name | address.telephone | address | adress.floor | address.description | after | before | comments | tags | . You can download a sample file. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#import-tasks-from-a-csv-file",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#import-tasks-from-a-csv-file"
-  },"114": {
+  },"113": {
     "doc": "Dashboard",
     "title": "Export tasks in a CSV file",
     "hpath": "admin.dashboard",
     "content": "L’exportation d’un fichier .csv résumant les commandes du jours se fait par le biais du bouton Export situé sur la barre supérieure du dashboard. ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#export-tasks-in-a-csv-file",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html#export-tasks-in-a-csv-file"
-  },"115": {
+  },"114": {
     "doc": "Dashboard",
     "title": "Dashboard",
     "hpath": "admin.dashboard",
     "content": " ",
     "url": "http://localhost:4000/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html",
     "relUrl": "/notes/bb18d7f9-cecb-4ac1-b69d-88c7bf28c895.html"
-  },"116": {
+  },"115": {
     "doc": "Courier",
     "title": "Courier’s guide",
     "hpath": "courier",
     "content": ". Welcome to the courier’s guide for the CoopCycle platform. Refer to the corresponding guide. | App guide for couriers | [[]] | . ",
     "url": "http://localhost:4000/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html#couriers-guide",
     "relUrl": "/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html#couriers-guide"
-  },"117": {
+  },"116": {
     "doc": "Courier",
     "title": "Courier",
     "hpath": "courier",
     "content": " ",
     "url": "http://localhost:4000/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html",
     "relUrl": "/notes/c077f31c-eb81-41c8-a1fc-dfe6f9c5906d.html"
-  },"118": {
+  },"117": {
     "doc": "Settings",
     "title": "Settings",
     "hpath": "admin.configuration.settings",
     "content": " ",
     "url": "http://localhost:4000/notes/c1ab6c62-c38a-4484-8734-693095c52733.html",
     "relUrl": "/notes/c1ab6c62-c38a-4484-8734-693095c52733.html"
-  },"119": {
+  },"118": {
     "doc": "Embed",
     "title": "Embed",
     "hpath": "admin.restaurants.generalsettings.embed",
     "content": " ",
     "url": "http://localhost:4000/notes/c416a379-05a4-46cc-9629-c1052f64e9e4.html",
     "relUrl": "/notes/c416a379-05a4-46cc-9629-c1052f64e9e4.html"
-  },"120": {
+  },"119": {
     "doc": "Customize",
     "title": "Customize",
     "hpath": "admin.configuration.customize",
     "content": "Here you can customize the front-page of your instance and add your coop's legal documentation. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#customize",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#customize"
-  },"121": {
+  },"120": {
     "doc": "Customize",
     "title": "Motto",
     "hpath": "admin.configuration.customize",
     "content": ". | Here you can write anything you want for customers to see when they visit your instance. | Click Save at the bottom of the page. | . Navigate to your instance to check it out. 💡 Markdown . The text boxes where you write your custom documentation are in Markdown format. You can write your docs in plain text or check here on how to format in Markdown, it's super easy and fun! ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#motto",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#motto"
-  },"122": {
+  },"121": {
     "doc": "Customize",
     "title": "Enable about us page",
     "hpath": "admin.configuration.customize",
     "content": "Checking the box will display an About us link on the header on the front-page of your instance. About us page content . Here you can insert a short description of your coop in the box on the left (Markdown format). The box on the right will show a Rich-text preview. Make sure to check ☑️ Enable about us page . The following three sections are displayed in the links in the footer of your instance. You have to enable ☑️ each, otherwise the default CoopCycle documentation will be displayed. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#enable-about-us-page",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#enable-about-us-page"
-  },"123": {
+  },"122": {
     "doc": "Customize",
     "title": "Custom legal notice page content",
     "hpath": "admin.configuration.customize",
     "content": "Here you can insert your coop’s Legal notice documentation. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-legal-notice-page-content",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-legal-notice-page-content"
-  },"124": {
+  },"123": {
     "doc": "Customize",
     "title": "Custom terms &amp; conditions page content",
     "hpath": "admin.configuration.customize",
     "content": "Here you can insert your coop’s Terms &amp; Conditions. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-terms--conditions-page-content",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-terms--conditions-page-content"
-  },"125": {
+  },"124": {
     "doc": "Customize",
     "title": "Custom privacy policy page content",
     "hpath": "admin.configuration.customize",
     "content": "Here you can insert your coop’s Privacy Policy. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-privacy-policy-page-content",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-privacy-policy-page-content"
-  },"126": {
+  },"125": {
     "doc": "Customize",
     "title": "Custom banner",
     "hpath": "admin.configuration.customize",
     "content": "Here you can change the banner on your instance. The default one for every instance is the one under the Motto section. To update your banner simply drag &amp; drop the file in the dashed rectangle. File format has to be .svg and recommended size is 300x100px. ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-banner",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html#custom-banner"
-  },"127": {
+  },"126": {
     "doc": "Customize",
     "title": "Customize",
     "hpath": "admin.configuration.customize",
     "content": "| ",
     "url": "http://localhost:4000/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html",
     "relUrl": "/notes/c52db84d-2382-4e1a-b0b6-f834c26e09a5.html"
-  },"128": {
+  },"127": {
     "doc": "Tags",
     "title": "Tags",
     "hpath": "admin.configuration.tags",
     "content": " ",
     "url": "http://localhost:4000/notes/ca1e0937-a622-4292-a2e9-ea57c0cf2b92.html",
     "relUrl": "/notes/ca1e0937-a622-4292-a2e9-ea57c0cf2b92.html"
-  },"129": {
+  },"128": {
     "doc": "Taxonomy",
     "title": "Taxonomy",
     "hpath": "admin.restaurants.generalsettings.taxonomy",
     "content": " ",
     "url": "http://localhost:4000/notes/ca90bbc7-b43d-496b-a10f-a2ef8943b20f.html",
     "relUrl": "/notes/ca90bbc7-b43d-496b-a10f-a2ef8943b20f.html"
-  },"130": {
+  },"129": {
     "doc": "General settings",
     "title": "General settings",
     "hpath": "admin.restaurants.generalsettings",
     "content": " ",
     "url": "http://localhost:4000/notes/d28d38aa-e425-4489-ab7d-676475e91019.html",
     "relUrl": "/notes/d28d38aa-e425-4489-ab7d-676475e91019.html"
-  },"131": {
+  },"130": {
     "doc": "Options",
     "title": "Options",
     "hpath": "admin.restaurants.generalsettings.options",
     "content": " ",
     "url": "http://localhost:4000/notes/d37f3793-7b44-42f8-844a-09f9c233f9f2.html",
     "relUrl": "/notes/d37f3793-7b44-42f8-844a-09f9c233f9f2.html"
-  },"132": {
+  },"131": {
     "doc": "Settlement",
     "title": "Settlement",
     "hpath": "admin.restaurants.generalsettings.settlement",
     "content": " ",
     "url": "http://localhost:4000/notes/dc91e4d1-92bc-4c47-b2f6-2e7af24d2595.html",
     "relUrl": "/notes/dc91e4d1-92bc-4c47-b2f6-2e7af24d2595.html"
-  },"133": {
+  },"132": {
     "doc": "Promotions",
     "title": "Promotions",
     "hpath": "admin.configuration.promotions",
     "content": " ",
     "url": "http://localhost:4000/notes/e58b8faf-356f-4a50-a764-ad9dcc270f8a.html",
     "relUrl": "/notes/e58b8faf-356f-4a50-a764-ad9dcc270f8a.html"
-  },"134": {
+  },"133": {
     "doc": "Admin",
     "title": "Admin",
     "hpath": "app.admin",
     "content": " ",
     "url": "http://localhost:4000/notes/ffac9d49-baeb-4e33-86dd-83bf5baa3f52.html",
     "relUrl": "/notes/ffac9d49-baeb-4e33-86dd-83bf5baa3f52.html"
-  },"135": {
+  },"134": {
     "doc": "Getting started",
     "title": "Welcome to the Docs!",
     "hpath": "root",
-    "content": ". To get started go to the respective documentation depending on your access: . | Admin / Coop | Courier | Customer | Restaurant / E-commerce | Store | . This documentation is hosted on GitHub Pages. You can use the \"Edit this page\" button to be redirected to the GitHub online editor. For a guide on how to edit the docs see Edit docs. ",
+    "content": ". To get started go to the respective documentation depending on your access: . | Admin / Coop | Courier | Customer | Restaurant / E-commerce | Store | . This documentation is hosted on GitHub Pages. You can use the \"Edit this page on GitHub\" button at the bottom of any page to be redirected to the GitHub online editor. For a guide on how to edit the docs see Edit docs. ",
     "url": "http://localhost:4000/#welcome-to-the-docs",
     "relUrl": "/#welcome-to-the-docs"
-  },"136": {
+  },"135": {
     "doc": "Getting started",
     "title": "Getting started",
     "hpath": "root",
