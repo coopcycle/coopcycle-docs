@@ -2,7 +2,7 @@
 id: root
 title: Getting Started
 desc: ''
-updated: 1605290334280
+updated: 1605886211198
 created: 1604763545555
 ---
 
@@ -14,7 +14,13 @@ created: 1604763545555
 <!-- Font Awesome -->
 <script src="https://kit.fontawesome.com/489c6dd9c4.js" crossorigin="anonymous"></script>
 
-# Welcome to the Docs!
+# Welcome to the CoopCycle Docs!
+
+<div class="alert alert-success" role="alert">
+This documentation is hosted on <a class="alert-link" href="https://pages.github.com/">GitHub Pages</a>. 
+You can use the <em>Edit this page on GitHub</em> button at the bottom of any page to be redirected to the GitHub online editor.<br>
+For a guide on how to edit the docs see Edit docs.
+</div>
 
 ---
 
@@ -26,10 +32,3 @@ To get started go to the respective documentation depending on your access:
 - [[Restaurant / E-commerce|restaurant]]
 - [[Store|store]]
 
----
-
-<div class="alert alert-success" role="alert">
-This documentation is hosted on <a class="alert-link" href="https://pages.github.com/">GitHub Pages</a>. 
-You can use the "Edit this page on GitHub" button at the bottom of any page to be redirected to the GitHub online editor.<br>
-For a guide on how to edit the docs see Edit docs.
-</div>

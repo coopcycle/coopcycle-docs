@@ -2,7 +2,7 @@
 id: root
 title: Getting started
 desc: ''
-updated: 1605290334280
+updated: 1605886211198
 created: 1604763545555
 parent: null
 children:
@@ -29,7 +29,13 @@ permalink: /
 <!-- Font Awesome -->
 <script src="https://kit.fontawesome.com/489c6dd9c4.js" crossorigin="anonymous"></script>
 
-# Welcome to the Docs!
+# Welcome to the CoopCycle Docs!
+
+<div class="alert alert-success" role="alert">
+This documentation is hosted on <a class="alert-link" href="https://pages.github.com/">GitHub Pages</a>. 
+You can use the <em>Edit this page on GitHub</em> button at the bottom of any page to be redirected to the GitHub online editor.<br>
+For a guide on how to edit the docs see Edit docs.
+</div>
 
 * * *
 
@@ -40,12 +46,4 @@ To get started go to the respective documentation depending on your access:
 - [Customer](notes/3ff0f62b-88e0-4373-ade9-369aae214882)
 - [Restaurant / E-commerce](notes/020e07ff-d946-48fe-a528-f01be68c5f70)
 - [Store](notes/4bae6a67-b72f-4396-a187-70789f8a1da7)
-
-* * *
-
-<div class="alert alert-success" role="alert">
-This documentation is hosted on <a class="alert-link" href="https://pages.github.com/">GitHub Pages</a>. 
-You can use the "Edit this page on GitHub" button at the bottom of any page to be redirected to the GitHub online editor.<br>
-For a guide on how to edit the docs see Edit docs.
-</div>
 

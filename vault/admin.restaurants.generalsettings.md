@@ -2,7 +2,7 @@
 id: d28d38aa-e425-4489-ab7d-676475e91019
 title: General settings
 desc: ''
-updated: 1605290107061
+updated: 1605887430408
 created: 1605205004966
 ---
 
@@ -13,3 +13,4 @@ created: 1605205004966
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 <!-- Font Awesome -->
 <script src="https://kit.fontawesome.com/489c6dd9c4.js" crossorigin="anonymous"></script>
+

@@ -1,25 +1,36 @@
 site:
-    #copyAssets: true
-    siteHierarchies: [root, admin, app, courier, customer, developer, paymentprocessors, plugin, restaurant, store]
+    siteHierarchies:
+        - root
+        - admin
+        - app
+        - courier
+        - customer
+        - developer
+        - paymentprocessors
+        - plugin
+        - restaurant
+        - store
     siteRootDir: docs
     usePrettyRefs: true
-    #assetsPrefix: "coopcycle-docs"  # <-- add this
-    config: 
-        admin: 
-            PublishByDefault: true 
+    config:
+        admin:
+            PublishByDefault: true
         app:
-            PublishByDefault: true 
+            PublishByDefault: true
         courier:
-            PublishByDefault: true 
+            PublishByDefault: true
         customer:
-            PublishByDefault: true 
+            PublishByDefault: true
         developer:
-            PublishByDefault: true 
+            PublishByDefault: true
         paymentprocessors:
-            PublishByDefault: true 
+            PublishByDefault: true
         plugin:
-            PublishByDefault: true 
+            PublishByDefault: true
         restaurant:
-            PublishByDefault: true 
+            PublishByDefault: true
         store:
             PublishByDefault: true
+vaults:
+    -
+        fsPath: vault
