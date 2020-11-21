@@ -1,3 +1,5 @@
+![](https://docs.coopcycle.org/assets/images/logo.png)
+
 # Unofficial CoopCycle Documentation
 The official documentation can be found [here](https://github.com/coopcycle/coopcycle-docs).
 
