@@ -15,7 +15,7 @@ You can view the documentation hosted on GitHub Pages [here](agichim.github.io).
 
 **Requirements**
 - VSCode / [VSCodium](https://github.com/VSCodium/vscodium)
-- [Dendron](https://github.com/dendronhq/dendron#getting-started) (only for VSCode / VSCodium)
+- [Dendron](https://github.com/dendronhq/dendron#getting-started) (plugin only for VSCode / VSCodium)
   - Dendron ([**main plugin**](https://open-vsx.org/extension/dendron/dendron))
   - Dendron Markdown Shortcuts (**extension plugin - mandatory - installs automatically**)
   - Dendron Markdown Notes (extension plugin - not mandatory but necessary for creating internal links)
