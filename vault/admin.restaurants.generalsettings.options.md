@@ -2,7 +2,7 @@
 id: d37f3793-7b44-42f8-844a-09f9c233f9f2
 title: Options
 desc: ''
-updated: 1605906662573
+updated: 1606914437635
 created: 1605205686911
 ---
 
@@ -22,13 +22,13 @@ The following settings are optional.
 
 ---
 
-- [ ] This restaurant is exclusive
+**This restaurant is exclusive**
 <div class="alert alert-primary" role="alert">
 If checked it places an <strong>Exclusive</strong> badge on the restaurant and brings it forwards on the homepage. 
 </div>
 <br>
 
-- [ ] This restaurant is featured on homepage
+**This restaurant is featured on homepage**
 <div class="alert alert-primary" role="alert">
 If checked it brings the restaurant forwards on the homepage. 
 </div>
@@ -38,7 +38,22 @@ If neither of the first two options are checked restaurants will get arranged by
 </div>
 <br>
 
-- [ ] This restaurant also accepts quotes
+**This restaurant also accepts quotes**
 <div class="alert alert-primary" role="alert">
 If checked it allows customers to place orders without paying. 
 </div>
+
+<div class="alert alert-warning" role="alert">
+Only customers who are enabled to request quotes can place a quote (or place an order without paying). See here for how to enable quoting customers.
+</div>
+<br>
+
+**Enable desposit-refund system.**
+<div class="alert alert-warning" role="alert">
+When this option is enabled you will find a new setting under <strong>More options ▼</strong> on the restaurant Product Menu.
+</div>
+
+![](assets/images/enableDepositMoreOptionsDepRefund.png)
+<br>
+
+Go here to read about the restaurant [Product Menu](admin.restaurants.productmenu).
