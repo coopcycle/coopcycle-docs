@@ -2,7 +2,7 @@
 id: d37f3793-7b44-42f8-844a-09f9c233f9f2
 title: Options
 desc: ''
-updated: 1606914437635
+updated: 1607029943793
 created: 1605205686911
 ---
 
@@ -50,10 +50,10 @@ Only customers who are enabled to request quotes can place a quote (or place an 
 
 **Enable desposit-refund system.**
 <div class="alert alert-warning" role="alert">
-When this option is enabled you will find a new setting under <strong>More options ▼</strong> on the restaurant Product Menu.
+When this option is enabled you will find a new setting under <strong>More options ▼</strong> on the restaurant Product Navigation Menu.
 </div>
 
 ![](assets/images/enableDepositMoreOptionsDepRefund.png)
 <br>
 
-Go here to read about the restaurant [Product Menu](admin.restaurants.productmenu).
+Go here to read about the restaurant [Product Navigation Menu](admin.restaurants.productmenu).

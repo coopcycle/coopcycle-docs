@@ -1,8 +1,8 @@
 ---
 id: 4eb2409c-253d-4023-bd8f-e26c49675177
 title: Fulfillment
-desc: ''
-updated: 1606936070326
+desc: ""
+updated: 1607031162093
 created: 1605205695947
 ---
 
@@ -22,21 +22,53 @@ This section allows you to configure the Collection and Delivery schedule along 
 
 ---
 
-**Fulfillment methods**
+## Fulfillment methods
 
-- Delivery
-- Collection
+- **Delivery** - the orders placed by customers are delivered by the coop
+- **Collection** - the order placed by customers are collected by the customers
 
 Checking either option will enable editing the corresponding schedule section.
 Make sure you scroll down too see the settings for each section.
 
-
-### Delivery section
+## Delivery section
 
 <span class="badge badge-info">TIP:</span><span> By unchecking both <strong>Delivery</strong> and <strong>Collection</strong> the business will have its products greyed out, not allowing customers to order.</span>
 
-#### Delivery time slots
+### Delivery time slots
+
 <div class="alert alert-warning" role="alert">
-The time slots will be displayed on the homepage of the business and they will act as the Delivery Hours of the business.<br>The business can be open from 09:00 to 18:00 but for deliveries they are open only from 12:00 to 18:00.
+<ul>
+<li>Time slots will be displayed on the homepage of the business</li>
+<li>They will act as the Delivery Hours of the business.</li>
+<li>The overall opening hours of the business can be 09:00 to 18:00 but for deliveries they may only be open from 12:00 to 18:00.</li></ul>
 </div>
 
+When you've just created a business/restaurant from <span class="badge badge-success">+ Create a new restaurant</span> the Delivery Time slot under Fulfillment will show no time slots. 
+Click <span class="badge badge-success">+ Add</span> to create a new time slot.
+
+<span class="badge badge-info">TIP:</span><span> These settings apply as well for the Collection section</span>
+
+![](/assets/images/deliveryTimeSlotsAdd.png)
+
+By clicking add a new time slot field will become available. Choose the corresponding Time and Days. See example below:
+
+![](/assets/images/deliveryTimeSlotsSelectedWeekend.png)
+
+<span class="badge badge-info">TIP:</span><span> Saving settings only works if a Time Slot has a selected time and at least one (1) checked day. See below:</span>
+
+![](/assets/images/deliveryTimeSlotSave.png)
+
+If you need to remove a Time Slot click the <i class="fas fa-times"></i> button on the right-end of the Time Slot.
+
+![](/assets/images/deliveryTimeSlotRemove.png)
+
+**As soon as possible**
+This option works best when the delivery opening hours of the business is set in a single Time Slot. See the above two images, e.g. `9:00 AM - 12:00 PM`.
+This option allows the customer to place an order to be delivered as quickly as possible. Go to [[Prepration|admin.restaurants.productsettings.preparation]] to check how the **As soon as possible** times are configured.
+
+**Time slot**
+This option works best when you create multiple time slots within the delivery opening hours of the business. Se image below:
+
+![](/assets/images/multipleDeliveryTimeSlots.png)
+
+In this case, the delivery opening hours of the business are `10:00 AM - 5:00 PM`. But the whole shcedule has been split in hourly slots. When **Time slots** is selected, customers will see multiple hourly slots as their delivery time. See image below:
