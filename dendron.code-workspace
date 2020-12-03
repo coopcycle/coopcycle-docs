@@ -8,7 +8,7 @@
         "dendron.rootDir": ".",
         "editor.minimap.enabled": false,
         "files.autoSave": "onFocusChange",
-        "workbench.colorTheme": "GitHub Light",
+        "workbench.colorTheme": "Default Dark+",
         "pasteImage.path": "${currentFileDir}/assets/images",
         "pasteImage.prefix": "/",
         "markdown-preview-enhanced.enableWikiLinkSyntax": true,
