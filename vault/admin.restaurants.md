@@ -2,7 +2,7 @@
 id: 7df210ad-8f65-46b0-8d0b-4a745bd43de6
 title: Restaurants
 desc: ''
-updated: 1605906114941
+updated: 1607031343299
 created: 1605204492537
 ---
 <!-- CSS -->
@@ -24,7 +24,7 @@ The restaurant guide is split in two settings sections. Both sections are found 
 
 * * *
 
-### [[Product Settings 🔗|admin.restaurants.productmenu]]
+### [[Product Settings 🔗|admin.restaurants.productsettings]]
 
 These settings are found in the top navigation bar under main settings.
 
