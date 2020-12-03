@@ -13,7 +13,6 @@ children:
   - 110e618f-e566-490b-bdf3-87c4b95476bd
   - 46bdebf4-9ed7-4c0b-8525-f540aa7297f8
   - 2ee1ef8b-3424-4624-8764-685e6769e015
-  - 47d45ed5-d59c-46dd-9fbc-26dbcf53e03b
   - 020e07ff-d946-48fe-a528-f01be68c5f70
   - 4bae6a67-b72f-4396-a187-70789f8a1da7
 nav_order: 0
