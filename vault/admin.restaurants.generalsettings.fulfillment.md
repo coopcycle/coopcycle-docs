@@ -2,7 +2,7 @@
 id: 4eb2409c-253d-4023-bd8f-e26c49675177
 title: Fulfillment
 desc: ""
-updated: 1607106072785
+updated: 1607111717514
 created: 1605205695947
 ---
 
@@ -151,3 +151,4 @@ Selecting **Zone** allows you select a delivery zone previously configured and u
 
 **Distance (km)**
 Selecting **Distance (km)** allows you to input a value in numbers representing the radius of deliveries in kilometers with the center at the address of the business.
+
