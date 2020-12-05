@@ -1,6 +1,6 @@
 ---
 id: 26e9af49-0524-496c-a5db-db625198575e
-title: Settings
+title: Configuration
 desc: ''
 updated: 1605290012197
 created: 1604767487604

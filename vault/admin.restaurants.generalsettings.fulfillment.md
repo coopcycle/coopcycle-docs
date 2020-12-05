@@ -1,11 +1,10 @@
 ---
 id: 4eb2409c-253d-4023-bd8f-e26c49675177
 title: Fulfillment
-desc: ""
+desc: ''
 updated: 1607111717514
 created: 1605205695947
 ---
-
 <!-- CSS -->
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -21,7 +20,7 @@ created: 1605205695947
 This section allows you to configure the Collection and Delivery schedule along with other related settings.
 </div>
 
----
+* * *
 
 ## Fulfillment methods
 
@@ -147,7 +146,7 @@ The first dropdown menu has two options:
   When selecting either option the second dropdown menu to the right changes accordingly allowing you to input the necessary settings.
 
 **Zone**
-Selecting **Zone** allows you select a delivery zone previously configured and uploaded under [[Settings > Zones|admin.settings.zones]]
+Selecting **Zone** allows you select a delivery zone previously configured and uploaded under [[Settings > Zones|admin.configuration.zones]]
 
 **Distance (km)**
 Selecting **Distance (km)** allows you to input a value in numbers representing the radius of deliveries in kilometers with the center at the address of the business.
