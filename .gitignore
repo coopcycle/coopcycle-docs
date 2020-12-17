@@ -4,3 +4,4 @@ _site
 /.debug.log
 .dendron.port
 .dendron.ws
+debug.log
