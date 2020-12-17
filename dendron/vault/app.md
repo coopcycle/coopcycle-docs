@@ -1,0 +1,39 @@
+---
+id: 472c5df7-1fdf-42db-95fa-381245efb5b9
+title: App
+desc: ''
+updated: 1605290168350
+created: 1605206241862
+---
+
+<!-- CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+<!-- jQuery and JS bundle w/ Popper.js -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/489c6dd9c4.js" crossorigin="anonymous"></script>
+
+# App
+---
+
+We have apps for iOS and Android.
+
+### Android
+
+You can install the Android app directly from Google Play. Search for "CoopCycle" on Google Play, or click on the link below.
+Requires Android 4.3 or later.
+
+<a type="button" class="btn btn-primary" href="https://play.google.com/store/apps/details?id=fr.coopcycle
+">Install the Android app</a>
+### iOS
+
+You can install the iOS app directly from the App Store. Search for "CoopCycle" on the App Store, or click on the link below.
+Requires iOS 9.0 or later. Compatible with iPhone, iPad, and iPod touch.
+
+<a type="button" class="btn btn-primary" href="https://apps.apple.com/us/app/coopcycle/id1324884530
+">Install the iOS app</a>
+
+---
+
+See the index below for the guide your require.
