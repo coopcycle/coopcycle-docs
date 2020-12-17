@@ -1,0 +1,317 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/stores.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/stores.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/stores.html%2Bhtml.head.title:1-512
+msgid "Stores | CoopCycle"
+msgstr "Stores | CoopCycle"
+
+#: _site/en/admin/stores.html%2Bhtml.head.meta[content]:1-685
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/stores.html%2Bhtml.body.svg.symbol.title:1-1503
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/stores.html%2Bhtml.body.svg.symbol.title:1-1952
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/stores.html%2Bhtml.body.svg.symbol.title:1-2338
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/stores.html%2Bhtml.body.svg.symbol.title:1-2767
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/stores.html%2Bhtml.body.svg.symbol.title:1-3114
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.a:1-3629
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-3886
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-3983
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4099
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4226
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4359
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-4504
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4632
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4767
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-4909
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5041
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-5182
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5322
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-5471
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5595
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-5734
+msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li:1-5734"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5869
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6000
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6129
+msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li:1-6129"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6246
+msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li:1-6246"
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6376
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6511
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6658
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
+msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6797"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6932
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7078
+msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7078"
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7215
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7368
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-7493
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7631
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7783
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7935
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8081
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8239
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-8403
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8531
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.footer.footer.a[title]:1-9607
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.footer.footer.ul:1-9595
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div:1-10252
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10518
+msgctxt "_site/en/admin/stores.html+html.body.div.div.nav.ul.li:1-10518"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10635
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10757
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ol.li:1-11033
+msgctxt "_site/en/admin/stores.html+html.body.div.div.nav.ol.li:1-11033"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ol.li:1-11135
+msgctxt "_site/en/admin/stores.html+html.body.div.div.nav.ol.li:1-11135"
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-11267
+msgid ""
+"In CoopCycle’s « vocabulary », a <strong>Store</strong> represents a B2B "
+"customer, i.e. a professional merchant to whom the cooperative offers its "
+"delivery services."
+msgstr ""
+"In CoopCycle’s « vocabulary », a <strong>Store</strong> represents a B2B "
+"customer, i.e. a professional merchant to whom the cooperative offers its "
+"delivery services."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-11440
+msgid ""
+"Basically, a <strong>Store</strong> is a container for deliveries. Users can "
+"be attached to a <strong>Store</strong>, and once attached, they can use the "
+"web interface to order deliveries using a form. The deliveries ordered this "
+"way land directly in the dispatch."
+msgstr ""
+"Basically, a <strong>Store</strong> is a container for deliveries. Users can "
+"be attached to a <strong>Store</strong>, and once attached, they can use the "
+"web interface to order deliveries using a form. The deliveries ordered this "
+"way land directly in the dispatch."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.h2:1-11712
+msgctxt "_site/en/admin/stores.html+html.body.div.div.div.h2:1-11712"
+msgid "Store Settings"
+msgstr "Store Settings"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-11896
+msgid "The settings will change the behavior of the form to order a delivery."
+msgstr "The settings will change the behavior of the form to order a delivery."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p.img[alt]:1-11977
+msgctxt "_site/en/admin/stores.html+html.body.div.div.div.p.img[alt]:1-11977"
+msgid "Store Settings"
+msgstr "Store Settings"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.h3:1-12053
+msgctxt "_site/en/admin/stores.html+html.body.div.div.div.h3:1-12053"
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12216
+msgid ""
+"This allows to decide how the prices for this <strong>Store</strong> will be "
+"calculated. You can choose among the <strong>Pricing Rules</strong> that you "
+"have configured previously."
+msgstr ""
+"This allows to decide how the prices for this <strong>Store</strong> will be "
+"calculated. You can choose among the <strong>Pricing Rules</strong> that you "
+"have configured previously."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12405
+msgid ""
+"<a href=\"/en/admin/actions/pricing.html\">Learn more about defining Pricing "
+"Rules</a>."
+msgstr ""
+"<a href=\"/en/admin/actions/pricing.html\">Learn more about defining Pricing "
+"Rules</a>."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12498
+msgid "Heads up"
+msgstr "Heads up"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12528
+msgid ""
+"If you want the price to be displayed to the user, you need to check the « "
+"Create orders » checkbox."
+msgstr ""
+"If you want the price to be displayed to the user, you need to check the « "
+"Create orders » checkbox."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.h3:1-12636
+msgid "Time Slot"
+msgstr "Time Slot"
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12805
+msgid "This allows to decide which time slots the user will be able to select."
+msgstr "This allows to decide which time slots the user will be able to select."
+
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12884
+msgid ""
+"<a href=\"/en/admin/actions/time-slots.html\">Learn more about defining Time "
+"Slots</a>."
+msgstr ""
+"<a href=\"/en/admin/actions/time-slots.html\">Learn more about defining Time "
+"Slots</a>."

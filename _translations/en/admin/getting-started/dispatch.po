@@ -1,0 +1,695 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/getting-started/dispatch.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.head.title:1-512
+msgid "Dispatch | CoopCycle"
+msgstr "Dispatch | CoopCycle"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.head.meta[content]:1-689
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.svg.symbol.title:1-1563
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.svg.symbol.title:1-2012
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.svg.symbol.title:1-2398
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.svg.symbol.title:1-2827
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.svg.symbol.title:1-3174
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.a:1-3689
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-3946
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-4043
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4159
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4286
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4419
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-4564
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4692
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4827
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-4969
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5101
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-5242
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5382
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-5531
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5655
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-5794
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li:1-5794"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5929
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6060
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6189
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li:1-6189"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6306
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6423
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6558
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li:1-6558"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6711
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6711"
+"_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6711"
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6863
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6863"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6998
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7144
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7281
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7434
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-7559
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7697
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7849
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8001
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8147
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8305
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-8469
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8597
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.footer.footer.a[title]:1-9673
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.footer.footer.ul:1-9661
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div:1-10318
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10602
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ul.li:1-10602"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10737
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10874
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11168
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ol.li:1-11168"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11270
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ol.li:1-11270"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11390
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ol.li:1-11390"
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h1:1-11524
+msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.div.h1:1-11524"
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-11690
+msgid ""
+"The administration dashboard (called dashboard in this document) allows you "
+"to control all the functions for creating and managing tasks as well as to "
+"manage the dispatch of couriers manually. It is possible to display it in "
+"full screen by clicking on the button"
+msgstr ""
+"The administration dashboard (called dashboard in this document) allows you "
+"to control all the functions for creating and managing tasks as well as to "
+"manage the dispatch of couriers manually. It is possible to display it in "
+"full screen by clicking on the button"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p.span.img[alt]:1-11986
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-12059
+msgid "Create, assign and edit a task"
+msgstr "Create, assign and edit a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-12289
+msgid ""
+"A task is created by clicking on the <i class=\"fa fa-plus fa-lg\" aria-"
+"hidden=\"true\"> </i> button in the <code class=\"language-plaintext "
+"highlighter-rouge\">Unassigned</code> section of the dashboard. A popup "
+"opens and allows you to configure the task. Three actions are possible for a "
+"task:"
+msgstr ""
+"A task is created by clicking on the <i class=\"fa fa-plus fa-lg\" aria-"
+"hidden=\"true\"> </i> button in the <code class=\"language-plaintext "
+"highlighter-rouge\">Unassigned</code> section of the dashboard. A popup "
+"opens and allows you to configure the task. Three actions are possible for a "
+"task:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-12591
+msgid "Add, which allows you to create a task"
+msgstr "Add, which allows you to create a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-12639
+msgid ""
+"Edit, which allows you to change or check the status and history of a task"
+msgstr ""
+"Edit, which allows you to change or check the status and history of a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-12723
+msgid ""
+"Finish the task, which allows the status change of the task by: - To Do - "
+"Success - Failure"
+msgstr ""
+"Finish the task, which allows the status change of the task by: - To Do - "
+"Success - Failure"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-12839
+msgid ""
+"As long as a task is not assigned to a courier, the latter remains in the "
+"<code class=\"language-plaintext highlighter-rouge\">Unassigned</code> "
+"section."
+msgstr ""
+"As long as a task is not assigned to a courier, the latter remains in the "
+"<code class=\"language-plaintext highlighter-rouge\">Unassigned</code> "
+"section."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-12998
+msgid "Add / Create a task"
+msgstr "Add / Create a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-13195
+msgid "The following information is available to create a task:"
+msgstr "The following information is available to create a task:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-13264
+msgid "Checkbox: type of task"
+msgstr "Checkbox: type of task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13296
+msgid "Pickup"
+msgstr "Pickup"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13312
+msgid "DropOff"
+msgstr "DropOff"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-13341
+msgid "Field: address of drop-off or pick-up point"
+msgstr "Field: address of drop-off or pick-up point"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-13394
+msgid ""
+"<code class=\"language-plaintext highlighter-rouge\">+</code>: more options"
+msgstr ""
+"<code class=\"language-plaintext highlighter-rouge\">+</code>: more options"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13477
+msgid "Field: Postal code (automatic filling)"
+msgstr "Field: Postal code (automatic filling)"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13525
+msgid "Field: City (automatic filling)"
+msgstr "Field: City (automatic filling)"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13566
+msgid "Field: Floor"
+msgstr "Field: Floor"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13588
+msgid "Field: instructions"
+msgstr "Field: instructions"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-13629
+msgid "Dropdown: niche of achievement"
+msgstr "Dropdown: niche of achievement"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13669
+msgid "Start date"
+msgstr "Start date"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13689
+msgid "End date"
+msgstr "End date"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-13719
+msgid "Dropdown: choose a tag"
+msgstr "Dropdown: choose a tag"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-13757
+msgid "Edit a task"
+msgstr "Edit a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-13932
+msgid ""
+"The same information as “add” is available for editing. In addition to this "
+"it is possible:"
+msgstr ""
+"The same information as “add” is available for editing. In addition to this "
+"it is possible:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-14036
+msgid "Dropdown: Assign a courier"
+msgstr "Dropdown: Assign a courier"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-14072
+msgid "Dropdown: See history"
+msgstr "Dropdown: See history"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-14109
+msgid "Complete a task"
+msgstr "Complete a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-14296
+msgid ""
+"To complete a task, just click on the “Finish task” button at the top right "
+"of the popup window. The available features are:"
+msgstr ""
+"To complete a task, just click on the “Finish task” button at the top right "
+"of the popup window. The available features are:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-14433
+msgid "Dropdown: “to do”, “failed”, “successful”"
+msgstr "Dropdown: “to do”, “failed”, “successful”"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-14484
+msgid "Field: Comment on the completion of the task"
+msgstr "Field: Comment on the completion of the task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-14544
+msgid "See the courier connected on the dashboard"
+msgstr "See the courier connected on the dashboard"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-14812
+msgid ""
+"When a courier connects to the application and its location is activated, a "
+"marker indicating its position is displayed on the dashboard."
+msgstr ""
+"When a courier connects to the application and its location is activated, a "
+"marker indicating its position is displayed on the dashboard."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-14957
+msgid "Add a courier to the Assigned section."
+msgstr "Add a courier to the Assigned section."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-15211
+msgid ""
+"Adding a courier to the schedule means that he is available to be assigned "
+"to tasks and therefore to deliver orders. In order to add a courier to the "
+"schedule, click on the <code class=\"language-plaintext highlighter-rouge\""
+">+</code> button in the <code class=\"language-plaintext highlighter-rouge\""
+">Assigned</code> section."
+msgstr ""
+"Adding a courier to the schedule means that he is available to be assigned "
+"to tasks and therefore to deliver orders. In order to add a courier to the "
+"schedule, click on the <code class=\"language-plaintext highlighter-rouge\""
+">+</code> button in the <code class=\"language-plaintext highlighter-rouge\""
+">Assigned</code> section."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-15541
+msgid "Assign a task to a courier."
+msgstr "Assign a task to a courier."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-15762
+msgid ""
+"If it is possible to assign a courier to a task from the popup for creating "
+"or editing a task, it is much more convenient to use the drag’n drop "
+"function of the dashboard: drop the task directly in the courier assignment "
+"area."
+msgstr ""
+"If it is possible to assign a courier to a task from the popup for creating "
+"or editing a task, it is much more convenient to use the drag’n drop "
+"function of the dashboard: drop the task directly in the courier assignment "
+"area."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-15996
+msgid "Create task"
+msgstr "Create task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-16171
+msgid ""
+"The task appears in the <code class=\"language-plaintext highlighter-rouge\""
+">Unassigned</code> section. The dispatcher moves the task to a courier "
+"previously added to the schedule."
+msgstr ""
+"The task appears in the <code class=\"language-plaintext highlighter-rouge\""
+">Unassigned</code> section. The dispatcher moves the task to a courier "
+"previously added to the schedule."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-16357
+msgid "Get information from an order"
+msgstr "Get information from an order"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-16586
+msgid ""
+"As soon as two tasks are assigned to a courier, a delivery is created. "
+"Several information is available:"
+msgstr ""
+"As soon as two tasks are assigned to a courier, a delivery is created. "
+"Several information is available:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-16703
+msgid "Estimated duration of delivery;"
+msgstr "Estimated duration of delivery;"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-16744
+msgid ""
+"The distance to be covered (relative to the route of the route) (“Map” "
+"button: Show / hide the delivery route, which is the route proposed to the "
+"courier for delivery)"
+msgstr ""
+"The distance to be covered (relative to the route of the route) (“Map” "
+"button: Show / hide the delivery route, which is the route proposed to the "
+"courier for delivery)"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-16927
+msgid "Assign tasks to a courier considering optimization"
+msgstr "Assign tasks to a courier considering optimization"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-17219
+msgid ""
+"The dispatcher can optimize the delivery route of the courier by moving the "
+"races in the task stack which are assigned to the latter. In order, the "
+"first in the stack will be the first route point taken into account and so "
+"on until the end of the stack. The dispatcher can move the tasks in the "
+"stack to re-organize them."
+msgstr ""
+"The dispatcher can optimize the delivery route of the courier by moving the "
+"races in the task stack which are assigned to the latter. In order, the "
+"first in the stack will be the first route point taken into account and so "
+"on until the end of the stack. The dispatcher can move the tasks in the "
+"stack to re-organize them."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-17548
+msgid "Create a tag and tag a task"
+msgstr "Create a tag and tag a task"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-17771
+msgid ""
+"Tags are values that can be assigned to a task in order to sort them in the "
+"dashboard. A tag is made up of a title and a color. In order to assign a tag "
+"to a task, you must first create the tags that the dispatcher needs."
+msgstr ""
+"Tags are values that can be assigned to a task in order to sort them in the "
+"dashboard. A tag is made up of a title and a color. In order to assign a tag "
+"to a task, you must first create the tags that the dispatcher needs."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18005
+msgid "Go to the configuration panel, “Tag” section;"
+msgstr "Go to the configuration panel, “Tag” section;"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18060
+msgid "Create a tag by clicking on the “Create a new tag” button;"
+msgstr "Create a tag by clicking on the “Create a new tag” button;"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18128
+msgid "Give a name and a color to the tag;"
+msgstr "Give a name and a color to the tag;"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18173
+msgid "Validate."
+msgstr "Validate."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-18198
+msgid ""
+"In the dashboard, the dispatcher will find the tags by creating a task or by "
+"editing it."
+msgstr ""
+"In the dashboard, the dispatcher will find the tags by creating a task or by "
+"editing it."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18299
+msgid ""
+"Click on the button <code class=\"language-plaintext highlighter-rouge\">Add "
+"a tag</code> (toothed wheel);"
+msgstr ""
+"Click on the button <code class=\"language-plaintext highlighter-rouge\">Add "
+"a tag</code> (toothed wheel);"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18413
+msgid "Add the tag; It is possible to assign multiple tags to a task."
+msgstr "Add the tag; It is possible to assign multiple tags to a task."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-18491
+msgid "Manipulate the different filters"
+msgstr "Manipulate the different filters"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-18729
+msgid ""
+"Different filters are applicable in order to display only certain tasks. It "
+"is possible to filter by:"
+msgstr ""
+"Different filters are applicable in order to display only certain tasks. It "
+"is possible to filter by:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18843
+msgid "Task status:"
+msgstr "Task status:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18865
+msgid "Completed tasks"
+msgstr "Completed tasks"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18890
+msgid "Untagged tasks"
+msgstr "Untagged tasks"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-18914
+msgid "By tag"
+msgstr "By tag"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-18936
+msgid "It is possible to combine the filters."
+msgstr "It is possible to combine the filters."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-18982
+msgid "Dropdown calendar : change the date"
+msgstr "Dropdown calendar : change the date"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-19227
+msgid ""
+"To change the day, just use the drop-down calendar to the left of the top "
+"bar of the dashboard."
+msgstr ""
+"To change the day, just use the drop-down calendar to the left of the top "
+"bar of the dashboard."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-19330
+msgid "Import tasks from a CSV file"
+msgstr "Import tasks from a CSV file"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-19556
+msgid ""
+"To avoid manually creating a large number of tasks, it is possible to mass "
+"import them via a CSV file. On the dashboard, click on the <code class"
+"=\"language-plaintext highlighter-rouge\">Import</code> button: a window "
+"opens to allow you to upload a file. You must at least specify an address "
+"for each task, the other columns are optional. To import a file, click on "
+"the `Import ‘button located on the top bar of the dashboard."
+msgstr ""
+"To avoid manually creating a large number of tasks, it is possible to mass "
+"import them via a CSV file. On the dashboard, click on the <code class"
+"=\"language-plaintext highlighter-rouge\">Import</code> button: a window "
+"opens to allow you to upload a file. You must at least specify an address "
+"for each task, the other columns are optional. To import a file, click on "
+"the `Import ‘button located on the top bar of the dashboard."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-19988
+msgid ""
+"The before and after columns to specify the time slot accept values in "
+"different formats. Here are the values of the columns accompanied by an "
+"example:"
+msgstr ""
+"The before and after columns to specify the time slot accept values in "
+"different formats. Here are the values of the columns accompanied by an "
+"example:"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20152
+msgid "type"
+msgstr "type"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20166
+msgid "address.name"
+msgstr "address.name"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20188
+msgid "address.telephone"
+msgstr "address.telephone"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20215
+msgid "address"
+msgstr "address"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20232
+msgid "adress.floor"
+msgstr "adress.floor"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20254
+msgid "address.description"
+msgstr "address.description"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20283
+msgid "after"
+msgstr "after"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20298
+msgid "before"
+msgstr "before"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20314
+msgid "comments"
+msgstr "comments"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.ul.li:1-20332
+msgid "tags"
+msgstr "tags"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-20352
+msgid ""
+"You can download a <a href=\"https://demo.coopcycle.org/help/tasks_import."
+"example.en.csv\">sample file</a>."
+msgstr ""
+"You can download a <a href=\"https://demo.coopcycle.org/help/tasks_import."
+"example.en.csv\">sample file</a>."
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h2:1-20465
+msgid "Export tasks in a CSV file"
+msgstr "Export tasks in a CSV file"
+
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-20685
+msgid ""
+"L’exportation d’un fichier .csv résumant les commandes du jours se fait par "
+"le biais du bouton <code class=\"language-plaintext highlighter-rouge\""
+">Export</code> situé sur la barre supérieure du dashboard."
+msgstr ""
+"L’exportation d’un fichier .csv résumant les commandes du jours se fait par "
+"le biais du bouton <code class=\"language-plaintext highlighter-rouge\""
+">Export</code> situé sur la barre supérieure du dashboard."

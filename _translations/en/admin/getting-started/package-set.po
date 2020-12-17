@@ -1,0 +1,331 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/getting-started/package-set.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.head.title:1-512
+msgid "Package Sets | CoopCycle"
+msgstr "Package Sets | CoopCycle"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.head.meta[content]:1-697
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.svg.symbol.title:1-1584
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.svg.symbol.title:1-2033
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.svg.symbol.title:1-2419
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.svg.symbol.title:1-2848
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.svg.symbol.title:1-3195
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.a:1-3710
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-3967
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-4064
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4180
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4307
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4440
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-4585
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4713
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4848
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-4990
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5122
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-5263
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5403
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-5552
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5676
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-5815
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.nav.ul.li:1-5815"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5950
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6081
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6210
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.nav.ul.li.ul.li:1-6210"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6327
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6444
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6579
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.nav.ul.li.ul.li:1-6579"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6732
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6871
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6871"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7006
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7006"
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7165
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7302
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7455
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-7580
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7718
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7870
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8022
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8168
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8326
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li:1-8490
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8618
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.footer.footer.a[title]:1-9694
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.footer.footer.ul:1-9682
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div:1-10339
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.nav.ul.li:1-10626
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.nav.ul.li:1-10626"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.nav.ul.li:1-10764
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.nav.ul.li:1-10894
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.nav.ol.li:1-11180
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.nav.ol.li:1-11180"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.nav.ol.li:1-11282
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.nav.ol.li:1-11282"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.nav.ol.li:1-11402
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.nav.ol.li:1-11402"
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-11540
+msgid ""
+"<strong>Package Sets</strong> allow to configure different units of volume "
+"when stores create orders."
+msgstr ""
+"<strong>Package Sets</strong> allow to configure different units of volume "
+"when stores create orders."
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-11649
+msgid ""
+"It is useful to diffenciate the price depending on the type of packages."
+msgstr ""
+"It is useful to diffenciate the price depending on the type of packages."
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-11729
+msgid ""
+"In the end, a <strong>package</strong> will translate in the creation of "
+"orders by the stores like in the image below"
+msgstr ""
+"In the end, a <strong>package</strong> will translate in the creation of "
+"orders by the stores like in the image below"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p.img[alt]:1-11850
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.div.p.img[alt]:1-11850"
+"_site/en/admin/getting-started/package-set.html+html.body.div.div.div.p.img[alt]:1-11850"
+msgid "Packages Sets"
+msgstr "Packages Sets"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.h2:1-11927
+msgid "Configuring Package Set"
+msgstr "Configuring Package Set"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-12138
+msgid ""
+"Depending on the needs of your clients you can create a common package set ("
+"defining that small = a defined volume) or create different packages sets ("
+"for a flowershop it can depend on the size of bouquets). To create a Package "
+"Set you need to go on the Packages section of the Configuration dropdown."
+msgstr ""
+"Depending on the needs of your clients you can create a common package set ("
+"defining that small = a defined volume) or create different packages sets ("
+"for a flowershop it can depend on the size of bouquets). To create a Package "
+"Set you need to go on the Packages section of the Configuration dropdown."
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-12447
+msgid ""
+"When creating a Package Set you have to create different Packages associated "
+"to units of volume like the image below :"
+msgstr ""
+"When creating a Package Set you have to create different Packages associated "
+"to units of volume like the image below :"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p.img[alt]:1-12569
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.div.p.img[alt]:1-12569"
+msgid "Packages Sets"
+msgstr "Packages Sets"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.h3:1-12641
+msgid "Creating a pricing rule"
+msgstr "Creating a pricing rule"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-12852
+msgid ""
+"Incorporating a Packages to the Pricing Rule is not difficult, you have to "
+"determine the price when orders contain at least one type of Package. You "
+"can combine different types of Packages to create the most adequate rule. "
+"Remember that the most specific rules have to be in the top of the hierarchy "
+"of rules."
+msgstr ""
+"Incorporating a Packages to the Pricing Rule is not difficult, you have to "
+"determine the price when orders contain at least one type of Package. You "
+"can combine different types of Packages to create the most adequate rule. "
+"Remember that the most specific rules have to be in the top of the hierarchy "
+"of rules."
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p.img[alt]:1-13165
+msgctxt "_site/en/admin/getting-started/package-set.html+html.body.div.div.div.p.img[alt]:1-13165"
+msgid "Packages Sets"
+msgstr "Packages Sets"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.h3:1-13238
+msgid "Linking a store to a Package Set"
+msgstr "Linking a store to a Package Set"
+
+#: _site/en/admin/getting-started/package-set.html%2Bhtml.body.div.div.div.p:1-13476
+msgid ""
+"Once you defined your sets and pricings, it’s necessary to add the package "
+"options to the store. Just go in the settings of the desired stroe, link it "
+"to the correct pricing and toggle the <strong>Require input of packages</"
+"strong> option."
+msgstr ""
+"Once you defined your sets and pricings, it’s necessary to add the package "
+"options to the store. Just go in the settings of the desired stroe, link it "
+"to the correct pricing and toggle the <strong>Require input of packages</"
+"strong> option."

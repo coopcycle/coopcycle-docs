@@ -1,0 +1,387 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/plugins/woocommerce.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.head.title:1-512
+msgid "WooCommerce | CoopCycle"
+msgstr "WooCommerce | CoopCycle"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.head.meta[content]:1-695
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.svg.symbol.title:1-1539
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.svg.symbol.title:1-1988
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.svg.symbol.title:1-2374
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.svg.symbol.title:1-2803
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.svg.symbol.title:1-3150
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.a:1-3665
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-3922
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-4019
+msgid "App"
+msgstr "App"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4135
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4262
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4395
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-4540
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4668
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4803
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-4945
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5077
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-5218
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5358
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-5507
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li:1-5507"
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5638
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li.ul.li:1-5638"
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-5790
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5918
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6049
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6178
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li.ul.li:1-6178"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6295
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6412
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6547
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6694
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6833
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6833"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6968
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7114
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7251
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7404
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-7529
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7667
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7819
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7971
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8117
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8275
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-8439
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8567
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.footer.footer.a[title]:1-9643
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.footer.footer.ul:1-9631
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div:1-10288
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10561
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.div.nav.ul.li:1-10561"
+msgid "en"
+msgstr "en"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10685
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10815
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ol.li:1-11099
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.div.nav.ol.li:1-11099"
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ol.li:1-11197
+msgctxt "_site/en/plugins/woocommerce.html+html.body.div.div.nav.ol.li:1-11197"
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-11334
+msgid ""
+"CoopCycle ships with a <a href=\"https://wordpress.org/plugins/coopcycle/\""
+">WordPress plugin for WooCommerce</a>."
+msgstr ""
+"CoopCycle ships with a <a href=\"https://wordpress.org/plugins/coopcycle/\""
+">WordPress plugin for WooCommerce</a>."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.h2:1-11453
+msgid "Overview"
+msgstr "Overview"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-11619
+msgid ""
+"The CoopCycle plugin for WordPress allows to add a <a href=\"https://docs."
+"woocommerce.com/document/setting-up-shipping-zones/\">shipping method</a> to "
+"WooCommerce, and to transmit the shipping data to CoopCycle directly, using "
+"the API."
+msgstr ""
+"The CoopCycle plugin for WordPress allows to add a <a href=\"https://docs."
+"woocommerce.com/document/setting-up-shipping-zones/\">shipping method</a> to "
+"WooCommerce, and to transmit the shipping data to CoopCycle directly, using "
+"the API."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-11860
+msgid ""
+"If one of your partners already has an e-commerce website based on "
+"WooCommerce, it the best way to have a seamless integration."
+msgstr ""
+"If one of your partners already has an e-commerce website based on "
+"WooCommerce, it the best way to have a seamless integration."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-11995
+msgid ""
+"On CoopCycle, the shipping data sent will be attached to a <a href=\"en/"
+"admin/stores\">store</a>, so you will need to create a store if you don’t "
+"have one already. The settings of the store modify the behavior of the "
+"plugin, in particular the configuration of the time slot used."
+msgstr ""
+"On CoopCycle, the shipping data sent will be attached to a <a href=\"en/"
+"admin/stores\">store</a>, so you will need to create a store if you don’t "
+"have one already. The settings of the store modify the behavior of the "
+"plugin, in particular the configuration of the time slot used."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.h2:1-12280
+msgid "Obtaining an API token"
+msgstr "Obtaining an API token"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-12488
+msgid ""
+"The first thing to do is to obtain an API token, so that the website running "
+"WooCommerce can interact with the CoopCycle API."
+msgstr ""
+"The first thing to do is to obtain an API token, so that the website running "
+"WooCommerce can interact with the CoopCycle API."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-12621
+msgid ""
+"Go to Configuration › API, and click « Add ». Enter the name of the app (for "
+"example, the name of the website running WooCommerce), select the store you "
+"want to generate an API token for, and hit « Save »."
+msgstr ""
+"Go to Configuration › API, and click « Add ». Enter the name of the app (for "
+"example, the name of the website running WooCommerce), select the store you "
+"want to generate an API token for, and hit « Save »."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-12834
+msgid ""
+"You should obtain a pair of credentials, a « API Key » and « API Secret », "
+"that you will need to configure the plugin."
+msgstr ""
+"You should obtain a pair of credentials, a « API Key » and « API Secret », "
+"that you will need to configure the plugin."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.h2:1-12960
+msgid "Installing and configuring the plugin"
+msgstr "Installing and configuring the plugin"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-13213
+msgid ""
+"The CoopCycle plugin for WooCommerce can be installed from <a href=\"https"
+"://wordpress.org/plugins/coopcycle/\">wordpress.org</a>."
+msgstr ""
+"The CoopCycle plugin for WooCommerce can be installed from <a href=\"https"
+"://wordpress.org/plugins/coopcycle/\">wordpress.org</a>."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-13349
+msgid ""
+"In the WordPress admin area, go to the Plugins page, and search for « "
+"coopcycle »."
+msgstr ""
+"In the WordPress admin area, go to the Plugins page, and search for « "
+"coopcycle »."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-13439
+msgid ""
+"In the settings page of the plugin, enter the base url of the CoopCycle "
+"instance, the « API Key » and « API Secret », and save changes."
+msgstr ""
+"In the settings page of the plugin, enter the base url of the CoopCycle "
+"instance, the « API Key » and « API Secret », and save changes."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.h2:1-13582
+msgid "Configuring WooCommerce"
+msgstr "Configuring WooCommerce"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-13793
+msgid ""
+"Once the CoopCycle plugin is configured, you need to add to a <a href=\"https"
+"://docs.woocommerce.com/document/setting-up-shipping-zones/#section-6\""
+">shipping method to a zone</a>."
+msgstr ""
+"Once the CoopCycle plugin is configured, you need to add to a <a href=\"https"
+"://docs.woocommerce.com/document/setting-up-shipping-zones/#section-6\""
+">shipping method to a zone</a>."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-13978
+msgid ""
+"Go to WooCommerce › Settings › Shipping. If you haven’t already, click on « "
+"Add shipping zone », or edit one of your existing shipping zones."
+msgstr ""
+"Go to WooCommerce › Settings › Shipping. If you haven’t already, click on « "
+"Add shipping zone », or edit one of your existing shipping zones."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-14127
+msgid "Click on « Add shipping method », and select « CoopCycle »."
+msgstr "Click on « Add shipping method », and select « CoopCycle »."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-14194
+msgid ""
+"Once the shipping method has been added, you can configure it. The settings "
+"are the same as the standard <a href=\"https://docs.woocommerce.com/document/"
+"flat-rate-shipping/\">Flat Rate Shipping</a> method of WooCommerce."
+msgstr ""
+"Once the shipping method has been added, you can configure it. The settings "
+"are the same as the standard <a href=\"https://docs.woocommerce.com/document/"
+"flat-rate-shipping/\">Flat Rate Shipping</a> method of WooCommerce."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-14420
+msgid ""
+"The most important thing that you need to configure is the <strong>shipping "
+"cost</strong>."
+msgstr ""
+"The most important thing that you need to configure is the <strong>shipping "
+"cost</strong>."
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-14518
+msgid "Congratulations! 🎉"
+msgstr "Congratulations! 🎉"
+
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-14544
+msgid ""
+"Now, when entering an address that matches with the shipping zone, customers "
+"will be allowed to choose the CoopCycle shipping method."
+msgstr ""
+"Now, when entering an address that matches with the shipping zone, customers "
+"will be allowed to choose the CoopCycle shipping method."

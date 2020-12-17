@@ -1,0 +1,249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/payment-portals/index.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/payment-portals/index.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/payment-portals/index.html%2Bhtml.head.title:1-512
+msgid "Payment Portals | CoopCycle"
+msgstr "Payment Portals | CoopCycle"
+
+#: _site/en/payment-portals/index.html%2Bhtml.head.meta[content]:1-703
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.svg.symbol.title:1-1527
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.svg.symbol.title:1-1976
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.svg.symbol.title:1-2362
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.svg.symbol.title:1-2791
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.svg.symbol.title:1-3138
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.a:1-3653
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-3910
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-4007
+msgid "App"
+msgstr "App"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4123
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4250
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4383
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-4528
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4656
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4791
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-4933
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5065
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-5206
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5360
+msgctxt "_site/en/payment-portals/index.html+html.body.div.nav.ul.li.ul.li:1-5360"
+"_site/en/payment-portals/index.html+html.body.div.nav.ul.li.ul.li:1-5360"
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-5509
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5633
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-5772
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5900
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6031
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6160
+msgctxt "_site/en/payment-portals/index.html+html.body.div.nav.ul.li.ul.li:1-6160"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6277
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6394
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6529
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6676
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6815
+msgctxt "_site/en/payment-portals/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6815"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6950
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7096
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7233
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7386
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-7511
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7649
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7801
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7953
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8099
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8257
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li:1-8421
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8549
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.footer.footer.a[title]:1-9625
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.footer.footer.ul:1-9613
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div:1-10270
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.nav.ul.li:1-10545
+msgctxt "_site/en/payment-portals/index.html+html.body.div.div.nav.ul.li:1-10545"
+msgid "en"
+msgstr "en"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.nav.ul.li:1-10661
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.nav.ul.li:1-10791
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.h1:1-11055
+msgid "Stripe"
+msgstr "Stripe"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.ol.li:1-11220
+msgctxt "_site/en/payment-portals/index.html+html.body.div.div.div.ol.li:1-11220"
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.ol.li:1-11291
+msgid "Setting up Stripe in CoopCycle"
+msgstr "Setting up Stripe in CoopCycle"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.ol.li:1-11331
+msgid "Creating a Stripe account"
+msgstr "Creating a Stripe account"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.h1:1-11372
+msgid "Adyen - Coming Soon"
+msgstr "Adyen - Coming Soon"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.h2:1-11576
+msgid "Table of contents"
+msgstr "Table of contents"
+
+#: _site/en/payment-portals/index.html%2Bhtml.body.div.div.div.ul.li:1-11627
+msgctxt "_site/en/payment-portals/index.html+html.body.div.div.div.ul.li:1-11627"
+msgid "About Stripe"
+msgstr "About Stripe"

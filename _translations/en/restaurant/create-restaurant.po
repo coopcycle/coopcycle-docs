@@ -1,0 +1,747 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/restaurant/create-restaurant.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.head.title:1-512
+msgid "Create a Restaurant | CoopCycle"
+msgstr "Create a Restaurant | CoopCycle"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.head.meta[content]:1-711
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.svg.symbol.title:1-1590
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.svg.symbol.title:1-2039
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.svg.symbol.title:1-2425
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.svg.symbol.title:1-2854
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.svg.symbol.title:1-3201
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.a:1-3716
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-3973
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-4070
+msgid "App"
+msgstr "App"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4186
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4313
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4446
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-4591
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4719
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4854
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-4996
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5128
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5269
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5409
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5558
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5682
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5821
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5949
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6080
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6209
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li.ul.li:1-6209"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6326
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6443
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6578
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6725
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6864
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6864"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6999
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7145
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7282
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7435
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-7560
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li:1-7560"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7705
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7857
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8009
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li.ul.li:1-8009"
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8168
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8326
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-8490
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8618
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.footer.footer.a[title]:1-9694
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.footer.footer.ul:1-9682
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div:1-10339
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10621
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.nav.ul.li:1-10621"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10754
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10884
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11179
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.nav.ol.li:1-11179"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11291
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.nav.ol.li:1-11291"
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.blockquote.p:1-11449
+msgid ""
+"To create your e-commerce store please contact the cooperative of CoopCycle "
+"from your city. Only an administrator can create a new e-commerce store."
+msgstr ""
+"To create your e-commerce store please contact the cooperative of CoopCycle "
+"from your city. Only an administrator can create a new e-commerce store."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h2:1-11619
+msgid "Creating an e-commerce store on the platform"
+msgstr "Creating an e-commerce store on the platform"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ol.li:1-11898
+msgid ""
+"Click <code class=\"language-plaintext highlighter-rouge\">Restaurant</code> "
+"on the top menu bar."
+msgstr ""
+"Click <code class=\"language-plaintext highlighter-rouge\">Restaurant</code> "
+"on the top menu bar."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ol.li:1-12003
+msgid ""
+"Click <code class=\"language-plaintext highlighter-rouge\">Create a new "
+"restaurant</code>."
+msgstr ""
+"Click <code class=\"language-plaintext highlighter-rouge\">Create a new "
+"restaurant</code>."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-12110
+msgid "create"
+msgstr "create"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-12178
+msgid "Add General information"
+msgstr "Add General information"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-12389
+msgid ""
+"On the next screen you need to input the store details. These can be edited "
+"at a later date."
+msgstr ""
+"On the next screen you need to input the store details. These can be edited "
+"at a later date."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12494
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12494"
+msgid "General"
+msgstr "General"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12534
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12534"
+msgid "Options"
+msgstr "Options"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12574
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12574"
+msgid "Fulfillment"
+msgstr "Fulfillment"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12622
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12622"
+msgid "Settlement"
+msgstr "Settlement"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-12674
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-12674"
+msgid "General"
+msgstr "General"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-12837
+msgid ""
+"On this <code class=\"language-plaintext highlighter-rouge\">General</code> "
+"tab, you can modify general informations about your restaurant :"
+msgstr ""
+"On this <code class=\"language-plaintext highlighter-rouge\">General</code> "
+"tab, you can modify general informations about your restaurant :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12988
+msgid "Displayed to clients :"
+msgstr "Displayed to clients :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13020
+msgid "Name of the Restaurant on CoopCycle"
+msgstr "Name of the Restaurant on CoopCycle"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13065
+msgid "Type of Business"
+msgstr "Type of Business"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13091
+msgid "Adress"
+msgstr "Adress"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13107
+msgid "Description of your restaurant"
+msgstr "Description of your restaurant"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13147
+msgid "Web"
+msgstr "Web"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13172
+msgid "Not displayed to clients :"
+msgstr "Not displayed to clients :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13208
+msgid "Website"
+msgstr "Website"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13225
+msgid "Telephone number"
+msgstr "Telephone number"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13251
+msgid "Business information"
+msgstr "Business information"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-13299
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-13299"
+msgid "Options"
+msgstr "Options"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-13462
+msgid "4 options have to be decided on this tab :"
+msgstr "4 options have to be decided on this tab :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13517
+msgid ""
+"Restaurant is exclusive which means that it is only available on CoopCycle"
+msgstr ""
+"Restaurant is exclusive which means that it is only available on CoopCycle"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13601
+msgid "Restaurant is featured on homepage"
+msgstr "Restaurant is featured on homepage"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13645
+msgid "Restaurant also accepts quotes (e.g.:catering)"
+msgstr "Restaurant also accepts quotes (e.g.:catering)"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13701
+msgid "Enable Deposit-Refund system"
+msgstr "Enable Deposit-Refund system"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-13745
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-13745"
+msgid "Fulfillment"
+msgstr "Fulfillment"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h4:1-13920
+msgid "Schedules"
+msgstr "Schedules"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-14089
+msgid ""
+"On this page, you can choose between two types of activity, or chose both :"
+msgstr ""
+"On this page, you can choose between two types of activity, or chose both :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14177
+msgid ""
+"Collect, which means that the customer comes to the restaurant to take-away "
+"his or her order"
+msgstr ""
+"Collect, which means that the customer comes to the restaurant to take-away "
+"his or her order"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14279
+msgid ""
+"Delivery, which means that the cooperative delivers the order to the customer"
+msgstr ""
+"Delivery, which means that the cooperative delivers the order to the customer"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-14372
+msgid ""
+"For each activity, you can edit a schedule which determines when customers "
+"can receive their orders or come take them at the restaurant."
+msgstr ""
+"For each activity, you can edit a schedule which determines when customers "
+"can receive their orders or come take them at the restaurant."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-14516
+msgid ""
+"For each schedule you have to choose between <em>As soon as possible</em> "
+"and <em>time slot</em> :"
+msgstr ""
+"For each schedule you have to choose between <em>As soon as possible</em> "
+"and <em>time slot</em> :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14627
+msgid ""
+"<em>As soon as possible</em> : The customer receives his or her order as "
+"soon as possible. On his or her application, the customer during his or her "
+"order sees : “in XX minutes”"
+msgstr ""
+"<em>As soon as possible</em> : The customer receives his or her order as "
+"soon as possible. On his or her application, the customer during his or her "
+"order sees : “in XX minutes”"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14814
+msgid ""
+"<em>Time slot</em> : The customer choses when he or she receives the order. "
+"On his or her application, the customer during his or her order sees : “"
+"Between XX PM/AM and XX PM/AM”"
+msgstr ""
+"<em>Time slot</em> : The customer choses when he or she receives the order. "
+"On his or her application, the customer during his or her order sees : “"
+"Between XX PM/AM and XX PM/AM”"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-15008
+msgid ""
+"For each schedule, you have to chose with the administrator if the "
+"restaurant-owner has the right to change these schedules. Click on <code "
+"class=\"language-plaintext highlighter-rouge\">allow editing</code> if it is "
+"the case."
+msgstr ""
+"For each schedule, you have to chose with the administrator if the "
+"restaurant-owner has the right to change these schedules. Click on <code "
+"class=\"language-plaintext highlighter-rouge\">allow editing</code> if it is "
+"the case."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h4:1-15240
+msgid "Global options"
+msgstr "Global options"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-15429
+msgid "Define a delivery perimeter"
+msgstr "Define a delivery perimeter"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-15466
+msgid ""
+"Define, if needed, an additional delay before ordering. For instance, if you "
+"put 1 in the <code class=\"language-plaintext highlighter-rouge\">day</code> "
+"field, customers have to order the day before."
+msgstr ""
+"Define, if needed, an additional delay before ordering. For instance, if you "
+"put 1 in the <code class=\"language-plaintext highlighter-rouge\">day</code> "
+"field, customers have to order the day before."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-15674
+msgid "Define, if needed, a number of shipping choices"
+msgstr "Define, if needed, a number of shipping choices"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-15737
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-15737"
+msgid "Settlement"
+msgstr "Settlement"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-15909
+msgid ""
+"You will find on this page <strong>the terms of the contract</strong> "
+"between the local delivery collective and the restaurant. They cover the "
+"following aspects :"
+msgstr ""
+"You will find on this page <strong>the terms of the contract</strong> "
+"between the local delivery collective and the restaurant. They cover the "
+"following aspects :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-16084
+msgid "Delivery price :"
+msgstr "Delivery price :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-16110
+msgid ""
+"Part to be paid by the restaurant (“Amount charged by the platform” for a "
+"fixed cost and “Platform fee for deliveries” for a proportionnal fee). It is "
+"also possible to create your own rule of pricing and apply it in this page. "
+"Please see the documentation about pricing in administrator’s guide/"
+"logistics."
+msgstr ""
+"Part to be paid by the restaurant (“Amount charged by the platform” for a "
+"fixed cost and “Platform fee for deliveries” for a proportionnal fee). It is "
+"also possible to create your own rule of pricing and apply it in this page. "
+"Please see the documentation about pricing in administrator’s guide/"
+"logistics."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-16425
+msgid ""
+"Part to be paid by the final client.(“Amount paid by the customer” for a "
+"fixed cost and “Fees paid by the customer” for a proportionnal fee). It is "
+"also possible to create your own rule of pricing and apply it in this page."
+msgstr ""
+"Part to be paid by the final client.(“Amount paid by the customer” for a "
+"fixed cost and “Fees paid by the customer” for a proportionnal fee). It is "
+"also possible to create your own rule of pricing and apply it in this page."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-16670
+msgid "Minimum basket amount"
+msgstr "Minimum basket amount"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-16701
+msgid "Platform fees for take-away."
+msgstr "Platform fees for take-away."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h2:1-16745
+msgid "Step 2 : Link an account with a restaurant"
+msgstr "Step 2 : Link an account with a restaurant"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-17011
+msgid "Create an account or invitation"
+msgstr "Create an account or invitation"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h4:1-17246
+msgid "Method 1 : create your account"
+msgstr "Method 1 : create your account"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-17476
+msgid ""
+"Restaurant owner has to create an account on CoopCycle. It has to fill the "
+"following informations :"
+msgstr ""
+"Restaurant owner has to create an account on CoopCycle. It has to fill the "
+"following informations :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-17588
+msgid "Email"
+msgstr "Email"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-17603
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-17603"
+msgid "Username"
+msgstr "Username"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-17621
+msgid "Password"
+msgstr "Password"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-17639
+msgid "Given Name and Family Name"
+msgstr "Given Name and Family Name"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-17675
+msgid "Telephone Number"
+msgstr "Telephone Number"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-17707
+msgid ""
+"Keep secret your username and password, you will have to use it when you are "
+"using CoopCycle to manage your restaurant."
+msgstr ""
+"Keep secret your username and password, you will have to use it when you are "
+"using CoopCycle to manage your restaurant."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h4:1-17834
+msgid "Method 2 : Invitation"
+msgstr "Method 2 : Invitation"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-18037
+msgid ""
+"In this second method, it is administrators who invite you on CoopCycle."
+msgstr ""
+"In this second method, it is administrators who invite you on CoopCycle."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-18117
+msgid ""
+"In order to do that, Administrators have to click on <code class=\"language-"
+"plaintext highlighter-rouge\">users</code> tab on the top of the "
+"administrator’s dashboard. On this new page, a blue button <code class"
+"=\"language-plaintext highlighter-rouge\">Invite an user</code> enables "
+"administrators to create an account on behalf of an user. It has to fill "
+"following fields :"
+msgstr ""
+"In order to do that, Administrators have to click on <code class=\"language-"
+"plaintext highlighter-rouge\">users</code> tab on the top of the "
+"administrator’s dashboard. On this new page, a blue button <code class"
+"=\"language-plaintext highlighter-rouge\">Invite an user</code> enables "
+"administrators to create an account on behalf of an user. It has to fill "
+"following fields :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18500
+msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-18500"
+msgid "Username"
+msgstr "Username"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18518
+msgid "Email (of the invited person)"
+msgstr "Email (of the invited person)"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18557
+msgid "Given name and Family name"
+msgstr "Given name and Family name"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18593
+msgid ""
+"The status of the account - In this case, chose <em>Restaurant</em> if you "
+"invite a restaurant-owner -"
+msgstr ""
+"The status of the account - In this case, chose <em>Restaurant</em> if you "
+"invite a restaurant-owner -"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-18711
+msgid ""
+"At the end, it is the user who will chose his/her password, which is secret."
+msgstr ""
+"At the end, it is the user who will chose his/her password, which is secret."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-18795
+msgid "Add a role : restaurant-owner"
+msgstr "Add a role : restaurant-owner"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-19022
+msgid ""
+"Only administrators can add you a role on your account of <em>Restaurant</"
+"em>. If you used <em>Method 2</em>, you don’t need to change the status of "
+"the account, because your account has already been created as "
+"<em>Restaurant</em>."
+msgstr ""
+"Only administrators can add you a role on your account of <em>Restaurant</"
+"em>. If you used <em>Method 2</em>, you don’t need to change the status of "
+"the account, because your account has already been created as "
+"<em>Restaurant</em>."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-19261
+msgid "If you used <em>Methode 1</em>, you have to follow theses steps :"
+msgstr "If you used <em>Methode 1</em>, you have to follow theses steps :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-19339
+msgid ""
+"Administrators click on <code class=\"language-plaintext highlighter-rouge\""
+">users</code> tab on the top of the administrator’s dashboard."
+msgstr ""
+"Administrators click on <code class=\"language-plaintext highlighter-rouge\""
+">users</code> tab on the top of the administrator’s dashboard."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-19485
+msgid ""
+"Administrators search your username of the <code class=\"language-plaintext "
+"highlighter-rouge\">searching</code>field or find you on the list and click "
+"on green <code class=\"language-plaintext highlighter-rouge\">edit</code> "
+"button."
+msgstr ""
+"Administrators search your username of the <code class=\"language-plaintext "
+"highlighter-rouge\">searching</code>field or find you on the list and click "
+"on green <code class=\"language-plaintext highlighter-rouge\">edit</code> "
+"button."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-19724
+msgid ""
+"Administrators add you a <em>Restaurant</em> role and click on <code class"
+"=\"language-plaintext highlighter-rouge\">save</code>"
+msgstr ""
+"Administrators add you a <em>Restaurant</em> role and click on <code class"
+"=\"language-plaintext highlighter-rouge\">save</code>"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-19865
+msgid "Link an account with one or more restaurant."
+msgstr "Link an account with one or more restaurant."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-20137
+msgid ""
+"Only administrators can link an account with a restaurant. On the same <code "
+"class=\"language-plaintext highlighter-rouge\">edit</code>page that before, "
+"please fill the <code class=\"language-plaintext highlighter-rouge\">add a "
+"restaurant</code> field with the name of the restaurant."
+msgstr ""
+"Only administrators can link an account with a restaurant. On the same <code "
+"class=\"language-plaintext highlighter-rouge\">edit</code>page that before, "
+"please fill the <code class=\"language-plaintext highlighter-rouge\">add a "
+"restaurant</code> field with the name of the restaurant."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-20425
+msgid ""
+"After step, when restaurant-owner is connecting to CoopCycle with his or her "
+"username and password, he/her will only have access to his/her restaurant."
+msgstr ""
+"After step, when restaurant-owner is connecting to CoopCycle with his or her "
+"username and password, he/her will only have access to his/her restaurant."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h2:1-20584
+msgid "Step 3 : Create a Stripe account and link it to your restaurant"
+msgstr "Step 3 : Create a Stripe account and link it to your restaurant"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-20913
+msgid ""
+"About the creation of your Stripe account, please see [Admin’s guide/"
+"Stripe]{https://docs.coopcycle.org/fr/administrateur/paiements-stripe.html}. "
+"Instructions are the same for cooperative and restaurant. The only "
+"difference is what you do next with your Stripe account."
+msgstr ""
+"About the creation of your Stripe account, please see [Admin’s guide/"
+"Stripe]{https://docs.coopcycle.org/fr/administrateur/paiements-stripe.html}. "
+"Instructions are the same for cooperative and restaurant. The only "
+"difference is what you do next with your Stripe account."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-21190
+msgid ""
+"When a restaurant has created its Stripe account, this one can be connected "
+"to CoopCycle platform and to the restaurant :"
+msgstr ""
+"When a restaurant has created its Stripe account, this one can be connected "
+"to CoopCycle platform and to the restaurant :"
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-21324
+msgid ""
+"If administrators enabled restaurant to manage its own Stripe account, "
+"restaurant-owner with his/her own account can connect Stripe account by "
+"going on <em>General information</em> by clicking on the name of the "
+"restaurant, or on the <code class=\"language-plaintext highlighter-rouge\""
+">edit</code> button. Then click on the <code class=\"language-plaintext "
+"highlighter-rouge\">Payment</code> tab and connect with Stripe."
+msgstr ""
+"If administrators enabled restaurant to manage its own Stripe account, "
+"restaurant-owner with his/her own account can connect Stripe account by "
+"going on <em>General information</em> by clicking on the name of the "
+"restaurant, or on the <code class=\"language-plaintext highlighter-rouge\""
+">edit</code> button. Then click on the <code class=\"language-plaintext "
+"highlighter-rouge\">Payment</code> tab and connect with Stripe."
+
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-21751
+msgid ""
+"If administrators disabled restaurant to manage its own Stripe account, you "
+"have to follow the same steps but with an administator account to connect "
+"restaurant stripe account."
+msgstr ""
+"If administrators disabled restaurant to manage its own Stripe account, you "
+"have to follow the same steps but with an administator account to connect "
+"restaurant stripe account."

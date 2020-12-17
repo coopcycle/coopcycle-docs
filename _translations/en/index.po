@@ -1,0 +1,249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/index.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/index.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/index.html%2Bhtml.head.title:1-512
+msgid "Home | CoopCycle"
+msgstr "Home | CoopCycle"
+
+#: _site/en/index.html%2Bhtml.head.meta[content]:1-681
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/index.html%2Bhtml.body.svg.symbol.title:1-1446
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/index.html%2Bhtml.body.svg.symbol.title:1-1895
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/index.html%2Bhtml.body.svg.symbol.title:1-2281
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/index.html%2Bhtml.body.svg.symbol.title:1-2710
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/index.html%2Bhtml.body.svg.symbol.title:1-3057
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/index.html%2Bhtml.body.div.div.a:1-3572
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-3829
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-3940
+msgid "App"
+msgstr "App"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4056
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4183
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4316
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-4461
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4589
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4724
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-4866
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4998
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-5139
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5279
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-5428
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5552
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-5691
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5819
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5950
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6079
+msgctxt "_site/en/index.html+html.body.div.nav.ul.li.ul.li:1-6079"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6196
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6313
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6448
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6595
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6734
+msgctxt "_site/en/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6734"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6869
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7015
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7152
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7305
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-7430
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7568
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7720
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7872
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8018
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8176
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li:1-8340
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8468
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/index.html%2Bhtml.body.div.footer.footer.a[title]:1-9544
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/index.html%2Bhtml.body.div.footer.footer.ul:1-9532
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/index.html%2Bhtml.body.div.div:1-10189
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/index.html%2Bhtml.body.div.div.nav.ul.li:1-10448
+msgctxt "_site/en/index.html+html.body.div.div.nav.ul.li:1-10448"
+msgid "en"
+msgstr "en"
+
+#: _site/en/index.html%2Bhtml.body.div.div.nav.ul.li:1-10548
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/index.html%2Bhtml.body.div.div.nav.ul.li:1-10642
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/index.html%2Bhtml.body.div.div.div.p:1-10873
+msgid "Welcome!"
+msgstr "Welcome!"
+
+#: _site/en/index.html%2Bhtml.body.div.div.div.p:1-10906
+msgid ""
+"This documentation is hosted on <a href=\"https://pages.github.com/\">GitHub "
+"Pages</a>."
+msgstr ""
+"This documentation is hosted on <a href=\"https://pages.github.com/\">GitHub "
+"Pages</a>."
+
+#: _site/en/index.html%2Bhtml.body.div.div.div.p:1-10999
+msgid ""
+"You can use the “Edit this page” button to be redirected to the GitHub "
+"online editor."
+msgstr ""
+"You can use the “Edit this page” button to be redirected to the GitHub "
+"online editor."
+
+#: _site/en/index.html%2Bhtml.body.div.div.div.p:1-11092
+msgid ""
+"For a guide on how to edit the docs see [Edit Docs] or go to Tutorials → "
+"Editing Docs."
+msgstr ""
+"For a guide on how to edit the docs see [Edit Docs] or go to Tutorials → "
+"Editing Docs."
+
+#: _site/en/index.html%2Bhtml.body.div.div.div.p:1-11192
+msgid "Go here to get started."
+msgstr "Go here to get started."

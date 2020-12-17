@@ -1,0 +1,395 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/index.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/index.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/index.html%2Bhtml.head.title:1-512
+msgid "Admin’s guide | CoopCycle"
+msgstr "Admin’s guide | CoopCycle"
+
+#: _site/en/admin/index.html%2Bhtml.head.meta[content]:1-699
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/index.html%2Bhtml.body.svg.symbol.title:1-1491
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/index.html%2Bhtml.body.svg.symbol.title:1-1940
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/index.html%2Bhtml.body.svg.symbol.title:1-2326
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/index.html%2Bhtml.body.svg.symbol.title:1-2755
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/index.html%2Bhtml.body.svg.symbol.title:1-3102
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.a:1-3617
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-3874
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-3971
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4087
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4214
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4347
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-4492
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4620
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4755
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-4897
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5029
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-5170
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5310
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-5459
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5583
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-5722
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5864
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-5864"
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5995
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-5995"
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6124
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6124"
+"_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6124"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6241
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6241"
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6358
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6358"
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6493
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6493"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6640
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6779
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6779"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6914
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7060
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7197
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7350
+msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-7350"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-7475
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7613
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7765
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7917
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8063
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8221
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li:1-8385
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8513
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.footer.footer.a[title]:1-9589
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.footer.footer.ul:1-9577
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div:1-10234
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.nav.ul.li:1-10499
+msgctxt "_site/en/admin/index.html+html.body.div.div.nav.ul.li:1-10499"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.nav.ul.li:1-10605
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.nav.ul.li:1-10714
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.h1:1-10951
+msgid "Admin’s guide"
+msgstr "Admin’s guide"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.p:1-11130
+msgid "Welcome to the administrator’s guide for the CoopCycle platform."
+msgstr "Welcome to the administrator’s guide for the CoopCycle platform."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.p:1-11202
+msgid ""
+"Our software is a complete logistics and e-commerce system allowing the "
+"delivery of a product from A to B. Our platform is dedicated to bicycle "
+"delivery and its license is designed to reserve the use for worker owned co-"
+"operatives only."
+msgstr ""
+"Our software is a complete logistics and e-commerce system allowing the "
+"delivery of a product from A to B. Our platform is dedicated to bicycle "
+"delivery and its license is designed to reserve the use for worker owned co-"
+"operatives only."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.p:1-11446
+msgid "The platform is composed of two components:"
+msgstr "The platform is composed of two components:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.h2:1-11497
+msgid "Logistics"
+msgstr "Logistics"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.p:1-11666
+msgid ""
+"Pickup and dropoff management organised into a task system (two tasks form a "
+"delivery) allowing the following user actions:"
+msgstr ""
+"Pickup and dropoff management organised into a task system (two tasks form a "
+"delivery) allowing the following user actions:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-11802
+msgid "The <strong>administrator</strong>:"
+msgstr "The <strong>administrator</strong>:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-11847
+msgid "can assign tasks or task lists to a courier."
+msgstr "can assign tasks or task lists to a courier."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-11901
+msgid ""
+"can track the position of a courier in real time from the dispatch "
+"(dashboard) screen; assigning tasks can be done the day before or in real "
+"time."
+msgstr ""
+"can track the position of a courier in real time from the dispatch "
+"(dashboard) screen; assigning tasks can be done the day before or in real "
+"time."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12057
+msgid ""
+"can manage pricing for stores (by weight, distance, zone, type of bike)."
+msgstr ""
+"can manage pricing for stores (by weight, distance, zone, type of bike)."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-12151
+msgid "The <strong>courier</strong>:"
+msgstr "The <strong>courier</strong>:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12190
+msgid "will receive the tasks on their smartphone (iOS and Android)."
+msgstr "will receive the tasks on their smartphone (iOS and Android)."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12261
+msgid "can mark a task as completed or failed and can add a comment."
+msgstr "can mark a task as completed or failed and can add a comment."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-12344
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-12344"
+msgid "The <strong>customer</strong>:"
+msgstr "The <strong>customer</strong>:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12384
+msgid ""
+"can place an order on the platform and pay (price calculation is automated "
+"and secured through Stripe)."
+msgstr ""
+"can place an order on the platform and pay (price calculation is automated "
+"and secured through Stripe)."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.h2:1-12515
+msgid "E-commerce"
+msgstr "E-commerce"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.p:1-12687
+msgid ""
+"Management of restaurants and shops, allowing the following user actions:"
+msgstr ""
+"Management of restaurants and shops, allowing the following user actions:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-12773
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-12773"
+msgid "The <strong>customer</strong>:"
+msgstr "The <strong>customer</strong>:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12813
+msgid ""
+"can place an order via the platform (website) or via the smartphone "
+"application."
+msgstr ""
+"can place an order via the platform (website) or via the smartphone "
+"application."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12903
+msgid ""
+"can place an order from a restaurant, by inputing their address and "
+"selecting a delivery time."
+msgstr ""
+"can place an order from a restaurant, by inputing their address and "
+"selecting a delivery time."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13019
+msgid "The <strong>business</strong>:"
+msgstr "The <strong>business</strong>:"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13059
+msgid "receives the order in real time, they can then accept or reject it."
+msgstr "receives the order in real time, they can then accept or reject it."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13136
+msgid "can mark the order as ready, in this case the courier is notified."
+msgstr "can mark the order as ready, in this case the courier is notified."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13212
+msgid "can manage their menu online."
+msgstr "can manage their menu online."
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.h2:1-13274
+msgid "Table of contents"
+msgstr "Table of contents"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13325
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13325"
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13414
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13414"
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13501
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13501"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13576
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13576"
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13651
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13651"
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13744
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13744"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13817
+msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13817"
+msgid "Getting Started"
+msgstr "Getting Started"

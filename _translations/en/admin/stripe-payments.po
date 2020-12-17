@@ -1,0 +1,371 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/stripe-payments.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.head.title:1-512
+msgid "Stripe payments | CoopCycle"
+msgstr "Stripe payments | CoopCycle"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.head.meta[content]:1-703
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.svg.symbol.title:1-1557
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.svg.symbol.title:1-2006
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.svg.symbol.title:1-2392
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.svg.symbol.title:1-2821
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.svg.symbol.title:1-3168
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.a:1-3683
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-3940
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-4037
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4153
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4280
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4413
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-4558
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4686
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4821
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-4963
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5095
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-5236
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5376
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-5525
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5649
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-5788
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.nav.ul.li:1-5788"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5923
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6054
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6183
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.nav.ul.li.ul.li:1-6183"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6300
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6417
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.nav.ul.li.ul.li:1-6417"
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6565
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6712
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6851
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6851"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6986
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7132
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7269
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7422
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-7547
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7685
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7837
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7989
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8135
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8293
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li:1-8457
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8585
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.footer.footer.a[title]:1-9661
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.footer.footer.ul:1-9649
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div:1-10306
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.nav.ul.li:1-10581
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.div.nav.ul.li:1-10581"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.nav.ul.li:1-10707
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.nav.ul.li:1-10837
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.nav.ol.li:1-11124
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.div.nav.ol.li:1-11124"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.nav.ol.li:1-11226
+msgctxt "_site/en/admin/stripe-payments.html+html.body.div.div.nav.ol.li:1-11226"
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.h2:1-11367
+msgid "What is the “live mode” and “test mode” of Stripe?"
+msgstr "What is the “live mode” and “test mode” of Stripe?"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.p:1-11649
+msgid ""
+"The CoopCycle platform can be configured to use the “live” or “test” mode "
+"from the “settings” tab. In test mode clients will not be debited. You have "
+"to use test cards (typically 4242 4242 4242 4242 4242). <strong>Don’t forget "
+"to switch to “live” mode before going into production !</strong>"
+msgstr ""
+"The CoopCycle platform can be configured to use the “live” or “test” mode "
+"from the “settings” tab. In test mode clients will not be debited. You have "
+"to use test cards (typically 4242 4242 4242 4242 4242). <strong>Don’t forget "
+"to switch to “live” mode before going into production !</strong>"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.h2:1-11948
+msgid "How to configure Stripe/Stripe Connect on your platform?"
+msgstr "How to configure Stripe/Stripe Connect on your platform?"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li:1-12259
+msgid ""
+"Create a Stripe account <a target=\"_blank\" href=\"https://dashboard.stripe."
+"com/register\">here</a> , then:"
+msgstr ""
+"Create a Stripe account <a target=\"_blank\" href=\"https://dashboard.stripe."
+"com/register\">here</a> , then:"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li.ul.li:1-12373
+msgid ""
+"Get the four API stripe keys (Private/Public live, Private/Public test) here:"
+" <a target=\"_blank\" href=\"https://dashboard.stripe.com/apikeys\""
+">https://dashboard.stripe.com/apikeys</a> (<a target=\"_blank\" href=\"https"
+"://www.youtube.com/watch?v=XLzg_K_0C5k\">in video</a>)"
+msgstr ""
+"Get the four API stripe keys (Private/Public live, Private/Public test) here:"
+" <a target=\"_blank\" href=\"https://dashboard.stripe.com/apikeys\""
+">https://dashboard.stripe.com/apikeys</a> (<a target=\"_blank\" href=\"https"
+"://www.youtube.com/watch?v=XLzg_K_0C5k\">in video</a>)"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li.ul.li:1-12649
+msgid ""
+"Get the two Stripe Connect identifiers (Live/Test) here: <a target=\"_blank\""
+" href=\"https://dashboard.stripe.com/account/applications/settings\""
+">https://dashboard.stripe.com/account/applications/settings</a>"
+msgstr ""
+"Get the two Stripe Connect identifiers (Live/Test) here: <a target=\"_blank\""
+" href=\"https://dashboard.stripe.com/account/applications/settings\""
+">https://dashboard.stripe.com/account/applications/settings</a>"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li.ul.li:1-12863
+msgid ""
+"Past them in the corresponding fields on the administrator’s “parameters” "
+"tab."
+msgstr ""
+"Past them in the corresponding fields on the administrator’s “parameters” "
+"tab."
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.p:1-12969
+msgid ""
+"Note: Live and test keys and IDs are not displayed on the screen at the same "
+"time. There is a switch on the page to display either test or live data."
+msgstr ""
+"Note: Live and test keys and IDs are not displayed on the screen at the same "
+"time. There is a switch on the page to display either test or live data."
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li:1-13131
+msgid "Configure the redirection url for Stripe Connect"
+msgstr "Configure the redirection url for Stripe Connect"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li.ul.li:1-13189
+msgid ""
+"Go to <a target=\"_blank\" href=\"https://dashboard.stripe.com/account/"
+"applications/settings\">https://dashboard.stripe.com/account/applications/"
+"settings</a>"
+msgstr ""
+"Go to <a target=\"_blank\" href=\"https://dashboard.stripe.com/account/"
+"applications/settings\">https://dashboard.stripe.com/account/applications/"
+"settings</a>"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.ol.li.ul.li:1-13352
+msgid ""
+"Click on “Add redirect URI” (<strong>It has to be done in live and test "
+"mode</strong>). Then enter this value “https://<domain_name>/stripe/connect/"
+"standard\" (e.g. `https://demo.coopcycle.org/stripe/connect/"
+"standard`)</domain_name>"
+msgstr ""
+"Click on “Add redirect URI” (<strong>It has to be done in live and test "
+"mode</strong>). Then enter this value “https://<domain_name>/stripe/connect/"
+"standard\" (e.g. `https://demo.coopcycle.org/stripe/connect/"
+"standard`)</domain_name>"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.h2:1-13611
+msgid "How to activate your Stripe account to use the platform?"
+msgstr "How to activate your Stripe account to use the platform?"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.p:1-13919
+msgid ""
+"You need to activate your Stripe account to start using the platform in "
+"“live”. Click on “Activate your account” on the left and enter the required "
+"informations. (video: <a target=\"_blank\" href=\"https://www.youtube.com/"
+"watch?v=XLzg_K_0C5k\">https://www.youtube.com/watch?v=XLzg_K_0C5k</a>)"
+msgstr ""
+"You need to activate your Stripe account to start using the platform in "
+"“live”. Click on “Activate your account” on the left and enter the required "
+"informations. (video: <a target=\"_blank\" href=\"https://www.youtube.com/"
+"watch?v=XLzg_K_0C5k\">https://www.youtube.com/watch?v=XLzg_K_0C5k</a>)"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.h2:1-14215
+msgid "How to see the money earned through the platform?"
+msgstr "How to see the money earned through the platform?"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.p:1-14502
+msgid ""
+"The funds earned by the platform (the delivery cooperative) are calculated "
+"as a commission on the merchant’s payment. Go to this URL <a target=\"_blank"
+"\" href=\"https://dashboard.stripe.com/test/applications/fees\""
+">https://dashboard.stripe.com/test/applications/fees</a>."
+msgstr ""
+"The funds earned by the platform (the delivery cooperative) are calculated "
+"as a commission on the merchant’s payment. Go to this URL <a target=\"_blank"
+"\" href=\"https://dashboard.stripe.com/test/applications/fees\""
+">https://dashboard.stripe.com/test/applications/fees</a>."
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.h2:1-14777
+msgid "How to receive this money on your account?"
+msgstr "How to receive this money on your account?"
+
+#: _site/en/admin/stripe-payments.html%2Bhtml.body.div.div.div.p:1-15043
+msgid ""
+"Payments from your Stripe account to your bank account will be made "
+"regularly (“payouts”). You can access the list of payouts here : <a target="
+"\"_blank\" href=\"https://dashboard.stripe.com/test/balance/overview\""
+">https://dashboard.stripe.com/test/balance/overview</a>. You can also "
+"request on this page an immediate transfer to your account."
+msgstr ""
+"Payments from your Stripe account to your bank account will be made "
+"regularly (“payouts”). You can access the list of payouts here : <a target="
+"\"_blank\" href=\"https://dashboard.stripe.com/test/balance/overview\""
+">https://dashboard.stripe.com/test/balance/overview</a>. You can also "
+"request on this page an immediate transfer to your account."

@@ -1,0 +1,265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/app/installation.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/app/installation.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/app/installation.html%2Bhtml.head.title:1-512
+msgid "Installation | CoopCycle"
+msgstr "Installation | CoopCycle"
+
+#: _site/en/app/installation.html%2Bhtml.head.meta[content]:1-697
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/app/installation.html%2Bhtml.body.svg.symbol.title:1-1533
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/app/installation.html%2Bhtml.body.svg.symbol.title:1-1982
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/app/installation.html%2Bhtml.body.svg.symbol.title:1-2368
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/app/installation.html%2Bhtml.body.svg.symbol.title:1-2797
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/app/installation.html%2Bhtml.body.svg.symbol.title:1-3144
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.a:1-3659
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-3916
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-4013
+msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li:1-4013"
+msgid "App"
+msgstr "App"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4136
+msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li.ul.li:1-4136"
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4276
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4409
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-4554
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4682
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4817
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-4959
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5091
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-5232
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5372
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-5521
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5645
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-5784
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5912
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6043
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6172
+msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li.ul.li:1-6172"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6289
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6406
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6541
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6688
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6827
+msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6827"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6962
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7108
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7245
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7398
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-7523
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7661
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7813
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7965
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8111
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8269
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-8433
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8561
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.footer.footer.a[title]:1-9637
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.footer.footer.ul:1-9625
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div:1-10282
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10552
+msgctxt "_site/en/app/installation.html+html.body.div.div.nav.ul.li:1-10552"
+msgid "en"
+msgstr "en"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10673
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10796
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ol.li:1-11075
+msgctxt "_site/en/app/installation.html+html.body.div.div.nav.ol.li:1-11075"
+msgid "App"
+msgstr "App"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ol.li:1-11165
+msgctxt "_site/en/app/installation.html+html.body.div.div.nav.ol.li:1-11165"
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.div.h3:1-11303
+msgid "Android"
+msgstr "Android"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.div.p:1-11466
+msgid ""
+"You can install the Android app directly from Google Play. Search for "
+"“CoopCycle” on Google Play, or click on the link below. Requires Android 4.3 "
+"or later."
+msgstr ""
+"You can install the Android app directly from Google Play. Search for "
+"“CoopCycle” on Google Play, or click on the link below. Requires Android 4.3 "
+"or later."
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.div.p:1-11630
+msgid "Install Android app"
+msgstr "Install Android app"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.div.h3:1-11753
+msgid "iOS"
+msgstr "iOS"
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.div.p:1-11904
+msgid ""
+"You can install the iOS app directly from the App Store. Search for "
+"“CoopCycle” on the App Store, or click on the link below. Requires iOS 9.0 "
+"or later. Compatible with iPhone, iPad, and iPod touch."
+msgstr ""
+"You can install the iOS app directly from the App Store. Search for "
+"“CoopCycle” on the App Store, or click on the link below. Requires iOS 9.0 "
+"or later. Compatible with iPhone, iPad, and iPod touch."
+
+#: _site/en/app/installation.html%2Bhtml.body.div.div.div.p:1-12110
+msgid "Install the iOS app"
+msgstr "Install the iOS app"

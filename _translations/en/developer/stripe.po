@@ -1,0 +1,367 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/developer/stripe.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/developer/stripe.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/developer/stripe.html%2Bhtml.head.title:1-512
+msgid "Setting up Stripe | CoopCycle"
+msgstr "Setting up Stripe | CoopCycle"
+
+#: _site/en/developer/stripe.html%2Bhtml.head.meta[content]:1-707
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.svg.symbol.title:1-1548
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.svg.symbol.title:1-1997
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.svg.symbol.title:1-2383
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.svg.symbol.title:1-2812
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.svg.symbol.title:1-3159
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.a:1-3674
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-3931
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-4028
+msgid "App"
+msgstr "App"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4144
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4271
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4404
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-4549
+msgctxt "_site/en/developer/stripe.html+html.body.div.nav.ul.li:1-4549"
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4684
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4819
+msgctxt "_site/en/developer/stripe.html+html.body.div.nav.ul.li.ul.li:1-4819"
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-4974
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5106
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-5247
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5387
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-5536
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5660
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-5799
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5927
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6058
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6187
+msgctxt "_site/en/developer/stripe.html+html.body.div.nav.ul.li.ul.li:1-6187"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6304
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6421
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6556
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6703
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6842
+msgctxt "_site/en/developer/stripe.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6842"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6977
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7123
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7260
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7413
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-7538
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7676
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7828
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7980
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8126
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8284
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li:1-8448
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8576
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.footer.footer.a[title]:1-9652
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.footer.footer.ul:1-9640
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div:1-10297
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10567
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.nav.ul.li:1-10567"
+msgid "en"
+msgstr "en"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10685
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10799
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11077
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.nav.ol.li:1-11077"
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11179
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.nav.ol.li:1-11179"
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-11322
+msgid ""
+"This page describes how to create a restaurant as an admin on the CoopCycle "
+"platform. Please ask for help at dev@coopcycle.org if you need to. This "
+"process has two steps: Create the restaurant on the CoopCycle platform "
+"Create the linked Stripe account"
+msgstr ""
+"This page describes how to create a restaurant as an admin on the CoopCycle "
+"platform. Please ask for help at dev@coopcycle.org if you need to. This "
+"process has two steps: Create the restaurant on the CoopCycle platform "
+"Create the linked Stripe account"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-11581
+msgid ""
+"Before: You need to have configured correctly the Stripe account linked to "
+"the platform"
+msgstr ""
+"Before: You need to have configured correctly the Stripe account linked to "
+"the platform"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-11676
+msgid ""
+"After this two steps have been achieved : Create an user account in the "
+"“User” section On the created user page, assign him/her the restaurant so he "
+"can access its backoffice"
+msgstr ""
+"After this two steps have been achieved : Create an user account in the "
+"“User” section On the created user page, assign him/her the restaurant so he "
+"can access its backoffice"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-11858
+msgid ""
+"Necessary informations : Name &amp; first name of the restaurant owner Legal "
+"name of the restaurant Phone number of the restaurant Restaurants address "
+"Restaurants IBAN Contractual informations What delivery price for the "
+"restaurant owner? What delivery price for the customer? Who is paying Stripe "
+"fees? Proof of identity of the restaurant"
+msgstr ""
+"Necessary informations : Name &amp; first name of the restaurant owner Legal "
+"name of the restaurant Phone number of the restaurant Restaurants address "
+"Restaurants IBAN Contractual informations What delivery price for the "
+"restaurant owner? What delivery price for the customer? Who is paying Stripe "
+"fees? Proof of identity of the restaurant"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12205
+msgid "Additional informations : Delivery hours"
+msgstr "Additional informations : Delivery hours"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12253
+msgid "2- Creating the Stripe account linked to the restaurant"
+msgstr "2- Creating the Stripe account linked to the restaurant"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12316
+msgid ""
+"From your Stripe dashboard, https://dashboard.stripe.com/account , create a "
+"new account by clicking on the top left corner on “New account”. Indicate "
+"the restaurants name."
+msgstr ""
+"From your Stripe dashboard, https://dashboard.stripe.com/account , create a "
+"new account by clicking on the top left corner on “New account”. Indicate "
+"the restaurants name."
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12495
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.div.p:1-12495"
+"_site/en/developer/stripe.html+html.body.div.div.div.p:1-12495"
+"_site/en/developer/stripe.html+html.body.div.div.div.p:1-12495"
+msgid "IMAGE"
+msgstr "IMAGE"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12508
+msgid ""
+"From the restaurant page on the platform, in the “Stripe account” section, "
+"click on “Connect with Stripe” button. The process have to be made twice, "
+"once for test and once for live payments."
+msgstr ""
+"From the restaurant page on the platform, in the “Stripe account” section, "
+"click on “Connect with Stripe” button. The process have to be made twice, "
+"once for test and once for live payments."
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12706
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.div.p:1-12706"
+msgid "IMAGE"
+msgstr "IMAGE"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12719
+msgid ""
+"A Stripe page opens. In the “Switch accounts” dropdown select the correct "
+"restaurant."
+msgstr ""
+"A Stripe page opens. In the “Switch accounts” dropdown select the correct "
+"restaurant."
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12812
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.div.p:1-12812"
+msgid "IMAGE"
+msgstr "IMAGE"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12825
+msgid ""
+"Enter the informations. Attention : in the “Customer phone number” field "
+"please indicate your phone number not the restaurant’s one."
+msgstr ""
+"Enter the informations. Attention : in the “Customer phone number” field "
+"please indicate your phone number not the restaurant’s one."
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-12965
+msgid ""
+"Verify your phone number at the following address : https://dashboard.stripe."
+"com/phone-verification?source=email . Enter your phone number then copy the "
+"code received by SMS (you may have received a mail notification about the "
+"phone verification)"
+msgstr ""
+"Verify your phone number at the following address : https://dashboard.stripe."
+"com/phone-verification?source=email . Enter your phone number then copy the "
+"code received by SMS (you may have received a mail notification about the "
+"phone verification)"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-13219
+msgid ""
+"Your done ! To check that everything’s in order : In the Stripe dashboard "
+"select the main account (the one linked to the platform) on the top left "
+"corner Clicked on “Connect” then on “Accounts” on the left column In the “"
+"Recently connected accounts” list click on the first item (= the last "
+"account added) Verify that “Payments” and “Payouts” are well and green - in "
+"case of issue please contact dev@coopcycle.org"
+msgstr ""
+"Your done ! To check that everything’s in order : In the Stripe dashboard "
+"select the main account (the one linked to the platform) on the top left "
+"corner Clicked on “Connect” then on “Accounts” on the left column In the “"
+"Recently connected accounts” list click on the first item (= the last "
+"account added) Verify that “Payments” and “Payouts” are well and green - in "
+"case of issue please contact dev@coopcycle.org"
+
+#: _site/en/developer/stripe.html%2Bhtml.body.div.div.div.p:1-13640
+msgctxt "_site/en/developer/stripe.html+html.body.div.div.div.p:1-13640"
+msgid "IMAGE"
+msgstr "IMAGE"

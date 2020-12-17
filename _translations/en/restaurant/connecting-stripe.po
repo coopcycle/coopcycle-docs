@@ -1,0 +1,229 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/restaurant/connecting-stripe.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.head.title:1-512
+msgid "Connecting Stripe account | CoopCycle"
+msgstr "Connecting Stripe account | CoopCycle"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.head.meta[content]:1-723
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.svg.symbol.title:1-1608
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.svg.symbol.title:1-2057
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.svg.symbol.title:1-2443
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.svg.symbol.title:1-2872
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.svg.symbol.title:1-3219
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.a:1-3734
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-3991
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-4088
+msgid "App"
+msgstr "App"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4204
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4331
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4464
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-4609
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4737
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4872
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-5014
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5146
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-5287
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5427
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-5576
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5700
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-5839
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5967
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6098
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6227
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li.ul.li:1-6227"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6344
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6461
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6596
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6743
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6882
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6882"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7017
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7163
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7300
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7453
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-7578
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li:1-7578"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7723
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li.ul.li:1-7723"
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7888
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8040
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8186
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8344
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-8508
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8636
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.footer.footer.a[title]:1-9712
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.footer.footer.ul:1-9700
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div:1-10357
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10639
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.div.nav.ul.li:1-10639"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10772
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10902
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11195
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.div.nav.ol.li:1-11195"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11307
+msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.div.nav.ol.li:1-11307"
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"

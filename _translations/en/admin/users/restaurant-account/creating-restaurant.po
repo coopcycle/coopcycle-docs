@@ -1,0 +1,473 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.head.title:1-512
+msgid "Creating a restaurant | CoopCycle"
+msgstr "Creating a restaurant | CoopCycle"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.head.meta[content]:1-715
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.svg.symbol.title:1-1662
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.svg.symbol.title:1-2111
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.svg.symbol.title:1-2497
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.svg.symbol.title:1-2926
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.svg.symbol.title:1-3273
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.a:1-3788
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-4045
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-4142
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4258
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4385
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4518
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-4663
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4791
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4926
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5068
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5200
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5341
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5481
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5630
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5754
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-5893
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6021
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6152
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6281
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.nav.ul.li.ul.li:1-6281"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6398
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6515
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6650
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6936
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6936"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7071
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7217
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7354
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7507
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.nav.ul.li.ul.li:1-7507"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-7632
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7770
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7922
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8074
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8220
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8378
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li:1-8542
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8670
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.footer.footer.a[title]:1-9746
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.footer.footer.ul:1-9734
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div:1-10391
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10695
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.nav.ul.li:1-10695"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10850
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10980
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11292
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.nav.ol.li:1-11292"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11355
+msgid "Restaurant account"
+msgstr "Restaurant account"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11431
+msgid "Creating a restaurant"
+msgstr "Creating a restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.h1:1-11578
+msgid "Creating restaurants"
+msgstr "Creating restaurants"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p:1-11780
+msgid ""
+"This page describes the process for creating a restaurant on the CoopCycle "
+"platform. Don’t hesitate to ask for help <a href=\"mailto:contact@coopcycle."
+"org\">contact@coopcycle.org</a> to configure the first restaurants.<br /> "
+"This takes place in two stages:"
+msgstr ""
+"This page describes the process for creating a restaurant on the CoopCycle "
+"platform. Don’t hesitate to ask for help <a href=\"mailto:contact@coopcycle."
+"org\">contact@coopcycle.org</a> to configure the first restaurants.<br /> "
+"This takes place in two stages:"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12047
+msgid "Create the restaurant on the CoopCycle platform"
+msgstr "Create the restaurant on the CoopCycle platform"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12104
+msgid ""
+"Create a <a href=\"https://dashboard.stripe.com/register\">Stripe</a> account"
+msgstr ""
+"Create a <a href=\"https://dashboard.stripe.com/register\">Stripe</a> account"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p:1-12195
+msgid "After performing these two steps:"
+msgstr "After performing these two steps:"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12241
+msgid "Create an account for the restaurateur in the “Users” section"
+msgstr "Create an account for the restaurateur in the “Users” section"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12312
+msgid ""
+"Assign the restaurant to this restaurateur so that he can access the back "
+"office"
+msgstr ""
+"Assign the restaurant to this restaurateur so that he can access the back "
+"office"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p:1-12408
+msgid "Prerequisite:"
+msgstr "Prerequisite:"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12434
+msgid ""
+"Having correctly configured the Stripe account linked to the platform (link "
+"to the corresponding page)"
+msgstr ""
+"Having correctly configured the Stripe account linked to the platform (link "
+"to the corresponding page)"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p:1-12552
+msgid "Minimum information required beforehand:"
+msgstr "Minimum information required beforehand:"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12605
+msgid "Name, first name of the restaurateur"
+msgstr "Name, first name of the restaurateur"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12651
+msgid "Legal name of the restaurant"
+msgstr "Legal name of the restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12689
+msgid "Restaurant phone number"
+msgstr "Restaurant phone number"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12722
+msgid "Restaurant address"
+msgstr "Restaurant address"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12750
+msgid "IBAN of the restaurant"
+msgstr "IBAN of the restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12782
+msgid ""
+"Color front / back scan of the restaurant owner’s identity card in JPEG or "
+"PNG format (Stripe request after the first orders for identity verification)"
+msgstr ""
+"Color front / back scan of the restaurant owner’s identity card in JPEG or "
+"PNG format (Stripe request after the first orders for identity verification)"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12960
+msgid ""
+"Contractual information (what delivery rate for the restaurant owner? For "
+"the customer? Who pays the payment fees?)"
+msgstr ""
+"Contractual information (what delivery rate for the restaurant owner? For "
+"the customer? Who pays the payment fees?)"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p:1-13091
+msgid "Optional information:"
+msgstr "Optional information:"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13125
+msgid "Opening hours (times when delivery is activated)"
+msgstr "Opening hours (times when delivery is activated)"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13183
+msgid "Number Siret"
+msgstr "Number Siret"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.h2:1-13211
+msgid "1 - Creating a restaurant"
+msgstr "1 - Creating a restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13433
+msgid "From the “Restaurants” tab, click on “Add a restaurant”"
+msgstr "From the “Restaurants” tab, click on “Add a restaurant”"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13498
+msgid "Enter information in the corresponding fields"
+msgstr "Enter information in the corresponding fields"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-13562
+msgid "Creation d'un restaurant"
+msgstr "Creation d'un restaurant"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13653
+msgid "Click on “Save”"
+msgstr "Click on “Save”"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.h2:1-13675
+msgid "2 - Creating a restaurant Stripe account"
+msgstr "2 - Creating a restaurant Stripe account"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13943
+msgid ""
+"<strong>From your Stripe dashboard</strong>, <a href=\"https://dashboard."
+"stripe.com/account\">https://dashboard.stripe.com/account</a>, create a new "
+"account by clicking on the top left on “New Account”. Indicate the name of "
+"the restaurant."
+msgstr ""
+"<strong>From your Stripe dashboard</strong>, <a href=\"https://dashboard."
+"stripe.com/account\">https://dashboard.stripe.com/account</a>, create a new "
+"account by clicking on the top left on “New Account”. Indicate the name of "
+"the restaurant."
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.span.img[alt]:1-14222
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
+"_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
+"_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
+"_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
+msgid "Stripe"
+msgstr "Stripe"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14299
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.img[alt]:1-14299"
+msgid "Stripe"
+msgstr "Stripe"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14382
+msgid ""
+"<strong>From the restaurant page on the platform</strong>, in the “Stripe "
+"Account” section, click on the “Connect with Stripe” button. The process "
+"must be repeated for dev operation and live operation."
+msgstr ""
+"<strong>From the restaurant page on the platform</strong>, in the “Stripe "
+"Account” section, click on the “Connect with Stripe” button. The process "
+"must be repeated for dev operation and live operation."
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14602
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.img[alt]:1-14602"
+msgid "Stripe"
+msgstr "Stripe"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14683
+msgid ""
+"A Stripe page opens. In the “Switch account” dropdown select the "
+"corresponding restaurant."
+msgstr ""
+"A Stripe page opens. In the “Switch account” dropdown select the "
+"corresponding restaurant."
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14792
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.img[alt]:1-14792"
+msgid "Stripe"
+msgstr "Stripe"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p:1-14878
+msgid ""
+"Entrer les informations du restaurateur correspondantes. <span style=\"color:"
+" red\"><strong>Attention : dans le champ “Customer phone number” indiquez "
+"votre numéro de téléphone pas celui du restaurateur.</strong></span>"
+msgstr ""
+"Entrer les informations du restaurateur correspondantes. <span style=\"color:"
+" red\"><strong>Attention : dans le champ “Customer phone number” indiquez "
+"votre numéro de téléphone pas celui du restaurateur.</strong></span>"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p:1-15114
+msgid ""
+"Check your phone number at the following address: <a href=\"https://dashboard"
+".stripe.com/phone-verification?source=email\">https://dashboard.stripe.com/"
+"phone-verification?source=email</a>: enter your phone number then copy the "
+"code received by SMS (you should have received an email notification)"
+msgstr ""
+"Check your phone number at the following address: <a href=\"https://dashboard"
+".stripe.com/phone-verification?source=email\">https://dashboard.stripe.com/"
+"phone-verification?source=email</a>: enter your phone number then copy the "
+"code received by SMS (you should have received an email notification)"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p:1-15427
+msgid "And There you go ! To check that everything is in order with Stripe:"
+msgstr "And There you go ! To check that everything is in order with Stripe:"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-15508
+msgid ""
+"In the Stripe dashboard, select your main account (the cooperative’s account)"
+" from the dropdown in the top left"
+msgstr ""
+"In the Stripe dashboard, select your main account (the cooperative’s account)"
+" from the dropdown in the top left"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-15629
+msgid "Click on “Connect” then “Accounts” in the left column"
+msgstr "Click on “Connect” then “Accounts” in the left column"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-15692
+msgid ""
+"In the “Recently connected accounts” list which appears click on the first ("
+"the last linked account)"
+msgstr ""
+"In the “Recently connected accounts” list which appears click on the first ("
+"the last linked account)"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-15802
+msgid ""
+"Check that “Payments” and “Payouts” are green - in case of problems contact "
+"<a href=\"mailto:dev@coopcycle.org\">dev@coopcycle.org</a>"
+msgstr ""
+"Check that “Payments” and “Payouts” are green - in case of problems contact "
+"<a href=\"mailto:dev@coopcycle.org\">dev@coopcycle.org</a>"
+
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p.img[alt]:1-15953
+msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.ul.li.p.img[alt]:1-15953"
+msgid "Stripe"
+msgstr "Stripe"

@@ -1,0 +1,363 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/developer/api.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/developer/api.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/developer/api.html%2Bhtml.head.title:1-512
+msgid "Using the CoopCycle API | CoopCycle"
+msgstr "Using the CoopCycle API | CoopCycle"
+
+#: _site/en/developer/api.html%2Bhtml.head.meta[content]:1-719
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/developer/api.html%2Bhtml.body.svg.symbol.title:1-1557
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/developer/api.html%2Bhtml.body.svg.symbol.title:1-2006
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/developer/api.html%2Bhtml.body.svg.symbol.title:1-2392
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/developer/api.html%2Bhtml.body.svg.symbol.title:1-2821
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/developer/api.html%2Bhtml.body.svg.symbol.title:1-3168
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.a:1-3683
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-3940
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-4037
+msgid "App"
+msgstr "App"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4153
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4280
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4413
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-4558
+msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li:1-4558"
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4693
+msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li:1-4693"
+"_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li:1-4693"
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4841
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-4983
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5115
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-5256
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5396
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-5545
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5669
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-5808
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5936
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6067
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6196
+msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li:1-6196"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6313
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6430
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6565
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6712
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6851
+msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6851"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6986
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7132
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7269
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7422
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-7547
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7685
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7837
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7989
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8135
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8293
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-8457
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8585
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.footer.footer.a[title]:1-9661
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.footer.footer.ul:1-9649
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div:1-10306
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10573
+msgctxt "_site/en/developer/api.html+html.body.div.div.nav.ul.li:1-10573"
+msgid "en"
+msgstr "en"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10691
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10805
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ol.li:1-11083
+msgctxt "_site/en/developer/api.html+html.body.div.div.nav.ol.li:1-11083"
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ol.li:1-11185
+msgctxt "_site/en/developer/api.html+html.body.div.div.nav.ol.li:1-11185"
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.h1:1-11334
+msgctxt "_site/en/developer/api.html+html.body.div.div.div.h1:1-11334"
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:1-11545
+msgid "Open API / Swagger documentation"
+msgstr "Open API / Swagger documentation"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.h2:1-11635
+msgid "Authentication"
+msgstr "Authentication"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:1-11819
+msgid ""
+"Most of the API endpoints require authentication, and also authorization. "
+"<br /> Authentication is implemented by sending a <a href=\"https://jwt.io/"
+"introduction/\">JSON Web Token</a> via HTTP headers."
+msgstr ""
+"Most of the API endpoints require authentication, and also authorization. "
+"<br /> Authentication is implemented by sending a <a href=\"https://jwt.io/"
+"introduction/\">JSON Web Token</a> via HTTP headers."
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.div.div.pre:1-12099
+msgid "Authorization: Bearer &lt;token&gt;"
+msgstr "Authorization: Bearer &lt;token&gt;"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.h3:2-27
+msgid "Authenticating as a web application"
+msgstr "Authenticating as a web application"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:2-274
+msgid ""
+"If you are creating a web application that does not need to act on behalf of "
+"a user, you need to use the <a href=\"https://oauth.net/2/grant-types/"
+"client-credentials/\">OAuth client credentials</a> flow to obtain an access "
+"token."
+msgstr ""
+"If you are creating a web application that does not need to act on behalf of "
+"a user, you need to use the <a href=\"https://oauth.net/2/grant-types/"
+"client-credentials/\">OAuth client credentials</a> flow to obtain an access "
+"token."
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:2-509
+msgid "Obtaining API credentials"
+msgstr "Obtaining API credentials"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:2-559
+msgid ""
+"To create access tokens, you will need API credentials (an API key and an "
+"API secret). <br /> Ask the platform administrators to create a API "
+"application and send you the API credentials."
+msgstr ""
+"To create access tokens, you will need API credentials (an API key and an "
+"API secret). <br /> Ask the platform administrators to create a API "
+"application and send you the API credentials."
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:2-754
+msgid "Using the credentials to obtain an access token"
+msgstr "Using the credentials to obtain an access token"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:2-826
+msgid ""
+"The first step to make authenticated requests is to obtain an <strong>access "
+"token</strong>. <br /> To obtain an access token, you first need to make a "
+"request to the <code class=\"language-plaintext highlighter-rouge\">/oauth2/"
+"token</code> endpoint, with your API credentials encoded as Base64."
+msgstr ""
+"The first step to make authenticated requests is to obtain an <strong>access "
+"token</strong>. <br /> To obtain an access token, you first need to make a "
+"request to the <code class=\"language-plaintext highlighter-rouge\">/oauth2/"
+"token</code> endpoint, with your API credentials encoded as Base64."
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:2-1127
+msgid "Here is an example to encode your API credentials using PHP:"
+msgstr "Here is an example to encode your API credentials using PHP:"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.div.div.pre:2-1268
+msgid ""
+"php -r 'echo base64_encode(\"&lt;api_key&gt;:&lt;api_secret&gt;\"), PHP_EOL;'"
+msgstr ""
+"php -r 'echo base64_encode(\"&lt;api_key&gt;:&lt;api_secret&gt;\"), PHP_EOL;'"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:3-27
+msgid ""
+"Here is an example request to the <code class=\"language-plaintext "
+"highlighter-rouge\">/oauth2/token</code> endpoint using cURL:"
+msgstr ""
+"Here is an example request to the <code class=\"language-plaintext "
+"highlighter-rouge\">/oauth2/token</code> endpoint using cURL:"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.div.div.pre:3-234
+msgid ""
+"curl -X POST -d 'grant_type=client_credentials&amp;scope=tasks+deliveries' -"
+"H 'Authorization: Basic &lt;base64_credentials&gt;' https://acme.coopcycle."
+"org/oauth2/token"
+msgstr ""
+"curl -X POST -d 'grant_type=client_credentials&amp;scope=tasks+deliveries' -"
+"H 'Authorization: Basic &lt;base64_credentials&gt;' https://acme.coopcycle."
+"org/oauth2/token"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:4-27
+msgid "The response should look like this:"
+msgstr "The response should look like this:"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.div.div.pre:4-143
+msgid ""
+"{ \"token_type\": \"Bearer\", \"expires_in\": 3600, \"access_token\": \""
+"&lt;access_token&gt;\" }"
+msgstr ""
+"{ \"token_type\": \"Bearer\", \"expires_in\": 3600, \"access_token\": \""
+"&lt;access_token&gt;\" }"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:9-27
+msgid "Using the access token to make authenticated requests"
+msgstr "Using the access token to make authenticated requests"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:9-105
+msgid ""
+"You can now use the access token to make authenticated requests to the API"
+msgstr ""
+"You can now use the access token to make authenticated requests to the API"
+
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.div.div.pre:9-260
+msgid ""
+"curl -X POST -d '{ ... }' -H 'Content-Type: application/ld+json' -H "
+"'Authorization: Bearer &lt;access_token&gt;' https://acme.coopcycle.org/api/"
+"deliveries"
+msgstr ""
+"curl -X POST -d '{ ... }' -H 'Content-Type: application/ld+json' -H "
+"'Authorization: Bearer &lt;access_token&gt;' https://acme.coopcycle.org/api/"
+"deliveries"

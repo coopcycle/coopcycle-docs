@@ -1,0 +1,281 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/payment-portals/about-stripe.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.head.title:1-512
+msgid "About Stripe | CoopCycle"
+msgstr "About Stripe | CoopCycle"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.head.meta[content]:1-697
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.svg.symbol.title:1-1569
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.svg.symbol.title:1-2018
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.svg.symbol.title:1-2404
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.svg.symbol.title:1-2833
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.svg.symbol.title:1-3180
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.a:1-3695
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-3952
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-4049
+msgid "App"
+msgstr "App"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4165
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4292
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4425
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-4570
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4698
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4833
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-4975
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5107
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-5248
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li:1-5248"
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5395
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li.ul.li:1-5395"
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-5557
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5681
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-5820
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5948
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6079
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6208
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li.ul.li:1-6208"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6325
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6442
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6577
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6724
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6863
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6863"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6998
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7144
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7281
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7434
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-7559
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7697
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7849
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8001
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8147
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8305
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-8469
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8597
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.footer.footer.a[title]:1-9673
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.footer.footer.ul:1-9661
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div:1-10318
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10600
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.div.nav.ul.li:1-10600"
+msgid "en"
+msgstr "en"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10733
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10863
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11156
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.div.nav.ol.li:1-11156"
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11270
+msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.div.nav.ol.li:1-11270"
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.h2:1-11408
+msgid "What is Stripe?"
+msgstr "What is Stripe?"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.p:1-11593
+msgid ""
+"Stripe is a payment service provider, which allows us to manage credit card "
+"payments in a secure manner. In addition, the “Stripe Connect” functionality "
+"allows us to manage the “platform” aspect of the payment, i.e. the "
+"distribution of payments between the platform (money going to the delivery "
+"cooperative) and the restaurant."
+msgstr ""
+"Stripe is a payment service provider, which allows us to manage credit card "
+"payments in a secure manner. In addition, the “Stripe Connect” functionality "
+"allows us to manage the “platform” aspect of the payment, i.e. the "
+"distribution of payments between the platform (money going to the delivery "
+"cooperative) and the restaurant."
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.p:1-11928
+msgid ""
+"Due to the fact that the european cooperative is fund by contributions, we "
+"(CoopCycle) do not charge a commission on payments. Stripe takes a fee on "
+"each transaction (<a href=\"https://stripe.com/pricing\" target=\"_blank\""
+">check the pricing for your country here</a>)."
+msgstr ""
+"Due to the fact that the european cooperative is fund by contributions, we "
+"(CoopCycle) do not charge a commission on payments. Stripe takes a fee on "
+"each transaction (<a href=\"https://stripe.com/pricing\" target=\"_blank\""
+">check the pricing for your country here</a>)."
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.h2:1-12201
+msgid "Why Stripe?"
+msgstr "Why Stripe?"
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.p:1-12374
+msgid ""
+"Stripe has established itself as the “rolls-royce” of payment services. The "
+"service is reputed to be of excellent quality. It is possible to find "
+"cheaper services, but we believe the price is worth the candle. A known "
+"negative point about Stripe is that the (nice) Stripe admin interface is not "
+"always available in the user’s language."
+msgstr ""
+"Stripe has established itself as the “rolls-royce” of payment services. The "
+"service is reputed to be of excellent quality. It is possible to find "
+"cheaper services, but we believe the price is worth the candle. A known "
+"negative point about Stripe is that the (nice) Stripe admin interface is not "
+"always available in the user’s language."
+
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.ol.li:1-12722
+msgid "Creating a Stripe account"
+msgstr "Creating a Stripe account"

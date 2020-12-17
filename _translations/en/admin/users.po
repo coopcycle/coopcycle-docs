@@ -1,0 +1,535 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/users.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/users.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users.html%2Bhtml.head.title:1-512
+msgid "Users | CoopCycle"
+msgstr "Users | CoopCycle"
+
+#: _site/en/admin/users.html%2Bhtml.head.meta[content]:1-683
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/users.html%2Bhtml.body.svg.symbol.title:1-1497
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/users.html%2Bhtml.body.svg.symbol.title:1-1946
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/users.html%2Bhtml.body.svg.symbol.title:1-2332
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/users.html%2Bhtml.body.svg.symbol.title:1-2761
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/users.html%2Bhtml.body.svg.symbol.title:1-3108
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.a:1-3623
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-3880
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-3977
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4093
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4220
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4353
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-4498
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4626
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4761
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-4903
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5035
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-5176
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5316
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-5465
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5589
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-5728
+msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li:1-5728"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5863
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5994
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6123
+msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li.ul.li:1-6123"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6240
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6357
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6492
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6639
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6778
+msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6778"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6913
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7059
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7196
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7349
+msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li.ul.li:1-7349"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-7487
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7625
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7777
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7929
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8075
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8233
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-8397
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8525
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.footer.footer.a[title]:1-9601
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.footer.footer.ul:1-9589
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div:1-10246
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10511
+msgctxt "_site/en/admin/users.html+html.body.div.div.nav.ul.li:1-10511"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10623
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10749
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ol.li:1-11021
+msgctxt "_site/en/admin/users.html+html.body.div.div.nav.ol.li:1-11021"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ol.li:1-11123
+msgctxt "_site/en/admin/users.html+html.body.div.div.nav.ol.li:1-11123"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.h1:1-11254
+msgid "Management of users"
+msgstr "Management of users"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.p:1-11453
+msgid ""
+"The list of administrators is available in the page <code class=\"language-"
+"plaintext highlighter-rouge\">Users</code>. This list describes accounts "
+"which are inscribed on the platform and their associated informations. It "
+"also enables to add/create a new user."
+msgstr ""
+"The list of administrators is available in the page <code class=\"language-"
+"plaintext highlighter-rouge\">Users</code>. This list describes accounts "
+"which are inscribed on the platform and their associated informations. It "
+"also enables to add/create a new user."
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.h2:1-11719
+msgid "User profil"
+msgstr "User profil"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.p:1-11894
+msgid "An user account is associated to the following informations :"
+msgstr "An user account is associated to the following informations :"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.ul.li:1-11968
+msgid "User name"
+msgstr "User name"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.ul.li:1-11987
+msgid "First name"
+msgstr "First name"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.ul.li:1-12007
+msgid "Last name"
+msgstr "Last name"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.ul.li:1-12026
+msgid "Telephone number"
+msgstr "Telephone number"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.ul.li:1-12052
+msgid "Password"
+msgstr "Password"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.ul.li:1-12070
+msgid "Email adress"
+msgstr "Email adress"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.p:1-12098
+msgid ""
+"It is possible to activate/desactivate users. A desactivated user is "
+"disconnected and can’t access the platform anymore."
+msgstr ""
+"It is possible to activate/desactivate users. A desactivated user is "
+"disconnected and can’t access the platform anymore."
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.h2:1-12226
+msgid "Roles"
+msgstr "Roles"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.p:1-12383
+msgid ""
+"Every user can have one or several roles. Every role gives access to some "
+"platform features."
+msgstr ""
+"Every user can have one or several roles. Every role gives access to some "
+"platform features."
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.thead.tr.th:1-12531
+msgid "Role"
+msgstr "Role"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.thead.tr.th:1-12545
+msgid "Customer"
+msgstr "Customer"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.thead.tr.th:1-12590
+msgid "Bike messenger"
+msgstr "Bike messenger"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.thead.tr.th:1-12641
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.thead.tr.th:1-12688
+msgid "Shop"
+msgstr "Shop"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.thead.tr.th:1-12729
+msgid "Admin"
+msgstr "Admin"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12799
+msgid "To edit his/her own personal informations"
+msgstr "To edit his/her own personal informations"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12850
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12888
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12888"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12926
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12926"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12964
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12964"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13002
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13002"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13051
+msgid "To create and modify restaurants"
+msgstr "To create and modify restaurants"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13169
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13169"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13245
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13245"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13294
+msgid "Mannage orders"
+msgstr "Mannage orders"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13394
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13394"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13470
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13470"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13519
+msgid "To edit a receipt"
+msgstr "To edit a receipt"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13622
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13622"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13698
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13698"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13747
+msgid "To create and modify menus"
+msgstr "To create and modify menus"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13859
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13859"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13935
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13935"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13984
+msgid "To create shops"
+msgstr "To create shops"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14161
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14161"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14210
+msgid "To modify shops"
+msgstr "To modify shops"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14349
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14349"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14387
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14387"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14436
+msgid "To create a delivery"
+msgstr "To create a delivery"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14580
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14580"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14618
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14618"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14667
+msgid "To manage deliveries"
+msgstr "To manage deliveries"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14735
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14735"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14849
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14849"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14898
+msgid "To access CoopCycle API"
+msgstr "To access CoopCycle API"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14969
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14969"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15007
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15007"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15083
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15083"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15132
+msgid "To edit roles for users"
+msgstr "To edit roles for users"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15317
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15317"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15366
+msgid "To edit contracts and tarifications"
+msgstr "To edit contracts and tarifications"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15563
+msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15563"
+msgid "✔"
+msgstr "✔"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.h2:1-15631
+msgid "Assignation of a shop/restaurant"
+msgstr "Assignation of a shop/restaurant"
+
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.p:1-15867
+msgid ""
+"On the informations about an user which has the <code class=\"language-"
+"plaintext highlighter-rouge\">Restaurant</code> role, you can assignate him/"
+"her (To make him/her owner) a shop that you have previously created. It also "
+"works for an user who has a <code class=\"language-plaintext highlighter-"
+"rouge\">shop-owner</code> role."
+msgstr ""
+"On the informations about an user which has the <code class=\"language-"
+"plaintext highlighter-rouge\">Restaurant</code> role, you can assignate him/"
+"her (To make him/her owner) a shop that you have previously created. It also "
+"works for an user who has a <code class=\"language-plaintext highlighter-"
+"rouge\">shop-owner</code> role."

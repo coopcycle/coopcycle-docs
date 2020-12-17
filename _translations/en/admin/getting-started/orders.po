@@ -1,0 +1,377 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/getting-started/orders.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.head.title:1-512
+msgid "Orders | CoopCycle"
+msgstr "Orders | CoopCycle"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.head.meta[content]:1-685
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.svg.symbol.title:1-1551
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.svg.symbol.title:1-2000
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.svg.symbol.title:1-2386
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.svg.symbol.title:1-2815
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.svg.symbol.title:1-3162
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.a:1-3677
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-3934
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-4031
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4147
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4274
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4407
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-4552
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4680
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4815
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-4957
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5089
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-5230
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5370
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-5519
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5643
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-5782
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.nav.ul.li:1-5782"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5917
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6048
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6177
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.nav.ul.li.ul.li:1-6177"
+"_site/en/admin/getting-started/orders.html+html.body.div.nav.ul.li.ul.li:1-6177"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6294
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6411
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6546
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.nav.ul.li.ul.li:1-6546"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6699
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6838
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6838"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6986
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7132
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7269
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7422
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-7547
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7685
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7837
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7989
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8135
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8293
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li:1-8457
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8585
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.footer.footer.a[title]:1-9661
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.footer.footer.ul:1-9649
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div:1-10306
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10588
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.nav.ul.li:1-10588"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10721
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10853
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11139
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.nav.ol.li:1-11139"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11241
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.nav.ol.li:1-11241"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11361
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.nav.ol.li:1-11361"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.p:1-11493
+msgid "The delivery tab is used to display the list of deliveries and tasks."
+msgstr "The delivery tab is used to display the list of deliveries and tasks."
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.h2:1-11570
+msgid "Orders list"
+msgstr "Orders list"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.p.span.img[alt]:1-11771
+msgid "Tableau de bord"
+msgstr "Tableau de bord"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.p:1-11851
+msgid ""
+"This list groups together all the tasks and deliveries carried out on the "
+"platform. The following information is available:"
+msgstr ""
+"This list groups together all the tasks and deliveries carried out on the "
+"platform. The following information is available:"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-11987
+msgid "ID, the task number"
+msgstr "ID, the task number"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12016
+msgid "Type of task"
+msgstr "Type of task"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12038
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li:1-12038"
+msgid "Deposit"
+msgstr "Deposit"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12055
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li:1-12055"
+msgid "Withdrawal"
+msgstr "Withdrawal"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12075
+msgid "Deadline (date and time)"
+msgstr "Deadline (date and time)"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12109
+msgid "Name of the courier"
+msgstr "Name of the courier"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12138
+msgid "Delivery address"
+msgstr "Delivery address"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.h2:1-12170
+msgid "Create / Edit an order"
+msgstr "Create / Edit an order"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.p:1-12376
+msgid ""
+"Creating a delivery is done by clicking on the button at the top right of "
+"the task list screen. A delivery consists of the following elements:"
+msgstr ""
+"Creating a delivery is done by clicking on the button at the top right of "
+"the task list screen. A delivery consists of the following elements:"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12531
+msgid "Vehicle type"
+msgstr "Vehicle type"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12553
+msgid "Bike"
+msgstr "Bike"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12567
+msgid "Cargo bike"
+msgstr "Cargo bike"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12599
+msgid "Weight (in grams)"
+msgstr "Weight (in grams)"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12626
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li:1-12626"
+msgid "Withdrawal"
+msgstr "Withdrawal"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12646
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li.ul.li:1-12646"
+msgid "Field: address"
+msgstr "Field: address"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12670
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li.ul.li:1-12670"
+msgid "Postal code"
+msgstr "Postal code"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12691
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li.ul.li:1-12691"
+msgid "City"
+msgstr "City"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12705
+msgid "Time and day of withdrawal"
+msgstr "Time and day of withdrawal"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12741
+msgid "Textarea field: specific instructions for the delivery man"
+msgstr "Textarea field: specific instructions for the delivery man"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li:1-12821
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li:1-12821"
+msgid "Deposit"
+msgstr "Deposit"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12838
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li.ul.li:1-12838"
+msgid "Field: address"
+msgstr "Field: address"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12862
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li.ul.li:1-12862"
+msgid "Postal code"
+msgstr "Postal code"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12883
+msgctxt "_site/en/admin/getting-started/orders.html+html.body.div.div.div.ul.li.ul.li:1-12883"
+msgid "City"
+msgstr "City"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12897
+msgid "Time and day of filing"
+msgstr "Time and day of filing"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12929
+msgid "Textarea field: specific instructions for the delivery person"
+msgstr "Textarea field: specific instructions for the delivery person"
+
+#: _site/en/admin/getting-started/orders.html%2Bhtml.body.div.div.div.p:1-13018
+msgid ""
+"On the right, in addition to the map which displays the delivery route, you "
+"can either choose a price to apply to the delivery, or enter a free price."
+msgstr ""
+"On the right, in addition to the map which displays the delivery route, you "
+"can either choose a price to apply to the delivery, or enter a free price."

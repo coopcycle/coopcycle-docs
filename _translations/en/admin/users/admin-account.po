@@ -1,0 +1,237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/users/admin-account.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.head.title:1-512
+msgid "Admin account | CoopCycle"
+msgstr "Admin account | CoopCycle"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.head.meta[content]:1-699
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.svg.symbol.title:1-1563
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.svg.symbol.title:1-2012
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.svg.symbol.title:1-2398
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.svg.symbol.title:1-2827
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.svg.symbol.title:1-3174
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.a:1-3689
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-3946
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-4043
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4159
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4286
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4419
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-4564
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4692
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4827
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-4969
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5101
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-5242
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5382
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-5531
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5655
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-5794
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li:1-5794"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5929
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6060
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6189
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li.ul.li:1-6189"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6306
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6423
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6558
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6705
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6844
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6844"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6979
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7125
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7262
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7415
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li.ul.li:1-7415"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-7546
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7684
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7836
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7988
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8134
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8292
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-8456
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8584
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.footer.footer.a[title]:1-9660
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.footer.footer.ul:1-9648
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div:1-10305
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10584
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.div.nav.ul.li:1-10584"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10714
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10844
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11140
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.div.nav.ol.li:1-11140"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11242
+msgctxt "_site/en/admin/users/admin-account.html+html.body.div.div.nav.ol.li:1-11242"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11346
+msgid "Admin account"
+msgstr "Admin account"
+
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.div.h1:1-11485
+msgid "Admin’s account"
+msgstr "Admin’s account"

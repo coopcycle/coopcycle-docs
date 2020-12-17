@@ -1,0 +1,479 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/restaurant/restaurant-information.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.head.title:1-512
+msgid "Restaurant information | CoopCycle"
+msgstr "Restaurant information | CoopCycle"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.head.meta[content]:1-717
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.svg.symbol.title:1-1614
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.svg.symbol.title:1-2063
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.svg.symbol.title:1-2449
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.svg.symbol.title:1-2878
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.svg.symbol.title:1-3225
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.a:1-3740
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-3997
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-4094
+msgid "App"
+msgstr "App"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4210
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4337
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4470
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-4615
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4743
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4878
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-5020
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5152
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-5293
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5433
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-5582
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5706
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-5845
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5973
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6104
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6233
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li:1-6233"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6350
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6467
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6602
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6749
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6888
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6888"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7023
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7169
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7306
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7459
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-7584
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li:1-7584"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7729
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7881
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8033
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8179
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8337
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li:1-8337"
+"_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li:1-8337"
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-8514
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8642
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.footer.footer.a[title]:1-9718
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.footer.footer.ul:1-9706
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div:1-10363
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10650
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.nav.ul.li:1-10650"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10788
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10918
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ol.li:1-11219
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.nav.ol.li:1-11219"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ol.li:1-11331
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.nav.ol.li:1-11331"
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h1:1-11479
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h1:1-11479"
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-11687
+msgid ""
+"The general information of the restaurant is accessible and modifiable at "
+"any time on the home page of by clicking on <code class=\"language-plaintext "
+"highlighter-rouge\">Edit</code> button near of the name of the restaurant at "
+"the top left of the page."
+msgstr ""
+"The general information of the restaurant is accessible and modifiable at "
+"any time on the home page of by clicking on <code class=\"language-plaintext "
+"highlighter-rouge\">Edit</code> button near of the name of the restaurant at "
+"the top left of the page."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-11946
+msgid "On this page you can :"
+msgstr "On this page you can :"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-11981
+msgid ""
+"Change the <strong>image</strong> of your restaurant, which will appear to "
+"clients on CoopCycle. In order to do that, you can directly drop an image "
+"where it is indicated."
+msgstr ""
+"Change the <strong>image</strong> of your restaurant, which will appear to "
+"clients on CoopCycle. In order to do that, you can directly drop an image "
+"where it is indicated."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12162
+msgid ""
+"Disable or enable your restaurant to appear on CoopCycle. When disabled the "
+"restaurant page is not accessible by visitors."
+msgstr ""
+"Disable or enable your restaurant to appear on CoopCycle. When disabled the "
+"restaurant page is not accessible by visitors."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-12300
+msgid ""
+"Four tabs are accessible on this page in order to look or modify your "
+"informations - please don’t forget to click on <code class=\"language-"
+"plaintext highlighter-rouge\">save</code> button at the bottom of the page "
+"when you are modifying fields :"
+msgstr ""
+"Four tabs are accessible on this page in order to look or modify your "
+"informations - please don’t forget to click on <code class=\"language-"
+"plaintext highlighter-rouge\">save</code> button at the bottom of the page "
+"when you are modifying fields :"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12557
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12557"
+msgid "General"
+msgstr "General"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12597
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12597"
+msgid "Options"
+msgstr "Options"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12637
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12637"
+msgid "Fulfillment"
+msgstr "Fulfillment"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12685
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12685"
+msgid "Settlement"
+msgstr "Settlement"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-12737
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-12737"
+msgid "General"
+msgstr "General"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-12900
+msgid ""
+"On this <code class=\"language-plaintext highlighter-rouge\">General</code> "
+"tab, you can modify general informations about your restaurant :"
+msgstr ""
+"On this <code class=\"language-plaintext highlighter-rouge\">General</code> "
+"tab, you can modify general informations about your restaurant :"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-13051
+msgid "Displayed to clients :"
+msgstr "Displayed to clients :"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13083
+msgid "Name of the Restaurant on CoopCycle"
+msgstr "Name of the Restaurant on CoopCycle"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13128
+msgid "Type of Business"
+msgstr "Type of Business"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13154
+msgid "Adress"
+msgstr "Adress"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13170
+msgid "Description of your restaurant"
+msgstr "Description of your restaurant"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13210
+msgid "Website"
+msgstr "Website"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-13245
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-13245"
+msgid "Options"
+msgstr "Options"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-13408
+msgid ""
+"Options are not accessible from a restaurant account. In order to change "
+"them, you need to connect with an administrator account, which means that "
+"theses options are decided with the delivery cooperative."
+msgstr ""
+"Options are not accessible from a restaurant account. In order to change "
+"them, you need to connect with an administrator account, which means that "
+"theses options are decided with the delivery cooperative."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-13620
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-13620"
+msgid "Fulfillment"
+msgstr "Fulfillment"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-13795
+msgid ""
+"On this page, you have two schedules : collection (take-away orders) or "
+"delivery. In order to activate one or both schedules, you also have to "
+"contact an administrator of CoopCycle."
+msgstr ""
+"On this page, you have two schedules : collection (take-away orders) or "
+"delivery. In order to activate one or both schedules, you also have to "
+"contact an administrator of CoopCycle."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h3:1-13984
+msgid "Collection"
+msgstr "Collection"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-14156
+msgid ""
+"On this page, you can decide your <strong>Collect time slots</strong> which "
+"means when your clients can collect their command in your restaurant. You "
+"don’t need to connect as an administrator to change these options, because "
+"this schedule does not affect the delivery cooperative. There is also an "
+"option to decide if CoopCycle proposes to customers to collect the order as "
+"soon as possible, or propose time slots."
+msgstr ""
+"On this page, you can decide your <strong>Collect time slots</strong> which "
+"means when your clients can collect their command in your restaurant. You "
+"don’t need to connect as an administrator to change these options, because "
+"this schedule does not affect the delivery cooperative. There is also an "
+"option to decide if CoopCycle proposes to customers to collect the order as "
+"soon as possible, or propose time slots."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h3:1-14578
+msgid "Delivery"
+msgstr "Delivery"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-14744
+msgid ""
+"On this page, you can see what are your <strong>Delivery time slots</strong> "
+"which means when your customers can be delivered their orders. You can’t "
+"change this schedule unless you are connected as administrator. There is "
+"also an option to decide if CoopCycle proposes to customers to reveive the "
+"order as soon as possible, or propose time slots."
+msgstr ""
+"On this page, you can see what are your <strong>Delivery time slots</strong> "
+"which means when your customers can be delivered their orders. You can’t "
+"change this schedule unless you are connected as administrator. There is "
+"also an option to decide if CoopCycle proposes to customers to reveive the "
+"order as soon as possible, or propose time slots."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h3:1-15099
+msgid "Global options"
+msgstr "Global options"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-15283
+msgid "2 options are proposed to modify globally these two schedules :"
+msgstr "2 options are proposed to modify globally these two schedules :"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-15359
+msgid ""
+"Add delay before ordering. For instance, if you put 1 in the <code class"
+"=\"language-plaintext highlighter-rouge\">day</code>field, customers have to "
+"order the day before."
+msgstr ""
+"Add delay before ordering. For instance, if you put 1 in the <code class"
+"=\"language-plaintext highlighter-rouge\">day</code>field, customers have to "
+"order the day before."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-15537
+msgid "Number of shipping choices (in days)"
+msgstr "Number of shipping choices (in days)"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-15589
+msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-15589"
+msgid "Settlement"
+msgstr "Settlement"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-15761
+msgid ""
+"You will find on this page <strong>the terms of the contract</strong> "
+"between the local delivery collective and the restaurant. They cover the "
+"following aspects:"
+msgstr ""
+"You will find on this page <strong>the terms of the contract</strong> "
+"between the local delivery collective and the restaurant. They cover the "
+"following aspects:"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-15935
+msgid "Delivery price :"
+msgstr "Delivery price :"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-15961
+msgid ""
+"Part to be paid by the restaurant (“Amount charged by the platform” for a "
+"fixed cost and “Platform fee for deliveries” for a proportionnal fee)"
+msgstr ""
+"Part to be paid by the restaurant (“Amount charged by the platform” for a "
+"fixed cost and “Platform fee for deliveries” for a proportionnal fee)"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-16114
+msgid ""
+"Part to be paid by the final client.(“Amount paid by the customer” for a "
+"fixed cost and “Fees paid by the customer” for a proportionnal fee)"
+msgstr ""
+"Part to be paid by the final client.(“Amount paid by the customer” for a "
+"fixed cost and “Fees paid by the customer” for a proportionnal fee)"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-16276
+msgid "Minimum basket amount"
+msgstr "Minimum basket amount"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-16307
+msgid "Platform fees for take-away."
+msgstr "Platform fees for take-away."
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-16345
+msgid "Payment fees (Stripe): paid by the platform or the restaurant owner"
+msgstr "Payment fees (Stripe): paid by the platform or the restaurant owner"
+
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-16428
+msgid "Only administrators can modify these information."
+msgstr "Only administrators can modify these information."

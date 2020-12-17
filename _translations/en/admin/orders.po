@@ -1,0 +1,349 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/orders.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/orders.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/orders.html%2Bhtml.head.title:1-512
+msgid "Orders | CoopCycle"
+msgstr "Orders | CoopCycle"
+
+#: _site/en/admin/orders.html%2Bhtml.head.meta[content]:1-685
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/orders.html%2Bhtml.body.svg.symbol.title:1-1503
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/orders.html%2Bhtml.body.svg.symbol.title:1-1952
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/orders.html%2Bhtml.body.svg.symbol.title:1-2338
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/orders.html%2Bhtml.body.svg.symbol.title:1-2767
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/orders.html%2Bhtml.body.svg.symbol.title:1-3114
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.a:1-3629
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-3886
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-3983
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4099
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4226
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4359
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-4504
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4632
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4767
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-4909
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5041
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-5182
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5322
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-5471
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5595
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-5734
+msgctxt "_site/en/admin/orders.html+html.body.div.nav.ul.li:1-5734"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5869
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6000
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6129
+msgctxt "_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li:1-6129"
+"_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li:1-6129"
+"_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li:1-6129"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6259
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6376
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6511
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6658
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
+msgctxt "_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6797"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6932
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7078
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7215
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7368
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-7493
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7631
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7783
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7935
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8081
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8239
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-8403
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8531
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.footer.footer.a[title]:1-9607
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.footer.footer.ul:1-9595
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div:1-10252
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10518
+msgctxt "_site/en/admin/orders.html+html.body.div.div.nav.ul.li:1-10518"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10635
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10758
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11036
+msgctxt "_site/en/admin/orders.html+html.body.div.div.nav.ol.li:1-11036"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11138
+msgctxt "_site/en/admin/orders.html+html.body.div.div.nav.ol.li:1-11138"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.h1:1-11270
+msgctxt "_site/en/admin/orders.html+html.body.div.div.div.h1:1-11270"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p:1-11430
+msgid ""
+"Orders page displays the orders engaged by clients on the platform. It "
+"enables to manage restaurant’s orders."
+msgstr ""
+"Orders page displays the orders engaged by clients on the platform. It "
+"enables to manage restaurant’s orders."
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p:1-11547
+msgid "There are two types of orders :"
+msgstr "There are two types of orders :"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-11591
+msgid "Foodtech orders, engaged by end customers"
+msgstr "Foodtech orders, engaged by end customers"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-11642
+msgid "Orders of deliveries, engaged with the integrated form for instance."
+msgstr "Orders of deliveries, engaged with the integrated form for instance."
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p:1-11726
+msgid "An order can have these following status :"
+msgstr "An order can have these following status :"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-11781
+msgid "New, the order was not accepted by the restaurant yet"
+msgstr "New, the order was not accepted by the restaurant yet"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-11844
+msgid "Accepted, the order is in preparation"
+msgstr "Accepted, the order is in preparation"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-11891
+msgid "Refused, the order has been refused"
+msgstr "Refused, the order has been refused"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-11936
+msgid ""
+"Ready, the order is waiting a bike messenger or its delivery is underway"
+msgstr ""
+"Ready, the order is waiting a bike messenger or its delivery is underway"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12018
+msgid "Done, the order was delivered"
+msgstr "Done, the order was delivered"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12057
+msgid "Cancelled, the order was cancelled by the client or the restaurant"
+msgstr "Cancelled, the order was cancelled by the client or the restaurant"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.h2:1-12139
+msgid "List of orders"
+msgstr "List of orders"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p.img[alt]:1-12326
+msgid "Commandes"
+msgstr "Commandes"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p:1-12389
+msgid ""
+"The list of orders displays orders which are underway on the platform. You "
+"can display the cancelled orders by ticking the option : “Display cancelled "
+"orders”."
+msgstr ""
+"The list of orders displays orders which are underway on the platform. You "
+"can display the cancelled orders by ticking the option : “Display cancelled "
+"orders”."
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p:1-12556
+msgid ""
+"The administrator can cancel an order by clicking on the button <code class"
+"=\"language-plaintext highlighter-rouge\">Cancel</code> d’une commande. "
+"Displayed informations are :"
+msgstr ""
+"The administrator can cancel an order by clicking on the button <code class"
+"=\"language-plaintext highlighter-rouge\">Cancel</code> d’une commande. "
+"Displayed informations are :"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12742
+msgid "id, order’s number"
+msgstr "id, order’s number"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12770
+msgid "The type of order"
+msgstr "The type of order"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12797
+msgid "Customer who engaged the order"
+msgstr "Customer who engaged the order"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12837
+msgid "The order’s statut"
+msgstr "The order’s statut"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12865
+msgid "Total amount charged for the customer"
+msgstr "Total amount charged for the customer"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12912
+msgid "The associated bill, that you can download in pdf format"
+msgstr "The associated bill, that you can download in pdf format"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-12978
+msgid "Date of creation"
+msgstr "Date of creation"
+
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.ul.li:1-13004
+msgid ""
+"The <code class=\"language-plaintext highlighter-rouge\">Cancel</code> "
+"button for an order"
+msgstr ""
+"The <code class=\"language-plaintext highlighter-rouge\">Cancel</code> "
+"button for an order"

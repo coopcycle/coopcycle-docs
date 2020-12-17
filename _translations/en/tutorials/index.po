@@ -1,0 +1,227 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/tutorials/index.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/tutorials/index.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/tutorials/index.html%2Bhtml.head.title:1-512
+msgid "Tutorials | CoopCycle"
+msgstr "Tutorials | CoopCycle"
+
+#: _site/en/tutorials/index.html%2Bhtml.head.meta[content]:1-691
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.svg.symbol.title:1-1491
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.svg.symbol.title:1-1940
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.svg.symbol.title:1-2326
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.svg.symbol.title:1-2755
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.svg.symbol.title:1-3102
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.a:1-3617
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-3874
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-3971
+msgid "App"
+msgstr "App"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4087
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4214
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4347
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-4492
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4620
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4755
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-4897
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5029
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-5170
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5310
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-5459
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5583
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-5722
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5850
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5981
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6110
+msgctxt "_site/en/tutorials/index.html+html.body.div.nav.ul.li.ul.li:1-6110"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6227
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6344
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6479
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6626
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6765
+msgctxt "_site/en/tutorials/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6765"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6900
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7046
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7183
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7336
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-7461
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7599
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7751
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7903
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8049
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8207
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li:1-8371
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8513
+msgctxt "_site/en/tutorials/index.html+html.body.div.nav.ul.li.ul.li:1-8513"
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.footer.footer.a[title]:1-9589
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.footer.footer.ul:1-9577
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div:1-10234
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.nav.ul.li:1-10503
+msgctxt "_site/en/tutorials/index.html+html.body.div.div.nav.ul.li:1-10503"
+msgid "en"
+msgstr "en"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.nav.ul.li:1-10613
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.nav.ul.li:1-10717
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.div.h2:1-10963
+msgid "Table of contents"
+msgstr "Table of contents"
+
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.div.ul.li:1-11014
+msgctxt "_site/en/tutorials/index.html+html.body.div.div.div.ul.li:1-11014"
+msgid "Create a zone"
+msgstr "Create a zone"

@@ -1,0 +1,337 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/key-concepts.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/key-concepts.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.head.title:1-512
+msgid "Key concepts | CoopCycle"
+msgstr "Key concepts | CoopCycle"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.head.meta[content]:1-697
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.svg.symbol.title:1-1539
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.svg.symbol.title:1-1988
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.svg.symbol.title:1-2374
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.svg.symbol.title:1-2803
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.svg.symbol.title:1-3150
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.a:1-3665
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-3922
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-4019
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4135
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4262
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4395
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-4540
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4668
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4803
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-4945
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5077
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-5218
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5358
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-5507
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5631
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-5770
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li:1-5770"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5905
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6036
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6036"
+"_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6036"
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6178
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6178"
+"_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6178"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6295
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6412
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6547
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6694
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6833
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6833"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6968
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7114
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7251
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7404
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-7529
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7667
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7819
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7971
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8117
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8275
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-8439
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8567
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.footer.footer.a[title]:1-9643
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.footer.footer.ul:1-9631
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div:1-10288
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10560
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.nav.ul.li:1-10560"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10683
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10810
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ol.li:1-11096
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.nav.ol.li:1-11096"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ol.li:1-11198
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.nav.ol.li:1-11198"
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h1:1-11336
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.div.h1:1-11336"
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h2:1-11514
+msgid "Tasks and Orders"
+msgstr "Tasks and Orders"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h3:1-11704
+msgid "Tasks"
+msgstr "Tasks"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-11861
+msgid "A <strong>task</strong> is the smallest unit of a delivery order."
+msgstr "A <strong>task</strong> is the smallest unit of a delivery order."
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-11934
+msgid ""
+"A <strong>task</strong> is a To-Do unit under a specific address and a set "
+"timeframe."
+msgstr ""
+"A <strong>task</strong> is a To-Do unit under a specific address and a set "
+"timeframe."
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-12027
+msgid "There are <strong>two</strong> types of tasks:"
+msgstr "There are <strong>two</strong> types of tasks:"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12086
+msgid "<strong>Pickup</strong> or Collection"
+msgstr "<strong>Pickup</strong> or Collection"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12133
+msgid "<strong>Dropoff</strong> or Delivery"
+msgstr "<strong>Dropoff</strong> or Delivery"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-12185
+msgid ""
+"Each <strong>order</strong> consists of a minimum of two <strong>tasks</"
+"strong> that a dispatcher assigns to a courier."
+msgstr ""
+"Each <strong>order</strong> consists of a minimum of two <strong>tasks</"
+"strong> that a dispatcher assigns to a courier."
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h4:1-12312
+msgid "Pickup and Dropoff"
+msgstr "Pickup and Dropoff"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-12508
+msgid ""
+"The following information must be completed by the dispatcher for each task:"
+msgstr ""
+"The following information must be completed by the dispatcher for each task:"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12597
+msgid "Address"
+msgstr "Address"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12614
+msgid "Time range"
+msgstr "Time range"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12634
+msgid "Commentary"
+msgstr "Commentary"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-12660
+msgid ""
+"The following information is used to track the progress of a task in the "
+"delivery process:"
+msgstr ""
+"The following information is used to track the progress of a task in the "
+"delivery process:"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12763
+msgid "Status"
+msgstr "Status"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.ul.li:1-12779
+msgid ""
+"History The courier must pick up merchandise at an address and bring it to "
+"another address."
+msgstr ""
+"History The courier must pick up merchandise at an address and bring it to "
+"another address."
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h2:1-12886
+msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.div.h2:1-12886"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-13046
+msgid ""
+"Assign two or more tasks to a delivery person creating a delivery. When the "
+"Retrieve and Drop tasks are created, the dispatcher assigns these tasks "
+"manually in the most optimal order that they judge. The creation of a "
+"delivery is materialized on the map by means of a GPS track which is "
+"proposed to the courier for delivery."
+msgstr ""
+"Assign two or more tasks to a delivery person creating a delivery. When the "
+"Retrieve and Drop tasks are created, the dispatcher assigns these tasks "
+"manually in the most optimal order that they judge. The creation of a "
+"delivery is materialized on the map by means of a GPS track which is "
+"proposed to the courier for delivery."

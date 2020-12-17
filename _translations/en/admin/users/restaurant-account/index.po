@@ -1,0 +1,237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.head.title:1-512
+msgid "Restaurant account | CoopCycle"
+msgstr "Restaurant account | CoopCycle"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.head.meta[content]:1-709
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.svg.symbol.title:1-1581
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.svg.symbol.title:1-2030
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.svg.symbol.title:1-2416
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.svg.symbol.title:1-2845
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.svg.symbol.title:1-3192
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.a:1-3707
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-3964
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-4061
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4177
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4304
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4437
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-4582
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4710
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4845
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-4987
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5119
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-5260
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5400
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-5549
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5673
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-5812
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5940
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6071
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6200
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.nav.ul.li.ul.li:1-6200"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6317
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6434
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6569
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6716
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6855
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6855"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6990
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7136
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7273
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7426
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.nav.ul.li.ul.li:1-7426"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-7551
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7689
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7841
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7993
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8139
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8297
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li:1-8461
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8589
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.footer.footer.a[title]:1-9665
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.footer.footer.ul:1-9653
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div:1-10310
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ul.li:1-10600
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ul.li:1-10600"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ul.li:1-10755
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ul.li:1-10885
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11197
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ol.li:1-11197"
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11260
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ol.li:1-11260"
+msgid "Restaurant account"
+msgstr "Restaurant account"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11336
+msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ol.li:1-11336"
+msgid "Restaurant account"
+msgstr "Restaurant account"
+
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.div.h2:1-11485
+msgid "Table of contents"
+msgstr "Table of contents"

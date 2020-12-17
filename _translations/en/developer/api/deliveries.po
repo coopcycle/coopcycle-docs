@@ -1,0 +1,337 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/developer/api/deliveries.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.head.title:1-512
+msgid "Creating deliveries with the API | CoopCycle"
+msgstr "Creating deliveries with the API | CoopCycle"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.head.meta[content]:1-737
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.svg.symbol.title:1-1617
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.svg.symbol.title:1-2066
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.svg.symbol.title:1-2452
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.svg.symbol.title:1-2881
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.svg.symbol.title:1-3228
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.a:1-3743
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-4000
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-4097
+msgid "App"
+msgstr "App"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4213
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4340
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4473
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-4618
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4746
+msgctxt "_site/en/developer/api/deliveries.html+html.body.div.nav.ul.li.ul.li:1-4746"
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4887
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-5029
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5161
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-5302
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5442
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-5591
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5715
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-5854
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5982
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6113
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6242
+msgctxt "_site/en/developer/api/deliveries.html+html.body.div.nav.ul.li.ul.li:1-6242"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6359
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6476
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6611
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6758
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6897
+msgctxt "_site/en/developer/api/deliveries.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6897"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7032
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7178
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7315
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7468
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-7593
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7731
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7883
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8035
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8181
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8339
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li:1-8503
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8631
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.footer.footer.a[title]:1-9707
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.footer.footer.ul:1-9695
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div:1-10352
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.nav.ul.li:1-10630
+msgctxt "_site/en/developer/api/deliveries.html+html.body.div.div.nav.ul.li:1-10630"
+msgid "en"
+msgstr "en"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.nav.ul.li:1-10759
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.nav.ul.li:1-10889
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.nav.ol.li:1-11182
+msgctxt "_site/en/developer/api/deliveries.html+html.body.div.div.nav.ol.li:1-11182"
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.nav.ol.li:1-11263
+msgid "Creating deliveries with the API"
+msgstr "Creating deliveries with the API"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.p:1-11421
+msgid ""
+"A common usage of the API is to create deliveries. For example, an external "
+"e-commerce website offering local shipping options may want to push "
+"deliveries directly to our system."
+msgstr ""
+"A common usage of the API is to create deliveries. For example, an external "
+"e-commerce website offering local shipping options may want to push "
+"deliveries directly to our system."
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.h3:1-11607
+msgid "Creating a delivery"
+msgstr "Creating a delivery"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.p:1-11806
+msgid ""
+"To create a delivery, you will need to make a <code class=\"language-"
+"plaintext highlighter-rouge\">POST</code> request to the <code class"
+"=\"language-plaintext highlighter-rouge\">/api/deliveries</code> endpoint. A "
+"delivery consists of two tasks, a <code class=\"language-plaintext "
+"highlighter-rouge\">pickup</code> task and a <code class=\"language-"
+"plaintext highlighter-rouge\">dropoff</code> task. The <strong>minimal "
+"information</strong> we need is the address, and the timeframe of each task."
+msgstr ""
+"To create a delivery, you will need to make a <code class=\"language-"
+"plaintext highlighter-rouge\">POST</code> request to the <code class"
+"=\"language-plaintext highlighter-rouge\">/api/deliveries</code> endpoint. A "
+"delivery consists of two tasks, a <code class=\"language-plaintext "
+"highlighter-rouge\">pickup</code> task and a <code class=\"language-"
+"plaintext highlighter-rouge\">dropoff</code> task. The <strong>minimal "
+"information</strong> we need is the address, and the timeframe of each task."
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.div.div.pre:1-12375
+msgid ""
+"POST /api/deliveries { \"pickup\": { \"address\": \"24, Rue de la Paix, "
+"Paris, France\", \"before\": \"tomorrow 12:00\" }, \"dropoff\": { \"address\""
+": \"48, Rue de Rivoli, Paris, France\", \"before\": \"tomorrow 13:30\" } }"
+msgstr ""
+"POST /api/deliveries { \"pickup\": { \"address\": \"24, Rue de la Paix, "
+"Paris, France\", \"before\": \"tomorrow 12:00\" }, \"dropoff\": { \"address\""
+": \"48, Rue de Rivoli, Paris, France\", \"before\": \"tomorrow 13:30\" } }"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.p:12-27
+msgid ""
+"If possible, you should provide as much additional information as possible, "
+"like the phone number &amp; name of the recipient. There are multiple fields "
+"that can be specified. Take a look at our <a href=\"https://github.com/"
+"coopcycle/coopcycle-web/blob/master/features/deliveries.feature\">functional "
+"tests</a> to learn more about available fields."
+msgstr ""
+"If possible, you should provide as much additional information as possible, "
+"like the phone number &amp; name of the recipient. There are multiple fields "
+"that can be specified. Take a look at our <a href=\"https://github.com/"
+"coopcycle/coopcycle-web/blob/master/features/deliveries.feature\">functional "
+"tests</a> to learn more about available fields."
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.h3:12-381
+msgid "Tracking the status of a delivery"
+msgstr "Tracking the status of a delivery"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.p:12-622
+msgid "When the delivery has been created, you obtain a response like below:"
+msgstr "When the delivery has been created, you obtain a response like below:"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.div.div.pre:12-772
+msgid ""
+"{ \"@context\":\"/api/contexts/Delivery\", \"@type\":\"http://schema.org/"
+"ParcelDelivery\", \"@id\":\"/api/deliveries/123\", \"pickup\": { \"@id\":\"/"
+"api/tasks/456\", \"@type\":\"Task\", \"status\":\"TODO\", // ... other "
+"fields }, \"dropoff\": { \"@id\":\"/api/tasks/457\", \"@type\":\"Task\", "
+"\"status\":\"TODO\", // ... other fields } }"
+msgstr ""
+"{ \"@context\":\"/api/contexts/Delivery\", \"@type\":\"http://schema.org/"
+"ParcelDelivery\", \"@id\":\"/api/deliveries/123\", \"pickup\": { \"@id\":\"/"
+"api/tasks/456\", \"@type\":\"Task\", \"status\":\"TODO\", // ... other "
+"fields }, \"dropoff\": { \"@id\":\"/api/tasks/457\", \"@type\":\"Task\", "
+"\"status\":\"TODO\", // ... other fields } }"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.p:29-27
+msgid ""
+"To be able to track the status of the parcel, make sure to store in your "
+"system the IRIs of the created resources. Then, you can later poll the API "
+"to know if the tasks have been completed."
+msgstr ""
+"To be able to track the status of the parcel, make sure to store in your "
+"system the IRIs of the created resources. Then, you can later poll the API "
+"to know if the tasks have been completed."
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.div.div.pre:29-297
+msgid ""
+"GET /api/tasks/456 { \"@id\":\"/api/tasks/456\", \"@type\":\"Task\", \"status"
+"\":\"DONE\", // ... other fields }"
+msgstr ""
+"GET /api/tasks/456 { \"@id\":\"/api/tasks/456\", \"@type\":\"Task\", \"status"
+"\":\"DONE\", // ... other fields }"
+
+#: _site/en/developer/api/deliveries.html%2Bhtml.body.div.div.div.p:36-27
+msgid ""
+"When a task is completed, the <code class=\"language-plaintext highlighter-"
+"rouge\">status</code> property will change from <code class=\"language-"
+"plaintext highlighter-rouge\">TODO</code> to <code class=\"language-"
+"plaintext highlighter-rouge\">DONE</code>. When both tasks are completed, it "
+"means the delivery is completed!"
+msgstr ""
+"When a task is completed, the <code class=\"language-plaintext highlighter-"
+"rouge\">status</code> property will change from <code class=\"language-"
+"plaintext highlighter-rouge\">TODO</code> to <code class=\"language-"
+"plaintext highlighter-rouge\">DONE</code>. When both tasks are completed, it "
+"means the delivery is completed!"

@@ -1,0 +1,621 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:42+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/restaurant/restaurant-management.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.head.title:1-512
+msgid "Managing a restaurant | CoopCycle"
+msgstr "Managing a restaurant | CoopCycle"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.head.meta[content]:1-715
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.svg.symbol.title:1-1608
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.svg.symbol.title:1-2057
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.svg.symbol.title:1-2443
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.svg.symbol.title:1-2443"
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.svg.symbol.title:1-2872
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.svg.symbol.title:1-3219
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.a:1-3734
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-3991
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-4088
+msgid "App"
+msgstr "App"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4204
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4331
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4464
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-4609
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4737
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4872
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-5014
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5146
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-5287
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5427
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-5576
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5700
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-5839
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5967
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6098
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6227
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-6227"
+"_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-6227"
+"_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-6227"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6344
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6461
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6596
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6743
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6882
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6882"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7017
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7163
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7300
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7453
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-7578
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li:1-7578"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7723
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7875
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-7875"
+"_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-7875"
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8040
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8186
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8344
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-8508
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8636
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.footer.footer.a[title]:1-9712
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.footer.footer.ul:1-9700
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div:1-10357
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10643
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.nav.ul.li:1-10643"
+msgid "en"
+msgstr "en"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10780
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10910
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ol.li:1-11213
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.nav.ol.li:1-11213"
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ol.li:1-11325
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.nav.ol.li:1-11325"
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h1:1-11472
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h1:1-11472"
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-11677
+msgid ""
+"The different management pages of a restaurant are represented by tabs in "
+"the upper right corner of the restaurant page."
+msgstr ""
+"The different management pages of a restaurant are represented by tabs in "
+"the upper right corner of the restaurant page."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p.img[alt]:1-11808
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-11909
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.ul.li:1-11909"
+msgid "Products"
+msgstr "Products"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-11951
+msgid "Options"
+msgstr "Options"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12017
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.ul.li:1-12017"
+msgid "Menus"
+msgstr "Menus"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12053
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.ul.li:1-12053"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12091
+msgid "Schedule"
+msgstr "Schedule"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-12177
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h3:1-12177"
+msgid "Products"
+msgstr "Products"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-12343
+msgid ""
+"The product list allows you to record the different products that the "
+"restaurant delivers. The restaurant must create the dishes that he makes "
+"available on the platform:"
+msgstr ""
+"The product list allows you to record the different products that the "
+"restaurant delivers. The restaurant must create the dishes that he makes "
+"available on the platform:"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12525
+msgid "the name of the product"
+msgstr "the name of the product"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12558
+msgid "the description"
+msgstr "the description"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12583
+msgid "whether or not the product is activated"
+msgstr "whether or not the product is activated"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12632
+msgid "the price and the tax applied"
+msgstr "the price and the tax applied"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12671
+msgid ""
+"the allergens (Warning: the restaurant is responsible for the information "
+"given to the customer)"
+msgstr ""
+"the allergens (Warning: the restaurant is responsible for the information "
+"given to the customer)"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12777
+msgid "the specific diets the product is ok with."
+msgstr "the specific diets the product is ok with."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-12835
+msgid "Options and extras / Adding extras"
+msgstr "Options and extras / Adding extras"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-13077
+msgid ""
+"A product can have several associated options (see below), which must be "
+"created beforehand. For example a choice of ketchup, mayonnaise, white sauce "
+"for a portion of fries."
+msgstr ""
+"A product can have several associated options (see below), which must be "
+"created beforehand. For example a choice of ketchup, mayonnaise, white sauce "
+"for a portion of fries."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-13258
+msgid ""
+"The options allow you to make the products configurable. They allow for "
+"example to add supplements, or to choose the elements of a menu ("
+"accompaniment, drinks). A supplement is a list of products assigned to a "
+"product on the menu."
+msgstr ""
+"The options allow you to make the products configurable. They allow for "
+"example to add supplements, or to choose the elements of a menu ("
+"accompaniment, drinks). A supplement is a list of products assigned to a "
+"product on the menu."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p.img[alt]:1-13499
+msgid "Option"
+msgstr "Option"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-13580
+msgid "This list has the following characteristics:"
+msgstr "This list has the following characteristics:"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-13637
+msgid "Last name"
+msgstr "Last name"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-13656
+msgid "Price calculation method"
+msgstr "Price calculation method"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13690
+msgid "Free, no additional price for the supplement"
+msgstr "Free, no additional price for the supplement"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13744
+msgid ""
+"Fixed price whatever the choice, the price is the same whatever the "
+"supplement chosen"
+msgstr ""
+"Fixed price whatever the choice, the price is the same whatever the "
+"supplement chosen"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-13839
+msgid ""
+"Price depending on the choice, the price is variable depending on the chosen "
+"supplement"
+msgstr ""
+"Price depending on the choice, the price is variable depending on the chosen "
+"supplement"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-13948
+msgid ""
+"Checkbox: is the supplement additional or not? -If not, then the customer is "
+"obliged to choose one the options. -If you check the box, it means you can : "
+"-Set to 0 the minimum value, which means the customer does not have to "
+"choose an option. -Set the maximum to X, leaving him/her the possibility to "
+"make multiples choices. (eg: Choosing both Ketchup and Mayonnaise for a free "
+"sauce option, eg 2: Choose onion rings (+3€), french fries (+2€) and extra "
+"cheese (+1,5€) with a burger"
+msgstr ""
+"Checkbox: is the supplement additional or not? -If not, then the customer is "
+"obliged to choose one the options. -If you check the box, it means you can : "
+"-Set to 0 the minimum value, which means the customer does not have to "
+"choose an option. -Set the maximum to X, leaving him/her the possibility to "
+"make multiples choices. (eg: Choosing both Ketchup and Mayonnaise for a free "
+"sauce option, eg 2: Choose onion rings (+3€), french fries (+2€) and extra "
+"cheese (+1,5€) with a burger"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-14445
+msgid ""
+"You must first create the necessary supplements in the dedicated tab using "
+"the “add” button before you can associate them with a product. To assign a "
+"supplement to a product, simply activate it in a product in your restaurant. "
+"Go to the “product” tab of your restaurant, then click on the “modify” "
+"button of the product of your choice, At the bottom of each product option, "
+"you will find the supplements that you previously created. You only have to "
+"tick the one or those of your choice."
+msgstr ""
+"You must first create the necessary supplements in the dedicated tab using "
+"the “add” button before you can associate them with a product. To assign a "
+"supplement to a product, simply activate it in a product in your restaurant. "
+"Go to the “product” tab of your restaurant, then click on the “modify” "
+"button of the product of your choice, At the bottom of each product option, "
+"you will find the supplements that you previously created. You only have to "
+"tick the one or those of your choice."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-14940
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h3:1-14940"
+msgid "Menus"
+msgstr "Menus"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-15097
+msgid ""
+"Each restaurateur can independently manage their card from their back "
+"office. Restaurants have the possibility of creating several menus and "
+"activating the one that corresponds to the need of the moment."
+msgstr ""
+"Each restaurateur can independently manage their card from their back "
+"office. Restaurants have the possibility of creating several menus and "
+"activating the one that corresponds to the need of the moment."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p.img[alt]:1-15311
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.p.img[alt]:1-15311"
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h4:1-15389
+msgid "Creating a menu"
+msgstr "Creating a menu"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-15576
+msgid ""
+"In the “Menus” tab, you can create as many menus as you want. This allows "
+"you to configure menus in advance and easily activate the right one at the "
+"right time."
+msgstr ""
+"In the “Menus” tab, you can create as many menus as you want. This allows "
+"you to configure menus in advance and easily activate the right one at the "
+"right time."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-15744
+msgid ""
+"Menus refer to specific products you work with at specific times. For "
+"example: Lunch, dinner, week days, week ends, summer, winter, valentine’s "
+"day, Week A/B…"
+msgstr ""
+"Menus refer to specific products you work with at specific times. For "
+"example: Lunch, dinner, week days, week ends, summer, winter, valentine’s "
+"day, Week A/B…"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-15910
+msgid ""
+"To create a menu, click the Add button. Then simply indicate the name of "
+"your menu and click on “save”. Your menu is ready to be configured! You can "
+"then activate your menu by clicking on the “Activate” button. A menu is "
+"indicated as activated by a check mark next to its name."
+msgstr ""
+"To create a menu, click the Add button. Then simply indicate the name of "
+"your menu and click on “save”. Your menu is ready to be configured! You can "
+"then activate your menu by clicking on the “Activate” button. A menu is "
+"indicated as activated by a check mark next to its name."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h4:1-16195
+msgid "Adding a section to the menu"
+msgstr "Adding a section to the menu"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-16421
+msgid ""
+"To configure your menu, you must first add one or more menu sections. For "
+"example: Starter, main course, dessert. Sections can also be things like "
+"“House’s specials” “Set menus”… To do this, enter the name of the section "
+"you want to create and click on “Add a section”."
+msgstr ""
+"To configure your menu, you must first add one or more menu sections. For "
+"example: Starter, main course, dessert. Sections can also be things like "
+"“House’s specials” “Set menus”… To do this, enter the name of the section "
+"you want to create and click on “Add a section”."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-16698
+msgid ""
+"Note here that it is easier to create all of the products of a section and "
+"affect these products directly to the right section. (especially if you have "
+"a big list of products) rather than creating all of them and then dragging "
+"them to the right sections."
+msgstr ""
+"Note here that it is easier to create all of the products of a section and "
+"affect these products directly to the right section. (especially if you have "
+"a big list of products) rather than creating all of them and then dragging "
+"them to the right sections."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h4:1-16960
+msgid "Configuring a menu"
+msgstr "Configuring a menu"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-17156
+msgid ""
+"Use the menu editor to compose add or remove products from the menu by "
+"dragging them - see below for creating a product. To make them available for "
+"sale you only have to drag and drop the products in the sections on the "
+"left. If you wish to withdraw a product from sale, drop it in the “Products” "
+"section on the right."
+msgstr ""
+"Use the menu editor to compose add or remove products from the menu by "
+"dragging them - see below for creating a product. To make them available for "
+"sale you only have to drag and drop the products in the sections on the "
+"left. If you wish to withdraw a product from sale, drop it in the “Products” "
+"section on the right."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-17482
+msgid ""
+"Do not forget to click on the “Save changes” button at the bottom of the "
+"page."
+msgstr ""
+"Do not forget to click on the “Save changes” button at the bottom of the "
+"page."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-17568
+msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h3:1-17568"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-17728
+msgid ""
+"All orders for a restaurant are available in the “order” tab of the "
+"restaurant. They are listed in the left panel by date of treatment. An order "
+"has a unique identifier, a status (new, validated, ready, canceled), a "
+"preparation date with a schedule, a summary and a price including tax. Click "
+"on an order present in the list to display its information."
+msgstr ""
+"All orders for a restaurant are available in the “order” tab of the "
+"restaurant. They are listed in the left panel by date of treatment. An order "
+"has a unique identifier, a status (new, validated, ready, canceled), a "
+"preparation date with a schedule, a summary and a price including tax. Click "
+"on an order present in the list to display its information."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-18088
+msgid ""
+"In the right panel are displayed the information of the selected command. "
+"The dishes are listed there as well as the calculation of taxes. Finally, "
+"the buttons allow the restaurateur / administrator to accept or refuse the "
+"order. After indicating “accepted”, the restaurateur must indicate that the "
+"order is ready. He can still at this stage cancel the order. Once the latter "
+"has been notified as ready, it is no longer possible to cancel an order."
+msgstr ""
+"In the right panel are displayed the information of the selected command. "
+"The dishes are listed there as well as the calculation of taxes. Finally, "
+"the buttons allow the restaurateur / administrator to accept or refuse the "
+"order. After indicating “accepted”, the restaurateur must indicate that the "
+"order is ready. He can still at this stage cancel the order. Once the latter "
+"has been notified as ready, it is no longer possible to cancel an order."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-18544
+msgid ""
+"You can also activate <code class=\"language-plaintext highlighter-rouge\""
+">rush mode</code> on this page. Rush mode multiplies by 2 the time of "
+"preparation you set up when in “normal mode”"
+msgstr ""
+"You can also activate <code class=\"language-plaintext highlighter-rouge\""
+">rush mode</code> on this page. Rush mode multiplies by 2 the time of "
+"preparation you set up when in “normal mode”"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-18738
+msgid "Scheduling opening hours / closing a restaurant"
+msgstr "Scheduling opening hours / closing a restaurant"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-19019
+msgid ""
+"This feature allows you to temporarily close a restaurant. Scheduled "
+"closings are visible on the calendar."
+msgstr ""
+"This feature allows you to temporarily close a restaurant. Scheduled "
+"closings are visible on the calendar."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-19133
+msgid "Behavior of opening hours"
+msgstr "Behavior of opening hours"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-19350
+msgid ""
+"This feature allows you to determine how the client can choose the time of "
+"delivery. “As soon as possible” will only allow her to order at the first "
+"time slot avalaible. “Time slot” will allow her to determine a time slot in "
+"advance for the delivery."
+msgstr ""
+"This feature allows you to determine how the client can choose the time of "
+"delivery. “As soon as possible” will only allow her to order at the first "
+"time slot avalaible. “Time slot” will allow her to determine a time slot in "
+"advance for the delivery."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-19608
+msgid "Additional delay before ordering"
+msgstr "Additional delay before ordering"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-19846
+msgid ""
+"This feature allows you to force clients to order with a minimum delay. For "
+"instance, if you want to have clients to order at least one day before the "
+"opening of the restaurant you can choose 1 day and 0 hours."
+msgstr ""
+"This feature allows you to force clients to order with a minimum delay. For "
+"instance, if you want to have clients to order at least one day before the "
+"opening of the restaurant you can choose 1 day and 0 hours."
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-20064
+msgid "Number of shipping choices (in days)"
+msgstr "Number of shipping choices (in days)"
+
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-20310
+msgid ""
+"This parameter determines the maximum advance days for ordering a delivery."
+msgstr ""
+"This parameter determines the maximum advance days for ordering a delivery."

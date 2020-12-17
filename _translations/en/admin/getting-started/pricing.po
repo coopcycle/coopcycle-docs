@@ -1,0 +1,385 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 3.2.0\n"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml[lang]:1-17
+msgctxt "_site/en/admin/getting-started/pricing.html+html[lang]:1-17"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.head.title:1-512
+msgid "Pricing | CoopCycle"
+msgstr "Pricing | CoopCycle"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.head.meta[content]:1-687
+msgid "CoopCycle documentation"
+msgstr "CoopCycle documentation"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.svg.symbol.title:1-1557
+msgid "Link"
+msgstr "Link"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.svg.symbol.title:1-2006
+msgid "Search"
+msgstr "Search"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.svg.symbol.title:1-2392
+msgid "Menu"
+msgstr "Menu"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.svg.symbol.title:1-2821
+msgid "Expand"
+msgstr "Expand"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.svg.symbol.title:1-3168
+msgid "Document"
+msgstr "Document"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.a:1-3683
+msgid "CoopCycle"
+msgstr "CoopCycle"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-3940
+msgid "Home"
+msgstr "Home"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-4037
+msgid "App"
+msgstr "App"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4153
+msgid "Installation"
+msgstr "Installation"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4280
+msgid "Task management"
+msgstr "Task management"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4413
+msgid "Order management"
+msgstr "Order management"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-4558
+msgid "Developer"
+msgstr "Developer"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4686
+msgid "Using the CoopCycle API"
+msgstr "Using the CoopCycle API"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4821
+msgid "Setting up Stripe"
+msgstr "Setting up Stripe"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-4963
+msgid "Courier's guide"
+msgstr "Courier's guide"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5095
+msgid "App tutorial"
+msgstr "App tutorial"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-5236
+msgid "Payment Portals"
+msgstr "Payment Portals"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5376
+msgid "About Stripe"
+msgstr "About Stripe"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-5525
+msgid "Plugins"
+msgstr "Plugins"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5649
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-5788
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.nav.ul.li:1-5788"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5923
+msgid "Configuration"
+msgstr "Configuration"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6054
+msgid "Key concepts"
+msgstr "Key concepts"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6183
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.nav.ul.li.ul.li:1-6183"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6300
+msgid "Stores"
+msgstr "Stores"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6417
+msgid "Stripe payments"
+msgstr "Stripe payments"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6552
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.nav.ul.li.ul.li:1-6552"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6705
+msgid "Dispatch"
+msgstr "Dispatch"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6844
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6844"
+msgid "Orders"
+msgstr "Orders"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6979
+msgid "Package Sets"
+msgstr "Package Sets"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7125
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7125"
+"_site/en/admin/getting-started/pricing.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7125"
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7275
+msgid "Time Slots"
+msgstr "Time Slots"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7428
+msgid "Users"
+msgstr "Users"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-7553
+msgid "Restaurant's guide"
+msgstr "Restaurant's guide"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7691
+msgid "Connecting Stripe account"
+msgstr "Connecting Stripe account"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7843
+msgid "Managing a restaurant"
+msgstr "Managing a restaurant"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7995
+msgid "Create a Restaurant"
+msgstr "Create a Restaurant"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8141
+msgid "Connecting a Bluetooth printer"
+msgstr "Connecting a Bluetooth printer"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8299
+msgid "Restaurant information"
+msgstr "Restaurant information"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li:1-8463
+msgid "Tutorials"
+msgstr "Tutorials"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8591
+msgid "Create a zone"
+msgstr "Create a zone"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.footer.footer.a[title]:1-9667
+msgid "Contact Coopcycle by mail at contact@coopcycle.org"
+msgstr "Contact Coopcycle by mail at contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.footer.footer.ul:1-9655
+msgid "contact@coopcycle.org"
+msgstr "contact@coopcycle.org"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div:1-10312
+msgid "Edit this page"
+msgstr "Edit this page"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.nav.ul.li:1-10595
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.nav.ul.li:1-10595"
+msgid "en"
+msgstr "en"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.nav.ul.li:1-10729
+msgid "fr"
+msgstr "fr"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.nav.ul.li:1-10864
+msgid "pt-BR"
+msgstr "pt-BR"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.nav.ol.li:1-11149
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.nav.ol.li:1-11149"
+msgid "Admin's guide"
+msgstr "Admin's guide"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.nav.ol.li:1-11251
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.nav.ol.li:1-11251"
+msgid "Getting Started"
+msgstr "Getting Started"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.nav.ol.li:1-11371
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.nav.ol.li:1-11371"
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.h1:1-11504
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.div.h1:1-11504"
+msgid "Pricing"
+msgstr "Pricing"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-11667
+msgid ""
+"As part of the creation of a store account, it is possible to create prices ("
+"e.g. express prices, normal prices) from the administration section by "
+"clicking on the icon then on the Prices section."
+msgstr ""
+"As part of the creation of a store account, it is possible to create prices ("
+"e.g. express prices, normal prices) from the administration section by "
+"clicking on the icon then on the Prices section."
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-11871
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.div.p:1-11871"
+msgid "[screenshot]"
+msgstr "[screenshot]"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-11891
+msgid ""
+"Pricing is configured in the administration dashboard through a set of rules "
+"based on the following variables: The distance that is measured in meters. "
+"This distance can be defined with the operators of:"
+msgstr ""
+"Pricing is configured in the administration dashboard through a set of rules "
+"based on the following variables: The distance that is measured in meters. "
+"This distance can be defined with the operators of:"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.ul.li:1-12107
+msgid "&gt; greater than * variable in meter *"
+msgstr "&gt; greater than * variable in meter *"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.ul.li:1-12156
+msgid "&lt; less than * variable in meter * between two variables"
+msgstr "&lt; less than * variable in meter * between two variables"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-12230
+msgid ""
+"The weight which is evaluated in gram. This weight can be defined with the "
+"same operators as the distance The zone defined by loading a GeoJSON file "
+"into the instance configuration; The type of bike that is defined by "
+"selecting it from a list in which are available: The simple bike The cargo "
+"bike"
+msgstr ""
+"The weight which is evaluated in gram. This weight can be defined with the "
+"same operators as the distance The zone defined by loading a GeoJSON file "
+"into the instance configuration; The type of bike that is defined by "
+"selecting it from a list in which are available: The simple bike The cargo "
+"bike"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-12535
+msgctxt "_site/en/admin/getting-started/pricing.html+html.body.div.div.div.p:1-12535"
+msgid "[screenshot]"
+msgstr "[screenshot]"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-12555
+msgid ""
+"These rules are organized as a stack in order of processing, the pricing at "
+"the top of the list will be the first to be processed by the software that "
+"will check if it matches the characteristics of the delivery, that is not "
+"the case the software will go to the second pricing in the list and so on. "
+"With each delivery created, this stack will be used to create the pricing. "
+"The choice is automatically made according to the criteria specified for "
+"each delivery."
+msgstr ""
+"These rules are organized as a stack in order of processing, the pricing at "
+"the top of the list will be the first to be processed by the software that "
+"will check if it matches the characteristics of the delivery, that is not "
+"the case the software will go to the second pricing in the list and so on. "
+"With each delivery created, this stack will be used to create the pricing. "
+"The choice is automatically made according to the criteria specified for "
+"each delivery."
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-13025
+msgid "For example, I create a rule that specifies a pricing:"
+msgstr "For example, I create a rule that specifies a pricing:"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.ul.li:1-13092
+msgid "in the department of 93 with cargo bike placed at the top of the pile;"
+msgstr "in the department of 93 with cargo bike placed at the top of the pile;"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.ul.li:1-13172
+msgid "in Paris intramural with cargo bike placed in the middle of the pile;"
+msgstr "in Paris intramural with cargo bike placed in the middle of the pile;"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.ul.li:1-13251
+msgid "in intramural Paris placed at the bottom of the pile."
+msgstr "in intramural Paris placed at the bottom of the pile."
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-13320
+msgid ""
+"If a delivery is created involving a series of tasks in Paris intramural "
+"with a single bike, then the first rule will be ignored, and the second used "
+"as delivery basis. The precise rules (ie with the most variables) must be at "
+"the top of the stack and the most general ones at the bottom of the stack so "
+"that special cases are selected by the software as a basis for pricing. . "
+"If, for example, I take my pricing list higher as follows: in intramural "
+"paris; in Paris intramural with cargo bike; in the department of 93 with "
+"cargo bike."
+msgstr ""
+"If a delivery is created involving a series of tasks in Paris intramural "
+"with a single bike, then the first rule will be ignored, and the second used "
+"as delivery basis. The precise rules (ie with the most variables) must be at "
+"the top of the stack and the most general ones at the bottom of the stack so "
+"that special cases are selected by the software as a basis for pricing. . "
+"If, for example, I take my pricing list higher as follows: in intramural "
+"paris; in Paris intramural with cargo bike; in the department of 93 with "
+"cargo bike."
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-13863
+msgid ""
+"If a delivery is created for intramural Paris with a cargo bike, then the "
+"first rule will be ignored. The second corresponds to the delivery, its "
+"price will therefore be applied. The second rule being fulfilled, the third "
+"is ignored."
+msgstr ""
+"If a delivery is created for intramural Paris with a cargo bike, then the "
+"first rule will be ignored. The second corresponds to the delivery, its "
+"price will therefore be applied. The second rule being fulfilled, the third "
+"is ignored."
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-14104
+msgid ""
+"The most precise rules (i.e. with the most parameters) must be at the top of "
+"the stack and the most general rules at the bottom of the stack, so that the "
+"specific cases are selected by the software as a basis for pricing. If, for "
+"example, I modify the above pricing as follows:"
+msgstr ""
+"The most precise rules (i.e. with the most parameters) must be at the top of "
+"the stack and the most general rules at the bottom of the stack, so that the "
+"specific cases are selected by the software as a basis for pricing. If, for "
+"example, I modify the above pricing as follows:"
+
+#: _site/en/admin/getting-started/pricing.html%2Bhtml.body.div.div.div.p:1-14389
+msgid ""
+"in intramural Paris; in intramural Paris with cargo bike; in the 93 "
+"department with cargo bike. If a delivery in intramural Paris is created "
+"with the need to deliver by cargo bike, the price specified for the first "
+"rule will apply because no type of bike is specified for it and the second "
+"will be ignored."
+msgstr ""
+"in intramural Paris; in intramural Paris with cargo bike; in the 93 "
+"department with cargo bike. If a delivery in intramural Paris is created "
+"with the need to deliver by cargo bike, the price specified for the first "
+"rule will apply because no type of bike is specified for it and the second "
+"will be ignored."
