@@ -30,3 +30,9 @@ Create English message catalog (also see [msgen](https://linux.die.net/man/1/msg
 ```
 podebug --rewrite=en _translations/en/ _translations/en/
 ```
+
+Use [msgcat](https://www.gnu.org/software/gettext/manual/html_node/msgcat-Invocation.html) to create one PO file.
+
+```
+msgcat _translations/en/*/*.po > _translations/en.po
+```
