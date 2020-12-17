@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/payment-portals/about-stripe.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/payment-portals/about-stripe.html+html[lang]:1-17"
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10600
 msgid "en"
 msgstr "en"
 
@@ -90,12 +90,12 @@ msgid "App tutorial"
 msgstr "App tutorial"
 
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li:1-5248
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li:1-5248"
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11156
 msgid "Payment Portals"
 msgstr "Payment Portals"
 
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5395
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li.ul.li:1-5395"
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11270
 msgid "About Stripe"
 msgstr "About Stripe"
 
@@ -120,7 +120,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6208
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li.ul.li:1-6208"
+#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6863
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6724
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6863
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6863"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6998
 msgid "Package Sets"
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10600
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.div.nav.ul.li:1-10600"
-msgid "en"
-msgstr "en"
-
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10733
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10863
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11156
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.div.nav.ol.li:1-11156"
-msgid "Payment Portals"
-msgstr "Payment Portals"
-
-#: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11270
-msgctxt "_site/en/payment-portals/about-stripe.html+html.body.div.div.nav.ol.li:1-11270"
-msgid "About Stripe"
-msgstr "About Stripe"
 
 #: _site/en/payment-portals/about-stripe.html%2Bhtml.body.div.div.div.h2:1-11408
 msgid "What is Stripe?"

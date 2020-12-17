@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/app/installation.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/app/installation.html+html[lang]:1-17"
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10552
 msgid "en"
 msgstr "en"
 
@@ -54,12 +54,12 @@ msgid "Home"
 msgstr "Home"
 
 #: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li:1-4013
-msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li:1-4013"
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ol.li:1-11075
 msgid "App"
 msgstr "App"
 
 #: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4136
-msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li.ul.li:1-4136"
+#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ol.li:1-11165
 msgid "Installation"
 msgstr "Installation"
 
@@ -120,7 +120,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6172
-msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li.ul.li:1-6172"
+#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6827
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 #: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6688
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6827
-msgctxt "_site/en/app/installation.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6827"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/app/installation.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6962
 msgid "Package Sets"
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10552
-msgctxt "_site/en/app/installation.html+html.body.div.div.nav.ul.li:1-10552"
-msgid "en"
-msgstr "en"
-
 #: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10673
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ul.li:1-10796
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ol.li:1-11075
-msgctxt "_site/en/app/installation.html+html.body.div.div.nav.ol.li:1-11075"
-msgid "App"
-msgstr "App"
-
-#: _site/en/app/installation.html%2Bhtml.body.div.div.nav.ol.li:1-11165
-msgctxt "_site/en/app/installation.html+html.body.div.div.nav.ol.li:1-11165"
-msgid "Installation"
-msgstr "Installation"
 
 #: _site/en/app/installation.html%2Bhtml.body.div.div.div.h3:1-11303
 msgid "Android"

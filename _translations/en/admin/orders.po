@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/orders.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/orders.html+html[lang]:1-17"
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10518
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li:1-5734
-msgctxt "_site/en/admin/orders.html+html.body.div.nav.ul.li:1-5734"
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11036
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,9 +119,9 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6129
-msgctxt "_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li:1-6129"
-"_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li:1-6129"
-"_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li:1-6129"
+#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11138
+#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.h1:1-11270
 msgid "Orders"
 msgstr "Orders"
 
@@ -140,11 +140,6 @@ msgstr "Getting Started"
 #: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6658
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
-msgctxt "_site/en/admin/orders.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6797"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/orders.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6932
 msgid "Package Sets"
@@ -206,11 +201,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10518
-msgctxt "_site/en/admin/orders.html+html.body.div.div.nav.ul.li:1-10518"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10635
 msgid "fr"
 msgstr "fr"
@@ -218,21 +208,6 @@ msgstr "fr"
 #: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ul.li:1-10758
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11036
-msgctxt "_site/en/admin/orders.html+html.body.div.div.nav.ol.li:1-11036"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/orders.html%2Bhtml.body.div.div.nav.ol.li:1-11138
-msgctxt "_site/en/admin/orders.html+html.body.div.div.nav.ol.li:1-11138"
-msgid "Orders"
-msgstr "Orders"
-
-#: _site/en/admin/orders.html%2Bhtml.body.div.div.div.h1:1-11270
-msgctxt "_site/en/admin/orders.html+html.body.div.div.div.h1:1-11270"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/orders.html%2Bhtml.body.div.div.div.p:1-11430
 msgid ""

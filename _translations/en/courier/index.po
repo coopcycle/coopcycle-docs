@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/courier/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/courier/index.html+html[lang]:1-17"
+#: _site/en/courier/index.html%2Bhtml.body.div.div.nav.ul.li:1-10513
 msgid "en"
 msgstr "en"
 
@@ -86,7 +86,7 @@ msgid "Courier's guide"
 msgstr "Courier's guide"
 
 #: _site/en/courier/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5055
-msgctxt "_site/en/courier/index.html+html.body.div.nav.ul.li.ul.li:1-5055"
+#: _site/en/courier/index.html%2Bhtml.body.div.div.div.ul.li:1-11751
 msgid "App tutorial"
 msgstr "App tutorial"
 
@@ -119,7 +119,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/courier/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6136
-msgctxt "_site/en/courier/index.html+html.body.div.nav.ul.li.ul.li:1-6136"
+#: _site/en/courier/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6791
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 #: _site/en/courier/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6652
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/courier/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6791
-msgctxt "_site/en/courier/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6791"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/courier/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6926
 msgid "Package Sets"
@@ -204,11 +199,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/courier/index.html%2Bhtml.body.div.div.nav.ul.li:1-10513
-msgctxt "_site/en/courier/index.html+html.body.div.div.nav.ul.li:1-10513"
-msgid "en"
-msgstr "en"
-
 #: _site/en/courier/index.html%2Bhtml.body.div.div.nav.ul.li:1-10621
 msgid "fr"
 msgstr "fr"
@@ -236,8 +226,3 @@ msgstr "Courier’s guide on the app"
 #: _site/en/courier/index.html%2Bhtml.body.div.div.div.h2:1-11700
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/courier/index.html%2Bhtml.body.div.div.div.ul.li:1-11751
-msgctxt "_site/en/courier/index.html+html.body.div.div.div.ul.li:1-11751"
-msgid "App tutorial"
-msgstr "App tutorial"

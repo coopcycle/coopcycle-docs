@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/plugins/woocommerce.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/plugins/woocommerce.html+html[lang]:1-17"
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10561
 msgid "en"
 msgstr "en"
 
@@ -98,12 +98,12 @@ msgid "About Stripe"
 msgstr "About Stripe"
 
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li:1-5507
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li:1-5507"
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ol.li:1-11099
 msgid "Plugins"
 msgstr "Plugins"
 
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5638
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li.ul.li:1-5638"
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ol.li:1-11197
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
@@ -120,7 +120,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6178
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li.ul.li:1-6178"
+#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6833
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6694
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6833
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6833"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6968
 msgid "Package Sets"
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10561
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.div.nav.ul.li:1-10561"
-msgid "en"
-msgstr "en"
-
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10685
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ul.li:1-10815
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ol.li:1-11099
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.div.nav.ol.li:1-11099"
-msgid "Plugins"
-msgstr "Plugins"
-
-#: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.nav.ol.li:1-11197
-msgctxt "_site/en/plugins/woocommerce.html+html.body.div.div.nav.ol.li:1-11197"
-msgid "WooCommerce"
-msgstr "WooCommerce"
 
 #: _site/en/plugins/woocommerce.html%2Bhtml.body.div.div.div.p:1-11334
 msgid ""

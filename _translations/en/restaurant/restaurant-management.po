@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:42+0200\n"
+"POT-Creation-Date: 2020-12-17 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/restaurant/restaurant-management.html+html[lang]:1-17"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10643
 msgid "en"
 msgstr "en"
 
@@ -34,7 +34,7 @@ msgid "Search"
 msgstr "Search"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.svg.symbol.title:1-2443
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.svg.symbol.title:1-2443"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p.img[alt]:1-15311
 msgid "Menu"
 msgstr "Menu"
 
@@ -119,9 +119,9 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6227
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-6227"
-"_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-6227"
-"_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-6227"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6882
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12053
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-17568
 msgid "Orders"
 msgstr "Orders"
 
@@ -141,11 +141,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6882
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6882"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7017
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -163,7 +158,7 @@ msgid "Users"
 msgstr "Users"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li:1-7578
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li:1-7578"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ol.li:1-11213
 msgid "Restaurant's guide"
 msgstr "Restaurant's guide"
 
@@ -172,8 +167,8 @@ msgid "Connecting Stripe account"
 msgstr "Connecting Stripe account"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7875
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-7875"
-"_site/en/restaurant/restaurant-management.html+html.body.div.nav.ul.li.ul.li:1-7875"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ol.li:1-11325
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h1:1-11472
 msgid "Managing a restaurant"
 msgstr "Managing a restaurant"
 
@@ -209,11 +204,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10643
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.nav.ul.li:1-10643"
-msgid "en"
-msgstr "en"
-
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10780
 msgid "fr"
 msgstr "fr"
@@ -221,21 +211,6 @@ msgstr "fr"
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ul.li:1-10910
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ol.li:1-11213
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.nav.ol.li:1-11213"
-msgid "Restaurant's guide"
-msgstr "Restaurant's guide"
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.nav.ol.li:1-11325
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.nav.ol.li:1-11325"
-msgid "Managing a restaurant"
-msgstr "Managing a restaurant"
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h1:1-11472
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h1:1-11472"
-msgid "Managing a restaurant"
-msgstr "Managing a restaurant"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-11677
 msgid ""
@@ -250,7 +225,7 @@ msgid "Restaurant"
 msgstr "Restaurant"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-11909
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.ul.li:1-11909"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-12177
 msgid "Products"
 msgstr "Products"
 
@@ -259,23 +234,13 @@ msgid "Options"
 msgstr "Options"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12017
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.ul.li:1-12017"
+#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-14940
 msgid "Menus"
 msgstr "Menus"
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12053
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.ul.li:1-12053"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.ul.li:1-12091
 msgid "Schedule"
 msgstr "Schedule"
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-12177
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h3:1-12177"
-msgid "Products"
-msgstr "Products"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-12343
 msgid ""
@@ -413,11 +378,6 @@ msgstr ""
 "you will find the supplements that you previously created. You only have to "
 "tick the one or those of your choice."
 
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-14940
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h3:1-14940"
-msgid "Menus"
-msgstr "Menus"
-
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-15097
 msgid ""
 "Each restaurateur can independently manage their card from their back "
@@ -427,11 +387,6 @@ msgstr ""
 "Each restaurateur can independently manage their card from their back "
 "office. Restaurants have the possibility of creating several menus and "
 "activating the one that corresponds to the need of the moment."
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p.img[alt]:1-15311
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.p.img[alt]:1-15311"
-msgid "Menu"
-msgstr "Menu"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h4:1-15389
 msgid "Creating a menu"
@@ -522,11 +477,6 @@ msgid ""
 msgstr ""
 "Do not forget to click on the “Save changes” button at the bottom of the "
 "page."
-
-#: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.h3:1-17568
-msgctxt "_site/en/restaurant/restaurant-management.html+html.body.div.div.div.h3:1-17568"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/restaurant/restaurant-management.html%2Bhtml.body.div.div.div.p:1-17728
 msgid ""

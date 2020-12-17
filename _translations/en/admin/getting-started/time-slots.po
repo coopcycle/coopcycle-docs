@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/getting-started/time-slots.html+html[lang]:1-17"
+#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ul.li:1-10616
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li:1-5806
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.nav.ul.li:1-5806"
+#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ol.li:1-11178
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,7 +119,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6201
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.nav.ul.li.ul.li:1-6201"
+#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6862
 msgid "Orders"
 msgstr "Orders"
 
@@ -132,18 +132,13 @@ msgid "Stripe payments"
 msgstr "Stripe payments"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6570
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.nav.ul.li.ul.li:1-6570"
+#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ol.li:1-11280
 msgid "Getting Started"
 msgstr "Getting Started"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6723
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6862
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6862"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6997
 msgid "Package Sets"
@@ -154,8 +149,8 @@ msgid "Pricing"
 msgstr "Pricing"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7280
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7280"
-"_site/en/admin/getting-started/time-slots.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7280"
+#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ol.li:1-11400
+#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.div.p.img[alt]:1-12475
 msgid "Time Slots"
 msgstr "Time Slots"
 
@@ -207,11 +202,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ul.li:1-10616
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.div.nav.ul.li:1-10616"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ul.li:1-10753
 msgid "fr"
 msgstr "fr"
@@ -219,21 +209,6 @@ msgstr "fr"
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ul.li:1-10883
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ol.li:1-11178
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.div.nav.ol.li:1-11178"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ol.li:1-11280
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.div.nav.ol.li:1-11280"
-msgid "Getting Started"
-msgstr "Getting Started"
-
-#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.nav.ol.li:1-11400
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.div.nav.ol.li:1-11400"
-msgid "Time Slots"
-msgstr "Time Slots"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.div.p:1-11536
 msgid ""
@@ -278,11 +253,6 @@ msgstr ""
 "Depending on the way ou are working, you can either create a unique "
 "<strong>Time Slot</strong> for everybody, or create a custom <strong>Time "
 "Slot</strong> per customer."
-
-#: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.div.p.img[alt]:1-12475
-msgctxt "_site/en/admin/getting-started/time-slots.html+html.body.div.div.div.p.img[alt]:1-12475"
-msgid "Time Slots"
-msgstr "Time Slots"
 
 #: _site/en/admin/getting-started/time-slots.html%2Bhtml.body.div.div.div.h3:1-12543
 msgid "Interval"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/developer/api.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/developer/api.html+html[lang]:1-17"
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10573
 msgid "en"
 msgstr "en"
 
@@ -70,13 +70,13 @@ msgid "Order management"
 msgstr "Order management"
 
 #: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li:1-4558
-msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li:1-4558"
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ol.li:1-11083
 msgid "Developer"
 msgstr "Developer"
 
 #: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4693
-msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li:1-4693"
-"_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li:1-4693"
+#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ol.li:1-11185
+#: _site/en/developer/api.html%2Bhtml.body.div.div.div.h1:1-11334
 msgid "Using the CoopCycle API"
 msgstr "Using the CoopCycle API"
 
@@ -121,7 +121,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6196
-msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li:1-6196"
+#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6851
 msgid "Orders"
 msgstr "Orders"
 
@@ -140,11 +140,6 @@ msgstr "Getting Started"
 #: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6712
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6851
-msgctxt "_site/en/developer/api.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6851"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/developer/api.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6986
 msgid "Package Sets"
@@ -206,11 +201,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10573
-msgctxt "_site/en/developer/api.html+html.body.div.div.nav.ul.li:1-10573"
-msgid "en"
-msgstr "en"
-
 #: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10691
 msgid "fr"
 msgstr "fr"
@@ -218,21 +208,6 @@ msgstr "fr"
 #: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ul.li:1-10805
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ol.li:1-11083
-msgctxt "_site/en/developer/api.html+html.body.div.div.nav.ol.li:1-11083"
-msgid "Developer"
-msgstr "Developer"
-
-#: _site/en/developer/api.html%2Bhtml.body.div.div.nav.ol.li:1-11185
-msgctxt "_site/en/developer/api.html+html.body.div.div.nav.ol.li:1-11185"
-msgid "Using the CoopCycle API"
-msgstr "Using the CoopCycle API"
-
-#: _site/en/developer/api.html%2Bhtml.body.div.div.div.h1:1-11334
-msgctxt "_site/en/developer/api.html+html.body.div.div.div.h1:1-11334"
-msgid "Using the CoopCycle API"
-msgstr "Using the CoopCycle API"
 
 #: _site/en/developer/api.html%2Bhtml.body.div.div.div.p:1-11545
 msgid "Open API / Swagger documentation"

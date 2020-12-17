@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/restaurant/connecting-stripe.html+html[lang]:1-17"
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10639
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6227
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li.ul.li:1-6227"
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6882
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6882
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6882"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7017
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -160,12 +155,12 @@ msgid "Users"
 msgstr "Users"
 
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li:1-7578
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li:1-7578"
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11195
 msgid "Restaurant's guide"
 msgstr "Restaurant's guide"
 
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7723
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.nav.ul.li.ul.li:1-7723"
+#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11307
 msgid "Connecting Stripe account"
 msgstr "Connecting Stripe account"
 
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10639
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.div.nav.ul.li:1-10639"
-msgid "en"
-msgstr "en"
-
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10772
 msgid "fr"
 msgstr "fr"
@@ -217,13 +207,3 @@ msgstr "fr"
 #: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ul.li:1-10902
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11195
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.div.nav.ol.li:1-11195"
-msgid "Restaurant's guide"
-msgstr "Restaurant's guide"
-
-#: _site/en/restaurant/connecting-stripe.html%2Bhtml.body.div.div.nav.ol.li:1-11307
-msgctxt "_site/en/restaurant/connecting-stripe.html+html.body.div.div.nav.ol.li:1-11307"
-msgid "Connecting Stripe account"
-msgstr "Connecting Stripe account"

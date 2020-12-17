@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:45+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/tutorials/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/tutorials/index.html+html[lang]:1-17"
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.nav.ul.li:1-10503
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6110
-msgctxt "_site/en/tutorials/index.html+html.body.div.nav.ul.li.ul.li:1-6110"
+#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6765
 msgid "Orders"
 msgstr "Orders"
 
@@ -137,11 +137,6 @@ msgstr "Getting Started"
 #: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6626
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6765
-msgctxt "_site/en/tutorials/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6765"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6900
 msgid "Package Sets"
@@ -188,7 +183,7 @@ msgid "Tutorials"
 msgstr "Tutorials"
 
 #: _site/en/tutorials/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8513
-msgctxt "_site/en/tutorials/index.html+html.body.div.nav.ul.li.ul.li:1-8513"
+#: _site/en/tutorials/index.html%2Bhtml.body.div.div.div.ul.li:1-11014
 msgid "Create a zone"
 msgstr "Create a zone"
 
@@ -204,11 +199,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/tutorials/index.html%2Bhtml.body.div.div.nav.ul.li:1-10503
-msgctxt "_site/en/tutorials/index.html+html.body.div.div.nav.ul.li:1-10503"
-msgid "en"
-msgstr "en"
-
 #: _site/en/tutorials/index.html%2Bhtml.body.div.div.nav.ul.li:1-10613
 msgid "fr"
 msgstr "fr"
@@ -220,8 +210,3 @@ msgstr "pt-BR"
 #: _site/en/tutorials/index.html%2Bhtml.body.div.div.div.h2:1-10963
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/tutorials/index.html%2Bhtml.body.div.div.div.ul.li:1-11014
-msgctxt "_site/en/tutorials/index.html+html.body.div.div.div.ul.li:1-11014"
-msgid "Create a zone"
-msgstr "Create a zone"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/key-concepts.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/key-concepts.html+html[lang]:1-17"
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10560
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li:1-5770
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li:1-5770"
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ol.li:1-11096
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -115,14 +115,14 @@ msgid "Configuration"
 msgstr "Configuration"
 
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6036
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6036"
-"_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6036"
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ol.li:1-11198
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h1:1-11336
 msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6178
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6178"
-"_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li:1-6178"
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6833
+#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h2:1-12886
 msgid "Orders"
 msgstr "Orders"
 
@@ -141,11 +141,6 @@ msgstr "Getting Started"
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6694
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6833
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6833"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6968
 msgid "Package Sets"
@@ -207,11 +202,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10560
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.nav.ul.li:1-10560"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10683
 msgid "fr"
 msgstr "fr"
@@ -219,21 +209,6 @@ msgstr "fr"
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ul.li:1-10810
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ol.li:1-11096
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.nav.ol.li:1-11096"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.nav.ol.li:1-11198
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.nav.ol.li:1-11198"
-msgid "Key concepts"
-msgstr "Key concepts"
-
-#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h1:1-11336
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.div.h1:1-11336"
-msgid "Key concepts"
-msgstr "Key concepts"
 
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h2:1-11514
 msgid "Tasks and Orders"
@@ -316,11 +291,6 @@ msgid ""
 msgstr ""
 "History The courier must pick up merchandise at an address and bring it to "
 "another address."
-
-#: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.h2:1-12886
-msgctxt "_site/en/admin/key-concepts.html+html.body.div.div.div.h2:1-12886"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/key-concepts.html%2Bhtml.body.div.div.div.p:1-13046
 msgid ""

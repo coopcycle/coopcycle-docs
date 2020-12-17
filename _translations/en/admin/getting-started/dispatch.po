@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/getting-started/dispatch.html+html[lang]:1-17"
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10602
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li:1-5794
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li:1-5794"
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11168
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,7 +119,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6189
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li:1-6189"
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6863
 msgid "Orders"
 msgstr "Orders"
 
@@ -132,20 +132,15 @@ msgid "Stripe payments"
 msgstr "Stripe payments"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6558
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li:1-6558"
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11270
 msgid "Getting Started"
 msgstr "Getting Started"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6711
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6711"
-"_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6711"
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11390
+#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h1:1-11524
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6863
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6863"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6998
 msgid "Package Sets"
@@ -207,11 +202,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10602
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ul.li:1-10602"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10737
 msgid "fr"
 msgstr "fr"
@@ -219,26 +209,6 @@ msgstr "fr"
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ul.li:1-10874
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11168
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ol.li:1-11168"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11270
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ol.li:1-11270"
-msgid "Getting Started"
-msgstr "Getting Started"
-
-#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.nav.ol.li:1-11390
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.nav.ol.li:1-11390"
-msgid "Dispatch"
-msgstr "Dispatch"
-
-#: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.h1:1-11524
-msgctxt "_site/en/admin/getting-started/dispatch.html+html.body.div.div.div.h1:1-11524"
-msgid "Dispatch"
-msgstr "Dispatch"
 
 #: _site/en/admin/getting-started/dispatch.html%2Bhtml.body.div.div.div.p:1-11690
 msgid ""

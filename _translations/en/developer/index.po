@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/developer/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/developer/index.html+html[lang]:1-17"
+#: _site/en/developer/index.html%2Bhtml.body.div.div.nav.ul.li:1-10503
 msgid "en"
 msgstr "en"
 
@@ -74,12 +74,12 @@ msgid "Developer"
 msgstr "Developer"
 
 #: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4634
-msgctxt "_site/en/developer/index.html+html.body.div.nav.ul.li.ul.li:1-4634"
+#: _site/en/developer/index.html%2Bhtml.body.div.div.div.ul.li:1-11284
 msgid "Using the CoopCycle API"
 msgstr "Using the CoopCycle API"
 
 #: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4769
-msgctxt "_site/en/developer/index.html+html.body.div.nav.ul.li.ul.li:1-4769"
+#: _site/en/developer/index.html%2Bhtml.body.div.div.div.ul.li:1-11377
 msgid "Setting up Stripe"
 msgstr "Setting up Stripe"
 
@@ -120,7 +120,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6124
-msgctxt "_site/en/developer/index.html+html.body.div.nav.ul.li.ul.li:1-6124"
+#: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6779
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 #: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6640
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6779
-msgctxt "_site/en/developer/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6779"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/developer/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6914
 msgid "Package Sets"
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/developer/index.html%2Bhtml.body.div.div.nav.ul.li:1-10503
-msgctxt "_site/en/developer/index.html+html.body.div.div.nav.ul.li:1-10503"
-msgid "en"
-msgstr "en"
-
 #: _site/en/developer/index.html%2Bhtml.body.div.div.nav.ul.li:1-10613
 msgid "fr"
 msgstr "fr"
@@ -229,13 +219,3 @@ msgstr "Welcome to the developer’s guide for CoopCycle platform."
 #: _site/en/developer/index.html%2Bhtml.body.div.div.div.h2:1-11233
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/developer/index.html%2Bhtml.body.div.div.div.ul.li:1-11284
-msgctxt "_site/en/developer/index.html+html.body.div.div.div.ul.li:1-11284"
-msgid "Using the CoopCycle API"
-msgstr "Using the CoopCycle API"
-
-#: _site/en/developer/index.html%2Bhtml.body.div.div.div.ul.li:1-11377
-msgctxt "_site/en/developer/index.html+html.body.div.div.div.ul.li:1-11377"
-msgid "Setting up Stripe"
-msgstr "Setting up Stripe"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/users/admin-account.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/users/admin-account.html+html[lang]:1-17"
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10584
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li:1-5794
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li:1-5794"
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11140
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,7 +119,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6189
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li.ul.li:1-6189"
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6844
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6844
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6844"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6979
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -157,7 +152,7 @@ msgid "Time Slots"
 msgstr "Time Slots"
 
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7415
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.nav.ul.li.ul.li:1-7415"
+#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11242
 msgid "Users"
 msgstr "Users"
 
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10584
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.div.nav.ul.li:1-10584"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10714
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ul.li:1-10844
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11140
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.div.nav.ol.li:1-11140"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11242
-msgctxt "_site/en/admin/users/admin-account.html+html.body.div.div.nav.ol.li:1-11242"
-msgid "Users"
-msgstr "Users"
 
 #: _site/en/admin/users/admin-account.html%2Bhtml.body.div.div.nav.ol.li:1-11346
 msgid "Admin account"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/getting-started/index.html+html[lang]:1-17"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ul.li:1-10575
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li:1-5776
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li:1-5776"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ol.li:1-11120
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,8 +119,8 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6171
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li:1-6171"
-"_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li:1-6171"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6839
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11701
 msgid "Orders"
 msgstr "Orders"
 
@@ -133,33 +133,28 @@ msgid "Stripe payments"
 msgstr "Stripe payments"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6540
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li:1-6540"
-"_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li:1-6540"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ol.li:1-11222
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.h1:1-11363
 msgid "Getting Started"
 msgstr "Getting Started"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6700
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6700"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11606
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6839
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6839"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6974
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6974"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11792
 msgid "Package Sets"
 msgstr "Package Sets"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7120
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7120"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11894
 msgid "Pricing"
 msgstr "Pricing"
 
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7257
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7257"
+#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11987
 msgid "Time Slots"
 msgstr "Time Slots"
 
@@ -211,11 +206,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ul.li:1-10575
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.nav.ul.li:1-10575"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ul.li:1-10697
 msgid "fr"
 msgstr "fr"
@@ -224,46 +214,6 @@ msgstr "fr"
 msgid "pt-BR"
 msgstr "pt-BR"
 
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ol.li:1-11120
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.nav.ol.li:1-11120"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.nav.ol.li:1-11222
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.nav.ol.li:1-11222"
-msgid "Getting Started"
-msgstr "Getting Started"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.h1:1-11363
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.div.h1:1-11363"
-msgid "Getting Started"
-msgstr "Getting Started"
-
 #: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.h2:1-11555
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11606
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.div.ul.li:1-11606"
-msgid "Dispatch"
-msgstr "Dispatch"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11701
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.div.ul.li:1-11701"
-msgid "Orders"
-msgstr "Orders"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11792
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.div.ul.li:1-11792"
-msgid "Package Sets"
-msgstr "Package Sets"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11894
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.div.ul.li:1-11894"
-msgid "Pricing"
-msgstr "Pricing"
-
-#: _site/en/admin/getting-started/index.html%2Bhtml.body.div.div.div.ul.li:1-11987
-msgctxt "_site/en/admin/getting-started/index.html+html.body.div.div.div.ul.li:1-11987"
-msgid "Time Slots"
-msgstr "Time Slots"

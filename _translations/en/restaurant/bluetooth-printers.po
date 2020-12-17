@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html[lang]:1-17"
+#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ul.li:1-10658
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6245
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.nav.ul.li.ul.li:1-6245"
+#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6900
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6900
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6900"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7035
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -160,7 +155,7 @@ msgid "Users"
 msgstr "Users"
 
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.nav.ul.li:1-7596
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.nav.ul.li:1-7596"
+#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ol.li:1-11223
 msgid "Restaurant's guide"
 msgstr "Restaurant's guide"
 
@@ -177,7 +172,7 @@ msgid "Create a Restaurant"
 msgstr "Create a Restaurant"
 
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8191
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.nav.ul.li.ul.li:1-8191"
+#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ol.li:1-11335
 msgid "Connecting a Bluetooth printer"
 msgstr "Connecting a Bluetooth printer"
 
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ul.li:1-10658
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.div.nav.ul.li:1-10658"
-msgid "en"
-msgstr "en"
-
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ul.li:1-10792
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ul.li:1-10924
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ol.li:1-11223
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.div.nav.ol.li:1-11223"
-msgid "Restaurant's guide"
-msgstr "Restaurant's guide"
-
-#: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.nav.ol.li:1-11335
-msgctxt "_site/en/restaurant/bluetooth-printers.html+html.body.div.div.nav.ol.li:1-11335"
-msgid "Connecting a Bluetooth printer"
-msgstr "Connecting a Bluetooth printer"
 
 #: _site/en/restaurant/bluetooth-printers.html%2Bhtml.body.div.div.div.h3:1-11491
 msgid "Debugging Bluetooth devices"

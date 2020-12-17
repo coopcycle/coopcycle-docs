@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html[lang]:1-17"
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ul.li:1-10600
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6200
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.nav.ul.li.ul.li:1-6200"
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6855
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6855
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6855"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6990
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -156,7 +151,7 @@ msgid "Time Slots"
 msgstr "Time Slots"
 
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7426
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.nav.ul.li.ul.li:1-7426"
+#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11197
 msgid "Users"
 msgstr "Users"
 
@@ -204,11 +199,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ul.li:1-10600
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ul.li:1-10600"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ul.li:1-10755
 msgid "fr"
 msgstr "fr"
@@ -217,18 +207,8 @@ msgstr "fr"
 msgid "pt-BR"
 msgstr "pt-BR"
 
-#: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11197
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ol.li:1-11197"
-msgid "Users"
-msgstr "Users"
-
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11260
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ol.li:1-11260"
-msgid "Restaurant account"
-msgstr "Restaurant account"
-
 #: _site/en/admin/users/restaurant-account/index.html%2Bhtml.body.div.div.nav.ol.li:1-11336
-msgctxt "_site/en/admin/users/restaurant-account/index.html+html.body.div.div.nav.ol.li:1-11336"
 msgid "Restaurant account"
 msgstr "Restaurant account"
 

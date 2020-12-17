@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/stores.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/stores.html+html[lang]:1-17"
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10518
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li:1-5734
-msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li:1-5734"
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ol.li:1-11033
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,12 +119,12 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6129
-msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li:1-6129"
+#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
 msgid "Orders"
 msgstr "Orders"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6246
-msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li:1-6246"
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ol.li:1-11135
 msgid "Stores"
 msgstr "Stores"
 
@@ -140,17 +140,12 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6797
-msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6797"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6932
 msgid "Package Sets"
 msgstr "Package Sets"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7078
-msgctxt "_site/en/admin/stores.html+html.body.div.nav.ul.li.ul.li.ul.li:1-7078"
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.h3:1-12053
 msgid "Pricing"
 msgstr "Pricing"
 
@@ -206,11 +201,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10518
-msgctxt "_site/en/admin/stores.html+html.body.div.div.nav.ul.li:1-10518"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10635
 msgid "fr"
 msgstr "fr"
@@ -218,16 +208,6 @@ msgstr "fr"
 #: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ul.li:1-10757
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ol.li:1-11033
-msgctxt "_site/en/admin/stores.html+html.body.div.div.nav.ol.li:1-11033"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/stores.html%2Bhtml.body.div.div.nav.ol.li:1-11135
-msgctxt "_site/en/admin/stores.html+html.body.div.div.nav.ol.li:1-11135"
-msgid "Stores"
-msgstr "Stores"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-11267
 msgid ""
@@ -252,23 +232,13 @@ msgstr ""
 "way land directly in the dispatch."
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.div.div.h2:1-11712
-msgctxt "_site/en/admin/stores.html+html.body.div.div.div.h2:1-11712"
+#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p.img[alt]:1-11977
 msgid "Store Settings"
 msgstr "Store Settings"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-11896
 msgid "The settings will change the behavior of the form to order a delivery."
 msgstr "The settings will change the behavior of the form to order a delivery."
-
-#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p.img[alt]:1-11977
-msgctxt "_site/en/admin/stores.html+html.body.div.div.div.p.img[alt]:1-11977"
-msgid "Store Settings"
-msgstr "Store Settings"
-
-#: _site/en/admin/stores.html%2Bhtml.body.div.div.div.h3:1-12053
-msgctxt "_site/en/admin/stores.html+html.body.div.div.div.h3:1-12053"
-msgid "Pricing"
-msgstr "Pricing"
 
 #: _site/en/admin/stores.html%2Bhtml.body.div.div.div.p:1-12216
 msgid ""

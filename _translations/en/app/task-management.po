@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/app/task-management.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/app/task-management.html+html[lang]:1-17"
+#: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ul.li:1-10573
 msgid "en"
 msgstr "en"
 
@@ -54,7 +54,7 @@ msgid "Home"
 msgstr "Home"
 
 #: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li:1-4031
-msgctxt "_site/en/app/task-management.html+html.body.div.nav.ul.li:1-4031"
+#: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ol.li:1-11116
 msgid "App"
 msgstr "App"
 
@@ -63,7 +63,7 @@ msgid "Installation"
 msgstr "Installation"
 
 #: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4281
-msgctxt "_site/en/app/task-management.html+html.body.div.nav.ul.li.ul.li:1-4281"
+#: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ol.li:1-11206
 msgid "Task management"
 msgstr "Task management"
 
@@ -120,7 +120,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6190
-msgctxt "_site/en/app/task-management.html+html.body.div.nav.ul.li.ul.li:1-6190"
+#: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6845
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 #: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6706
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6845
-msgctxt "_site/en/app/task-management.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6845"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/app/task-management.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6980
 msgid "Package Sets"
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ul.li:1-10573
-msgctxt "_site/en/app/task-management.html+html.body.div.div.nav.ul.li:1-10573"
-msgid "en"
-msgstr "en"
-
 #: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ul.li:1-10697
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ul.li:1-10826
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ol.li:1-11116
-msgctxt "_site/en/app/task-management.html+html.body.div.div.nav.ol.li:1-11116"
-msgid "App"
-msgstr "App"
-
-#: _site/en/app/task-management.html%2Bhtml.body.div.div.nav.ol.li:1-11206
-msgctxt "_site/en/app/task-management.html+html.body.div.div.nav.ol.li:1-11206"
-msgid "Task management"
-msgstr "Task management"
 
 #: _site/en/app/task-management.html%2Bhtml.body.div.div.div.h2:1-11347
 msgid "Completing tasks"

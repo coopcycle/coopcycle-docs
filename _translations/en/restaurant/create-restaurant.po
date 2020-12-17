@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/restaurant/create-restaurant.html+html[lang]:1-17"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10621
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6209
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li.ul.li:1-6209"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6864
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6864
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6864"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6999
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -160,7 +155,7 @@ msgid "Users"
 msgstr "Users"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li:1-7560
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li:1-7560"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11179
 msgid "Restaurant's guide"
 msgstr "Restaurant's guide"
 
@@ -173,7 +168,7 @@ msgid "Managing a restaurant"
 msgstr "Managing a restaurant"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8009
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.nav.ul.li.ul.li:1-8009"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11291
 msgid "Create a Restaurant"
 msgstr "Create a Restaurant"
 
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10621
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.nav.ul.li:1-10621"
-msgid "en"
-msgstr "en"
-
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10754
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10884
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11179
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.nav.ol.li:1-11179"
-msgid "Restaurant's guide"
-msgstr "Restaurant's guide"
-
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11291
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.nav.ol.li:1-11291"
-msgid "Create a Restaurant"
-msgstr "Create a Restaurant"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.blockquote.p:1-11449
 msgid ""
@@ -273,29 +253,24 @@ msgstr ""
 "at a later date."
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12494
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12494"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-12674
 msgid "General"
 msgstr "General"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12534
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12534"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-13299
 msgid "Options"
 msgstr "Options"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12574
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12574"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-13745
 msgid "Fulfillment"
 msgstr "Fulfillment"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-12622
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-12622"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-15737
 msgid "Settlement"
 msgstr "Settlement"
-
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-12674
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-12674"
-msgid "General"
-msgstr "General"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-12837
 msgid ""
@@ -345,11 +320,6 @@ msgstr "Telephone number"
 msgid "Business information"
 msgstr "Business information"
 
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-13299
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-13299"
-msgid "Options"
-msgstr "Options"
-
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-13462
 msgid "4 options have to be decided on this tab :"
 msgstr "4 options have to be decided on this tab :"
@@ -371,11 +341,6 @@ msgstr "Restaurant also accepts quotes (e.g.:catering)"
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-13701
 msgid "Enable Deposit-Refund system"
 msgstr "Enable Deposit-Refund system"
-
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-13745
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-13745"
-msgid "Fulfillment"
-msgstr "Fulfillment"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h4:1-13920
 msgid "Schedules"
@@ -471,11 +436,6 @@ msgstr ""
 msgid "Define, if needed, a number of shipping choices"
 msgstr "Define, if needed, a number of shipping choices"
 
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.h3:1-15737
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.h3:1-15737"
-msgid "Settlement"
-msgstr "Settlement"
-
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.p:1-15909
 msgid ""
 "You will find on this page <strong>the terms of the contract</strong> "
@@ -547,7 +507,7 @@ msgid "Email"
 msgstr "Email"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-17603
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-17603"
+#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18500
 msgid "Username"
 msgstr "Username"
 
@@ -596,11 +556,6 @@ msgstr ""
 "=\"language-plaintext highlighter-rouge\">Invite an user</code> enables "
 "administrators to create an account on behalf of an user. It has to fill "
 "following fields :"
-
-#: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18500
-msgctxt "_site/en/restaurant/create-restaurant.html+html.body.div.div.div.ul.li:1-18500"
-msgid "Username"
-msgstr "Username"
 
 #: _site/en/restaurant/create-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-18518
 msgid "Email (of the invited person)"

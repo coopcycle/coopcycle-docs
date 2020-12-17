@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/plugins/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/plugins/index.html+html[lang]:1-17"
+#: _site/en/plugins/index.html%2Bhtml.body.div.div.nav.ul.li:1-10489
 msgid "en"
 msgstr "en"
 
@@ -102,7 +102,7 @@ msgid "Plugins"
 msgstr "Plugins"
 
 #: _site/en/plugins/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5585
-msgctxt "_site/en/plugins/index.html+html.body.div.nav.ul.li.ul.li:1-5585"
+#: _site/en/plugins/index.html%2Bhtml.body.div.div.div.ul.li:1-11022
 msgid "WooCommerce"
 msgstr "WooCommerce"
 
@@ -119,7 +119,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/plugins/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6112
-msgctxt "_site/en/plugins/index.html+html.body.div.nav.ul.li.ul.li:1-6112"
+#: _site/en/plugins/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6767
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 #: _site/en/plugins/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6628
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/plugins/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6767
-msgctxt "_site/en/plugins/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6767"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/plugins/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6902
 msgid "Package Sets"
@@ -204,11 +199,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/plugins/index.html%2Bhtml.body.div.div.nav.ul.li:1-10489
-msgctxt "_site/en/plugins/index.html+html.body.div.div.nav.ul.li:1-10489"
-msgid "en"
-msgstr "en"
-
 #: _site/en/plugins/index.html%2Bhtml.body.div.div.nav.ul.li:1-10597
 msgid "fr"
 msgstr "fr"
@@ -220,8 +210,3 @@ msgstr "pt-BR"
 #: _site/en/plugins/index.html%2Bhtml.body.div.div.div.h2:1-10971
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/plugins/index.html%2Bhtml.body.div.div.div.ul.li:1-11022
-msgctxt "_site/en/plugins/index.html+html.body.div.div.div.ul.li:1-11022"
-msgid "WooCommerce"
-msgstr "WooCommerce"

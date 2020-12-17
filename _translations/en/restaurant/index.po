@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:42+0200\n"
+"POT-Creation-Date: 2020-12-17 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/restaurant/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/restaurant/index.html+html[lang]:1-17"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.div.nav.ul.li:1-10534
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6140
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li:1-6140"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6795
 msgid "Orders"
 msgstr "Orders"
 
@@ -137,11 +137,6 @@ msgstr "Getting Started"
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6656
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6795
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6795"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6930
 msgid "Package Sets"
@@ -164,27 +159,27 @@ msgid "Restaurant's guide"
 msgstr "Restaurant's guide"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7643
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li:1-7643"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-11743
 msgid "Connecting Stripe account"
 msgstr "Connecting Stripe account"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7795
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li:1-7795"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-11853
 msgid "Managing a restaurant"
 msgstr "Managing a restaurant"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7947
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li:1-7947"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-11963
 msgid "Create a Restaurant"
 msgstr "Create a Restaurant"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8093
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li:1-8093"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-12067
 msgid "Connecting a Bluetooth printer"
 msgstr "Connecting a Bluetooth printer"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8251
-msgctxt "_site/en/restaurant/index.html+html.body.div.nav.ul.li.ul.li:1-8251"
+#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-12183
 msgid "Restaurant information"
 msgstr "Restaurant information"
 
@@ -207,11 +202,6 @@ msgstr "contact@coopcycle.org"
 #: _site/en/restaurant/index.html%2Bhtml.body.div.div:1-10264
 msgid "Edit this page"
 msgstr "Edit this page"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.div.nav.ul.li:1-10534
-msgctxt "_site/en/restaurant/index.html+html.body.div.div.nav.ul.li:1-10534"
-msgid "en"
-msgstr "en"
 
 #: _site/en/restaurant/index.html%2Bhtml.body.div.div.nav.ul.li:1-10645
 msgid "fr"
@@ -236,28 +226,3 @@ msgstr "Restaurant’s guide on the app"
 #: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.h2:1-11692
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-11743
-msgctxt "_site/en/restaurant/index.html+html.body.div.div.div.ul.li:1-11743"
-msgid "Connecting Stripe account"
-msgstr "Connecting Stripe account"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-11853
-msgctxt "_site/en/restaurant/index.html+html.body.div.div.div.ul.li:1-11853"
-msgid "Managing a restaurant"
-msgstr "Managing a restaurant"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-11963
-msgctxt "_site/en/restaurant/index.html+html.body.div.div.div.ul.li:1-11963"
-msgid "Create a Restaurant"
-msgstr "Create a Restaurant"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-12067
-msgctxt "_site/en/restaurant/index.html+html.body.div.div.div.ul.li:1-12067"
-msgid "Connecting a Bluetooth printer"
-msgstr "Connecting a Bluetooth printer"
-
-#: _site/en/restaurant/index.html%2Bhtml.body.div.div.div.ul.li:1-12183
-msgctxt "_site/en/restaurant/index.html+html.body.div.div.div.ul.li:1-12183"
-msgid "Restaurant information"
-msgstr "Restaurant information"

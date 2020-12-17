@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:51+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html[lang]:1-17"
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10695
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6281
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.nav.ul.li.ul.li:1-6281"
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6936
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6936
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6936"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7071
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -156,7 +151,7 @@ msgid "Time Slots"
 msgstr "Time Slots"
 
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7507
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.nav.ul.li.ul.li:1-7507"
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11292
 msgid "Users"
 msgstr "Users"
 
@@ -204,11 +199,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10695
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.nav.ul.li:1-10695"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10850
 msgid "fr"
 msgstr "fr"
@@ -216,11 +206,6 @@ msgstr "fr"
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ul.li:1-10980
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11292
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.nav.ol.li:1-11292"
-msgid "Users"
-msgstr "Users"
 
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.nav.ol.li:1-11355
 msgid "Restaurant account"
@@ -373,15 +358,10 @@ msgstr ""
 "the restaurant."
 
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.span.img[alt]:1-14222
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
-"_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
-"_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
-"_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.span.img[alt]:1-14222"
-msgid "Stripe"
-msgstr "Stripe"
-
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14299
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.img[alt]:1-14299"
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14602
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14792
+#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p.img[alt]:1-15953
 msgid "Stripe"
 msgstr "Stripe"
 
@@ -395,11 +375,6 @@ msgstr ""
 "Account” section, click on the “Connect with Stripe” button. The process "
 "must be repeated for dev operation and live operation."
 
-#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14602
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.img[alt]:1-14602"
-msgid "Stripe"
-msgstr "Stripe"
-
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li:1-14683
 msgid ""
 "A Stripe page opens. In the “Switch account” dropdown select the "
@@ -407,11 +382,6 @@ msgid ""
 msgstr ""
 "A Stripe page opens. In the “Switch account” dropdown select the "
 "corresponding restaurant."
-
-#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.p.img[alt]:1-14792
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.p.img[alt]:1-14792"
-msgid "Stripe"
-msgstr "Stripe"
 
 #: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p:1-14878
 msgid ""
@@ -466,8 +436,3 @@ msgid ""
 msgstr ""
 "Check that “Payments” and “Payouts” are green - in case of problems contact "
 "<a href=\"mailto:dev@coopcycle.org\">dev@coopcycle.org</a>"
-
-#: _site/en/admin/users/restaurant-account/creating-restaurant.html%2Bhtml.body.div.div.div.ul.li.p.img[alt]:1-15953
-msgctxt "_site/en/admin/users/restaurant-account/creating-restaurant.html+html.body.div.div.div.ul.li.p.img[alt]:1-15953"
-msgid "Stripe"
-msgstr "Stripe"

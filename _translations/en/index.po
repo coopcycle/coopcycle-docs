@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:42+0200\n"
+"POT-Creation-Date: 2020-12-17 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/index.html+html[lang]:1-17"
+#: _site/en/index.html%2Bhtml.body.div.div.nav.ul.li:1-10448
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6079
-msgctxt "_site/en/index.html+html.body.div.nav.ul.li.ul.li:1-6079"
+#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6734
 msgid "Orders"
 msgstr "Orders"
 
@@ -137,11 +137,6 @@ msgstr "Getting Started"
 #: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6595
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6734
-msgctxt "_site/en/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6734"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6869
 msgid "Package Sets"
@@ -202,11 +197,6 @@ msgstr "contact@coopcycle.org"
 #: _site/en/index.html%2Bhtml.body.div.div:1-10189
 msgid "Edit this page"
 msgstr "Edit this page"
-
-#: _site/en/index.html%2Bhtml.body.div.div.nav.ul.li:1-10448
-msgctxt "_site/en/index.html+html.body.div.div.nav.ul.li:1-10448"
-msgid "en"
-msgstr "en"
 
 #: _site/en/index.html%2Bhtml.body.div.div.nav.ul.li:1-10548
 msgid "fr"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/index.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/index.html+html[lang]:1-17"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.nav.ul.li:1-10499
 msgid "en"
 msgstr "en"
 
@@ -110,44 +110,39 @@ msgid "Admin's guide"
 msgstr "Admin's guide"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5864
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-5864"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13325
 msgid "Configuration"
 msgstr "Configuration"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5995
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-5995"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13414
 msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6124
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6124"
-"_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6124"
+#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6779
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13501
 msgid "Orders"
 msgstr "Orders"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6241
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6241"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13576
 msgid "Stores"
 msgstr "Stores"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6358
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6358"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13651
 msgid "Stripe payments"
 msgstr "Stripe payments"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6493
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-6493"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13817
 msgid "Getting Started"
 msgstr "Getting Started"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6640
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6779
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6779"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6914
 msgid "Package Sets"
@@ -162,7 +157,7 @@ msgid "Time Slots"
 msgstr "Time Slots"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7350
-msgctxt "_site/en/admin/index.html+html.body.div.nav.ul.li.ul.li:1-7350"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13744
 msgid "Users"
 msgstr "Users"
 
@@ -209,11 +204,6 @@ msgstr "contact@coopcycle.org"
 #: _site/en/admin/index.html%2Bhtml.body.div.div:1-10234
 msgid "Edit this page"
 msgstr "Edit this page"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.nav.ul.li:1-10499
-msgctxt "_site/en/admin/index.html+html.body.div.div.nav.ul.li:1-10499"
-msgid "en"
-msgstr "en"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.div.nav.ul.li:1-10605
 msgid "fr"
@@ -296,7 +286,7 @@ msgid "can mark a task as completed or failed and can add a comment."
 msgstr "can mark a task as completed or failed and can add a comment."
 
 #: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-12344
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-12344"
+#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-12773
 msgid "The <strong>customer</strong>:"
 msgstr "The <strong>customer</strong>:"
 
@@ -317,11 +307,6 @@ msgid ""
 "Management of restaurants and shops, allowing the following user actions:"
 msgstr ""
 "Management of restaurants and shops, allowing the following user actions:"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-12773
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-12773"
-msgid "The <strong>customer</strong>:"
-msgstr "The <strong>customer</strong>:"
 
 #: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li.ul.li:1-12813
 msgid ""
@@ -358,38 +343,3 @@ msgstr "can manage their menu online."
 #: _site/en/admin/index.html%2Bhtml.body.div.div.div.h2:1-13274
 msgid "Table of contents"
 msgstr "Table of contents"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13325
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13325"
-msgid "Configuration"
-msgstr "Configuration"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13414
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13414"
-msgid "Key concepts"
-msgstr "Key concepts"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13501
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13501"
-msgid "Orders"
-msgstr "Orders"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13576
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13576"
-msgid "Stores"
-msgstr "Stores"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13651
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13651"
-msgid "Stripe payments"
-msgstr "Stripe payments"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13744
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13744"
-msgid "Users"
-msgstr "Users"
-
-#: _site/en/admin/index.html%2Bhtml.body.div.div.div.ul.li:1-13817
-msgctxt "_site/en/admin/index.html+html.body.div.div.div.ul.li:1-13817"
-msgid "Getting Started"
-msgstr "Getting Started"

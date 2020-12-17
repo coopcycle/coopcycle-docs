@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:44+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/admin/users.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/admin/users.html+html[lang]:1-17"
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10511
 msgid "en"
 msgstr "en"
 
@@ -106,7 +106,7 @@ msgid "WooCommerce"
 msgstr "WooCommerce"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li:1-5728
-msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li:1-5728"
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ol.li:1-11021
 msgid "Admin's guide"
 msgstr "Admin's guide"
 
@@ -119,7 +119,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6123
-msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li.ul.li:1-6123"
+#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6778
 msgid "Orders"
 msgstr "Orders"
 
@@ -139,11 +139,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6778
-msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6778"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6913
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -157,7 +152,7 @@ msgid "Time Slots"
 msgstr "Time Slots"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.nav.ul.li.ul.li:1-7349
-msgctxt "_site/en/admin/users.html+html.body.div.nav.ul.li.ul.li:1-7349"
+#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ol.li:1-11123
 msgid "Users"
 msgstr "Users"
 
@@ -205,11 +200,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10511
-msgctxt "_site/en/admin/users.html+html.body.div.div.nav.ul.li:1-10511"
-msgid "en"
-msgstr "en"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10623
 msgid "fr"
 msgstr "fr"
@@ -217,16 +207,6 @@ msgstr "fr"
 #: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ul.li:1-10749
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ol.li:1-11021
-msgctxt "_site/en/admin/users.html+html.body.div.div.nav.ol.li:1-11021"
-msgid "Admin's guide"
-msgstr "Admin's guide"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.nav.ol.li:1-11123
-msgctxt "_site/en/admin/users.html+html.body.div.div.nav.ol.li:1-11123"
-msgid "Users"
-msgstr "Users"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.h1:1-11254
 msgid "Management of users"
@@ -325,50 +305,30 @@ msgid "To edit his/her own personal informations"
 msgstr "To edit his/her own personal informations"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12850
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-"_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12850"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12888
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12888"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12926
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12926"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-12964
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-12964"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13002
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13002"
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13169
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13245
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13394
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13470
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13622
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13698
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13859
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13935
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14161
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14349
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14387
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14580
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14618
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14735
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14849
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14969
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15007
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15083
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15317
+#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15563
 msgid "✔"
 msgstr "✔"
 
@@ -376,145 +336,45 @@ msgstr "✔"
 msgid "To create and modify restaurants"
 msgstr "To create and modify restaurants"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13169
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13169"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13245
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13245"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13294
 msgid "Mannage orders"
 msgstr "Mannage orders"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13394
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13394"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13470
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13470"
-msgid "✔"
-msgstr "✔"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13519
 msgid "To edit a receipt"
 msgstr "To edit a receipt"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13622
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13622"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13698
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13698"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13747
 msgid "To create and modify menus"
 msgstr "To create and modify menus"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13859
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13859"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13935
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-13935"
-msgid "✔"
-msgstr "✔"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-13984
 msgid "To create shops"
 msgstr "To create shops"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14161
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14161"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14210
 msgid "To modify shops"
 msgstr "To modify shops"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14349
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14349"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14387
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14387"
-msgid "✔"
-msgstr "✔"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14436
 msgid "To create a delivery"
 msgstr "To create a delivery"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14580
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14580"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14618
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14618"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14667
 msgid "To manage deliveries"
 msgstr "To manage deliveries"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14735
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14735"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14849
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14849"
-msgid "✔"
-msgstr "✔"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14898
 msgid "To access CoopCycle API"
 msgstr "To access CoopCycle API"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-14969
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-14969"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15007
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15007"
-msgid "✔"
-msgstr "✔"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15083
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15083"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15132
 msgid "To edit roles for users"
 msgstr "To edit roles for users"
 
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15317
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15317"
-msgid "✔"
-msgstr "✔"
-
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15366
 msgid "To edit contracts and tarifications"
 msgstr "To edit contracts and tarifications"
-
-#: _site/en/admin/users.html%2Bhtml.body.div.div.div.div.table.tbody.tr.td:1-15563
-msgctxt "_site/en/admin/users.html+html.body.div.div.div.div.table.tbody.tr.td:1-15563"
-msgid "✔"
-msgstr "✔"
 
 #: _site/en/admin/users.html%2Bhtml.body.div.div.div.h2:1-15631
 msgid "Assignation of a shop/restaurant"

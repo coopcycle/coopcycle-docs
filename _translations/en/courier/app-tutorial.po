@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:50+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/courier/app-tutorial.html+html[lang]:1-17"
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ul.li:1-10568
 msgid "en"
 msgstr "en"
 
@@ -62,12 +62,12 @@ msgid "Installation"
 msgstr "Installation"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4268
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li.ul.li:1-4268"
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.div.h2:1-11529
 msgid "Task management"
 msgstr "Task management"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li:1-4401
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li.ul.li:1-4401"
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.div.h2:1-11716
 msgid "Order management"
 msgstr "Order management"
 
@@ -84,13 +84,13 @@ msgid "Setting up Stripe"
 msgstr "Setting up Stripe"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li:1-4951
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li:1-4951"
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ol.li:1-11107
 msgid "Courier's guide"
 msgstr "Courier's guide"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li:1-5090
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li.ul.li:1-5090"
-"_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li.ul.li:1-5090"
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ol.li:1-11213
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.div.h1:1-11351
 msgid "App tutorial"
 msgstr "App tutorial"
 
@@ -123,7 +123,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6184
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li.ul.li:1-6184"
+#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6839
 msgid "Orders"
 msgstr "Orders"
 
@@ -142,11 +142,6 @@ msgstr "Getting Started"
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6700
 msgid "Dispatch"
 msgstr "Dispatch"
-
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6839
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6839"
-msgid "Orders"
-msgstr "Orders"
 
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6974
 msgid "Package Sets"
@@ -208,11 +203,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ul.li:1-10568
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.div.nav.ul.li:1-10568"
-msgid "en"
-msgstr "en"
-
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ul.li:1-10693
 msgid "fr"
 msgstr "fr"
@@ -220,28 +210,3 @@ msgstr "fr"
 #: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ul.li:1-10823
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ol.li:1-11107
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.div.nav.ol.li:1-11107"
-msgid "Courier's guide"
-msgstr "Courier's guide"
-
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.nav.ol.li:1-11213
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.div.nav.ol.li:1-11213"
-msgid "App tutorial"
-msgstr "App tutorial"
-
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.div.h1:1-11351
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.div.div.h1:1-11351"
-msgid "App tutorial"
-msgstr "App tutorial"
-
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.div.h2:1-11529
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.div.div.h2:1-11529"
-msgid "Task management"
-msgstr "Task management"
-
-#: _site/en/courier/app-tutorial.html%2Bhtml.body.div.div.div.h2:1-11716
-msgctxt "_site/en/courier/app-tutorial.html+html.body.div.div.div.h2:1-11716"
-msgid "Order management"
-msgstr "Order management"

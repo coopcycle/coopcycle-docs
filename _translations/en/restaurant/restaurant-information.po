@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 11:43+0200\n"
+"POT-Creation-Date: 2020-12-17 11:49+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Generator: Translate Toolkit 3.2.0\n"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml[lang]:1-17
-msgctxt "_site/en/restaurant/restaurant-information.html+html[lang]:1-17"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10650
 msgid "en"
 msgstr "en"
 
@@ -118,7 +118,7 @@ msgid "Key concepts"
 msgstr "Key concepts"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-6233
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li:1-6233"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6888
 msgid "Orders"
 msgstr "Orders"
 
@@ -138,11 +138,6 @@ msgstr "Getting Started"
 msgid "Dispatch"
 msgstr "Dispatch"
 
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-6888
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li.ul.li:1-6888"
-msgid "Orders"
-msgstr "Orders"
-
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li.ul.li:1-7023
 msgid "Package Sets"
 msgstr "Package Sets"
@@ -160,7 +155,7 @@ msgid "Users"
 msgstr "Users"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li:1-7584
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li:1-7584"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ol.li:1-11219
 msgid "Restaurant's guide"
 msgstr "Restaurant's guide"
 
@@ -181,8 +176,8 @@ msgid "Connecting a Bluetooth printer"
 msgstr "Connecting a Bluetooth printer"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.nav.ul.li.ul.li:1-8337
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li:1-8337"
-"_site/en/restaurant/restaurant-information.html+html.body.div.nav.ul.li.ul.li:1-8337"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ol.li:1-11331
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h1:1-11479
 msgid "Restaurant information"
 msgstr "Restaurant information"
 
@@ -206,11 +201,6 @@ msgstr "contact@coopcycle.org"
 msgid "Edit this page"
 msgstr "Edit this page"
 
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10650
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.nav.ul.li:1-10650"
-msgid "en"
-msgstr "en"
-
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10788
 msgid "fr"
 msgstr "fr"
@@ -218,21 +208,6 @@ msgstr "fr"
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ul.li:1-10918
 msgid "pt-BR"
 msgstr "pt-BR"
-
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ol.li:1-11219
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.nav.ol.li:1-11219"
-msgid "Restaurant's guide"
-msgstr "Restaurant's guide"
-
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.nav.ol.li:1-11331
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.nav.ol.li:1-11331"
-msgid "Restaurant information"
-msgstr "Restaurant information"
-
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h1:1-11479
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h1:1-11479"
-msgid "Restaurant information"
-msgstr "Restaurant information"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-11687
 msgid ""
@@ -281,29 +256,24 @@ msgstr ""
 "when you are modifying fields :"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12557
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12557"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-12737
 msgid "General"
 msgstr "General"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12597
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12597"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-13245
 msgid "Options"
 msgstr "Options"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12637
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12637"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-13620
 msgid "Fulfillment"
 msgstr "Fulfillment"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-12685
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.ul.li:1-12685"
+#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-15589
 msgid "Settlement"
 msgstr "Settlement"
-
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-12737
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-12737"
-msgid "General"
-msgstr "General"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-12900
 msgid ""
@@ -337,11 +307,6 @@ msgstr "Description of your restaurant"
 msgid "Website"
 msgstr "Website"
 
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-13245
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-13245"
-msgid "Options"
-msgstr "Options"
-
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-13408
 msgid ""
 "Options are not accessible from a restaurant account. In order to change "
@@ -351,11 +316,6 @@ msgstr ""
 "Options are not accessible from a restaurant account. In order to change "
 "them, you need to connect with an administrator account, which means that "
 "theses options are decided with the delivery cooperative."
-
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-13620
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-13620"
-msgid "Fulfillment"
-msgstr "Fulfillment"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-13795
 msgid ""
@@ -426,11 +386,6 @@ msgstr ""
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.ul.li:1-15537
 msgid "Number of shipping choices (in days)"
 msgstr "Number of shipping choices (in days)"
-
-#: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.h2:1-15589
-msgctxt "_site/en/restaurant/restaurant-information.html+html.body.div.div.div.h2:1-15589"
-msgid "Settlement"
-msgstr "Settlement"
 
 #: _site/en/restaurant/restaurant-information.html%2Bhtml.body.div.div.div.p:1-15761
 msgid ""
