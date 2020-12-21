@@ -1,6 +1,7 @@
 ---
-title: Stores
-parent: API
+title: Creating deliveries
+parent: Developer
+slug: creating-deliveries
 ---
 
 # API for Store deliveries

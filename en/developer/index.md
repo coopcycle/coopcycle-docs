@@ -8,7 +8,3 @@ has_children: true
 <div class="alert alert-info" role="alert">
 Welcome to the developer's guide for CoopCycle platform.
 </div>
-
----
-
-Hello

@@ -25,7 +25,7 @@ If you are creating a web application that does not need to act on behalf of a u
 
 To create access tokens, you will need API credentials (an API key and an API secret).
 
-Ask the platform administrators to create a API application and send you the API credentials.
+Ask the platform administrators to [create a API application and send you the API credentials](../admin/configuration/api.md).
 
 **Using the credentials to obtain an access token**
 
