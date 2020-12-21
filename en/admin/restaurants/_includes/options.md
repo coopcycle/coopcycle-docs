@@ -1,10 +1,3 @@
----
-title: Options
-parent: 'General settings'
----
-
-# Options / [Restaurants](../index.md)
-
 <div class="alert alert-info" role="alert">
 The following settings are optional.
 </div>

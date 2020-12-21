@@ -1,10 +1,3 @@
----
-title: Fulfillment
-parent: 'General settings'
----
-
-# Fulfillment / [Restaurants](../index.md)
-
 <div class="alert alert-info" role="alert">
 This section allows you to configure the Collection and Delivery schedule along with other related settings.
 </div>

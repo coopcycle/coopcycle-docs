@@ -4,8 +4,6 @@ parent: Restaurants
 grand_parent: Admin
 ---
 
-
-
 # Creating restaurants
 
 This page describes the process for creating a restaurant on the CoopCycle platform. Don't hesitate to ask for help [contact@coopcycle.org](mailto:contact@coopcycle.org) to configure the first restaurants.\

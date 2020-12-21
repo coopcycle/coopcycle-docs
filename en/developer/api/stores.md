@@ -3,8 +3,6 @@ title: Stores
 parent: API
 ---
 
-
-
 # API for Store deliveries
 
 <div class="alert alert-success" role="alert">

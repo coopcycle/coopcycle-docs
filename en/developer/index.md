@@ -3,8 +3,6 @@ title: Developer
 has_children: true
 ---
 
-
-
 # Developer
 
 <div class="alert alert-info" role="alert">

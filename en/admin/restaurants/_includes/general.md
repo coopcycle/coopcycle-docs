@@ -1,13 +1,4 @@
----
-title: General
-nav_exclude: true
-parent: 'General settings'
-grand_parent: Restaurants
----
-
 <!-- #comment Change "General" for "Account details" -->
-
-# General Settings / [Restaurants](../index.md)
 
 <div class="alert alert-info" role="alert">
 Here you can set the account details for the restaurant.
@@ -40,20 +31,3 @@ Write here the website of the business. This will be shown to the customer.
 Write here the phone number of the business. Customers may contact the business using this number.
 
 <h2 style="text-align: center"><span class="badge badge-primary">Save</span> your settings.</h2>
-
-<br><br>
-
-<div class="container">
-    <div class="row">
-      <div class="col-sm"><a
-          href="/notes/4eb2409c-253d-4023-bd8f-e26c49675177.html"
-          class="btn btn-lg btn-outline-secondary"
-          ><i class="fas fa-arrow-left"></i
-              >  Fullfilment</a></div>
-      <div style="text-align: right" class="col-sm"><a
-          href="/notes/d37f3793-7b44-42f8-844a-09f9c233f9f2.html"
-          class="btn btn-lg btn-outline-primary"
-          ><strong>Options  </strong><i class="fas fa-arrow-right"></i
-        ></a></div>
-    </div>
-</div>

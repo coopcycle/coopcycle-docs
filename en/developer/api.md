@@ -3,8 +3,6 @@ title: API
 parent: Developer
 ---
 
-
-
 ## Using the CoopCycle API
 
 [Open API / Swagger documentation](https://demo.coopcycle.org/api/docs)
