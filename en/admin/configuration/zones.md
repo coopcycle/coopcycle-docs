@@ -1,9 +1,9 @@
 ---
-title: Create a zone
-lang: en
-ref: tutorials-zones
-parent: Tutorials
-nav_order: 1
+title: Zones
+parent: Configuration
+grand_parent: Admin
+redirect_from:
+  - /en/tutorials/zones.html
 ---
 
 You can save zones as polygons. You can then use the zones to define pricing rules, for example. To create a zone, you will need to upload a GeoJSON file representing the delivery zone.

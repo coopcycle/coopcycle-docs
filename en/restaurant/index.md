@@ -1,13 +1,6 @@
 ---
-lang: en
-title: Restaurant's guide
-ref: restaurant-home
+title: Restaurant
 has_children: true
-nav_order: 8
 ---
 
-# Restaurant's guide (overview)
 
-## Restaurant's guide on the platform
-
-## Restaurant's guide on the app

@@ -1,9 +1,6 @@
 ---
 title: Mercadopago
-lang: es
-ref: admin-mercadopago
-parent: Guía de administración
-nav_order: 4
+parent: 'Payment Processors'
 ---
 
 # Administración de pagos con Mercadopago

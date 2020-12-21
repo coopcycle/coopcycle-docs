@@ -4,5 +4,5 @@
 ---
 
 <script>
-    window.location.replace("{{ site.baseurl }}/{{ site.data.langs | first }}")
+    window.location.replace("{{ site.baseurl }}/en")
 </script>

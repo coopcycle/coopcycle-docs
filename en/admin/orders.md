@@ -1,9 +1,7 @@
 ---
 title: Orders
-lang: en
-ref: admin-orders
-parent: Admin's guide
-nav_order: 3
+parent: Admin
+nav_order: 2
 ---
 
 # Orders
