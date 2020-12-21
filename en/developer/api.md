@@ -5,7 +5,9 @@ parent: Developer
 
 ## Using the CoopCycle API
 
-[Open API / Swagger documentation](https://demo.coopcycle.org/api/docs)
+<div class="alert alert-success" role="alert">
+  <a href="https://demo.coopcycle.org/api/docs">Open API / Swagger documentation</a>
+</div>
 
 ### Authentication
 
