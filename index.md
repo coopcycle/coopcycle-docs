@@ -1,8 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+title: 'Getting Started'
+permalink: /en/
+redirect_from:
+  - /
 ---
 
-<script>
-    window.location.replace("{{ site.baseurl }}/en")
-</script>
+# Welcome to the CoopCycle Docs!
+
+<div class="alert alert-success" role="alert">
+This documentation is hosted on <a class="alert-link" href="https://pages.github.com/">GitHub Pages</a>.
+You can use the <em>Edit this page on GitHub</em> button at the bottom of any page to be redirected to the GitHub online editor.<br>
+For a guide on how to edit the docs see Edit docs.
+</div>
+
+---
+
+To get started go to the respective documentation depending on your access:
+
+- [Admin / Coop](_admin/intro.md)
+- [Courier](courier/index.md)
+- [Restaurant / E-commerce](restaurant/index.md)
+- [Store](store/index.md)

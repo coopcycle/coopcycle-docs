@@ -64,3 +64,34 @@ gh_edit_repository: "https://github.com/coopcycle/coopcycle-docs" # the github U
 gh_edit_branch: "master" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+relative_links:
+  enabled:     true
+  collections: true
+
+collections_dir: docs
+
+collections:
+  admin:
+    permalink: "/en/:collection/:path/"
+    output: true
+  app:
+    permalink: "/en/:collection/:path/"
+    output: true
+  developer:
+    permalink: "/en/:collection/:path/"
+    output: true
+  payment_processors:
+    permalink: "/en/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    admin:
+      name: Admin
+    app:
+      name: App
+    developer:
+      name: Developer
+    payment_processors:
+      name: Payment Processors
