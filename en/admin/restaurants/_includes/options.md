@@ -35,7 +35,7 @@ Only customers who are enabled to request quotes can place a quote (or place an 
 When this option is enabled you will find a new setting under <strong>More options ▼</strong> on the restaurant Product Navigation Menu.
 </div>
 
-![](assets/images/enableDepositMoreOptionsDepRefund.png)
+![](/assets/images/enableDepositMoreOptionsDepRefund.png)
 <br>
 
 Go here to read about the restaurant [Product Navigation Menu](admin.restaurants.productmenu).
