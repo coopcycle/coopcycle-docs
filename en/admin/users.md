@@ -1,9 +1,6 @@
 ---
 title: Users
-lang: en
-ref: admin-users
-parent: Admin's guide
-nav_order: 6
+parent: Admin
 ---
 
 # Management of users
@@ -27,21 +24,20 @@ It is possible to activate/desactivate users. A desactivated user is disconnecte
 
 Every user can have one or several roles. Every role gives access to some platform features.
 
-| Role                                      | Customer   | Bike messenger   | Restaurant | Shop    | Admin   |
-| -------------------------------           |:------:|:---------:|:----------:| :----------:| :----------:|
-| To edit his/her own personal informations | ✔      | ✔         | ✔          | ✔           | ✔           |
-| To create and modify restaurants         |        |           | ✔          |             | ✔           |
-| Mannage orders                           |        |           | ✔          |             | ✔           |
-| To edit a receipt                        |        |           | ✔          |             | ✔           |
-| To create and modify menus               |        |           | ✔          |             | ✔           |
-| To create shops                          |        |           |            |             | ✔           |
-| To modify shops                          |        |           |            | ✔           | ✔           |
-| To create a delivery                     |        |           |            | ✔           | ✔           |
-| To manage deliveries                     |        | ✔         |           |             | ✔           |
-| To access CoopCycle API                  |        | ✔         | ✔         |             | ✔           |
-| To edit roles for users                  |        |           |            |             | ✔           |
-| To edit contracts and tarifications      |        |           |            |             | ✔           |
-
+| Role                                      | Customer | Bike messenger | Restaurant | Shop | Admin |
+| ----------------------------------------- | :------: | :------------: | :--------: | :--: | :---: |
+| To edit his/her own personal informations |    ✔     |       ✔        |     ✔      |  ✔   |   ✔   |
+| To create and modify restaurants          |          |                |     ✔      |      |   ✔   |
+| Mannage orders                            |          |                |     ✔      |      |   ✔   |
+| To edit a receipt                         |          |                |     ✔      |      |   ✔   |
+| To create and modify menus                |          |                |     ✔      |      |   ✔   |
+| To create shops                           |          |                |            |      |   ✔   |
+| To modify shops                           |          |                |            |  ✔   |   ✔   |
+| To create a delivery                      |          |                |            |  ✔   |   ✔   |
+| To manage deliveries                      |          |       ✔        |            |      |   ✔   |
+| To access CoopCycle API                   |          |       ✔        |     ✔      |      |   ✔   |
+| To edit roles for users                   |          |                |            |      |   ✔   |
+| To edit contracts and tarifications       |          |                |            |      |   ✔   |
 
 ## Assignation of a shop/restaurant
 

@@ -1,12 +1,10 @@
 ---
-lang: en
 title: Developer
-ref: dev-home
 has_children: true
-nav_order: 3
 ---
 
-# Developer's guide
+# Developer
 
+<div class="alert alert-info" role="alert">
 Welcome to the developer's guide for CoopCycle platform.
-{: .fs-6 }
+</div>
