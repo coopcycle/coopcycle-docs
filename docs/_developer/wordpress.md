@@ -12,7 +12,7 @@ and to transmit the shipping data to CoopCycle directly, using the API.
 
 If one of your partners already has an e-commerce website based on WooCommerce, it the best way to have a seamless integration.
 
-On CoopCycle, the shipping data sent will be attached to a [store](../admin/stores.md), so you will need to create a store if you don't have one already.
+On CoopCycle, the shipping data sent will be attached to a [store](../_admin/stores.md), so you will need to create a store if you don't have one already.
 The settings of the store modify the behavior of the plugin, in particular the configuration of the time slot used.
 
 Obtaining an API token
