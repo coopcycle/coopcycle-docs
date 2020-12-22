@@ -18,6 +18,4 @@ For a guide on how to edit the docs see Edit docs.
 To get started go to the respective documentation depending on your access:
 
 - [Admin / Coop](_admin/intro.md)
-- [Courier](courier/index.md)
-- [Restaurant / E-commerce](restaurant/index.md)
-- [Store](store/index.md)
+- [Courier](_app/courier.md)
