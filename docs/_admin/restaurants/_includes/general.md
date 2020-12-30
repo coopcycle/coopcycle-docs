@@ -14,11 +14,11 @@ Choose a type of business from the dropdown menu for either a **Store** or **Foo
 
 **Address field** `public`<br>
 Write here the physical address of the business.
-If the legal address under which the business is registered is not the same as the physical address you need to **check** the ☑️ **Use a different business address** checkbox and in the **Address field** below write the legal address under which the business is registered.
- <span class="badge badge-info">TIP:</span><span> The legal address is not shown to the customer</span>
+If the legal address under which the business is registered is not the same as the physical address you need to check ☑️ **Use a different business address** checkbox and in the **Address field** below write the legal address under which the business is registered.<br>
+<span class="badge badge-info">TIP:</span><span> The legal address is not shown to the customer</span>
 
 **Description** `public`<br>
-Write a description about the restaurant which is shown to the customer.
+Write a description about the restaurant which is shown to the customer.<br>
 <span class="badge badge-info">TIP:</span><span> Here you can format the text with Markdown</span>
 
 **Legal name** `not-public`<br>
@@ -29,5 +29,3 @@ Write here the website of the business. This will be shown to the customer.
 
 **Telephone** `public`<br>
 Write here the phone number of the business. Customers may contact the business using this number.
-
-<h2 style="text-align: center"><span class="badge badge-primary">Save</span> your settings.</h2>

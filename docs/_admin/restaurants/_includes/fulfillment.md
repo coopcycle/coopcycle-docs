@@ -121,15 +121,9 @@ The default value 2 means the cutomer will be presented with two delivery days (
 
 ### Delivery perimeter
 
-The first dropdown menu has two options:
+The first option has two choices, **Zone** and **Distance**.<br>
 
-- **Zone**
-- **Distance (km)**
-  When selecting either option the second dropdown menu to the right changes accordingly allowing you to input the necessary settings.
+Selecting **Zone** allows you select a delivery zone previously configured and uploaded under [Settings > Zones](../../configuration/zones.md). It will turn the second option into a dropdown menu from which you can select a pre-configured zone.
 
-**Zone**
-Selecting **Zone** allows you select a delivery zone previously configured and uploaded under [Settings > Zones](../../configuration/zones.md)
-
-**Distance (km)**
-Selecting **Distance (km)** allows you to input a value in numbers representing the radius of deliveries in kilometers with the center at the address of the business.
+Selecting **Distance (km)** allows you to input a value in numbers representing the radius in kilometers with the center at the address of the business.
 
