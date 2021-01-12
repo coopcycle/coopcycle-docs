@@ -1,0 +1,56 @@
+backend:
+  name: github
+  repo: coopcycle/coopcycle-docs
+
+# https://github.com/netlify/netlify-cms/issues/1342
+
+collection_fields: &COLLECTION_FIELDS
+  - label: Title
+    name: title
+    widget: "string"
+  - label: "Nav order"
+    name: nav_order
+    widget: "string"
+  - label: Content
+    name: body
+    widget: markdown
+
+collections:
+  - name: "admin"
+    label: "Admin"
+    folder: "docs/_admin"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
+  - name: "app"
+    label: "App"
+    folder: "docs/_app"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
+  - name: "developer"
+    label: "Developer"
+    folder: "docs/_developer"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
+  - name: "payment_processors"
+    label: "Payment Processors"
+    folder: "docs/_payment_processors"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
+
+media_folder: "assets/images"
