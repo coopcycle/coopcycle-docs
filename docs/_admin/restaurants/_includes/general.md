@@ -4,8 +4,6 @@
 Here you can set the account details for the restaurant.
 </div>
 
----
-
 **Name** `public`<br>
 This is how the name of the restaurant will be displayed to customers.
 

@@ -1,53 +1,34 @@
 ---
 layout: default
-title: 'Creating a restaurant'
+title: 'Setting up a restaurant'
 parent: Restaurants
+nav_order: 1
 ---
 
-# Creating restaurants
+# Setting up a restaurant
 
-This page describes the process for creating a restaurant on the CoopCycle platform. Don't hesitate to ask for help [contact@coopcycle.org](mailto:contact@coopcycle.org) to configure the first restaurants.\
-This takes place in two stages:
-- Create the restaurant on the CoopCycle platform
-- Create a [Stripe](https://dashboard.stripe.com/register) account
+<div class="alert alert-info" role="alert">
+The goal is to properly set up the restaurant so that it can be <strong>enabled</strong> which will make it visible on the platform.
+</div>
 
-After performing these two steps:
+[![](/assets/images/enablerestotoggle.png)](assets/images/enablerestotoggle.png){:target="\_blank"}
 
-- Create an account for the restaurateur in the “Users” section
-- Assign the restaurant to this restaurateur so that he can access the back office
+---
 
+## Creating a restaurant
 
-Prerequisite:
+1. Select <i class="fas fa-utensils"></i> **Restaurants** from the header in your instace.
+2. Click on the <span class="badge badge-success">+ Create a new restaurant</span> button.
 
-- Having correctly configured the Stripe account linked to the platform (link to the corresponding page)
+<span class="badge badge-info">TIP:</span><span> Click on the image to open it to full scale.</span>
 
+[![](/assets/images/createrestaurant.png)](/assets/images/createrestaurant.png){:target="\_blank"}
 
-Minimum information required beforehand:
+After clicking on **Create a new restaurant** a new page will open where you have to fill in all the restaurant's account details.<br>
 
-- Name, first name of the restaurateur
-- Legal name of the restaurant
-- Restaurant phone number
-- Restaurant address
-- IBAN of the restaurant
-- **Color front / back scan of the restaurant owner's identity card in JPEG or PNG format (Stripe request after the first orders for identity verification)**
-- Contractual information (what delivery rate for the restaurant owner? For the customer? Who pays the payment fees?)
+<span class="badge badge-warning">ATTENTION:</span><span> Before continuing on this page go to [General settings](/en/admin/restaurants/general-settings/) and configure your restaurant.</span>
 
-
-Optional information:
-
-- Opening hours (times when delivery is activated)
-- Number Siret
-
-## 1 - Creating a restaurant
-
-- From the “Restaurants” tab, click on “Add a restaurant”
-- Enter information in the corresponding fields
-
-![Creation d'un restaurant](/assets/images/creation_resto_fr.png)
-
-- Click on “Save”
- 
-## 2 - Creating a restaurant Stripe account
+## Creating a Stripe account
 
 - **From your Stripe dashboard**, [https://dashboard.stripe.com/account](https://dashboard.stripe.com/account), create a new account by clicking on the top left on “New Account”. Indicate the name of the restaurant.
 
@@ -74,3 +55,25 @@ Optional information:
   - Check that “Payments” and “Payouts” are green - in case of problems contact [dev@coopcycle.org](mailto:dev@coopcycle.org)
 
   ![Stripe](/assets/images/stripe_resto_account_fr_5.png)
+
+
+After performing these steps:
+
+- Create an account for the restaurateur in the “Users” section
+- Assign the restaurant to this restaurateur so that he can access the back office
+
+
+Prerequisite:
+
+- Having correctly configured the Stripe account linked to the platform (link to the corresponding page)
+
+
+Minimum information required beforehand:
+
+- Name, first name of the restaurateur
+- Legal name of the restaurant
+- Restaurant phone number
+- Restaurant address
+- IBAN of the restaurant
+- **Color front / back scan of the restaurant owner's identity card in JPEG or PNG format (Stripe request after the first orders for identity verification)**
+- Contractual information (what delivery rate for the restaurant owner? For the customer? Who pays the payment fees?)

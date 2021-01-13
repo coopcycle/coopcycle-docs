@@ -7,18 +7,26 @@ has_children: true
 # Restaurants (admin access)
 
 <div class="alert alert-info" role="alert">
-The restaurant guide is split in two settings sections. Both sections are found under the each restaurant's settings.
+This section describes the process of setting up a restaurant on the CoopCycle platform. Don't hesitate to ask for help [contact@coopcycle.org](mailto:contact@coopcycle.org) to configure the first restaurants.
 </div>
 
-* * *
+---
 
-### [Product Settings 🔗](restaurants/product-settings.md)
+The set up takes place as follows:
+
+### Setting up a restaurant
+- [Creating a restaurant](restaurants/creating-a-restaurant) on the CoopCycle platform
+- [Creating a Stripe](restaurants/creating-a-Stripe-account) account and linking it to the restaurant
+
+Once the restaurant is created on the platform you can access the following sections and set them up.
+
+### [Product Settings](restaurants/product-settings.md)
 
 These settings are found in the top navigation bar under main settings.
 
 ![](/assets/images/productsettings.png)
 
-### [General Settings 🔗](restaurants/general-settings.md)
+### [General Settings](restaurants/general-settings.md)
 
 These settings are found under the restaraunt image holder under main settings.
 
