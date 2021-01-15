@@ -30,6 +30,19 @@ After clicking on **Create a new restaurant** a new page will open where you hav
 
 ## Creating a Stripe account
 
+### Connecting Test mode
+
+In the Payment section click the **Connect with Stripe** button. 
+
+[![Stripe](/assets/images/stripeTest.png)](/assets/images/stripeTest.png)
+
+This will open a Stripe website where at the very top it will specifiy **Development Mode**, this means you are connecting the **Test** Stripe account.
+You don't have to fill in the details of the Restaurant on this page, simply proceed by connecting the Test account by clicking **Skip this account form**
+
+[![Stripe](/assets/images/stripeTestSkip.png)](/assets/images/stripeTestSkip.png)
+
+
+
 - **From your Stripe dashboard**, [https://dashboard.stripe.com/account](https://dashboard.stripe.com/account), create a new account by clicking on the top left on “New Account”. Indicate the name of the restaurant.
 
 <span class="zoomable">![Stripe](/assets/images/stripe_resto_account_fr.png)</span>
