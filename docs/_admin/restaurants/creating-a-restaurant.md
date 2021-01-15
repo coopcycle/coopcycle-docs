@@ -8,10 +8,10 @@ nav_order: 1
 # Setting up a restaurant
 
 <div class="alert alert-info" role="alert">
-The goal is to properly set up the restaurant so that it can be <strong>enabled</strong> which will make it visible on the platform.
+Setting up a restaurant and Stripe account in order to make it available on the platform.
 </div>
 
-[![](/assets/images/enablerestotoggle.png)](assets/images/enablerestotoggle.png){:target="\_blank"}
+[![](/assets/images/enablerestotoggle.png)](/assets/images/enablerestotoggle.png){:target="\_blank"}
 
 ---
 
@@ -30,17 +30,33 @@ After clicking on **Create a new restaurant** a new page will open where you hav
 
 ## Creating a Stripe account
 
+First of all:
+1. [Log in](https://dashboard.stripe.com/login) on the Stripe account (of the cooperative)
+2. Click on the drop-down menu on the top-left corner where you see your cooperative's name and click on **New account**
+
+[![Sripe New Account Add](/assets/images/stripeNewAccount.png)](/assets/images/stripeNewAccount.png){:target="\_blank"}
+3. In the pop-up write the name of the Restaurant that you want to link to on the platform and click **Create account**
+
+[![Stripe Resto Account Name](/assets/images/stripeRestoAccountName.png)](/assets/images/stripeRestoAccountName.png){:target="\_blank"}
+
+4. In the top-left corner click on **Activate your account**
+5. Follow the steps to fill in the details of the restaurant. 
+<span class="badge badge-info">INFO:</span><span> As the restaurant Stripe account is created as a sub-account of the coop, only the coop can fill in the details of the restaurant on Stripe. Further on you will be able to transfer ownership of the Stripe account to the restaurant.</span>
+
+
 ### Connecting Test mode
 
 In the Payment section click the **Connect with Stripe** button. 
 
-[![Stripe](/assets/images/stripeTest.png)](/assets/images/stripeTest.png)
+[![Stripe](/assets/images/stripeTest.png)](/assets/images/stripeTest.png){:target="\_blank"}
 
-This will open a Stripe website where at the very top it will specifiy **Development Mode**, this means you are connecting the **Test** Stripe account.
-You don't have to fill in the details of the Restaurant on this page, simply proceed by connecting the Test account by clicking **Skip this account form**
+This will open a Stripe website where at the very top it will specifiy **Development Mode**, this means you are connecting the Stripe account in **Test** mode.
+You don't have to fill in the details of the Restaurant on this page, simply proceed by clicking **Skip this account form**. The Stripe website page will close and you will return to the Restaurant settings page on the platform. If connection was successful you will see the following message in green at the top: **Stripe account connected successfully**.
 
-[![Stripe](/assets/images/stripeTestSkip.png)](/assets/images/stripeTestSkip.png)
+[![Stripe](/assets/images/stripeTestSkip.png)](/assets/images/stripeTestSkip.png){:target="\_blank"}
 
+
+[![](/assets/images/)](/assets/images/){:target="\_blank"}
 
 
 - **From your Stripe dashboard**, [https://dashboard.stripe.com/account](https://dashboard.stripe.com/account), create a new account by clicking on the top left on “New Account”. Indicate the name of the restaurant.
