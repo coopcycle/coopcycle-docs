@@ -7,7 +7,7 @@ Go to [Creating a Stripe account](/en/admin/restaurants/creating-a-restaurant/#c
 
 To know more about **Test** (how to make Test payments) and **Live** mode go [here](/en/payment_processors/stripe/#what-is-the-live-mode-and-test-mode-of-stripe)
 
-### Allow restaurant to set up their Stripe account
+### Allow the restaurant to manage Stripe account on its own
 <div class="alert alert-info" role="alert">
 This option should be enabled only if the restaurant owner already has a Stripe account and if they know how to set up <strong>Test</strong> and <strong>Live</strong> mode. However, it is preferrable if the coop sets up the restaurant Stripe's account. 
 </div>
