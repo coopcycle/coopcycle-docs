@@ -92,6 +92,12 @@ If **Hour(s)** is set to `1` the first available delivery time will always be di
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [![](/assets/images/additionalDelay1Hour.png)](/assets/images/additionalDelay1Hour.png){:target="\_blank"} | [![](/assets/images/additionalDelay2Hours.png)](/assets/images/additionalDelay2Hours.png){:target="\_blank"} |
 
+### Allow pre-ordering
+
+When this option is checked ☑️ it allows customers to order before the delivery or collection opening time of the restaurant. Specifically the <span class="badge badge-primary">Order</span> button on the restaurant homepage will be disabled.
+
+*Before this option was implemented, customers could always pre-order.*
+
 ### Allow editing
 
 When this option is checked ☑️ it allows the business owner to edit the Delivery Time Slots.<br>
