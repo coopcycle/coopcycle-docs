@@ -70,7 +70,7 @@ Once you click on the restaurant from the drop-down menu the website page will r
 
 In the Payment section click the **Connect with Stripe** button. *Where the Test row is you should see a green checkmark* ✔️ *instead of the blue button.*
 
-A very similar Stripe website will open. You will notice the **Development Mode** banner is no longer there. The drop-down menu will have already selected the restaurant and you have to simply click on the **Connect my Stripe account** blue button.
+A very similar Stripe website will open. You will notice the **Development Mode** banner is no longer there. The drop-down menu will already show selected the restaurant and you have to simply click on the **Connect my Stripe account** blue button.
 
 If the connection was succesful you will be redirect to the restaurant's account on the platform where you will see the following message in green at the top: **Stripe account connected successfully**.
 
