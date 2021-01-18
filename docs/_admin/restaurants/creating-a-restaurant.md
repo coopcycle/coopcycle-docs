@@ -31,8 +31,9 @@ After clicking on **Create a new restaurant** a new page will open where you hav
 
 ## Creating a Stripe account
 
+1. [Register](https://dashboard.stripe.com/register) a Stripe account for your cooperative. If you already have a Stripe account go to step number 2.
 1. [Log in](https://dashboard.stripe.com/login) on the Stripe account (of the cooperative).
-2. Create the restaurant's stripe account from within the coop's account by clicking on the drop-down menu on the top-left corner where you see your cooperative's name and click on **New account**. 
+2. Create the restaurant's Stripe account from within the coop's account by clicking on the drop-down menu on the top-left corner where you see your cooperative's name and click on **New account**. 
   [![Sripe New Account Add](/assets/images/stripeNewAccount.png)](/assets/images/stripeNewAccount.png){:target="\_blank"}
   
 3. In the pop-up write the name of the Restaurant that you want to link to on the platform and click **Create account**.
@@ -41,21 +42,21 @@ After clicking on **Create a new restaurant** a new page will open where you hav
 4. In the top-left corner click on **Activate your account** and follow the steps to fill in the fields with the restaurant's details.<br>
   [![Stripe Activate Account](/assets/images/stripeActivateAccount.png)](/assets/images/stripeActivateAccount.png){:target="\_blank"}
 
-<span class="badge badge-info">INFO:</span><span> Request to the restauant the correct information as only the coop can fill in the details of the restaurant on Stripe. After it's all set up you will be able to transfer ownership of the Stripe account to the restaurant.</span>
+<span class="badge badge-info">INFO:</span><span> Request to the restauant owner the correct information as only the coop can fill in the details of the restaurant on Stripe. After it's all set up you will be able to transfer ownership of the Stripe account to the restaurant.</span>
 
-After you've completed the set up of the Stripe Account you should see the restaurant account in the top-left drop-down menu under the coop's name. We call this a sub-account because the ownership of the account belongs to the restaurant owner.
+After you've completed the set up of the Stripe Account you should see the restaurant account in the top-left drop-down menu under the coop's name (the same place where you added a **New account**). We call this a sub-account because the ownership of the account belongs to the restaurant owner and not the coop.
 
-Now you can proceed with connecting restaurant account on CoopCycle with the Stripe account you've just finished setting up.
+Now you can proceed with connecting the restaurant account on CoopCycle with the Stripe account you've just finished setting up.
 
 ### Connecting TEST mode
 
-In the Payment section click the **Connect with Stripe** button. 
+In the Payment section of the restaurant account on CoopCycle click the **Connect with Stripe** button. 
 
 [![Stripe](/assets/images/stripeTest.png)](/assets/images/stripeTest.png){:target="\_blank"}
 
-This will open a Stripe website where at the very top it will specifiy **Development Mode**, this means you are connecting the Stripe account in **Test** mode.
-You sould see the logo of your coop and the name of your and email of your coop on that page. 
-Most importantly, you should see a **Switch account** drop-down menu where the first option is your coop and the other option are the Stripe sub-accounts.<br>
+This will open a Stripe website where at the very top it will specify **Development Mode**, this means you are connecting the Stripe account in **Test** mode.
+You sould see the logo, name and email of your coop on that page. 
+Most importantly, you should see a **Switch account** drop-down menu where the first option will be your coop and the other options are the Stripe sub-accounts. Select the restaurant account.<br>
 
 <span class="badge badge-info">TIP:</span><span> If you don't see the <strong>Switch account</strong> drop-down menu and instead you are prompted into filling in details of the restaurant, that means you are not logged in Stripe with the coop's account. Open a new browser tab, log in into Stripe and after that go back to the Payment section on the platform and click again <strong>Connect with Stripe</strong>.</span>
 

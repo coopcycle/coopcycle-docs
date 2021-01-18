@@ -34,11 +34,11 @@ Click <span class="badge badge-success">Add</span> to create a new time slot.
 
 [![](/assets/images/deliveryTimeSlotsAdd.png)](/assets/images/deliveryTimeSlotsAdd.png){:target="\_blank"}
 
-By clicking add a new time slot field will become available. Choose the corresponding Time and Days. See example below:
+By clicking <span class="badge badge-success">Add</span> a new time slot field will become available. Choose the corresponding Time and Days. See example below:
 
 [![](/assets/images/deliveryTimeSlotsSelectedWeekend.png)](/assets/images/deliveryTimeSlotsSelectedWeekend.png){:target="\_blank"}
 
-<span class="badge badge-info">TIP:</span><span> Saving settings only works if a Time Slot has a selected time and at least one (1) checked day. See below:</span>
+<span class="badge badge-info">TIP:</span><span> Saving settings only works if a Time Slot has a selected time and at least one (1) checked ☑️ day. See below:</span>
 
 [![](/assets/images/deliveryTimeSlotSave.png)](/assets/images/deliveryTimeSlotSave.png){:target="\_blank"}
 
@@ -97,6 +97,8 @@ If **Hour(s)** is set to `1` the first available delivery time will always be di
 When this option is checked ☑️ it allows the business owner to edit the Delivery Time Slots.<br>
 This option is unchecked by default.
 
+<!---
+
 ### Slot approximation
 
 **5 minutes**<br>
@@ -108,6 +110,8 @@ By selecting this option it allows for a wider delivery range time and bring it 
 | 5 Minutes                                                                                              | 15 Minutes                                                                                               |
 | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
 | [![](/assets/images/slotApprox5Minutes.png)](/assets/images/slotApprox5Minutes.png){:target="\_blank"} | [![](/assets/images/slotApprox15Minutes.png)](/assets/images/slotApprox15Minutes.png){:target="\_blank"} |
+
+-->
 
 ### Number of shipping choices (in days)
 
