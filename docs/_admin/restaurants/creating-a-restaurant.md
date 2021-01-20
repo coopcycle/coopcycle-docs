@@ -31,7 +31,7 @@ After clicking on **Create a new restaurant** a new page will open where you hav
 
 ## Creating a Stripe account
 
-1. [Register](https://dashboard.stripe.com/register) a Stripe account for your cooperative. If you already have a Stripe account go to step number 2.
+1. [Register](https://dashboard.stripe.com/register) and set up a Stripe account for your cooperative. If you already have a Stripe account go to step number 2.
 1. [Log in](https://dashboard.stripe.com/login) on the Stripe account (of the cooperative).
 2. Create the restaurant's Stripe account from within the coop's account by clicking on the drop-down menu on the top-left corner where you see your cooperative's name and click on **New account**. 
   [![Sripe New Account Add](/assets/images/stripeNewAccount.png)](/assets/images/stripeNewAccount.png){:target="\_blank"}
@@ -42,7 +42,7 @@ After clicking on **Create a new restaurant** a new page will open where you hav
 4. In the top-left corner click on **Activate your account** and follow the steps to fill in the fields with the restaurant's details.<br>
   [![Stripe Activate Account](/assets/images/stripeActivateAccount.png)](/assets/images/stripeActivateAccount.png){:target="\_blank"}
 
-<span class="badge badge-info">INFO:</span><span> Request to the restauant owner the correct information as only the coop can fill in the details of the restaurant on Stripe. After it's all set up you will be able to transfer ownership of the Stripe account to the restaurant.</span>
+<span class="badge badge-info">INFO:</span><span> Request to the restaurant owner the correct information as only the coop can fill in the details of the restaurant on Stripe. After it's all set up you will be able to transfer ownership of the Stripe account to the restaurant.</span>
 
 After you've completed the set up of the Stripe Account you should see the restaurant account in the top-left drop-down menu under the coop's name (the same place where you added a **New account**). We call this a sub-account because the ownership of the account belongs to the restaurant owner and not the coop.
 

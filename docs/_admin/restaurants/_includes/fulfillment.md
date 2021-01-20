@@ -20,7 +20,7 @@ These settings apply for the Collection section as well.
 
 <span class="badge badge-info">TIP:</span><span> By unchecking either <strong>Delivery</strong> or <strong>Collection</strong> the business will have its products greyed out, respectively of each option, not allowing customers to order.</span>
 
-### Delivery time slots
+## Delivery time slots
 
 <div class="alert alert-warning" role="alert">
 <ul>
@@ -70,6 +70,19 @@ In this case, the delivery opening hours of the business are `10:00 AM - 5:00 PM
 <span class="badge badge-info">TIP:</span><span> You can use the <strong>ASAP</strong> option with multiple slots.</span><br>
 <span class="badge badge-warning">WARNING:</span><span> If you have one (1) slot, `09:00 AM - 6:00 PM`, and you choose <strong>Time Slots</strong>, the delivery option for the customer will show up as only one time slot of 9 hours.</span>
 
+### Allow pre-ordering
+
+<span class="badge badge-warning">ALERT:</span><span> This setting only works with the option <strong>As soon as possible</strong></span> selected.
+
+When this option is checked ☑️ it allows customers to order before the delivery or collection opening time of the restaurant. Specifically the <span class="badge badge-primary">Order</span> button on the restaurant homepage will be disabled.
+
+*Before this option was implemented, customers could always pre-order.*
+
+### Allow editing
+
+When this option is checked ☑️ it allows the business owner to edit the Delivery Time Slots.<br>
+This option is unchecked by default.
+
 ### Minimum cart amount
 
 By setting a minimum cart amount the system doesn't allow purchases under the set amount.
@@ -92,16 +105,18 @@ If **Hour(s)** is set to `1` the first available delivery time will always be di
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [![](/assets/images/additionalDelay1Hour.png)](/assets/images/additionalDelay1Hour.png){:target="\_blank"} | [![](/assets/images/additionalDelay2Hours.png)](/assets/images/additionalDelay2Hours.png){:target="\_blank"} |
 
-### Allow pre-ordering
+### Range duration
 
-When this option is checked ☑️ it allows customers to order before the delivery or collection opening time of the restaurant. Specifically the <span class="badge badge-primary">Order</span> button on the restaurant homepage will be disabled.
+<span class="badge badge-warning">IMPORTANT:</span><span> Range duration is used together with the option <strong>As soon as possible" selected</strong></span>.
 
-*Before this option was implemented, customers could always pre-order.*
+<span class="badge badge-info">INFO:</span><span> Range duration doesn't apply for <strong>Collection</strong></span>.
 
-### Allow editing
+Range duration specifies the time frame of a delivery on top of the **Preparation time** settings of the restaurant. 
 
-When this option is checked ☑️ it allows the business owner to edit the Delivery Time Slots.<br>
-This option is unchecked by default.
+This setting works only for newly placed orders. 
+
+If a customer places an order at `18:00` and **Range duration** is set for **10 minutes** the delivery slot for their order will be `18:30 - 18:40`. 
+The **Range duration** is from `30` to `40` minutes and the **Preparation time** is from `18:00` to `18:30`. 
 
 <!---
 
