@@ -119,10 +119,38 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
    - In the pop-up you need to write an URI address specific to your CoopCycle instance.<br>
      Sample URI address:
      `https://xxx.coopcycle.org/stripe/connect/standard` <br>
-     If your CoopCycle address is `https://supercoop.coopcycle.org/`, replace `xxx` with `supercoop` in the *Sample URI address* above.<br>
+     If your CoopCycle address is `https://supercoop.coopcycle.org/`, replace `xxx` with `supercoop` in the _Sample URI address_ above.<br>
      It should look like this:
      `https://supercoop.coopcycle.org/stripe/connect/standard`<br>
      Copy it in the pop-up in Stripe and click **Add URI**
+     [![Stripe Add URI](/assets/images/stripeAddURI.png)](/assets/images/stripeAddURI.png){:target="\_blank"}
+
+     Once added you will see the URI in the **Redirects** section.
+
+     In the **Test mode cliend ID** section copy the client ID in the third **TEST** field (Stripe Connect Identifier) on your CoopCycle instance.<br><span class="badge badge-primary">SAVE SETTINGS</span>
+     [![Stripe Connect Test client ID](/assets/images/stripeConnectTestCliendID.png)](/assets/images/stripeConnectTestCliendID.png){:target="\_blank"}
+
+   - Head back to Stripe in **Connect settings** and scroll to the top.
+
+   #### Account types
+
+   - In **Account types** click **Manage...**<br>
+     [![Stripe Connect Account Types](/assets/images/stripeAccountTypes.png)](/assets/images/stripeAccountTypes.png){:target="\_blank"}
+
+   - In section no. 1 **Select countries to onboard accounts** uncheck **Select all** and then only check ☑️ your country.<br>
+     [![Stripe Select Country Express and Standard settings](/assets/images/stripeDeselectAllCountries.png)](/assets/images/stripeDeselectAllCountries.png){:target="\_blank"}
+
+   - Section no. 2 **Select capabilities for your accounts** has three (3) outputs depending on the country. 
+
+   **OUTPUT 1:**<br>
+   If your country is **United Kingdom** you will see two (2) options in Section no. 2. Make sure you check ☑️ **Card payments** and <span class="badge badge-primary">Save</span> settings.
+
+   **OUTPUT 2:**<br>
+   If your country is not **United Kingdom** or **United States** then you can skip Section no. 2 because the **Card payments and transfers** option is mandatory and is enabled by default.
+
+   **OUTPUT 3:**<br>
+   If your country is **United States** the option **Card payments and transfers** is mandatory and is enabled by default and you can check ☑️ the following *tax reporting* option according to the tax status of your Coop. <span class="badge badge-primary">Save</span> settings.
+
 ---
 
 ## What is the “live mode” and “test mode” of Stripe?
