@@ -151,6 +151,21 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
    **OUTPUT 3:**<br>
    If your country is **United States** the option **Card payments and transfers** is mandatory and is enabled by default and you can check ☑️ the following *tax reporting* option according to the tax status of your Coop. <span class="badge badge-primary">Save</span> settings.
 
+    #### Branding
+   - Head back to **Connect settings** and scroll down to **Branding**
+   
+   - Under **Business name** write the name of your Coop.
+
+   - Under **Payout statement descriptor**, generally, you can write an abbreviation of your Coop's name. 
+
+    #### Appeareance
+
+   - Under **Icon** click on the round + button and upload the logo of your Coop following the recommended size. 
+
+   - Under **Brand** and **Accent colour** you can choose a colour specific to your Coop by clicking on the left end of the code beginning in hash `#` using the pop-up panel or if you know the hex code of the colour of your choosing you can input it directly in the field.
+
+   - <span class="badge badge-primary">Save</span> settings.
+
 ---
 
 ## What is the “live mode” and “test mode” of Stripe?
