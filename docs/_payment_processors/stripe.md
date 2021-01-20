@@ -68,8 +68,61 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
 2. Scroll down to **Stripe Account**
    [![Connect Coop Stripe in Test mode](/assets/images/connectCoopStripeTestMode.png)](/assets/images/connectCoopStripeTestMode.png){:target="\_blank"}
 3. It is important to connect Stripe in both **TEST** and **LIVE** mode
+
    #### a. Connecting **TEST** mode.
 
+   - Head over to your [Strip dashboard](https://dashboard.stripe.com/dashboard){:target="\_blank"}
+
+   - On the left-hand side panel check the **View test data** toggle. When toggled "ON" it turns orange and the name changes to **Viewing test data**<br>
+     [![Toggle Stripe test data](/assets/images/toggleStripeViewTestData.png)](/assets/images/toggleStripeViewTestData.png){:target="\_blank"}
+
+   - Click on **Developers** just above **Viewing test data**
+
+   - Click on **API keys**<br>
+     [![Stripe API keys](/assets/images/stripeAPIkeys.png)](/assets/images/stripeAPIkeys.png){:target="\_blank"}
+
+   - On the API keys section that opens you will see under the Standard keys heading two (2) keys: **Publishable key** and **Secret Key**. _Secret key_ will be hidden.
+     The keys in the image are only sample keys. Your two (2) keys will look similar to the ones in the image.
+     Before you copy the keys, check again that you are actually in **TEST** mode. See nos. 1 and 2 in the image.
+
+   - _Copy_ the **Publishable key** (see no. 3 in the image) and head over to **Stripe account** in Settings on your CoopCycle instance and _paste_ the key into the first field of **TEST**.
+     <span class="badge badge-primary">SAVE SETTINGS</span>
+
+   - Head back to Stripe and next to **Secret key** click on **Reveal test key** (no. 4 in the image) and _copy_ it into the second **TEST** field on your CoopCycle instance.
+     <span class="badge badge-primary">SAVE SETTINGS</span>
+
+   - Head back to Stripe and click **Settings** at the bottom of the left-hand side panel.
+
+   - In the new section that opens click **Get started** in the **Connect block**<br>
+     [![Stripe Connect Get Started](/assets/images/stripeConnectGetStarted.png)](/assets/images/stripeConnectGetStarted.png){:target="\_blank"}
+
+   - A new page will load, **Payments for platforms** and you can click on the <span class="badge badge-primary">Get started</span> button.
+
+   - From the pop-up select the **Platform for marketplace** option and click <span class="badge badge-primary">Continue <i class="fas fa-arrow-right"></i></span><br>
+     [![Stripe Connect Platform Marketplace](/assets/images/stripeConnectPlatformMarketplace.png)](/assets/images/stripeConnectPlatformMarketplace.png){:target="\_blank"}
+     This will enable **Connect settings**.
+
+   - Click on **Settings** on the left-hand side panel.
+
+   - Click on the new **Settings** option in the **Connect** block.
+
+     <span class="badge badge-warning">ALERT:</span><span> Check if Stripe is still in <strong>TEST</strong> mode, if it's not, enable it.</span>
+
+     **OAuth settings**
+
+   - Scroll to the very bottom of the new opening page and toggle the option **OAuth for Standard accounts**<br>
+     [![Stripe Enable OAuth](/assets/images/stripeEnableOAuth.png)](/assets/images/stripeEnableOAuth.png){:target="\_blank"}
+
+   - Under **OAuth settings** in the **Redirects** section click on the **+ Add URI** button<br>
+     [![Stripe Connect Add URI](/assets/images/stripeConnectAddURI.png)](/assets/images/stripeConnectAddURI.png){:target="\_blank"}
+
+   - In the pop-up you need to write an URI address specific to your CoopCycle instance.<br>
+     Sample URI address:
+     `https://xxx.coopcycle.org/stripe/connect/standard` <br>
+     If your CoopCycle address is `https://supercoop.coopcycle.org/`, replace `xxx` with `supercoop` in the *Sample URI address* above.<br>
+     It should look like this:
+     `https://supercoop.coopcycle.org/stripe/connect/standard`<br>
+     Copy it in the pop-up in Stripe and click **Add URI**
 ---
 
 ## What is the “live mode” and “test mode” of Stripe?
