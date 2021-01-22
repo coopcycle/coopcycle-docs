@@ -182,7 +182,7 @@ Scroll to the top of the **Connect settings** page.
 
 5. Select the same option as in **Step 4** until you reach **Review your responses** and click <span class="badge badge-primary">Submit</span>
 
-6. Now [repeat the steps](#connecting-test-mode) from **TEST** mode in **LIVE** mode.
+6. Now [repeat the steps](#connecting-test-mode) from **TEST** mode in order to configure **LIVE** mode.
 
 <!--7. Head back to [Connect settings](https://dashboard.stripe.com/settings/applications) (make sure you're in **LIVE** mode) and under **Account types** select **Manage...** and select your country as you did in **TEST** mode previously.<br>
    <span class="badge badge-primary">Save</span> setings.
