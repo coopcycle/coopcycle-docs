@@ -67,7 +67,7 @@ This will open a Stripe website where at the very top it will specify **Developm
 You sould see the logo, name and email of your Coop on that page.
 Most importantly, you should see a **Switch account** drop-down menu where the first option will be your Coop and the other options are the Stripe sub-account/s. Select the Restaurant account.<br>
 
-<span class="badge badge-warning">ALERT:</span><span> If you don't see the <strong>Switch account</strong> drop-down menu and instead you are prompted into filling in details of the Restaurant, this means you are not logged in the Coop's Stripe account. Log in into Stripe and after that go back to the Payment section on the platform and click again <strong>Connect with Stripe</strong>.</span>
+<span class="badge badge-warning">ALERT:</span><span> If you don't see the <strong>Switch account</strong> drop-down menu and instead you are prompted into filling in details of the Restaurant, this means you are not logged in the Coop's Stripe account. On the same page, click on the **Log in** link on the top-right of the page in order to log in your Coop Stripe account and the page will refresh and you will be able to select the Restaurant sub-account from the drop-down menu.
 
 [![Stripe Choose Resto](/assets/images/stripeTestChooseResto.png)](/assets/images/stripeTestChooseResto.png){:target="\_blank"}
 
