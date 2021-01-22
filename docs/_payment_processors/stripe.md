@@ -43,7 +43,7 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
 
 ### Register and activate your Stripe account.
 
-<span class="badge badge-info">TIP:</span><span> These are standard account registration and activation steps. If you know what you're doing, then register and activate the account by yourself and then skip to <a href="#connect-your-stripe-account-to-your-coopcycle-instance">Connect your Stripe account to your CoopCycle instance</a>.</span>
+<span class="badge badge-info">TIP:</span><span> The following are standard account registration and activation steps. If you know what you're doing, then register and activate the account by yourself and then skip to <a href="#connect-your-stripe-account-to-your-coopcycle-instance">Connect your Stripe account to your CoopCycle instance</a>.</span>
 
 1. [Register](https://dashboard.stripe.com/register) a Stripe account by following the steps on Stripe's registration page.
 2. As soon as you've registered you will be re-directed to your Stripe dashboard.
@@ -71,7 +71,7 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
 
    #### a. Connecting **TEST** mode.
 
-   - Head over to your [Strip dashboard](https://dashboard.stripe.com/dashboard){:target="\_blank"}
+   - Head over to your [Stripe dashboard](https://dashboard.stripe.com/dashboard){:target="\_blank"}
 
    - On the left-hand side panel check the **View test data** toggle. When toggled "ON" it turns orange and the name changes to **Viewing test data**<br>
      [![Toggle Stripe test data](/assets/images/toggleStripeViewTestData.png)](/assets/images/toggleStripeViewTestData.png){:target="\_blank"}
@@ -106,31 +106,9 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
 
    - Click on the new **Settings** option in the **Connect** block.
 
-     <span class="badge badge-warning">ALERT:</span><span> Check if Stripe is still in <strong>TEST</strong> mode, if it's not, enable it.</span>
+   ### Connect settings
 
-     **OAuth settings**
-
-   - Scroll to the very bottom of the new opening page and toggle the option **OAuth for Standard accounts**<br>
-     [![Stripe Enable OAuth](/assets/images/stripeEnableOAuth.png)](/assets/images/stripeEnableOAuth.png){:target="\_blank"}
-
-   - Under **OAuth settings** in the **Redirects** section click on the **+ Add URI** button<br>
-     [![Stripe Connect Add URI](/assets/images/stripeConnectAddURI.png)](/assets/images/stripeConnectAddURI.png){:target="\_blank"}
-
-   - In the pop-up you need to write an URI address specific to your CoopCycle instance.<br>
-     Sample URI address:
-     `https://xxx.coopcycle.org/stripe/connect/standard` <br>
-     If your CoopCycle address is `https://supercoop.coopcycle.org/`, replace `xxx` with `supercoop` in the _Sample URI address_ above.<br>
-     It should look like this:
-     `https://supercoop.coopcycle.org/stripe/connect/standard`<br>
-     Copy it in the pop-up in Stripe and click **Add URI**
-     [![Stripe Add URI](/assets/images/stripeAddURI.png)](/assets/images/stripeAddURI.png){:target="\_blank"}
-
-     Once added you will see the URI in the **Redirects** section.
-
-     In the **Test mode cliend ID** section copy the client ID in the third **TEST** field (Stripe Connect Identifier) on your CoopCycle instance.<br><span class="badge badge-primary">SAVE SETTINGS</span>
-     [![Stripe Connect Test client ID](/assets/images/stripeConnectTestCliendID.png)](/assets/images/stripeConnectTestCliendID.png){:target="\_blank"}
-
-   - Head back to Stripe in **Connect settings** and scroll to the top.
+   <span class="badge badge-warning">ALERT:</span><span> Check if Stripe is still in <strong>TEST</strong> mode, if it's not, enable it.</span>
 
    #### Account types
 
@@ -140,31 +118,66 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
    - In section no. 1 **Select countries to onboard accounts** uncheck **Select all** and then only check ☑️ your country.<br>
      [![Stripe Select Country Express and Standard settings](/assets/images/stripeDeselectAllCountries.png)](/assets/images/stripeDeselectAllCountries.png){:target="\_blank"}
 
-   - Section no. 2 **Select capabilities for your accounts** has three (3) outputs depending on the country. 
+   - Section no. 2 **Select capabilities for your accounts** has three (3) outputs depending on the country.
 
-   **OUTPUT 1:**<br>
-   If your country is **United Kingdom** you will see two (2) options in Section no. 2. Make sure you check ☑️ **Card payments** and <span class="badge badge-primary">Save</span> settings.
+     **OUTPUT 1:**<br>
+     If your country is **United Kingdom** you will see two (2) options in Section no. 2. Make sure you check ☑️ **Card payments** and <span class="badge badge-primary">Save</span> settings.
 
-   **OUTPUT 2:**<br>
-   If your country is not **United Kingdom** or **United States** then you can skip Section no. 2 because the **Card payments and transfers** option is mandatory and is enabled by default.
+     **OUTPUT 2:**<br>
+     If your country is not **United Kingdom** or **United States** then you can skip Section no. 2 because the **Card payments and transfers** option is mandatory and is enabled by default.
 
-   **OUTPUT 3:**<br>
-   If your country is **United States** the option **Card payments and transfers** is mandatory and is enabled by default and you can check ☑️ the following *tax reporting* option according to the tax status of your Coop. <span class="badge badge-primary">Save</span> settings.
+     **OUTPUT 3:**<br>
+     If your country is **United States** the option **Card payments and transfers** is mandatory and is enabled by default and you can check ☑️ the following _tax reporting_ option according to the tax status of your Coop. <span class="badge badge-primary">Save</span> settings.
 
-    #### Branding
-   - Head back to **Connect settings** and scroll down to **Branding**
-   
-   - Under **Business name** write the name of your Coop.
+   #### Branding
 
-   - Under **Payout statement descriptor**, generally, you can write an abbreviation of your Coop's name. 
+     - Head back to **Connect settings** and scroll down to **Branding**
 
-    #### Appeareance
+     - Under **Business name** write the name of your Coop.
+     
+     - Under **Payout statement descriptor**, generally, you can write an      abbreviation of your Coop's name.
+     
+   #### Appeareance
+     
+     - Under **Icon** click on the round + button and upload the logo of your Coop      following the recommended size.
+     
+     - Under **Brand** and **Accent colour** you can choose a colour specific to      your Coop by clicking on the left end of the code beginning in hash `#` using      the pop-up panel or if you know the hex code of the colour of your choosing you      can input it directly in the field.
+     
+     - <span class="badge badge-primary">Save</span> settings.
+     
+   #### OAuth settings
+     
+     - Scroll to the very bottom of the new opening page and toggle the option      **OAuth for Standard accounts**<br>
+       [![Stripe Enable OAuth](/assets/images/stripeEnableOAuth.png)](/assets/     images/ stripeEnableOAuth.png){:target="\_blank"}
+     
+     - Under **OAuth settings** in the **Redirects** section click on the **+ Add      URI** button<br>
+       [![Stripe Connect Add URI](/assets/images/stripeConnectAddURI.png)](/assets/      images/stripeConnectAddURI.png){:target="\_blank"}
+     
+     - In the pop-up you need to write an URI address specific to your CoopCycle      instance.<br>
+       Sample URI address:
+       `https://xxx.coopcycle.org/stripe/connect/standard` <br>
+       If your CoopCycle address is `https://supercoop.coopcycle.org/`, replace      `xxx` with `supercoop` in the _Sample URI address_ above.<br>
+       It should look like this:
+       `https://supercoop.coopcycle.org/stripe/connect/standard`<br>
+       Copy it in the pop-up in Stripe and click **Add URI**
+       [![Stripe Add URI](/assets/images/stripeAddURI.png)](/assets/images/      stripeAddURI.png){:target="\_blank"}
+     
+       Once added you will see the URI in the **Redirects** section.
+     
+       In the **Test mode cliend ID** section copy the client ID in the third      **TEST** field (Stripe Connect Identifier) on your CoopCycle instance.      <br><span class="badge badge-primary">SAVE SETTINGS</span>
+       [![Stripe Connect Test client ID](/assets/images/stripeConnectTestCliendID.      png)](/assets/images/stripeConnectTestCliendID.png){:target="\_blank"}
 
-   - Under **Icon** click on the round + button and upload the logo of your Coop following the recommended size. 
-
-   - Under **Brand** and **Accent colour** you can choose a colour specific to your Coop by clicking on the left end of the code beginning in hash `#` using the pop-up panel or if you know the hex code of the colour of your choosing you can input it directly in the field.
-
-   - <span class="badge badge-primary">Save</span> settings.
+   #### b. Connecting **LIVE** mode.
+   Scroll to the top of the **Connect settings** page.
+  
+   1. While in **Connect settings**, toggle **Viewing test data** OFF so that it turns from orange to grey.
+   2. Under **Availability** click on the **Start** button on the right hand side of the callout text.
+      [![Complete Connect Profile in Stripe](/assets/images/stripeConnectPlatformProfileLiveMode.png)](/assets/images/stripeConnectPlatformProfileLiveMode.png){:target="\_blank"} 
+   3. Select **On-demand services** and click <span class="badge badge-primary">Continue <i class="fas fa-arrow-right"></i></span>
+   [![Stripe Platform Profile select on-demand services](/assets/images/stripePlatformProfileOnDemandServices.png)](/assets/images/stripePlatformProfileOnDemandServices.png){:target="\_blank"}
+   4. Select **From your seller/service provider's website or app** and click <span class="badge badge-primary">Continue <i class="fas fa-arrow-right"></i></span>
+   [![Stripe Platform Profile select customer purchase products](/assets/images/stripePlatformProfileCustomerPurchaseProducts.png)](/assets/images/stripePlatformProfileCustomerPurchaseProducts.png){:target="\_blank"}
+   5. 
 
 ---
 
