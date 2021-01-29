@@ -20,6 +20,8 @@ You can only place TEST orders if you have set up:<br>
 
 After every new Restaurant you set up, it's always best practice to place a TEST order with that Restaurant. This can help avoid any issues when **real customers** place **real orders**.
 
+## Enable TEST mode on the Platform
+
 1. On the top-level menu go to `Configuration` > `Settings`<br>
 
    [![Configuratio settings Test Mode](/assets/images/001TESTmodeConfigSettings.png)](/assets/images/001TESTmodeConfigSettings.png){:target="\_blank"}<br>
@@ -28,7 +30,7 @@ After every new Restaurant you set up, it's always best practice to place a TEST
 
    [![Toggle Off Stripe Live](/assets/images/002TESTmodeToggleOffStripeLive.png)](/assets/images/002TESTmodeToggleOffStripeLive.png){:target="\_blank"}<br>
 
-3. On the popup click on **Switch to << test >> mode and enable maintenance** to enable TEST mode on the Platform.<br>
+3. On the popup click on <span class="badge badge-danger">Switch to << test >> mode and enable maintenance</span> to enable TEST mode on the Platform.<br>
 
     <div class="alert alert-danger" role="alert">
     <h3>WARNING</h3>
@@ -40,10 +42,15 @@ After every new Restaurant you set up, it's always best practice to place a TEST
 
     Here is what the Platform looks like for non-admin users when **Maintenance mode** is ON.<br>
 
-    [![TEST mode Platform Disabled Non Admin User](/assets/images/003TESTmodePlatformDisabledNonAdminUser.png)](/assets/images/003TESTmodePlatformDisabledNonAdminUser.png){:target="\_blank"}
+    [![TEST mode Platform Disabled Non Admin User](/assets/images/003TESTmodePlatformDisabledNonAdminUser.png)](/assets/images/003TESTmodePlatformDisabledNonAdminUser.png){:target="\_blank"}<br>
+
+4. Above the **Stripe Account** section you can toggle OFF **Maintenance mode** and clicking on <span class="badge badge-success">Disable maintenance</span> from the pop-up<br>
+
+    [![Disable Maintenance Mode](/assets/images/004TESTmodeToggleOffMaintenanceMode.png)](/assets/images/004TESTmodeToggleOffMaintenanceMode.png){:target="\_blank"}
 
     <span class="badge badge-info">TIP:</span><span> You can decide whether to keep <strong>Maintenance mode</strong> ON or toggle it OFF whilst he Platform is on <strong>TEST</strong> mode. When <strong>Maintenance mode</strong> is OFF you can place TEST orders as a non-admin user.</span><br>
 
-4. Above the **Stripe Account** section you can toggle OFF **Maintenance mode**.<br>
+## Place a TEST order
 
-    [![Disable Maintenance Mode](/assets/images/004TESTmodeToggleOffMaintenanceMode.png)](/assets/images/004TESTmodeToggleOffMaintenanceMode.png){:target="\_blank"}
+1. Go to the Restaurant homepage.
+2. Proceed with the steps of placing an order
