@@ -2,6 +2,7 @@
 layout: default
 title: "TEST mode"
 parent: Stripe
+nav_exclude: true
 ---
 
 # Place orders in TEST mode
