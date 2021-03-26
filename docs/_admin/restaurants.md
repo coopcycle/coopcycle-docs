@@ -15,8 +15,8 @@ This section describes the process of setting up a restaurant on the CoopCycle p
 The set up takes place as follows:
 
 ### Setting up a restaurant
-- [Creating a restaurant](restaurants/creating-a-restaurant) on the CoopCycle platform
-- [Creating a Stripe](restaurants/creating-a-Stripe-account) account and linking it to the restaurant
+- [Creating a restaurant](restaurants/creating-a-restaurant.md) on the CoopCycle platform
+- [Creating a Stripe](restaurants/creating-a-Stripe-account.md) account and linking it to the restaurant
 
 Once the restaurant is created on the platform you can access the following sections and set them up.
 

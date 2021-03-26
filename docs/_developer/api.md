@@ -10,6 +10,11 @@ nav_order: 1
   <a href="https://demo.coopcycle.org/api/docs">Open API / Swagger documentation</a>
 </div>
 
+<div class="alert alert-info" role="alert">
+  <img src="/assets/images/php-logo.svg" width="48">
+  <span>Using PHP? Install the <a href="https://github.com/coopcycle/coopcycle-php-sdk">CoopCycle PHP SDK</a></span>
+</div>
+
 ### Authentication
 
 Most of the API endpoints require authentication, and also authorization.
