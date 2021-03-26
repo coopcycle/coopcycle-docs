@@ -2,6 +2,7 @@
 layout: default
 title: Creating deliveries
 slug: creating-deliveries
+nav_order: 2
 ---
 
 # API for Store deliveries
