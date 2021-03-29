@@ -11,6 +11,17 @@ A common usage of the API is to create deliveries. For example, an external e-co
 
 ---
 
+<div class="alert alert-warning" role="alert">
+⚠️ Make sure to send the following HTTP headers with your requests!
+</div>
+
+```
+Accept: application/ld+json
+Content-Type: application/ld+json
+```
+
+---
+
 ### Creating a delivery
 
 To create a delivery, you will need to make a `POST` request to the `/api/deliveries` endpoint.
