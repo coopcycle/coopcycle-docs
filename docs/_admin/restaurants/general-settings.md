@@ -31,4 +31,8 @@ nav_order: 2
 
 {% include_relative _includes/payment.md %}
 
+## Settlement
+
+{% include_relative _includes/settlement.md %}
+
 ---
