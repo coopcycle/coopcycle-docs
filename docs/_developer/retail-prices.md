@@ -7,7 +7,7 @@ nav_order: 3
 
 You can use our API to obtain retail prices for deliveries.
 
-To obtain a retail price, send your payload to the `/retail_prices/calculate` endpoint.
+To obtain a retail price, send your payload to the `/retail_prices/calculate` endpoint. The payload is the same as when [creating deliveries](deliveries.md).
 
 ```
 POST /api/retail_prices/calculate
