@@ -1,8 +1,9 @@
 <div class="alert alert-info" role="alert">
-Here is where you set up all payments 
+Here is where you set up all payments:
 <ul>
-<li>fee paid by customers</li>
-<li>fee paid by restaurants</li>
+<li>fee paid by the Customers</li>
+<li>fee paid by the Restaurant</li>
+<li>fee charged by the Coop</li>
 </ul>
 </div>
 
@@ -19,7 +20,7 @@ There are two ways this can be configured.
 #### Option 1:
 If the **Amount charged by the platform** is equal to the **Amount paid by the customer** it means the customer gets charged a certain fee and the Coop receives that exact fee.
 
-|Amount charged by the platform|Amount paid by the customer|Coop receives|
+|Charged by the platform|Paid by the customer|Coop receives|
 |:-:|:-:|:-:|
 |5|5|**5**|
 
@@ -35,4 +36,4 @@ If the **Amount charged by the platform** is higher than the **Amount paid by th
 
 ## Selecting `Yes`
 
-Selecting `yes` will allow you to use a custom delivery fee. This fee can be configured [here]
+Selecting `yes` will allow you to use a custom delivery fee. This fee can be configured [here](/en/admin/deliveries/pricing/)
