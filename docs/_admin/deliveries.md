@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Deliveries
+has_children: true
 nav_order: 4
 ---
 

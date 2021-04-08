@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Stores
+parent: Deliveries
+nav_order: 1
 ---
 
 # Stores

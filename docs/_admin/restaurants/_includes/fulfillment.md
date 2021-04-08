@@ -4,7 +4,7 @@ This section allows you to configure the Collection and Delivery schedule along 
 
 * * *
 
-##git Fulfillment methods
+# Fulfillment methods
 
 - **Delivery** - the orders placed by customers are delivered by the coop
 - **Collection** - the order placed by customers are collected by the customers
