@@ -4,45 +4,58 @@ title: Pricing
 parent: Deliveries
 ---
 
-# Pricing (for Stores and Order forms)
+# Pricing
+
+<div class="alert alert-info" role="alert">
+Here you can configure custom pricings to use for Orders forms, Restaurants and Stores.<br>
+The custom pricing can contain multiple Rules and each Rule can be configured by combining the following Conditions:<br>
+<strong>Delivery</strong>
+<ul>
+<li>Distance (km)</li>
+<li>Weight (kg)</li>
+<li>Bike type</li>
+<li>Pickup address</li>
+<li>Dropoff address</li>
+<li>Difference (hours)</li>
+<li>Difference (days)</li>
+<li>Doorstep dropoff</li>
+<li>Packages</li>
+</ul>
+<strong>Order</strong>
+<ul>
+<li>Items total</li>
+</ul>
+</div>
 
 ---
 
-As part of the creation of a store account, it is possible to create prices (e.g. express prices, normal prices) from the administration section by clicking on the icon then on the Prices section.
+## Create a custom pricing
+1. From the top menu go to `Deliveries`
+2. Go to <i class="fa fa-percent mr-2"></i> Pricing
+3. Click on <span class="badge badge-success">+ Create a new pricing</span>
+4. Give the `Pricing` a name. 
+   <span class="badge badge-info">TIP:</span><span>The name can be the name of the Order Form, Store, Restaurant or a specific name that makes it easy to know what the custom pricing is meant for</span>.
+5. Under **Rules** click on <span class="badge badge-success">+ Add rule</span>
+6. Write the `Price` of the Rule
+7. Click on <span class="badge badge-warning">+ Add condition</span> to add a condition (to know more see Definitions of conditions).
+8. Choose a **method of calculation**
+   a. **The first rule that matches**.
+    Because you can have multiple Rules under one Pricing, **the first rule that matches** means that, beginning from top to bottom, the first Rule that complies with all the Conditions will be the only one which will show the price to the customer.
+    **Example**:
+    - In the image below there are three (3) Rules, each in a coloured box and each with the same type of conditions but different variables. The conditions are `Weight`, `Pickup address` and `Drop-off address`. 
+     - If a customer places an order where the parcel weighs `3.5 kg` and if both the **Pickup address** and **Drop-off address** are within the `City centre` then the cost of that order will be `5` (the curreny is set depending from the country you are in).
+     - If a customer places an order where the parcel weighs `14 kg` and if both the Pickup address and Drop-off address are within the `City centre` then the cost of that order will be `10`. Here the system will skip the first two rules (because only two (2) of the Conditions are true) and select the one where all the Conditions comply with the customer's details.
+     [![](/assets/images/)](/assets/images/){:target="\_blank"} 
 
-[screenshot]
+    b. **All the matching rules**
+    <!--Waiting for answer from mex and Adrien-->
 
-Pricing is configured in the administration dashboard through a set of rules based on the following variables:
-The distance that is measured in meters. This distance can be defined with the operators of:
-- &gt; greater than * variable in meter *
-- &lt; less than * variable in meter *
-between two variables
 
-The weight which is evaluated in gram. This weight can be defined with the same operators as the distance
-The zone defined by loading a GeoJSON file into the instance configuration;
-The type of bike that is defined by selecting it from a list in which are available:
-The simple bike
-The cargo bike
+### Definitions of conditions
 
-[screenshot]
 
-These rules are organized as a stack in order of processing, the pricing at the top of the list will be the first to be processed by the software that will check if it matches the characteristics of the delivery, that is not the case the software will go to the second pricing in the list and so on. With each delivery created, this stack will be used to create the pricing. The choice is automatically made according to the criteria specified for each delivery.
 
-For example, I create a rule that specifies a pricing:
-- in the department of 93 with cargo bike placed at the top of the pile;
-- in Paris intramural with cargo bike placed in the middle of the pile;
-- in intramural Paris placed at the bottom of the pile.
 
-If a delivery is created involving a series of tasks in Paris intramural with a single bike, then the first rule will be ignored, and the second used as delivery basis. The precise rules (ie with the most variables) must be at the top of the stack and the most general ones at the bottom of the stack so that special cases are selected by the software as a basis for pricing. . If, for example, I take my pricing list higher as follows:
-in intramural paris;
-in Paris intramural with cargo bike;
-in the department of 93 with cargo bike.
 
-If a delivery is created for intramural Paris with a cargo bike, then the first rule will be ignored. The second corresponds to the delivery, its price will therefore be applied. The second rule being fulfilled, the third is ignored.
 
-The most precise rules (i.e. with the most parameters) must be at the top of the stack and the most general rules at the bottom of the stack, so that the specific cases are selected by the software as a basis for pricing. If, for example, I modify the above pricing as follows:
 
-in intramural Paris;
-in intramural Paris with cargo bike;
-in the 93 department with cargo bike.
-If a delivery in intramural Paris is created with the need to deliver by cargo bike, the price specified for the first rule will apply because no type of bike is specified for it and the second will be ignored.

@@ -9,7 +9,10 @@ Here is where you set up all payments:
 
 <span class="badge badge-warning">IMPORTANT:</span><span> <strong>Enable variable amount charged by the platform</strong> and <strong>Enable variable amount paid by the customer</strong> both need to have the same option selected, either <code>yes</code> or <code>no</code></span>. 
 
-## Selecting `No`
+## Contract
+
+<span class="badge badge-info">TIP:</span><span> The following settings should be configured for both <storng>Enable variable amount paid by the customer</strong></span>
+### Selecting `No`
 
 Selecting `no` is the default option and will allow you to use a fixed amount when charging the delivery fee to the customer. 
 
@@ -34,6 +37,9 @@ If the **Amount charged by the platform** is higher than the **Amount paid by th
 
 <span class="badge badge-info">TIP:</span><span> This option allows for Restaurants to sponsor the Customers by offering their products at a smaller delivery fee.</span>
 
-## Selecting `Yes`
+### Selecting `Yes`
 
-Selecting `yes` will allow you to use a custom delivery fee. This fee can be configured [here](/en/admin/deliveries/pricing/)
+Selecting `yes` will allow you to use a custom delivery pricing. This fee can be configured [here](/en/admin/deliveries/pricing/).
+
+After you've configured the pricing use the dropdown menu, *making sure to select the same pricing* under both **Amount charged by the platform** and **Amount paid by the customer**.
+
