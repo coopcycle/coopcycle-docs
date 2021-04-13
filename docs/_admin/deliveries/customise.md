@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customize
+title: Customise
 parent: Deliveries
 ---
 

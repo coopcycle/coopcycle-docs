@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'External Display (Order Form)'
+title: Order Form
 parent: Deliveries
 ---
 
