@@ -35,14 +35,17 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 3. Click on <span class="badge badge-success">+ Create a new pricing</span>
 4. Give the Pricing a name.
    
-   <span class="badge badge-info">TIP: </span><span>The pricing name can be the name of the Order Form, Store, Restaurant or a specific name that makes it easy to know what the custom pricing is meant for</span>.
+   <span class="badge badge-info">TIP:</span><span> The pricing name can be the name of the Order Form, Store, Restaurant or a specific name that makes it easy to know what the custom pricing is meant for</span>.
 5. Under **Rules** click on <span class="badge badge-success">+ Add rule</span>
 6. Write the price of the rule at the bottom
 7. Click on <span class="badge badge-warning">+ Add condition</span> to add one or as many conditions as necessary (to know more see Definitions of conditions).
 8. Choose a **method of calculation**:
-      <span class="badge badge-info">INFO: </span><span> A matching Rule is a Rule where <strong>all</strong> the Conditions are true </span>.
    
-   a. **The first rule that matches**
+      <span class="badge badge-info">INFO: </span><span> <strong>A matching rule</strong> is a rule where <strong>all</strong> the Conditions are true </span>.
+   
+   a. **The first rule that matches** works best with `fixed price`.
+
+      [![](/assets/images/pricingFirstRulePlusFixedPrice.png)](/assets/images/pricingFirstRulePlusFixedPrice.png){:target="\_blank"}
 
     Because you can have multiple Rules under one Pricing, **the first rule that matches** means that, beginning from top to bottom, the first Rule that complies with all the Conditions will be the only one which will display the price to the customer.
     **Example**:
@@ -56,11 +59,13 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 
       If all the Conditions in the Rules are true, the price of all the matching rules will be summed up. If there is one or more rule where one or more conditions are not true, those rules are excluded and get skipped.
 
-      | Rule 1 ✔️ | Rule 2 ✔️ | Rule 3 ❌ | Rule 4 ✔️ | TOTAL |
-      | -------- | -------- | -------- | -------- | ----- |
-      | 4        | 3        | 7        | 5        | 12    |
+      || Rule 1 ✔️ | Rule 2 ✔️ | Rule 3 ❌ | Rule 4 ✔️ | TOTAL |
+      |-| -------- | -------- | -------- | -------- | ----- |
+      |**Price**| 4        | 3        | 7        | 5        | **12**    |
 
       In the example above, all the conditions in Rule 1, 2 and 4 are true, meaning the total price the customer pays is 12.
+
+9.  After you've configured your custom pricing, click <span class="badge badge-primary">Save</span>
 
 
 ### Definitions of conditions
