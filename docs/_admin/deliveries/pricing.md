@@ -43,27 +43,47 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
    
       <span class="badge badge-info">INFO: </span><span> <strong>A matching rule</strong> is a rule where <strong>all</strong> the Conditions are true </span>.
    
-   a. **The first rule that matches** works best with `fixed price`.
+   a. **The first rule that matches** works best with **Fixed price**.
 
       [![](/assets/images/pricingFirstRulePlusFixedPrice.png)](/assets/images/pricingFirstRulePlusFixedPrice.png){:target="\_blank"}
 
-    Because you can have multiple Rules under one Pricing, **the first rule that matches** means that, beginning from top to bottom, the first Rule that complies with all the Conditions will be the only one which will display the price to the customer.
+    Because you can have multiple Rules under one Pricing, **the first rule that matches** means that, beginning from top to bottom, the first Rule that complies with all the Conditions will be the only one which will display the price to the customer and the remaining rules, if any, will be skipped.
     **Example**:
-    - In the image below there are three (3) Rules, each in a coloured box and each with the same type of conditions but different variables. The conditions are `Weight`, `Pickup address` and `Drop-off address`. 
-     - If a customer places an order where the parcel weighs `3.5 kg` and if both the **Pickup address** and **Drop-off address** are within the `City centre` then the cost of that order will be `5` (the curreny is set depending on the country you're in).
-     - If a customer places an order where the parcel weighs `14 kg` and if both the **Pickup address** and **Drop-off address** are within the `City centre` then the cost of that order will be `10`. Here the system will skip the first two rules (because only two (2) of the Conditions are true) and select the rule where all the Conditions comply with the customer's details.
-     [![](/assets/images/)](/assets/images/){:target="\_blank"}  
+     - In the image below there are three (3) Rules, each in a coloured box and each with the same type of condition (**Weight (kg)**) but different variables.
+     - If a customer places an order where the parcel weighs `2 kg` the cost of that order will be `3` (the curreny is set depending on the country you're in).
+     - If a customer places an order where the parcel weighs `5.5 kg` the cost of that order will be `5`.
+     - If a customer places an order where the parcel weighs `10 kg` the cost of that order will be `7`.
+  
+         [![](/assets/images/pricingFirstMatchingRule.png)](/assets/images/pricingFirstMatchingRule.png){:target="\_blank"}  
 
 
-    b. **All the matching rules**
+    b. **All the matching rules** works best with **Price by range**
 
-      If all the Conditions in the Rules are true, the price of all the matching rules will be summed up. If there is one or more rule where one or more conditions are not true, those rules are excluded and get skipped.
+      In any given number of **rules** if **ALL** the **conditions** are true, the price of **ALL** those rules will be added together. If there is one or more rule where one or more conditions are not true, those rules are excluded and get skipped.
 
-      || Rule 1 ✔️ | Rule 2 ✔️ | Rule 3 ❌ | Rule 4 ✔️ | TOTAL |
-      |-| -------- | -------- | -------- | -------- | ----- |
-      |**Price**| 4        | 3        | 7        | 5        | **12**    |
+      In the example below, all the conditions in Rule 1, 2 and 4 are true, meaning the total price the customer pays is 12.
 
-      In the example above, all the conditions in Rule 1, 2 and 4 are true, meaning the total price the customer pays is 12.
+      |           | Rule 1 ✔️ | Rule 2 ✔️ | Rule 3 ❌ | Rule 4 ✔️ | TOTAL  |
+      | --------- | -------- | -------- | -------- | -------- | ------ |
+      | **Price** | 4        | 3        | 7        | 5        | **12** |
+
+      An usual *use case* for this custom pricing is the following:
+
+      |                    | Rule 1 ✔️ | Rule 2 ✔️ | TOTAL |
+      | ------------------ | -------- | -------- | ----- |
+      | **Fixed price**    | 4        | -        | -     |
+      | **Price by range** | -        | 1 🔄      | -     |
+      | **TOTAL**          | -        | -        | **5** |
+
+      **Rule 1** is usally set with a **Fixed price** and **Rule 2** is set with **Price by range** where the set amount gets added over and over again 🔄 as many times as the formula indicates.
+
+      - if the customer lives less then or up to 3km away from the **collection** address, they will pay `4`, because `Distance (km)` is less `<` then `3`.
+      - if the customer lives between 3.1 and 3.9 km from the **collection** address, they will pay `5` and if they live between 4 km and 4.1 km from the **collection** address they will pay `6` and so on, because `Distance (km)` is more `>` than `3` and they pay extra `1` for each `1 km` above `3 km`
+      
+
+ 
+
+
 
 9.  After you've configured your custom pricing, click <span class="badge badge-primary">Save</span>
 
