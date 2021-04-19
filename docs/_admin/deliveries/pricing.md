@@ -8,23 +8,8 @@ parent: Deliveries
 
 <div class="alert alert-info" role="alert">
 Here you can configure a custom pricing to use for Orders forms, Restaurants and Stores.<br>
-The custom pricing can contain multiple Rules and each Rule can be configured by combining the following Conditions:<br>
-<strong>Delivery</strong>
-<ul>
-<li>Distance (km)</li>
-<li>Weight (kg)</li>
-<li>Bike type</li>
-<li>Pickup address</li>
-<li>Dropoff address</li>
-<li>Difference (hours)</li>
-<li>Difference (days)</li>
-<li>Doorstep dropoff</li>
-<li>Packages</li>
-</ul>
-<strong>Order</strong>
-<ul>
-<li>Items total</li>
-</ul>
+The custom pricing can contain multiple Rules and each Rule can be configured by combining the different Conditions. <!--See <a href="/en/admin/deliveries/pricing/#definitions-of-conditions">Definitions of Conditions</a> to know more.-->
+
 </div>
 
 ---
@@ -69,29 +54,47 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 
       An usual *use case* for this custom pricing is the following:
 
-      |                    | Rule 1 ✔️ | Rule 2 ✔️ | TOTAL |
-      | ------------------ | -------- | -------- | ----- |
-      | **Fixed price**    | 4        | -        | -     |
-      | **Price by range** | -        | 1 🔄      | -     |
-      | **TOTAL**          | -        | -        | **5** |
+      |                    | Rule 1 ✔️ | Rule 2 ✔️              |
+      | ------------------ | -------- | --------------------- |
+      | **Fixed price**    | 4        | -                     |
+      | **Price by range** | -        | 1 🔄                   |
+      | **Distance (km)**  | < 3km    | between 3.1 and 3.9km |
+      | **TOTAL AMOUNT**   | **4**    | **5**                 |
 
       **Rule 1** is usally set with a **Fixed price** and **Rule 2** is set with **Price by range** where the set amount gets added over and over again 🔄 as many times as the formula indicates.
 
-      - if the customer lives less then or up to 3km away from the **collection** address, they will pay `4`, because `Distance (km)` is less `<` then `3`.
-      - if the customer lives between 3.1 and 3.9 km from the **collection** address, they will pay `5` and if they live between 4 km and 4.1 km from the **collection** address they will pay `6` and so on, because `Distance (km)` is more `>` than `3` and they pay extra `1` for each `1 km` above `3 km`
-      
 
- 
+      <span class="badge badge-info">IMPORTANT:</span><span> Make sure the condition(s) in <strong>Rule 1</strong> are always true. E.g.: `Distance (km) > 0`</span>
 
-
-
+      - if the customer lives less then or up to 3km away from the **collection** address, they will pay `4`, because `Distance (km)` is more `>` than `0` and more `>` than `3` in **Rule 2**.
+      - if the customer lives between 3.1 and 3.9 km from the **collection** address, they will pay `5` and if they live between 4 km and 4.1 km from the **collection** address they will pay `6` and so on, because `Distance (km)` is more `>` than `3` and they pay extra `1` for each `1 km` above `3 km`  
+  
 9.  After you've configured your custom pricing, click <span class="badge badge-primary">Save</span>
 
 
 ### Definitions of conditions
+Brief description on each condition and its use.
 
+**COMING SOON**
 
-
+<!--
+<strong>Delivery</strong>
+<ul>
+<li>Distance (km)</li>
+<li>Weight (kg)</li>
+<li>Bike type</li>
+<li>Pickup address</li>
+<li>Dropoff address</li>
+<li>Difference (hours)</li>
+<li>Difference (days)</li>
+<li>Doorstep dropoff</li>
+<li>Packages</li>
+</ul>
+<strong>Order</strong>
+<ul>
+<li>Items total</li>
+</ul>
+-->
 
 
 
