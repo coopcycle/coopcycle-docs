@@ -63,6 +63,8 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 
       **Rule 1** is usally set with a **Fixed price** and **Rule 2** is set with **Price by range** where the set amount gets added over and over again 🔄 as many times as the formula indicates.
 
+      [![](/assets/images/pricingAllMatchingRules.png)](/assets/images/pricingAllMatchingRules.png){:target="_blank"}
+
 
       <span class="badge badge-info">IMPORTANT:</span><span> Make sure the condition(s) in <strong>Rule 1</strong> are always true. E.g.: `Distance (km) > 0`</span>
 
