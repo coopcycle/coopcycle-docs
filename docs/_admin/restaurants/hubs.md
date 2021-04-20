@@ -33,3 +33,4 @@ A hub allows grouping together Restaurants sharing one pickup address under one 
 
 7. In the `Settlement` tab, follow the same set up steps as for individual restaurants, see the guide [here](/en/admin/restaurants/general-settings/#settlement).
 
+  <span class="badge badge-warning">WARNING:</span><span> The <strong>Stripe</strong> fees settings are always paid by the Coop in Hubs.</span>

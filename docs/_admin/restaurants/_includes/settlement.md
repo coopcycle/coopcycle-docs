@@ -14,7 +14,7 @@ Here is where you set up all payments:
 <span class="badge badge-info">TIP:</span><span> The following settings should be configured for both <storng>Enable variable amount paid by the customer</strong></span>
 ### Selecting `No`
 
-Selecting `no` is the default option and will allow you to use a fixed amount when charging the delivery fee to the customer. 
+The default option is `no` and will allow you to use a fixed amount when charging the customer the delivery fee. 
 
 **Amount charged by the platform** is the fixed delivery fee that the Coop will receive (the platform being the Coop).  
 **Amount paid by the customer** is the fixed delivery fee that the Customer will pay when ordering.
@@ -39,7 +39,7 @@ If the **Amount charged by the platform** is higher than the **Amount paid by th
 
 ### Selecting `Yes`
 
-Selecting `yes` will allow you to use a custom delivery pricing. This fee can be configured [here](/en/admin/deliveries/pricing/).
+Selecting `yes` will allow you to use a custom delivery pricing. This can be configured [here](/en/admin/deliveries/pricing/).
 
-After you've configured the pricing use the dropdown menu, *making sure to select the same pricing* under both **Amount charged by the platform** and **Amount paid by the customer**.
+After you've configured the pricing use the dropdown menu to select it. *Make sure to select the same pricing* under both **Amount charged by the platform** and **Amount paid by the customer**.
 
