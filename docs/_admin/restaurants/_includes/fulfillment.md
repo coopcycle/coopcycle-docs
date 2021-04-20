@@ -148,7 +148,7 @@ The default value 2 means the cutomer will be presented with two delivery days (
 
 The first option has two choices, **Zone** and **Distance**.<br>
 
-Selecting **Zone** allows you select a delivery zone previously configured under [Zones](../../deliveries/zones.md). It will turn the second option into a dropdown menu from which you can select a pre-configured zone.
+Selecting **Zone** will allow you to select a zone previously configured under [Zones](../../deliveries/zones.md). 
 
 Selecting **Distance (km)** allows you to input a value in numbers representing the radius in kilometers with the center at the address of the business.
 
