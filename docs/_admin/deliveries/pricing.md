@@ -58,7 +58,7 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
       | ------------------ | -------- | --------------------- |
       | **Fixed price**    | 4        | -                     |
       | **Price by range** | -        | 1 🔄                   |
-      | **Distance (km)**  | < 3km    | between 3.1 and 3.9km |
+      | **Distance (km)**  | > 0km    | between 3.1 and 3.9km |
       | **TOTAL AMOUNT**   | **4**    | **5**                 |
 
       **Rule 1** is usally set with a **Fixed price** and **Rule 2** is set with **Price by range** where the set amount gets added over and over again 🔄 as many times as the formula indicates.
