@@ -43,3 +43,10 @@ Selecting `yes` will allow you to use a custom delivery pricing. This can be con
 
 After you've configured the pricing use the dropdown menu to select it. *Make sure to select the same pricing* under both **Amount charged by the platform** and **Amount paid by the customer**.
 
+## Platform fee for deliveries
+
+Here you can input the percentage that the Restaurant will pay to the Coop for deliveries. The percentage is retained from the total of products per each order.
+
+## Platform fee for takeaway
+
+Here you can input the percentage that the Restaurant will pay to the Coop for takeaway. The percentage is retained from the total of products per each order.

@@ -107,7 +107,7 @@ If **Hour(s)** is set to `1` the first available delivery time will always be di
 
 ### Range duration
 
-<span class="badge badge-warning">IMPORTANT:</span><span> Range duration is used together with the option <strong>As soon as possible" selected</strong></span>.
+<span class="badge badge-warning">IMPORTANT:</span><span> Range duration is used together with the option <strong>As soon as possible</strong> selected</span>.
 
 <span class="badge badge-info">INFO:</span><span> Range duration doesn't apply for <strong>Collection</strong></span>.
 
