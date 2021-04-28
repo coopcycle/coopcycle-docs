@@ -11,7 +11,7 @@ Here is where you set up all payments:
 
 ## Contract
 
-<span class="badge badge-info">TIP:</span><span> The following settings should be configured for both <storng>Enable variable amount paid by the customer</strong></span>
+<span class="badge badge-info">TIP:</span><span> The following settings should be configured for both <strong>Enable variable amount paid by the customer</strong></span>
 ### Selecting `No`
 
 The default option is `no` and will allow you to use a fixed amount when charging the customer the delivery fee. 

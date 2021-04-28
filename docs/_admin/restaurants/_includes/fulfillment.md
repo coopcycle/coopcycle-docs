@@ -118,22 +118,6 @@ This setting works only for newly placed orders.
 If a customer places an order at `18:00` and **Range duration** is set for **10 minutes** the delivery slot for their order will be `18:30 - 18:40`. 
 The **Range duration** is from `30` to `40` minutes and the **Preparation time** is from `18:00` to `18:30`. 
 
-<!---
-
-### Slot approximation
-
-**5 minutes**<br>
-Is the default option for the delivery range time which is displayed on the cart.<br>
-
-**15 minutes**<br>
-By selecting this option it allows for a wider delivery range time and bring it closer to the current time of ordering. See images below.
-
-| 5 Minutes                                                                                              | 15 Minutes                                                                                               |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------- |
-| [![](/assets/images/slotApprox5Minutes.png)](/assets/images/slotApprox5Minutes.png){:target="\_blank"} | [![](/assets/images/slotApprox15Minutes.png)](/assets/images/slotApprox15Minutes.png){:target="\_blank"} |
-
--->
-
 ### Number of shipping choices (in days)
 
 The default value is 2. It cannot be changed to anything lower than 2.
