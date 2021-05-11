@@ -2,7 +2,7 @@
 <div class="alert alert-info" role="alert">
 Here is where you can add and modify products. These will show on the homepage of each Business.<br><br>
 There are two ways of adding new products:
-Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button on the top-right corner or by **importing** a `.csv` file using the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button.
+Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button on the top-right corner or by <strong>importing</strong> a <code>.csv</code> file using the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button.
 </div>
 
 ### Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button

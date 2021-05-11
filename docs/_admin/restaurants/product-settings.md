@@ -6,7 +6,8 @@ nav_order: 3
 ---
 # Product settings
 
-Here is where you can set up the online listing of products and its additional settings for a Business accoount.
+<div class="alert alert-info" role="alert">
+Here is where you can set up the online listing of products and its additional settings for a Business accoount.</div>
 
 These are all the settings that can be configured:
 - products
@@ -18,6 +19,8 @@ These are all the settings that can be configured:
 - deposit-refund for packaging
 - stats
 - schedule 
+
+Navigate to Products:
 
 1. Click on `Restaurants` at the top menu
 2. Find the Restaurant you want to update and click on the number to the left of its name
