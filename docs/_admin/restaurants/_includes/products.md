@@ -1,6 +1,6 @@
 
 <div class="alert alert-info" role="alert">
-Here is where you can add and modify products. These will show on the homepage of each Business.<br><br>
+Here you can add and modify products. These will show on the homepage of each Business.<br><br>
 There are two ways of adding new products:
 Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button on the top-right corner or by <strong>importing</strong> a <code>.csv</code> file using the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button.
 </div>
@@ -16,7 +16,7 @@ Type here the name of the product. E.g.: *Vegan Chicken Bowl*
 
 #### Description
 Type here the description of the product, especially listing the ingredients and the type of dish.  
-<span class="badge badge-primary">TIP:</span><span> It's recommended to <strong>not</strong> write in the Description the <kbd>allergens</kbd> or <kbd>restricted diets</kbd> of the product, there are dedicated sections for those options.</span>
+<span class="badge badge-primary">TIP:</span><span> It's recommended to <strong>not</strong> write in the Description the <strong>allergens</strong> or <strong>restricted diets</strong> of the product, there are dedicated sections for those options.</span>
 
 #### Enabled
 By ticking the checkbox ☑️ the product will be visible and available for purchase.  
@@ -37,27 +37,27 @@ Below are a few exmaples of how this works.
 
 **Selected Tax is 20%**
 
-|Price (tax excl.)|Price (tax incl.)|Taxes|
-|:-:|:-:|:-:|
-|2|2.4|Tax 20%|  
+| Price (tax excl.) | Price (tax incl.) |  Taxes  |
+| :---------------: | :---------------: | :-----: |
+|         2         |        2.4        | Tax 20% |
 
 **Selected Tax is 0% or tax exempt**
 
-|Price (tax excl.)|Price (tax incl.)|Taxes|
-|:-:|:-:|:-:|
-|2|2|Tax 0%|  
+| Price (tax excl.) | Price (tax incl.) | Taxes  |
+| :---------------: | :---------------: | :----: |
+|         2         |         2         | Tax 0% |
 
 **Both price fields with the same value but without having selected a Tax category**  
 
-|Price (tax excl.)|Price (tax incl.)|Taxes|
-|:-:|:-:|:-:|
-|2|2|Select a tax category|  
+| Price (tax excl.) | Price (tax incl.) |         Taxes         |
+| :---------------: | :---------------: | :-------------------: |
+|         2         |         2         | Select a tax category |
 
 **After having selected a Tax category, the Price (tax excl.) field will change accordingly.**  
 
-|Price (tax excl.)|Price (tax incl.)|Taxes|
-|:-:|:-:|:-:|
-|1.67|2|Tax 20%|  
+| Price (tax excl.) | Price (tax incl.) |  Taxes  |
+| :---------------: | :---------------: | :-----: |
+|       1.67        |         2         | Tax 20% |
 
 #### Taxes
 Here you can select the tax category corresponding to each product. These tax categories are configured according to your country.  
@@ -90,9 +90,52 @@ On the left-hand side of the Product name and description you will see a camera 
    2. <i class="fa fa-upload"></i> **Upload**
    Under Upload you can Drag & Drop one picture at a time or you can click in the blank area and you can select a picture from your device. 
    On the left-hand side you can select the crop proprtions you want to crop the picture in. You can make both 1:1 and 16:9 crops from one picture and Upload them to the Gallery.  
-   <span class="badge badge-warning">IMPORTANT:</span><span> Gallery and Upload sections are still Work in Progress, so it's recommended to not use the 16:9 crop and make sure to upload last the picture you want at the front of each Product on the homepage of the Restaurant.</span>
 
-How to import products coming soon...
+      <span class="badge badge-warning">IMPORTANT:</span><span> <strong>Gallery</strong> and <strong>Upload</strong> sections are still <em>Work in Progress</em>, so it's recommended to not use the 16:9 crop and make sure to upload last the picture you want at the front of each Product on the homepage of the Restaurant.</span>
+
+## Using the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button
 
 
-<!---### Using the <span class="badge badge-success">Import</span> button-->
+
+By clicking on the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button you can upload a spreadsheet in the `.csv` file previously created on your device and you can download an example spreadsheet on how to populate your products `.csv` file.
+
+<span class="badge badge-info">INFO:</span><span> Because tax categories are different with each country, the example spreadsheet is different on the Platform for each country.</span>
+
+<span class="badge badge-warning">IMPORTANT:</span>
+- The content highlighted in <kbd>black</kbd> has to stay exactly the same in the `.csv` file. The same applies for all the other tax wordings.
+- Make sure the price includes the correspoding tax
+- Price is translated this way: `150` → `1.50` and `2500` → `25.00`
+
+Below you can find an example as well:
+
+**Sample spreadsheet:**
+This spreadsheet only shows general examples of tax category. Below this example you will find a table with **every** the tax wording for each tax category. 
+
+| <kbd>name</kbd>  | <kbd>description</kbd> | <kbd>price_tax_incl</kbd> | <kbd>tax_category</kbd>                   |
+| :--------------- | :--------------------- | ------------------------: | :---------------------------------------- |
+| Pizza Margherita | Famous pizza           |            <kbd>500</kbd> | <kbd>tax_category.base_standard</kbd>     |
+| Croissant        | French croissant       |            <kbd>300</kbd> | <kbd>tax_category.base_intermediary</kbd> |
+| Orange juice     | Fresh orange           |            <kbd>100</kbd> | <kbd>tax_category.base_exempt</kbd>       |
+
+**Tax wording**: The table below is only to for reference of each tax wording, to understand what tax % it corresponds to. If the tax % has been updated in your country, please contact the developer at `dev [at] coopcycle [dot] org`.
+
+| Tax wording                               | Tax type            | Argentina | Belgium |        Canada BC | France | Germany | Poland | Spain |   UK |
+| :---------------------------------------- | ------------------- | --------: | ------: | ---------------: | -----: | ------: | -----: | ----: | ---: |
+| <kbd>tax_category.base_standard</kbd>     | Base standard       |       21% |     21% |  GST 5% + PST 7% |    20% |     16% |    23% |   21% |  20% |
+| <kbd>tax_category.base_intermediary</kbd> | Base intermediary   |     10.5% |     12% |  GST 5% + PST 0% |    10% |       - |     8% |   10% |   5% |
+| <kbd>tax_category.base_reduced</kbd>      | Base reduced        |      2.5% |      6% |               0% |   5.5% |      5% |     5% |    4% |   5% |
+| <kbd>tax_category.base_exempt</kbd>       | Base exempt         |        0% |      0% |               0% |     0% |      0% |     0% |    0% |   0% |
+|                                           |                     |           |         |                  |        |         |        |       |      |
+| <kbd>tax_category.food_takeaway</kbd>     | Takeaway food       |         - |      6% |               0% |    10% |     16% |     8% |   10% |   0% |
+| <kbd>tax_category.drink</kbd>             | Beverages           |           |       - |                - |   5.5% |       - |      - |   10% |      |
+| <kbd>tax_category.drink_alcohol</kbd>     | Alcoholic beverages |         - |     21% | GST 5% + PST 10% |    20% |     16% |    23% |   21% |  20% |
+|                                           |                     |           |         |                  |        |         |        |       |      |
+| <kbd>tax_category.service</kbd>           | Services            |       21% |     21% |               5% |    20% |     16% |    23% |   21% |  20% |
+
+After your `.csv` file is ready, click on <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> and Drag & Drop the file onto the pop-up. Your file will upload and when the pop-up closes by itself you will the list of uploaded products all enabled. 
+
+<span class="badge badge-warning">IMPORTANT:</span><span> After the products have been uploaded you need to set an **picture**, **options/extras**, **allergens** and **restricted diets** individually for each product.</span>
+
+
+
+
