@@ -65,7 +65,7 @@ Here you can select the tax category corresponding to each product. These tax ca
 <span class="badge badge-info">INFO:</span><span> If the tax categories are different or change for your country please contact the developer [here](mailto:dev@cooopcycle.org).</span>
 
 #### Options
-Here you will see the Options or Extras that you can append to each product. For setting up Options see the docs [here]().
+Here you will see the Options or Extras that you can append to each product. Before being able to set options for each product you need to add new options. To learn how to do that go [here]().
 
 #### Allergens
 Here you can select multiple allergens to be found in the overall Product (including the Options).  

@@ -20,11 +20,11 @@ These are all the settings that can be configured:
 - stats
 - schedule 
 
-Navigate to Products:
+**Navigate to Products:**
 
 1. Click on `Restaurants` at the top menu
 2. Find the Restaurant you want to update and click on the number to the left of its name
-3. At the top you'll find a dedicated Restaurant bar
+3. At the top you'll find a dedicated Restaurant navigation menu
 4. On the right-hand side you'll find the settings mentioned above.
 5. By clicking on any of the above settings you'll be take to the respective documentation
 
