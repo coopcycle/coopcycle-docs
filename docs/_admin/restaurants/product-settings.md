@@ -9,16 +9,17 @@ nav_order: 3
 <div class="alert alert-info" role="alert">
 Here is where you can set up the online listing of products and its additional settings for a Business accoount.</div>
 
-These are all the settings that can be configured:
-- products
-- options/extras for products
-- create different menus
-- orders dashboard
-- preparation times
-- promotions for customers
-- deposit-refund for packaging
-- stats
-- schedule 
+These are all the settings that can be configured: 
+
+[Products](#-products)  
+[Options/extras for products](#-options)  
+[Create different menus]() **COMING SOON**  
+[Orders dashboard]() **COMING SOON**  
+[Preparation times]() **COMING SOON**  
+[Promotions for customers]() **COMING SOON**  
+[Deposit-refund for packaging]() **COMING SOON**  
+[Stats]() **COMING SOON**  
+[Schedule]() **COMING SOON**  
 
 **Navigate to Products:**
 
@@ -31,3 +32,7 @@ These are all the settings that can be configured:
 ## <i class="fa fa-database"></i> Products
 
 {% include_relative _includes/products.md %}
+
+## <i class="fa fa-sliders"></i> Options
+
+{% include_relative _includes/extras.md %}
