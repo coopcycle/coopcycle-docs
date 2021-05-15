@@ -11,23 +11,17 @@ Here is where you can set up the online listing of products and its additional s
 
 These are all the settings that can be configured: 
 
-[Products](#-products)  
-[Options/extras for products](#-options)  
-[Create different menus]() **COMING SOON**  
-[Orders dashboard]() **COMING SOON**  
-[Preparation times]() **COMING SOON**  
-[Promotions for customers]() **COMING SOON**  
-[Deposit-refund for packaging]() **COMING SOON**  
-[Stats]() **COMING SOON**  
-[Schedule]() **COMING SOON**  
+[<span><i class="fa fa-database" aria-hidden="true"></i> Products</span>](#-products)  
+[<span><i class="fa fa-sliders" aria-hidden="true"></i> Options</span>](#-options)  
+[<span><i class="fa fa-cube" aria-hidden="true"></i> Orders</span>]() **COMING SOON**  
+[<span><i class="fa fa-list" aria-hidden="true"></i> Menus</span>](#-menus) **COMING SOON**  
+[<span><i class="fa fa-cutlery" aria-hidden="true"></i> Active menu</span>](#-active-menu) **COMING SOON**  
+[<span><i class="fa fa-clock-o" aria-hidden="true"></i> Planning</span>]() **COMING SOON**  
+[<span><i class="fa fa-bar-chart" aria-hidden="true"></i> Statistics</span>]() **COMING SOON**  
+[<span><i class="fa fa-percent" aria-hidden="true"></i> Promotions</span>]() **COMING SOON**  
+[<span><i class="fa fa-clock-o" aria-hidden="true"></i> Preparation</span>]() **COMING SOON**  
 
-**Navigate to Products:**
-
-1. Click on `Restaurants` at the top menu
-2. Find the Restaurant you want to update and click on the number to the left of its name
-3. At the top you'll find a dedicated Restaurant navigation menu
-4. On the right-hand side you'll find the settings mentioned above.
-5. By clicking on any of the above settings you'll be take to the respective documentation
+Go to the main settings of a Restaurant. At the right-hand side of its name you will see the settings from above laid out vertically.
 
 ## <i class="fa fa-database"></i> Products
 
@@ -36,3 +30,8 @@ These are all the settings that can be configured:
 ## <i class="fa fa-sliders"></i> Options
 
 {% include_relative _includes/extras.md %}
+
+## <i class="fa fa-list"></i> Menus
+
+{% include_relative _includes/menus.md %}
+
