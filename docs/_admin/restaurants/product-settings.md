@@ -14,8 +14,8 @@ These are all the settings that can be configured:
 [<span><i class="fa fa-database" aria-hidden="true"></i> Products</span>](#-products)  
 [<span><i class="fa fa-sliders" aria-hidden="true"></i> Options</span>](#-options)  
 [<span><i class="fa fa-cube" aria-hidden="true"></i> Orders</span>]() **COMING SOON**  
-[<span><i class="fa fa-list" aria-hidden="true"></i> Menus</span>](#-menus) **COMING SOON**  
-[<span><i class="fa fa-cutlery" aria-hidden="true"></i> Active menu</span>](#-active-menu) **COMING SOON**  
+[<span><i class="fa fa-list" aria-hidden="true"></i> Menus</span>](#-menus)   
+[<span><i class="fa fa-cutlery" aria-hidden="true"></i> Active menu</span>](#-active-menu)  
 [<span><i class="fa fa-clock-o" aria-hidden="true"></i> Planning</span>]() **COMING SOON**  
 [<span><i class="fa fa-bar-chart" aria-hidden="true"></i> Statistics</span>]() **COMING SOON**  
 [<span><i class="fa fa-percent" aria-hidden="true"></i> Promotions</span>]() **COMING SOON**  
