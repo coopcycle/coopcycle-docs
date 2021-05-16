@@ -25,7 +25,7 @@ Type here the description of the product, especially listing the ingredients and
 #### **Enabled**
 By ticking the checkbox ☑️ the product will be visible and available for purchase.  
 By unticking the checkbox ⬜️ the product will still be visible yet it will be greyed out and unavailable for purchase.  
-<span class="badge badge-primary">TIP:</span><span> In order to remove a product completely from being visible on the Restaurant homepage, please see these docs.</span> 
+<span class="badge badge-primary">TIP:</span><span> In order to remove a product completely from being visible on the Restaurant homepage, please see these docs (COMING SOON).</span> 
 
 ---
 #### **Price (tax excl.)**
@@ -117,12 +117,15 @@ On the left-hand side of the Product name and description you will see a camera 
 
 By clicking on the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button you can upload a spreadsheet in the `.csv` file previously created on your device and you can download an example spreadsheet on how to populate your products `.csv` file.
 
-<span class="badge badge-info">INFO:</span><span> Because tax categories are different with each country, the example spreadsheet is different on the Platform for each country.</span>
+<div class="shadow p-3 mb-5 bg-white rounded border border-info"><span class="badge badge-info">INFO:</span><span> Because tax categories are different with each country, the example spreadsheet is different on the Platform for each country.</span></div>
 
-<span class="badge badge-warning">IMPORTANT:</span>
-- The content highlighted in <kbd>black</kbd> has to stay exactly the same in the `.csv` file. The same applies for all the other tax wordings.
-- Make sure the price includes the correspoding tax
-- Price is translated this way: `150` → `1.50` and `2500` → `25.00`
+<div class="shadow p-3 mb-5 bg-white rounded border border-warning">
+<span class="badge badge-warning">IMPORTANT:</span> The content highlighted in <kbd>black</kbd> has to stay exactly the same in the <code>.csv</code> file. The same applies for all the other tax wordings.
+<ul>
+<li>Make sure the price includes the correspoding tax</li>
+<li>Price is translated this way: <code>150</code> → <code>1.50</code> and <code>2500</code> → <code>25.00</code></li>
+</ul>
+</div>
 
 Below you can find an example as well:
 
@@ -153,7 +156,3 @@ This spreadsheet only shows general examples of tax category. Below this example
 After your `.csv` file is ready, click on <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> and Drag & Drop the file onto the pop-up. Your file will upload and when the pop-up closes by itself you will see the list of uploaded products all enabled. 
 
 <span class="badge badge-warning">IMPORTANT:</span><span> After the products have been uploaded you need to set an **picture**, **options/extras**, **allergens** and **restricted diets** individually for each product.</span>
-
-
-
-

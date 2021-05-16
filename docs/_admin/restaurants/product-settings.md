@@ -16,7 +16,7 @@ These are all the settings that can be configured:
 [<span><i class="fa fa-cube" aria-hidden="true"></i> Orders</span>]() **COMING SOON**  
 [<span><i class="fa fa-list" aria-hidden="true"></i> Menus</span>](#-menus)   
 [<span><i class="fa fa-cutlery" aria-hidden="true"></i> Active menu</span>](#-active-menu)  
-[<span><i class="fa fa-clock-o" aria-hidden="true"></i> Planning</span>]() **COMING SOON**  
+[<span><i class="fa fa-clock-o" aria-hidden="true"></i> Planning</span>](#-planning)   
 [<span><i class="fa fa-bar-chart" aria-hidden="true"></i> Statistics</span>]() **COMING SOON**  
 [<span><i class="fa fa-percent" aria-hidden="true"></i> Promotions</span>]() **COMING SOON**  
 [<span><i class="fa fa-clock-o" aria-hidden="true"></i> Preparation</span>]() **COMING SOON**  
@@ -34,4 +34,8 @@ Go to the main settings of a Restaurant. At the right-hand side of its name you 
 ## <i class="fa fa-list"></i> Menus
 
 {% include_relative _includes/menus.md %}
+
+## <i class="fa fa-clock-o"></i> Planning
+
+{% include_relative _includes/planning.md %}
 
