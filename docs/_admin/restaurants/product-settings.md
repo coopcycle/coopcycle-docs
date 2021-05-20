@@ -39,3 +39,6 @@ Go to the main settings of a Restaurant. At the right-hand side of its name you 
 
 {% include_relative _includes/planning.md %}
 
+## <i class="fa fa-bar-chart"></i> Statistics
+
+{% include_relative _includes/statistics.md %}

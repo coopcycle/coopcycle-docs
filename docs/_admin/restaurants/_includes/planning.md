@@ -1,8 +1,8 @@
 <div class="alert alert-info" role="alert">
-Here you can set a time-off period for a Restaurant. This will show a message on the homepage of the Restaurant to customers, stating the Restaurant is closed during a certain period.
+Here you can set a time-off period for a Restaurant. This will show a message on the homepage of the Restaurant to customers, stating the Restaurant is closed during a certain period.<hr>This setting is found under <strong>More options</strong> → <span><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Planning</strong></span>
 </div>  
 
-This setting is found under **More options** → <span><i class="fa fa-clock-o" aria-hidden="true"></i> <strong>Planning</strong></span>
+
 
 #### **Closing from/to**
 

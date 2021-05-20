@@ -32,7 +32,7 @@ These settings apply for the Collection section as well.
 When you've just created a business/restaurant from <span class="badge badge-success">+ Create a new restaurant</span> the Delivery Time slot under Fulfillment will show no time slots.
 Click <span class="badge badge-success">Add</span> to create a new time slot.
 
-[![](/assets/images/deliveryTimeSlotsAdd.png)](/assets/images/deliveryTimeSlotsAdd.png){:target="\_blank"}
+<p class="shadow-sm p-3 mb-5 bg-white rounded"><a href="/assets/images/deliveryTimeSlotsAdd.png" target="\_blank" rel="noopener noreferrer"><img src="/assets/images/deliveryTimeSlotsAdd.png" alt="Add a new timeslot"></a></p>
 
 By clicking <span class="badge badge-success">Add</span> a new time slot field will become available. Choose the corresponding Time and Days. See example below:
 
