@@ -5,20 +5,20 @@ parent: Orders
 ---
 
 # Refunds
-<div class="alert alert-" role="alert">
+<div class="alert alert-info" role="alert">
 The liable party depends on whether the refund is for an invididual Restaurant order or for a Hub order. 
 </div>
 ---
 <div class="shadow p-3 mb-5 bg-white rounded border border-danger">
 <span class="badge badge-danger">IMPORTANT:</span>
-<span> Hubs is still <em>work in progress</em></span>
+<span> Hubs is still a <em>work in progress</em>, the following docs abou Refunds is only for individual Restaurants.</span>
 </div>
 
 When making a refund of an order, the refunded amount is returned to the customer from the Restaurant Stripe account. This is because the Restaurant is the one responsible for paying the Stripe fees.
 
 <div class="shadow p-3 mb-5 bg-white rounded border border-danger">
 <span class="badge badge-danger">IMPORTANT:</span>
-<span> Each time a Refund is made, the Coop owes the Restaurant the refunded amount if the Coop is the liable party.<br><strong>Be aware that Stripe charges a fee for each transaction. <a href="https://stripe.com/pricing">See fees here</a></strong>.</span>
+<span> Each time a Refund is made, the Coop owes the Restaurant the refunded amount if the Coop is the liable party.<br><strong>Be aware that Stripe charges a fee for each refund transaction. <a href="https://stripe.com/pricing">See fees here</a></strong>.</span>
 </div>
 
 ## How to make a refund
