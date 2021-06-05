@@ -5,39 +5,32 @@ has_children: true
 nav_order: 4
 ---
 
-The delivery tab is used to display the list of deliveries and tasks.
+# Deliveries
 
-## Orders list
+<div class="alert alert-info" role="alert">
+Here you will find all the settings related to last mile deliveries. 
+</div>
 
-<span class="zoomable">![Tableau de bord](/assets/images/livraisons_fr.png)</span>
+---
 
-This list groups together all the tasks and deliveries carried out on the platform. The following information is available:
-  - ID, the task number
-  - Type of task
-  - Deposit
-  - Withdrawal
-  - Deadline (date and time)
-  - Name of the courier
-  - Delivery address
+By clicking on <span><i class="fa fa-bicycle" aria-hidden="true"></i> Deliveries</span> the main screen will display all the deliveries from Stores and from the External Form.
 
-## Create / Edit an order
+On the left-hand side are displayed settings related to both Deliveries and Orders.
 
-Creating a delivery is done by clicking on the button at the top right of the task list screen. A delivery consists of the following elements:
-- Vehicle type
-  - Bike
-  - Cargo bike
-- Weight (in grams)
-- Withdrawal
-  - Field: address
-  - Postal code
-  - City
-  - Time and day of withdrawal
-  - Textarea field: specific instructions for the delivery man
-- Deposit
-  - Field: address
-  - Postal code
-  - City
-  - Time and day of filing
-  - Textarea field: specific instructions for the delivery person
+On the Deliveries main page you can do the following:
 
-On the right, in addition to the map which displays the delivery route, you can either choose a price to apply to the delivery, or enter a free price.
+## Search 
+You can search deliveries by delivery number, store or address.
+
+## <span><i class="fa fa-upload" aria-hidden="true"></i> Import<span>
+You can import a `.csv` file with multiple deliveries for a specific store.
+
+By clicking on <span><i class="fa fa-upload" aria-hidden="true"></i> Import<span> a pop-up will display prompting you to choose a Store and upload a `.csv` file. You can also download an example spreadsheet to learn how to set up your import file.
+
+## <span><i class="fa fa-download" aria-hidden="true"></i> Export<span>
+You can export a `.csv` file of a specific time range containing Deliveries from all stores.
+
+## <span><i class="fa fa-plus" aria-hidden="true"></i> Create a new delivery<span>
+You can create a single delivery for a specific store.
+
+Deliveries are split in three sections, **Today**, **Upcoming** and **Past**.
