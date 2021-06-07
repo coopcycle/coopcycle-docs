@@ -6,7 +6,7 @@ parent: Deliveries
 
 # API
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 API to integrate the CoopCycle plugin with third-party websites, such as a WordPress websites with WooCommerce.
 <hr><p class="mb-0">API is a pair of <em>keys</em> (<strong>Identifier</strong> and <strong>Secret key</strong>) which you use to integrate different softwares.</p>
 </div>
@@ -25,11 +25,11 @@ These purchases (orders) will show up under your client's Store account.
 
 ## Create the API keys
 
-<div class="alert alert-warning" role="alert">
+<div class="alert mt-3 alert-warning" role="alert">
 Before creating the <em>keys</em> (<strong>Identifier</strong> and <strong>Secret key</strong>) you need to create a Store for that business.
 </div>
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 A pair of API keys are created for each individual Store.
 </div>
 
@@ -44,7 +44,7 @@ After you've created the keys, you will be automatically directed to the API mai
 
 ## Use the API keys
 
-<div class="alert alert-danger" role="alert">
+<div class="alert mt-3 alert-danger" role="alert">
 ⚠️ Only share these keys with the developer of your client's website who will set up the CoopCycle API.
 </div>
 

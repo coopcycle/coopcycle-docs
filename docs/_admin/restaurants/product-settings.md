@@ -6,7 +6,7 @@ nav_order: 3
 ---
 # Product settings
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here is where you can set up the online listing of products and its additional settings for a Business accoount.</div>
 
 These are all the settings that can be configured: 

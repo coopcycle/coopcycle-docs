@@ -5,13 +5,13 @@ slug: creating-deliveries
 nav_order: 2
 ---
 
-<div class="alert alert-success" role="alert">
+<div class="alert mt-3 alert-success" role="alert">
 A common usage of the API is to create deliveries. For example, an external e-commerce website offering local shipping options may want to push deliveries directly to our system.
 </div>
 
 ---
 
-<div class="alert alert-warning" role="alert">
+<div class="alert mt-3 alert-warning" role="alert">
 ⚠️ Make sure to send the following HTTP headers with your requests!
 </div>
 

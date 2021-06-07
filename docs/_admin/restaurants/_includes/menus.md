@@ -1,4 +1,4 @@
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here is where you create a menu with the Products that you created previously.
 </div>
 
@@ -8,7 +8,7 @@ Here is where you create a menu with the Products that you created previously.
 4. Click <span class="badge badge-primary"> Save</span>
 
 ## <i class="fa fa-cutlery"></i> Active menu
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 This is the Drag & Drop menu editor. When saving your first Menu, the <strong>Active menu</strong> setting will show on the top Restaurant settings. By clicking on it it will open the Menu Editor on the currenty activated menu. 
 </div>  
 

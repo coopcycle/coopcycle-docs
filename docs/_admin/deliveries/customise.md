@@ -6,7 +6,7 @@ parent: Deliveries
 
 # Customize
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can customize the front-page of your instance and add your coop's legal documentation.
 </div>
 
@@ -20,7 +20,7 @@ Navigate to your instance to check it out.
 
 ![](/assets/images/2020-11-07-20-18-53.png)
 
-<div class="alert alert-success" role="alert">
+<div class="alert mt-3 alert-success" role="alert">
 <h3 class="alert-heading">💡 Markdown</h3>The text boxes where you write your custom documentation are in Markdown format. You can write your docs in plain text or check <a href="https://www.markdownguide.org/" class="alert-link">here</a> on how to format in Markdown, it's super easy and fun!
 </div>
 
@@ -37,7 +37,7 @@ Here you can insert a short description of your coop in the box on the left (Mar
 
 ---
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 The following <strong>three</strong> sections are displayed in the links in the footer of your instance. You have to <strong>enable</strong> ☑️ each, otherwise the default CoopCycle documentation will be displayed.
 </div>
 

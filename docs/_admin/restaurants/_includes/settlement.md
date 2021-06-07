@@ -1,4 +1,4 @@
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here is where you set up all payments:
 <ul>
 <li>fee paid by the Customers</li>

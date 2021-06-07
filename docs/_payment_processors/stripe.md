@@ -28,13 +28,13 @@ Stripe has established itself as the "rolls-royce" of payment services. The serv
 - [Set up a Coop Stripe account](#setting-up-the-cooperatives-stripe-account) and connect it with my CoopCycle instance.
 - [Create a Restaurant Stripe account](/en/admin/restaurants/creating-a-restaurant/#creating-a-stripe-account) and connect it with the CoopCycle Restaurant account.
 
-<div class="alert alert-info">
+<div class="alert mt-3 alert-info">
     You can also ask you local coop to create a Stripe account on your behalf and they can seamlessly integrate with your e-commerce account. Then they will give you admin access to your Stripe account.
 </div>
 
 ## Setting up the Cooperative's Stripe account
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Register and connect the cooperative's Stripe account to your CoopCycle instance.
 </div>
 
@@ -58,7 +58,7 @@ Register and connect the cooperative's Stripe account to your CoopCycle instance
 
 ### Connect your Stripe account to your CoopCycle instance
 
-<div class="alert alert-warning" role="alert">
+<div class="alert mt-3 alert-warning" role="alert">
 <strong>It is important to follow these steps carefully.</strong>
 </div>
 

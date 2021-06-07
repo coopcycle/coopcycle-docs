@@ -1,6 +1,6 @@
 <!-- #comment Change "General" for "Account details" -->
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can set the account details for the restaurant.
 </div>
 

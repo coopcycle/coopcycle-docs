@@ -7,7 +7,7 @@ nav_order: 4
 
 # Deliveries
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you will find all the settings related to last mile deliveries. 
 </div>
 
@@ -34,3 +34,4 @@ You can export a `.csv` file of a specific time range containing Deliveries from
 You can create a single delivery for a specific store.
 
 Deliveries are split in three sections, **Today**, **Upcoming** and **Past**.
+

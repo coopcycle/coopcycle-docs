@@ -5,7 +5,7 @@ parent: Orders
 ---
 
 # Refunds
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 The liable party depends on whether the refund is for an invididual Restaurant order or for a Hub order. 
 </div>
 ---

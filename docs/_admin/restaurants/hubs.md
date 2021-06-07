@@ -8,7 +8,7 @@ nav_exclude: false
 
 # Hubs
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 A hub allows grouping together Restaurants sharing one pickup address under one (1) delivery fee.
 </div>
 

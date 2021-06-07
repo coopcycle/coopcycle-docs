@@ -1,4 +1,4 @@
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 This section allows you to configure the Collection and Delivery schedule along with other related settings.
 </div>
 
@@ -14,7 +14,7 @@ Make sure you scroll down too see the settings for each section.
 
 ## Delivery section
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 These settings apply for the Collection section as well.
 </div>
 
@@ -22,7 +22,7 @@ These settings apply for the Collection section as well.
 
 ## Delivery time slots
 
-<div class="alert alert-warning" role="alert">
+<div class="alert mt-3 alert-warning" role="alert">
 <ul>
 <li>Time slots will be displayed on the homepage of the business</li>
 <li>They will act as the Delivery Hours of the business.</li>
@@ -32,7 +32,7 @@ These settings apply for the Collection section as well.
 When you've just created a business/restaurant from <span class="badge badge-success">+ Create a new restaurant</span> the Delivery Time slot under Fulfillment will show no time slots.
 Click <span class="badge badge-success">Add</span> to create a new time slot.
 
-<p class="shadow-sm p-3 mb-5 bg-white rounded"><a href="/assets/images/deliveryTimeSlotsAdd.png" target="\_blank" rel="noopener noreferrer"><img src="/assets/images/deliveryTimeSlotsAdd.png" alt="Add a new timeslot"></a></p>
+<p class="shadow-sm p-2 mb-3 bg-white rounded"><a href="/assets/images/deliveryTimeSlotsAdd.png" target="\_blank" rel="noopener noreferrer"><img src="/assets/images/deliveryTimeSlotsAdd.png" alt="Add a new timeslot"></a></p>
 
 By clicking <span class="badge badge-success">Add</span> a new time slot field will become available. Choose the corresponding Time and Days. See example below:
 

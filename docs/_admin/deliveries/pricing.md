@@ -6,7 +6,7 @@ parent: Deliveries
 
 # Pricing
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can configure a custom pricing to use for Orders forms, Restaurants and Stores.<br>
 The custom pricing can contain multiple Rules and each Rule can be configured by combining the different Conditions. <!--See <a href="/en/admin/deliveries/pricing/#definitions-of-conditions">Definitions of Conditions</a> to know more.-->
 
@@ -77,7 +77,18 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 ### Definitions of conditions
 Brief description on each condition and its use.
 
-**COMING SOON**
+| CONDITIONS         | DEFINITION |
+| ------------------ | ---------- |
+| Distance (km)      | Determines the radius delivery area with the Business as the centre    |
+| Weight (kg)        | Conditions the price depending on the inputted weight of the parcel    |
+| Bike type          | Allows for a choice of "regular" or "cargo" bike    |
+| Pickup address     | Allows the selection of a Zone that contains the Pickup address    |
+| Dropoff address    | Allows the selection of a Zone that contains the Dropoff address    |
+| Difference (hours) | content    |
+| Difference (days)  | content    |
+| Doorstep dropoff   | Indicates if a delivery should be handed to the customer    |
+| Packages           | Conditions the price depending on the type of package  |
+| Items total        | Conditions the price dependand on the total amount of money on an order    |
 
 <!--
 <strong>Delivery</strong>

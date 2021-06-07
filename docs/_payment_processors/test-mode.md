@@ -7,7 +7,7 @@ nav_exclude: true
 
 # Place orders in TEST mode
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 You can only place TEST orders if you have set up:<br>
 
 <ul>
@@ -33,7 +33,7 @@ After every new Restaurant you set up, it's always best practice to place a TEST
 
 3. On the popup click on <span class="badge badge-danger">Switch to << test >> mode and enable maintenance</span> to enable TEST mode on the Platform.<br>
 
-    <div class="alert alert-danger" role="alert">
+    <div class="alert mt-3 alert-danger" role="alert">
     <h3>WARNING</h3>
     When Maintenance mode is ON (enabled) the Platform is completely disabled and it's only operable by an Admin user.
     <hr><p class="mb-0">Once the Platform is in LIVE and real orders are placed, make sure to use TEST mode after working hours, as customers won't be able to place REAL orders in TEST mode.</p>

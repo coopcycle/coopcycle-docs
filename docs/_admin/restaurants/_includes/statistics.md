@@ -1,4 +1,4 @@
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can view the statistics, orders and refunds by month or by date.<hr>
 This setting is found under <strong>More options</strong> → <span><i class="fa fa-bar-chart" aria-hidden="true"></i> <strong>Statistics</strong></span>
 </div>

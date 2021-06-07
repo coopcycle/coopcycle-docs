@@ -1,4 +1,4 @@
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can create and set options for Products.
 </div>
 

@@ -6,11 +6,11 @@ nav_order: 1
 
 ## Using the CoopCycle API
 
-<div class="alert alert-success" role="alert">
+<div class="alert mt-3 alert-success" role="alert">
   <a href="https://demo.coopcycle.org/api/docs">Open API / Swagger documentation</a>
 </div>
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
   <img src="/assets/images/php-logo.svg" width="48">
   <span>Using PHP? Install the <a href="https://github.com/coopcycle/coopcycle-php-sdk">CoopCycle PHP SDK</a></span>
 </div>

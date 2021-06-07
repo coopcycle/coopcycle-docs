@@ -7,7 +7,7 @@ parent: Orders
 
 # Promotions
 
-<div class="alert alert-" role="alert">
+<div class="alert mt-3 alert-" role="alert">
 Promotions can be set up by the Coop admin or the Restaurant admin.<br>
 <a href="">Click here if you're a Coop admin</a><br>
 <a href="">Click here if you're a Restaurant admin</a>
@@ -17,7 +17,7 @@ Promotions can be set up by the Coop admin or the Restaurant admin.<br>
 
 ## Creating promotions as a Coop admin
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Promotions created by the Coop admin are usable for <strong>any</strong> Restaurant on the Platform.
 </div>
 
@@ -32,7 +32,7 @@ Promotions created by the Coop admin are usable for <strong>any</strong> Restaur
    
    ### Create a free delivery
 
-   <div class="alert alert-info" role="alert">
+   <div class="alert mt-3 alert-info" role="alert">
    This allows you to offer free delivery.
    </div>
 
@@ -73,7 +73,7 @@ Promotions created by the Coop admin are usable for <strong>any</strong> Restaur
 
    ### Create a credit note
 
-   <div class="alert alert-info" role="alert">
+   <div class="alert mt-3 alert-info" role="alert">
    This allows you to offer a specific discount on Orders from all or one specific Restaurant to all or one specific Customer.
    </div>
 
@@ -107,7 +107,7 @@ Promotions created by the Coop admin are usable for <strong>any</strong> Restaur
 
 ## Creating promotions as a Restaurant admin
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Promotions here are specific for each Restaurant.
 </div>
 
@@ -123,7 +123,7 @@ On the Restaurant settings page, click **More options** on the top bar on the ri
    2. Based on items total
 
 ### Offer delivery fees
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 This allows the Restaurant to offer free delivery on their own money.
 </div>
 
@@ -132,7 +132,7 @@ See [Create a free delivery](#create-a-free-delivery) above to learn how to set 
 
 ### Based on items total
 
-<div class="alert alert-" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can set a specific discount if the Order cost is over a specified amount.
 </div>
 

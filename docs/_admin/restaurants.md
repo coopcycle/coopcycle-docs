@@ -6,7 +6,7 @@ has_children: true
 
 # Restaurants (admin access)
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 This section describes the process of setting up a restaurant on the CoopCycle platform. Don't hesitate to ask for help [contact@coopcycle.org](mailto:contact@coopcycle.org) to configure the first restaurants.
 </div>
 

@@ -1,5 +1,5 @@
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Here you can add and modify products. These will show on the homepage of each Business.<br><br>
 There are two ways of adding new products:
 Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button on the top-right corner or by <strong>importing</strong> a <code>.csv</code> file using the <span class="badge badge-success"><i class="fa fa-upload"></i> Import</span> button.
@@ -8,7 +8,7 @@ Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span
 ---
 ### Using the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 You can add an image for each product after you've filled in the respective fields and saved your settings.
 </div>
 

@@ -6,7 +6,7 @@ parent: Deliveries
 
 # External display (Order form)
 
-<div class="alert alert-info" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 The <strong>order form</strong> can be embedded on any website external to the CoopCycle platform. It allows for anyone to place an order on your instance without requiring a user account.
 </div>
 

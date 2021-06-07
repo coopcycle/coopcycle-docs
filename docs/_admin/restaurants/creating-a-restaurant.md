@@ -33,7 +33,7 @@ nav_order: 1
 
 ## Creating a Restaurant Stripe account
 
-<div class="alert alert-primary" role="alert">
+<div class="alert mt-3 alert-primary" role="alert">
 If your are here, it means you have already set up your <strong>Coop's Stripe account</strong>.<br>If that's not the case, please proceed by doing the aforementioned <a href="/en/payment_processors/stripe/#setting-up-the-cooperatives-stripe-account"><strong>here</strong></a>.
 </div>
 
