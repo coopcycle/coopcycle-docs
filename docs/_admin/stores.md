@@ -44,6 +44,7 @@ Stores, also known as <em>Backoffice</em>, are accounts without an e-commerce ou
    <span class="badge badge-warning">IMPORTANT:</span>
    <span> Make sure to check ☑️ the <strong>Create orders</strong> option. This will allow store owners to create orders.</span>
    </div>
+   
    - Pre-fill automatically pickup address will fill in the store address each time a store owner creates a delivery.
    - Require input of weight will make the **weight** field mandatory when creating an order.
    - Require input of packages will make the **packages** option mandatory when creating an order.

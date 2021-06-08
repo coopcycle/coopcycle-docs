@@ -17,13 +17,13 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 ## Create a custom pricing
 1. From the top menu go to `Deliveries`
 2. On the left-hand side go to `Pricing`
-3. Click on <span class="badge badge-success">+ Create a new pricing</span>
+3. Click on <span class="badge badge-success"><i class="fa fa-plus"></i> Create a new pricing</span>
 4. Give the Pricing a name.
    
    <span class="badge badge-info">TIP:</span><span> The pricing name can be the name of the Order Form, Store, Restaurant or a specific name that makes it easy to know what the custom pricing is meant for</span>.
-5. Under **Rules** click on <span class="badge badge-success">+ Add rule</span>
+5. Under **Rules** click on <span class="badge badge-success"> <i class="fa fa-plus"></i> Add rule</span>
 6. Write the price of the rule at the bottom
-7. Click on <span class="badge badge-warning">+ Add condition</span> to add one or as many conditions as necessary (to know more see Definitions of conditions).
+7. Click on <span class="badge badge-warning"><i class="fa fa-plus"></i> Add condition</span> to add one or as many conditions as necessary (to know more see Definitions of conditions).
 8. Choose a **method of calculation**:
    
       <span class="badge badge-info">INFO: </span><span> <strong>A matching rule</strong> is a rule where <strong>all</strong> the Conditions are true </span>.
@@ -75,40 +75,17 @@ The custom pricing can contain multiple Rules and each Rule can be configured by
 
 
 ### Definitions of conditions
-Brief description on each condition and its use.
+Brief description on each condition.
 
-| CONDITIONS         | DEFINITION |
-| ------------------ | ---------- |
-| Distance (km)      | Determines the radius delivery area with the Business as the centre    |
-| Weight (kg)        | Conditions the price depending on the inputted weight of the parcel    |
-| Bike type          | Allows for a choice of "regular" or "cargo" bike    |
-| Pickup address     | Allows the selection of a Zone that contains the Pickup address    |
-| Dropoff address    | Allows the selection of a Zone that contains the Dropoff address    |
-| Difference (hours) | content    |
-| Difference (days)  | content    |
-| Doorstep dropoff   | Indicates if a delivery should be handed to the customer    |
-| Packages           | Conditions the price depending on the type of package  |
-| Items total        | Conditions the price dependand on the total amount of money on an order    |
-
-<!--
-<strong>Delivery</strong>
-<ul>
-<li>Distance (km)</li>
-<li>Weight (kg)</li>
-<li>Bike type</li>
-<li>Pickup address</li>
-<li>Dropoff address</li>
-<li>Difference (hours)</li>
-<li>Difference (days)</li>
-<li>Doorstep dropoff</li>
-<li>Packages</li>
-</ul>
-<strong>Order</strong>
-<ul>
-<li>Items total</li>
-</ul>
--->
-
-
-
-
+| CONDITIONS             | DEFINITION                                                                                                              |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| **Distance (km)**      | Determines the radius delivery area with the Business as the centre                                                     |
+| **Weight (kg)**        | Conditions the price depending on the inputted weight of the parcel                                                     |
+| **Bike type**          | Allows for a choice of "regular" or "cargo" bike                                                                        |
+| **Pickup address**     | Allows the selection of a Zone that contains the Pickup address                                                         |
+| **Dropoff address**    | Allows the selection of a Zone that contains the Dropoff address                                                        |
+| **Difference (hours)** | Allows inputting a number indicating how many hours ahead a Delivery has to be placed. It can also condition the price. |
+| **Difference (days)**  | Allows inputting a number indicating how many days ahead a Delivery has to be placed. It can also condition the price.  |
+| **Doorstep dropoff**   | Indicates if a delivery should be handed to the customer                                                                |
+| **Packages**           | Conditions the price depending on the type of package                                                                   |
+| **Items total**        | Conditions the price dependand on the total amount of money on an order                                                 |

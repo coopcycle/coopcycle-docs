@@ -7,18 +7,34 @@ parent: Deliveries
 # External display (Order form)
 
 <div class="alert mt-3 alert-info" role="alert">
-The <strong>order form</strong> can be embedded on any website external to the CoopCycle platform. It allows for anyone to place an order on your instance without requiring a user account.
+The <strong>Order form</strong> can be embedded on any website external to the CoopCycle platform. It allows for anyone to place and pay for an order on your instance without requiring a user account.<br>
+The platform allows you to create multiple, independent delivery forms.
 </div>
 
 ---
 
-### Delivery creation form
+## Creation delivery form
 
-1. Click the <span class="badge badge-success">+ Add</span> button
-2. Choose a **Pricing**
-3. Choose a **Time slot** or select the deafult option.
-    **a.** The default option allows for custom date and time selection.
-4. Select the default option for **Package set**
-    <code><strong>Package set</strong> option will be deprecated in the near future.</code>
-5. **Add vechicle choice**. If checked it will give a simple choice to the customer to select between **biycle** or **cargo bike**.
-6. If checked, **Ask for weight of goods** make it mandatory to the customer to insert the weight of their in **kilograms**.
+1. Click the <span class="badge badge-success"><i class="fa fa-plus"></i> Add</span> button
+   ### **Pricing**
+   Choose a pricing that corresponds for each Order form.
+
+   See here on how to [create a pricing](/en/admin/deliveries/pricing/).
+   ### **Time slot**
+   Choose a time slot that corresponds for each Order form. 
+
+   The default option `Choose a time slot` allows the user to select a custom time.
+
+   See here on how to [create a time slot](/en/admin/deliveries/timeslots/).
+
+   ### **Package set**
+   Choose a package that corresponds for each Order form.
+
+   See here on how to [create a package](/en/admin/deliveries/packages/)
+
+   ### Add a vehicle choice
+   Checking ☑️ this option will give the user a choice between a **regular bicycle** or a **cargo bike** to choose from dependant on their parcel size.
+
+   ### Ask for weight of goods
+
+   This will display and make the **weight** field mandatory when creating an order.
