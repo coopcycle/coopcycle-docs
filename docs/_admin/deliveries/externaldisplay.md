@@ -38,3 +38,12 @@ The platform allows you to create multiple, independent delivery forms.
    ### Ask for weight of goods
 
    This will display and make the **weight** field mandatory when creating an order.
+
+2. Click <span class="badge badge-primary">Save</span>.
+
+
+When clicking save you will be taken to the previous page where you will see the created form. Click on the code ID, the random letters on the left-hand side. 
+
+Below the form setting you inputted earlier the necessary code will be displayed which allows the form to be embedded on an external website.
+
+Contact your developer to help you embed the form or contact CoopCycle at `dev [at] coopcycle [dot] org`.  

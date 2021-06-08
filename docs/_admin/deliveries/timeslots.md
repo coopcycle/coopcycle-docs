@@ -4,43 +4,39 @@ title: Timeslots
 parent: Deliveries
 ---
 
-# Time slots (for Stores and Order forms)
----
+# Time slots
 
-**Time Slots** allow to configure what time ranges will be proposed to a user requesting a delivery.
+<div class="alert mt-3 alert-" role="alert">
+Here you can create multiple time slots that can be used for Order forms, Restaurants and Stores.
+</div>
 
-In most cases, we don't want to let users decide of a precise time when the delivery needs to be done.
-Instead, we want them to choose a time range (for example, between 2PM and 4PM), so that we can organize with the other jobs.
+On the main Time slots page a list of all the created timeslots is displayed. 
 
-In the end, a **Time Slot** will translate to a dropdown like on the image below
+To create a time slot click on <span class="badge badge-success"> <i class="fa fa-plus"></i> Add</span>.
 
-![Time Slot Dropdown](/assets/images/time_slot_dropdown_en.png)
+## Time slot preview
 
----
+Here you can preview how the timeslot will look like as you're setting it up.
 
-## Configuring Time Slots
+## Name
+Type in a easily identifiable name for the time slot.
 
-Depending on the way ou are working, you can either create a unique **Time Slot** for everybody, or create a custom **Time Slot** per customer.
+## Interval
+Indicates how many working days ahead an order can be placed.
 
-![Time Slots](/assets/images/time_slots_en.png)
+## Prior notice (hours)
 
-### Interval
+--
 
-The **Interval** setting allows to change the number of days that will appear in the dropdown.
-More or less, it allows to configure how much time in advance the user will be allowed to order a delivery.
+## Same day cutoff
 
-Actually, it's more complicated than that… because there are weekends.
+This setting allows orders to be delivered on the same day if orders are placed before the appointed time. Or it allows orders to be delivered the next day if orders are placed after the appointed time.
 
-For example, let's say that you configure « 2 days », only during the week (from Monday to Friday).
-On Saturdays, the user will still be allowed to choose time ranges on Monday and Tuesday.
+## Delivery time slots
 
-### Prior Notice
+<div class="shadow p-3 mt-3 mb-3 bg-white rounded border border-danger">
+<span class="badge badge-danger">ATTENTION:</span>
+<span> <strong>Mode simple</strong> will be deprecated. Instead use <strong>Mode avancé</strong></span>
+</div>
 
-The **Prior Notice** setting allows to decide how much time in advance the user will be allowed to choose a time range.
-
-For example, let's say that you configure a time range from 4PM to 6PM, with a 2 hours prior notice.
-It means that the user will be able to select the 4PM-6PM time range until 2PM.
-
-### Same Day Cutoff
-
-The **Same Day Cutoff** setting allows to decide until which time of the day it is possible to order for the same day.
+See here on how to set up <a href="/en/admin/restaurants/general-settings/#delivery-time-slots">Delivery time slots</a>.
