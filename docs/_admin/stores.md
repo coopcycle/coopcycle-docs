@@ -94,7 +94,7 @@ Stores, also known as <em>Backoffice</em>, are accounts without an e-commerce ou
    <span> Make sure the selected user has the <strong>Role</strong> <code>Store</code> checked ☑️, otherwise the user doesn't get assigned. After assigning a user you can also check ☑️ the Store role for that user and it will be automatically assigned.</span>
    </div>
 
-   See here on how to <a href="">assign Roles to Users</a>.
+   <!--See here on how to <a href="">assign Roles to Users</a>.-->
 
    ### Deliveries
 

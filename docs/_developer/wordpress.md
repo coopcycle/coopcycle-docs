@@ -4,7 +4,75 @@ title: Wordpress
 parent: Plugins
 ---
 
-Overview
+# Set up the CoopCycle plugin
+
+This requires that you've previously [set up a Store account](/en/admin/stores/) on your instance.
+
+## Set up the plugin on WordPress (WooCommerce)
+
+1. Go to **`Plugins` → `Add New`**
+
+2. Search for **`CoopCycle`** or download the plugin from [here](https://github.com/coopcycle/coopcycle-plugins/releases/download/wordpress-0.11.2/wordpress-0.11.2.zip) and upload it manually.
+
+3. Click **`Install Now`** to install CoopCycle plugin.
+
+4. Click **`Activate`** after installation has finished
+
+5. Go to **`Plugins`** → **`Installed Plugins`**
+
+6. In the plugins panel go to **`CoopCycle`** → **`Settings`**
+
+7. In the **Base URL** enter the URL of your instance: [https://demo.coopcycle.org/](https://york.coopcycle.org/)
+
+   <div class="shadow p-3 mb-3 bg-white rounded border border-danger">
+   <span class="badge badge-danger">IMPORTANT:</span>
+   <span> Make sure you type the forward slash <code>/</code> at the end of the URL</span>
+   </div>
+   
+8. If you are the developer of the Business's website, request the API keys from the Coop administrator.  
+   (Without API Keys you won't be able continue setup of the plugin).
+
+9.  Click **Save Changes** 
+
+
+10. Go to **`WooCommerce`** → **`Settings`** → **`Shipping`** tab
+
+11. Click **`Add Shipping Zone`**
+
+    <div class="shadow p-3 mb-3 bg-white rounded border border-warning">
+    <span class="badge badge-warning">ATTENTION:</span>
+    <span> If you have more than one (1) <code>Shipping zones</code> make sure to move the smnaller shipping to the top. Otherwise the Coop shipping method will not be displayed at checkout.</span>
+    </div>
+
+12. Fill out the **details** as follows:
+
+    ### Zone name
+    Type in the name of the city or the name of the Coop.
+
+
+    ### Zone region
+    Select the specific region from the dropdown menu.
+
+    <!--Click on **Limit to specific postcodes** to open an input field where you will need to enter a list of postcodes which correspond the delivery area. 
+    Download/open this file below ↓ and copy the whole list of postcodes and paste it in the `Zone regions` under United Kingdom.-->
+
+    Click `Save changes`.
+
+
+13. Click **Add shipping method** on the same screen.
+
+
+14. Select **`CoopCycle`** from the dropdown menu and click **Add shipping method**.
+
+15. Click **Save Changes**
+
+16. Done! Add an item to your shop's cart, open your cart, and the Coop shipping method should be automatically displayed or allowed to select it.
+
+## PrestaShop
+
+### COMING SOON
+
+<!--Overview
 --------
 
 The CoopCycle plugin for WordPress allows to add a [shipping method](https://docs.woocommerce.com/document/setting-up-shipping-zones/) to WooCommerce,
@@ -48,4 +116,4 @@ The most important thing that you need to configure is the **shipping cost**.
 
 Congratulations! 🎉
 
-Now, when entering an address that matches with the shipping zone, customers will be allowed to choose the CoopCycle shipping method.
+Now, when entering an address that matches with the shipping zone, customers will be allowed to choose the CoopCycle shipping method.-->
