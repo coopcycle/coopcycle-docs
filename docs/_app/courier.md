@@ -18,7 +18,12 @@ See [Log in](en/app/install/#log-in).
 
 | Instructions  | Main screen  |
 | ------- | ------- |
-| <span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map|![](/assets/images/appCourierMainScreen.png).|
+| <span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map|<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>.|
+
+
+
+
+
    
 
 ### <span class="badge badge-danger">1</span> App menu
@@ -70,7 +75,7 @@ Tasks (pins) depending on the number of tasks and the zoom level of the map are 
 
 This screen allows yo to see all the available tasks in list form. To select the Task list screen click on <i class="fa fa-list" aria-hidden="true"></i> icon next to the map icon.
 
-Each Task when opened displays a mini-map.
+<span class="badge badge-info">INFO:</span><span> Each Task when opened displays a mini-map.</span> 
 
 ### <span class="badge badge-danger">7</span> Map
 
@@ -86,99 +91,29 @@ Each Order or Delivery are completed one Task at a time.
 | 1. Click on the desired Task (pin) on the map<br>2. Click on the Task from the pop-up<br>3. Swipe **Right** on the **Complete** button at the bottom<br>4. Click the <span class="badge badge-success"><i class="fa fa-check"></i></span> button.<br> 5. If needed, add a note and proof of delivery [see here]()<br>6. Click <span class="badge badge-success"><i class="fa fa-check"></i> Validate</span>|1. Swipe **Right** on the desired Task<br>2. Click the <span class="badge badge-success"><i class="fa fa-check"></i></span> button. <br>3. If needed, add a note and proof of delivery [see here]()<br>4. Click <span class="badge badge-success"> <i class="fa fa-check"></i> Validate</span>  |
 | ![Complete a delivery from the map screen](/assets/images/appFulfillTaskFromMap.gif) . | ![Complete a delivery from the Task list screen](/assets/images/appFulfillTaskFromTaskList.gif) . |
 
-### Start a Delivery 
+### Start a Task
 
-Starting ... test.
+Starting a task records the time you started a task. It is used to indicate when a Courier is on they way towards a pickup or a dropoff. Starting a task is useful for the Dispatcher to know at what stage in an Order or Delivery the Courier is located.
+
+Start a Task can only be selected from the Map screen after. See the first instuction `GIF` above.
 
 ### Add proof of delivery
 
+<div class="alert mt-3 alert-info" role="alert">
+This option allows taking a photograph and/or a signature as proof of delivery. 
+</div>
 
+|Instructions |Example|
+|-|-|
+|Before completing a task, at the bottom of the screen you'll find the <span class="badge badge-secondary"><i class="fas fa-signature" aria-hidden="true"></i> Add a proof of delivery <i class="fas fa-camera" aria-hidden="true"></i></span> button.|<a href="/assets/images/appAddProofOfDeliverySignatureAndPhoto.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 600px" src="/assets/images/appAddProofOfDeliverySignatureAndPhoto.gif" alt=""></a>.|
 
+### Add name of the recipent customer
 
+TO DO
 
+## Cancel or Refuse a Task
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Completing tasks
-----------------
-
-As soon as a new task is assigned to you, you will receive a notification on your phone. To access all the information concerning this task, there are two possibilities :
-
-- Either by clicking on the icon ![Task position icon](/assets/images/geoloc_icone.png) corresponding to your task on the home screen's map.
-- Either by clicking on the icon ![Task list icon](/assets/images/list_icon.png) at the bottom right of the screen and then clicking on the desired task.
-
-![Task list](/assets/images/task_list_en.png)
-
-Once the task is completed, simply swipe to the right on the "Finish" button at the bottom of the page to display the green validation button and press it twice to confirm that the task has been completed.
-
-![Task validation](/assets/images/task_validation_en.png)
-
-Otherwise, if you are faced with a problem that prevents you from completing your delivery, you can swipe to the left the "Finish" button to report a problem.
-
-![Report an issue](/assets/images/task_issue_en.png)
-
-Collectings proofs of delivery
-------------------------------
-
-Proof of delivery is collected via photo and signature.
-
-It is done from the interface of the task in question by clicking on the icon ![Access to proof of delivery](/assets/images/proof_icon.png) at the top right of the page.
-
-![Photo proof of delivery](/assets/images/photo_proof_en.png)
-
-Once the photo has been taken and the recipient's signature has been affixed, simply click on "Send image" and the images will be sent to the administrator.
-
-![Delivery signature](/assets/images/send_signature_en.png)
+| From the Map screen  | From the Task list screen  |
+| ------- | ------- |
+| 1. Click on the desired Task (pin) on the map<br>2. Click on the Task from the pop-up<br>3. Swipe **Left** on the **Complete** button at the bottom<br>4. Click the <span class="badge badge-danger"><i class="fa fa-times"></i></span> button.<br> 5. If needed, add a note and proof of *failed* delivery [see here](/en/app/courier/#add-proof-of-delivery)<br>6. Click <span class="badge badge-danger"><i class="fa fa-times"></i> Mark task as failed</span>|1. Swipe **Right** on the desired Task<br>2. Click the <span class="badge badge-danger"><i class="fa fa-times"></i></span> button. <br>3. If needed, add a note and proof of delivery [see here]()<br>4. Click <span class="badge badge-danger"> <i class="fa fa-times"></i> Mark task as failed</span>  |
+| ![Complete a delivery from the map screen](/assets/images/appMarkTaskAsFailedFromMap.gif) . | ![Complete a delivery from the Task list screen](/assets/images/appMarkTaskAsFailed.gif) . |
