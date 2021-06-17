@@ -7,7 +7,7 @@ nav_order: 4
 
 #Change the suggestions provider
 
-On the Dashboard, at the bottom section you can choose a different suggestions provider. Different providers work better depending on the region you are.
+On the Settings Page at the bottom section you can choose a different suggestions provider. Different providers work better depending on the region you are.
 The options are:
 - Algolia
 - Location IQ
@@ -20,7 +20,7 @@ Google
 If you want to use Google as a suggestions provider, you need to get a Google Api Key and enable Billing on it.
 
 
-1. Log into the Google Console with a google account: https://console.cloud.google.com, agree to ther terms and services to continue.
+1. Log into the Google Console with a google account: https://console.cloud.google.com, agree to the terms and services to continue.
 ![](/assets/images/google1.png)
 
 
