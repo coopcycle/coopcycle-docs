@@ -12,19 +12,18 @@ How to use the App as a Courier.
 </div>
 
 ## Log in
-See [Log in](en/app/install/#log-in).
+See [Log in](/en/app/install/#log-in).
+
 
 ## Main screen
 
-| Instructions  | Main screen  |
+<span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map
+
+<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>
+
+<!--| Instructions  | Main screen  |
 | ------- | ------- |
-| <span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map|<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>.|
-
-
-
-
-
-   
+| <span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map|<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>.|-->
 
 ### <span class="badge badge-danger">1</span> App menu
 
@@ -89,7 +88,7 @@ Each Order or Delivery are completed one Task at a time.
 | From the Map screen  | From the Task list screen  |
 | ------- | ------- |
 | 1. Click on the desired Task (pin) on the map<br>2. Click on the Task from the pop-up<br>3. Swipe **Right** on the **Complete** button at the bottom<br>4. Click the <span class="badge badge-success"><i class="fa fa-check"></i></span> button.<br> 5. If needed, add a note and proof of delivery [see here]()<br>6. Click <span class="badge badge-success"><i class="fa fa-check"></i> Validate</span>|1. Swipe **Right** on the desired Task<br>2. Click the <span class="badge badge-success"><i class="fa fa-check"></i></span> button. <br>3. If needed, add a note and proof of delivery [see here]()<br>4. Click <span class="badge badge-success"> <i class="fa fa-check"></i> Validate</span>  |
-| ![Complete a delivery from the map screen](/assets/images/appFulfillTaskFromMap.gif) . | ![Complete a delivery from the Task list screen](/assets/images/appFulfillTaskFromTaskList.gif) . |
+| ![Complete a delivery from the map screen](/assets/images/appFulfillTaskFromMap.gif){:target="_blank"}| ![Complete a delivery from the Task list screen](/assets/images/appFulfillTaskFromTaskList.gif){:target="_blank"}|
 
 ### Start a Task
 
@@ -103,17 +102,19 @@ Start a Task can only be selected from the Map screen after. See the first instu
 This option allows taking a photograph and/or a signature as proof of delivery. 
 </div>
 
-|Instructions |Example|
-|-|-|
-|Before completing a task, at the bottom of the screen you'll find the <span class="badge badge-secondary"><i class="fas fa-signature" aria-hidden="true"></i> Add a proof of delivery <i class="fas fa-camera" aria-hidden="true"></i></span> button.|<a href="/assets/images/appAddProofOfDeliverySignatureAndPhoto.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 600px" src="/assets/images/appAddProofOfDeliverySignatureAndPhoto.gif" alt=""></a>.|
+Before completing a task, at the bottom of the screen you'll find the <span class="badge badge-secondary"><i class="fas fa-signature" aria-hidden="true"></i> Add a proof of delivery <i class="fas fa-camera" aria-hidden="true"></i></span> button.
+
+<a href="/assets/images/appAddProofOfDeliverySignatureAndPhoto.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 300px" src="/assets/images/appAddProofOfDeliverySignatureAndPhoto.gif" alt=""></a>.
 
 ### Add name of the recipent customer
 
-TO DO
+Here you can change the name of the customer that received the parcel before you complete the delivery.
+
+<p class="shadow-sm p-1 mb-3 bg-white rounded"><a href="/assets/images/appChangeRecipientName.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 300px" src="/assets/images/appChangeRecipientName.gif" alt=""></a></p>
 
 ## Cancel or Refuse a Task
 
 | From the Map screen  | From the Task list screen  |
 | ------- | ------- |
 | 1. Click on the desired Task (pin) on the map<br>2. Click on the Task from the pop-up<br>3. Swipe **Left** on the **Complete** button at the bottom<br>4. Click the <span class="badge badge-danger"><i class="fa fa-times"></i></span> button.<br> 5. If needed, add a note and proof of *failed* delivery [see here](/en/app/courier/#add-proof-of-delivery)<br>6. Click <span class="badge badge-danger"><i class="fa fa-times"></i> Mark task as failed</span>|1. Swipe **Right** on the desired Task<br>2. Click the <span class="badge badge-danger"><i class="fa fa-times"></i></span> button. <br>3. If needed, add a note and proof of delivery [see here]()<br>4. Click <span class="badge badge-danger"> <i class="fa fa-times"></i> Mark task as failed</span>  |
-| ![Complete a delivery from the map screen](/assets/images/appMarkTaskAsFailedFromMap.gif) . | ![Complete a delivery from the Task list screen](/assets/images/appMarkTaskAsFailed.gif) . |
+| ![Complete a delivery from the map screen](/assets/images/appMarkTaskAsFailedFromMap.gif){:target="_blank"}| ![Complete a delivery from the Task list screen](/assets/images/appMarkTaskAsFailed.gif){:target="_blank"}|
