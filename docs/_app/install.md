@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Install
+title: Begin here
 nav_order: 1
 ---
 

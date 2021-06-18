@@ -110,7 +110,7 @@ Before completing a task, at the bottom of the screen you'll find the <span clas
 
 Here you can change the name of the customer that received the parcel before you complete the delivery.
 
-<p class="shadow-sm p-1 mb-3 bg-white rounded"><a href="/assets/images/appChangeRecipientName.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 300px" src="/assets/images/appChangeRecipientName.gif" alt=""></a></p>
+<p><a href="/assets/images/appChangeRecipientName.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 300px" src="/assets/images/appChangeRecipientName.gif" alt=""></a></p>
 
 ## Cancel or Refuse a Task
 
