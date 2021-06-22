@@ -3,7 +3,7 @@ layout: default
 title: Customer
 ---
 
-# Customer
+# Customer <span class="badge badge-primary">APP</span>
 
 <div class="alert mt-3 alert-" role="alert">
 How to use the App as a Customer.
@@ -25,3 +25,4 @@ See [Log in](/en/app/install/#log-in).
 |Select delivery time|Change address|Add voucher code|
 |-|-|-|
 |<a href="/assets/images/appSelectDeliveryTime.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 600px" src="/assets/images/appSelectDeliveryTime.gif" alt=""></a>.|<a href="/assets/images/appChangeAddress.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 600px" src="/assets/images/appChangeAddress.gif" alt=""></a>.|<a href="/assets/images/appAddVoucherCode.gif" target="\_blank" rel="noopener noreferrer"><img style="width: 600px" src="/assets/images/appAddVoucherCode.gif" alt=""></a>.|
+
