@@ -5,7 +5,7 @@ title: Courier
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
 
-# Courier
+# Courier <span class="badge badge-primary">APP</span>
 
 <div class="alert mt-3 alert-info" role="alert">
 How to use the App as a Courier.

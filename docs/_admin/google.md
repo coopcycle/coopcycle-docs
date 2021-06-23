@@ -85,7 +85,7 @@ This means you have successfully enabled Billing on your Google API Key.
 <p><a href="/assets/images/google12.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google12.png" alt=""></a></p>
 
 
-Finally, the API Key you copied earlier, needs to be entered in the **Google API Key** field that is displayed once **Google** is selected as a **Suggestions provider** 
+Finally, the API Key you copied earlier, needs to be entered in the **Google API Key** field that is displayed once **Google** is selected as a **Suggestions provider**.
 
 See the exmaple `.gif` below:
 

@@ -5,7 +5,7 @@ title: Customer
 
 # Customer <span class="badge badge-primary">APP</span>
 
-<div class="alert mt-3 alert-" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 How to use the App as a Customer.
 </div>
 
