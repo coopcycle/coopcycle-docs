@@ -5,6 +5,8 @@ redirect_from:
   - /
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
 <div class="jumbotron">
   <h1 class="display-4"><strong>Welcome to the CoopCycle Docs!</strong></h1>
   <p class="lead">This is the Official CoopCycle Documentation.</p>
@@ -13,7 +15,7 @@ redirect_from:
 </div>
 
 
-<!--
+
 <div class="container">
   <div class="row justify-content-around">
     <div
@@ -26,16 +28,16 @@ redirect_from:
         </h2>
         <hr />
         <p>
-          <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Connect Stripe to the Platform
-        </p>
-        <p class="card-text">
-          <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Connect Stripe to a Restaurant
+          <i class="fa fa-arrow-right" aria-hidden="true"></i><a href="/en/payment_processors/stripe/#setting-up-the-cooperatives-stripe-account">
+          Connect Stripe to the Platform</a>
         </p>
         <p>
-          <a href="#" class="btn btn-primary" role="button">Button</a>
-          <a href="#" class="btn btn-default" role="button">Button</a>
+          <i class="fa fa-arrow-right" aria-hidden="true"></i><a href="/en/payment_processors/stripe/#setting-up-the-cooperatives-stripe-account">
+          Connect Stripe to a Restaurant</a>
+        </p>
+        <p class="pt-3">
+          <a href="https://stripe.com/pricing" target="\_blank" rel="noopener noreferrer" class="btn btn-primary" role="button">Stripe fees</a>
+          <!--<a href="#" class="btn btn-default" role="button">Button</a>-->
         </p>
       </div>
     </div>
@@ -50,15 +52,15 @@ redirect_from:
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Set up the Account
+          <a href="/en/admin/restaurants/creating-a-restaurant/#creating-a-restaurant-on-coopcycle">Set up the Account</a>
         </p>
         <p class="card-text">
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Set up the Products
+          <a href="/en/admin/restaurants/product-settings/#product-settings">Set up the Products</a>
         </p>
-        <p>
-          <a href="#" class="btn btn-primary" role="button">Button</a>
-          <a href="#" class="btn btn-default" role="button">Button</a>
+        <p class="pt-3">
+          <a href="/en/admin/orders/promotions/" class="btn btn-primary" role="button">Promotions</a>
+          <a href="/en/admin/orders/refunds/" class="btn btn-light" role="button">Refunds</a>
         </p>
       </div>
     </div>
@@ -68,20 +70,20 @@ redirect_from:
     >
       <div class="card-body text-primary">
         <h2 class="card-title">
-          <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Plugins
+          <i class="fa fa-puzzle-piece" aria-hidden="true"></i> Plugins / API
         </h2>
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          WooCommerce / WordPress
+          <a href="/en/developer/wordpress/#set-up-the-plugin-on-wordpress-woocommerce">WooCommerce / WordPress</a>
         </p>
         <p class="card-text">
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Prestashop
+          Prestashop (Coming soon)
         </p>
-        <p>
-          <a href="#" class="btn btn-primary" role="button">Button</a>
-          <a href="#" class="btn btn-default" role="button">Button</a>
+        <p class="pt-3">
+          <a href="/en/developer/api/" class="btn btn-primary" role="button">API</a>
+          <!--<a href="#" class="btn btn-default" role="button">Button</a>-->
         </p>
       </div>
     </div>
@@ -91,26 +93,25 @@ redirect_from:
     >
       <div class="card-body text-primary">
         <h2 class="card-title">
-          <i class="fa fa-upload" aria-hidden="true"></i> Import
+          <i class="fas fa-mobile-alt"></i> App
         </h2>
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Import file with tasks
+          <a href="/en/app/courier/">Use app as a Courier</a>
         </p>
         <p class="card-text">
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          Import file with products
+          <a href="/en/app/restaurant/">Use app as a restaurant</a>
         </p>
-        <p>
-          <a href="#" class="btn btn-primary" role="button">Button</a>
-          <a href="#" class="btn btn-default" role="button">Button</a>
+        <p class="pt-3">
+          <a type="button" class="btn btn-primary" href="https://play.google.com/store/apps/details?id=fr.coopcycle" target="\_blank" rel="noopener noreferrer">Android</a>
+          <a type="button" class="btn btn-primary" href="https://apps.apple.com/us/app/coopcycle/id1324884530" target="\_blank" rel="noopener noreferrer">iOS</a>
         </p>
       </div>
     </div>
   </div>
 </div>
--->
 
 <!--
     <div class="container">

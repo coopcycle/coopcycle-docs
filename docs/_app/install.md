@@ -4,6 +4,8 @@ title: Begin here
 nav_order: 1
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
 # Download and Install
 
 <div class="alert mt-3 alert-info" role="alert">
@@ -14,7 +16,7 @@ There are apps for both Android and iOS.
 | Android                                                                                                                                | iOS                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | You can install the Android app directly from Google Play by searching `CoopCycle` or by clicking on the button below.                       | You can install the Android app directly from the App Store by searching `CoopCycle` or by clicking on the button below.           |
-| <a type="button" class="btn btn-primary" href="https://play.google.com/store/apps/details?id=fr.coopcycle">Install the Android app</a> | <a type="button" class="btn btn-primary" href="https://apps.apple.com/us/app/coopcycle/id1324884530">Install the iOS app</a> |
+| <a type="button" class="btn btn-primary" href="https://play.google.com/store/apps/details?id=fr.coopcycle">Install the Android app</a>| <a type="button" class="btn btn-primary" href="https://apps.apple.com/us/app/coopcycle/id1324884530">Install the iOS app</a>|
 
 # Using the app
 
@@ -23,17 +25,17 @@ The app allows users with different access levels to use it. If you're a Coop ad
 </div>
 
 See the following guides on how to use the app depending on your access or role:
-- Courier 
-- Coop admin / Dispatcher
-- Shop owner (E-commerce)
+- [Courier](/en/app/courier/)
+- [Coop admin / Dispatcher](/en/app/dispatcher/)
+- [Shop owner (E-commerce)](/en/app/restaurant/)
+- [Customer](/en/app/customer/)
 - Store owner
-- Customer
 
 # Log in
 
 <div class="shadow p-3 mb-3 mt-3 bg-white rounded border border-primary">
 <span class="badge badge-primary">INFO:</span>
-<span> Regardless of your access, the first thing to do once you open the App (on the Welcome screen) is to choose the city you're in.</span>
+<span> Regardless of your access, the first thing to do once you open the App (on the Welcome screen) is to <strong>choose the city</strong> you're in.</span>
 </div>
 
 1. After you've chosen the city, click the <span><i class="fa fa-bars" aria-hidden="true"></i></span> menu icon on the top-left.
@@ -48,5 +50,5 @@ See the following guides on how to use the app depending on your access or role:
 
 | How to connect to a server  | Example  |
 | ------- | ------- |
-| After opening the app, you will need to connect to a server.<br>If your city is not listed, you can still connect to a custom server.<br>Click on the `…` button at the top right of the screen,<br>and enter the URL of your CoopCycle instance. |![How to connect to a custom server](/assets/images/app-custom-server.gif).|
+| After opening the app, you will need to connect to a server.<br>If your city is not listed, you can still connect to a custom server.<br>Click on the <span class="badge badge-danger"><i class="fas fa-ellipsis-h"></i></span> button at the top right of the screen,<br>and enter the URL of your CoopCycle instance. |![How to connect to a custom server](/assets/images/app-custom-server.gif)|
 

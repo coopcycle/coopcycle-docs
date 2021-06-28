@@ -7,7 +7,7 @@ parent: Orders
 
 # Promotions
 
-<div class="alert mt-3 alert-" role="alert">
+<div class="alert mt-3 alert-info" role="alert">
 Promotions can be set up by the Coop admin or the Restaurant admin.<br>
 <a href="">Click here if you're a Coop admin</a><br>
 <a href="">Click here if you're a Restaurant admin</a>

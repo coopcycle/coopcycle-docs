@@ -17,25 +17,23 @@ See [Log in](/en/app/install/#log-in).
 
 ## Main screen
 
-<span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map
 
-<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>
 
-<!--| Instructions  | Main screen  |
+|   | Main screen  |
 | ------- | ------- |
-| <span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map|<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>.|-->
+| <span class="badge badge-danger">1</span> App menu<br><span class="badge badge-danger">2</span> User account role<br><span class="badge badge-danger">3</span> App settings<br><span class="badge badge-danger">4</span> Date picker<br><span class="badge badge-danger">5</span> Map screen<br><span class="badge badge-danger">6</span> Task list screen<br><span class="badge badge-danger">7</span> Map|<a href="/assets/images/appCourierMainScreen.png" target="\_blank" rel="noopener noreferrer"><img style="width: 400px" src="/assets/images/appCourierMainScreen.png" alt=""></a>.|
 
 ### <span class="badge badge-danger">1</span> App menu
 
 Here you can find:
 
-<span><i class="fa fa-user" aria-hidden="true"></i> <strong>User</strong> account and </strong>Sign out</strong></span>.
+<span><i class="fa fa-user" aria-hidden="true"></i> <strong>User</strong> account settings, Log in and Sign out</span>.
 
-The list of Restaurants/Shops under **Find restaurants...**
+**Find restaurants...**: the list of Restaurants/Shops where you can order from.
 
 <i class="fas fa-biking"></i> <strong>Tasks</strong> is where you go to see the available tasks (orders and deliveries) to do. Clicking on Tasks takes you to the **Main screen**.
 
-Bottom of the menu screen:
+#### **Bottom of the menu screen**:
 - The name of Coop is displayed. Clicking on it will display an "About us" page. To add or edit content please contact the developer at dev[at]coopcycle[dot]org.
 - The Coop email is displayed. This is the email set up in Setting on the Platform website.
 - Version number of the App.

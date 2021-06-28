@@ -25,7 +25,7 @@ The Order screen refreshes automatically, meaning it will notify instantly when 
 This screen displays:
 - A date picker from which you can select any past or future date. 
 - The <span class="badge badge-success"> <i class="fa fa-sync"></i> Today</span> button which refreshes the Main screen.
-- Five tabs for Orders. More on this below.
+- Five (5) tabs for Orders. More on this below.
 - The <span><i class="fa fa-power-off" aria-hidden="true"></i> </span> button closes the restaurant on the current day.
 - The <span><i class="fa fa-cog" aria-hidden="true"></i> </span> button is the Settings screen of the Restaurant. More on this [here](/en/app/restaurant/#settings-screen).
 
@@ -76,3 +76,8 @@ When cancelling an Accepted order you are displayed with four (4) reasons for ca
 |Cancel new order|Cancel accepted order|
 |-|-|
 | <a href="/assets/images/appCancelOrder.gif" target="\_blank" rel="noopener noreferrer"><img src="/assets/images/appCancelOrder.gif" alt=""></a>|<a href="/assets/images/appCancelOrderAfterAccepted.gif" target="\_blank" rel="noopener noreferrer"><img src="/assets/images/appCancelOrderAfterAccepted.gif" alt=""></a>|
+
+<div class="shadow p-3 mb-3 bg-white rounded border border-primary">
+<span class="badge badge-primary">TIP:</span>
+<span> There are other reasons for cancelling an Order you can choose from.</span>
+</div>
