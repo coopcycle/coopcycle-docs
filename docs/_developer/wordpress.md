@@ -22,7 +22,7 @@ This requires that you've previously [set up a Store account](/en/admin/stores/)
 
 6. In the plugins panel go to **`CoopCycle`** → **`Settings`**
 
-7. In the **Base URL** enter the URL of your instance: [https://demo.coopcycle.org/](https://york.coopcycle.org/)
+7. In the **Base URL** enter the URL of your instance: [https://demo.coopcycle.org/](https://demo.coopcycle.org/)
 
    <div class="shadow p-3 mb-3 bg-white rounded border border-danger">
    <span class="badge badge-danger">IMPORTANT:</span>
@@ -67,10 +67,6 @@ This requires that you've previously [set up a Store account](/en/admin/stores/)
 15. Click **Save Changes**
 
 16. Done! Add an item to your shop's cart, open your cart, and the Coop shipping method should be automatically displayed or allowed to select it.
-
-## PrestaShop
-
-### COMING SOON
 
 <!--Overview
 --------
