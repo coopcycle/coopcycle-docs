@@ -22,11 +22,11 @@ This requires that you've previously [set up a Store account](/en/admin/stores/)
 
 6. In the plugins panel go to **`CoopCycle`** → **`Settings`**
 
-7. In the **Base URL** enter the URL of your instance: [https://demo.coopcycle.org/](https://demo.coopcycle.org/)
+7. In the **Base URL** enter the URL of your instance: [https://demo.coopcycle.org](https://demo.coopcycle.org)
 
    <div class="shadow p-3 mb-3 bg-white rounded border border-danger">
    <span class="badge badge-danger">IMPORTANT:</span>
-   <span> Make sure you type the forward slash <code>/</code> at the end of the URL</span>
+   <span> Make sure you DON'T type the forward slash <code>/</code> at the end of the URL</span>
    </div>
    
 8. If you are the developer of the Business's website, request the API keys from the Coop administrator.  
