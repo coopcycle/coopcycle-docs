@@ -137,4 +137,4 @@ You can download a [sample file](https://demo.coopcycle.org/help/tasks_import.ex
 
 ## Export tasks in a CSV file
 
-L’exportation d’un fichier .csv résumant les commandes du jours se fait par le biais du bouton `Export` situé sur la barre supérieure du dashboard.
+To export a list of tasks you have to provide a date range. You will receive a download of all tasks in that range.
