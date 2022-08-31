@@ -27,12 +27,18 @@ Mercadopago provee usuarios de prueba para probar las integraciones. Para ello n
 
 ### Modo "live" (producción)
 
-1. Dependiendo tu país, el enlace puede variar. En Argentina es posible crear una cuenta de Mercadopago <a target="_blank" href="https://www.mercadopago.com.ar/registration-mp">aquí</a> , luego:
-    * Crea una aplicación de Marketplace <a target="_blank" href="https://www.mercadopago.com.ar/developers/panel/applications/create-app">aquí</a>. Asegurate de tildar la opción ***MP Connect / Marketplace mode*** en la sección *Autenticación y seguridad*.
-2. Configura la url provista por CoopCycle en la sección **Ajustes**. Esta url de redirección se utilizará para que las billeteras de Mercadopago de Restaurants se conecten con la cuenta de Mercadopago de la administración de CoopCycle. No es necesario completar las otras opciones en la creación de aplicación en Mercadopago.
-    * Obten tus credenciales (Llave pública/Token de acceso "live", Llave pública/Token de acceso "test") aquí: <a target="_blank" href="https://www.mercadopago.com.ar/developers/panel/credentials">https://www.mercadopago.com.ar/developers/panel/credentials</a>
-    * Copia y pega las llaves públicas y token de acceso "live" y "test" en los campos de Configuración de CoopCycle. Además completa el campo `Applicacion ID`, provisto también en las credenciales de CoopCycle.
-3. Los movimientos de la cuenta se pueden visualizar en el [panel de control de Mercadopago](https://www.mercadopago.com.ar/home). Lamentablemente, el panel de control no mantiene registro de los movimientos realizados con credenciales de prueba ni con usuarios de prueba.
+1. Si aún no tienes una cuenta de Mercadopago creala <a target="_blank" href="https://www.mercadopago.com.ar/registration-mp">aquí</a>. Dependiendo tu país, el enlace puede variar.
+2. Crea una aplicación de Marketplace <a target="_blank" href="https://www.mercadopago.com.ar/developers/panel/applications/create-app">aquí</a>. En "Productos disponibles" asegurate de seleccionar la opción "Marketplace".
+3. Luego ingresa al <a target="_blank" href="https://www.mercadopago.com.ar/developers/panel">panel de tus aplicaciones</a> y en la aplicación que acabas de crear ingresa a la opción "Editar". En el campo "Redirect URL" ingresa la URL provista por CoopCycle en la sección <a target="_blank" href="https://<tu_instancia>.coopcycle.org/admin/settings">Ajustes</a> (debe ser una URL con el siguiente formato https://tuinstancia.coopcycle.org/mercadopago/oauth/callback). Esta url de redirección se utilizará para que las billeteras de Mercadopago de Restaurants se conecten con la cuenta de Mercadopago de la administración de CoopCycle.
+4. Vuelve a ingresar al <a target="_blank" href="https://www.mercadopago.com.ar/developers/panel">panel de tus aplicaciones</a> e ingresa a la aplicación recientemente creada para obtener las credenciales necesarias para utilizar el servicio en la pestaña "Mis credenciales".
+    * Ingresa a "Credenciales de producción".
+        * Si te aparece un mensaje para "Activar" tus credenciales, haz click en el botón que se muestra para realizar dicha activación. Completa los datos solicitados y la activación debería realizarse al instante.
+        * Copia y pega la llave pública (Public key) y token de acceso (Access Token) en los campos "Live" de Configuración de CoopCycle. Además copia y pega el ID de Cliente (Client ID) en el campo ID de Applicacion de Coopcycle, y el campo "Client Secret" en el campo con mismo nombre en la Configuración de Coopcycle.
+    * Ingresa a "Credenciales de prueba".
+        * Copia y pega la llave pública (Public key) y token de acceso (Access Token) en los campos "Test" de Configuración de CoopCycle.
+5. Ve al final de la página de la Configuración de Coopcycle y guarda todos los cambios realizados.
+6. Luego en la misma pantalla de Configuración de Coopcycle, si ya están configurados los campos "Live" de credenciales y se quiere utilizar el servicio de Producción de Mercadopago deberá activar la opción "Utilizar Mercadopago en modo producción".
+7. Los movimientos de la cuenta se pueden visualizar en el [panel de control de Mercadopago](https://www.mercadopago.com.ar/home). Lamentablemente, el panel de control no mantiene registro de los movimientos realizados con credenciales de prueba ni con usuarios de prueba.
 
 ### Modo "test" (pruebas)
 
