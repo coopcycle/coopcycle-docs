@@ -123,6 +123,21 @@ Once you have thought about these factors and created some zones, package lists,
 
     <span class="badge badge-danger">When **not** to use</span> <span>If you can avoid it, do. Do not use if you have any type of client other than that described above. **Cons:** This pricing rule is easy, but cannot be used for deliveries with multiple points since they will be charged more or less based on if they order the deliveries efficiently or not, which is not their concern. It also imagines you are only delivering their package, and not mixing with other clients in an effective way. Effectively, this is a pricing rule made for a type of delivery that is not longer common or strategically interesting for your business, creating unintended limitations long-term.<span>
 
+**Configuration of the shops**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/114d03e9-be37-440b-b0eb-a7fd82f254f2)
+
+**Standard Time Slot**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/ad0a2f29-4fac-4c07-afcb-3291f2e211b3)
+
+**Pacakge Set**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d4b540a0-8f7c-47ca-bef1-349c65c9aced)
+
+**Price Rules**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/692c1da7-caaf-45d7-9311-3a6b3ce5b12b)
+
+**A Typical Delivery**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/7b47c7c7-6b23-4643-87b7-4f7bcad5894b)
+
 2. **Very Complete But Complex Pricing** <span class="badge badge-success">**Recommended if Possible**</span>
    
    <span class="badge badge-success">When to use</span> <span>Clients who have many different types of deliveries, multiple pickup locations in different parts of the city. Bakeries, florists, other types of local commerce. **Pros:** Can be used to make a standard pricing rule that simplifies commercial capture and operations, is more "fair" and precise<span>
@@ -132,18 +147,25 @@ Once you have thought about these factors and created some zones, package lists,
 **Configuration of the shop**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d1e5aecc-6f68-497c-8e84-bc42e38d75e2)
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/e2d59949-0a4b-4cf9-98b9-1410d23e48dc)
+
 **Time Slot with small delivery windows**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d58ea419-e57c-4ff9-822c-7f790631110d)
+
 **Time Slot with wide delivery windows**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/6054e5b7-01e0-458f-a287-d226a8d3b734)
+
 **Zones**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/513d39fe-71ce-4f78-93e5-9a894b0d55e2)
+
 **Package Set**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/fbb52a62-e4e5-4422-8684-1d42fea7b1c6)
+
 **Price Rules**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/0ead7512-8cd9-4577-8193-561045dbc02d)
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/c3c64d55-06b1-4eb2-98eb-ba372310277a)
 
+**A Typical Delivery**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/32bcb683-6266-4d2f-8704-f1fa0cc3d923)
 
 3. **Multi-Dropoff Pricing** <span class="badge badge-success">**Recommended if Possible**</span>
 
@@ -151,24 +173,56 @@ Once you have thought about these factors and created some zones, package lists,
 
     <span class="badge badge-danger">When **not** to use</span> <span>If the client cannot use CoopCycle as they should, or if they have a very high volume of orders **Cons:** This pricing rule is still being developed and still cannot be used with pricing rules that are based on time like `Difference (hours)`, `Difference (days)` or `time range length (hours)` and in no circumstances can be used with rules based on kilometers of distance. <span>
 
+**Configuration of the shop**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d995c0e1-2ccf-40d7-a612-c5f5004d2930)
+
+**Time Slot with standardized delivery windows**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/12cd420c-4259-49ac-a3d4-dc69893d2c62)
+
+**Package Set**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/959b7bf1-d531-45fe-b51e-7af93246d8eb)
+
+**Price Rules**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/2c7cf3c3-d4f4-4ae1-bb9d-774ee4db2c0f)
+
+**A Typical Delivery**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/677cc645-fb40-4f85-9955-b2e229077703)
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/7a5e623f-9848-4bfb-a0aa-8a2c9c3bdec8)
+
 4. **Last Mile At Volume**
 
    <span class="badge badge-success">When to use</span> <span>For clients who give you a high volume of standarized packages such as magazines, small last mile pacakges from a provider like DHL, or any other delivery that can easily have an "average" price. **Pros:** Simple for client and invoicing. <span>
 
     <span class="badge badge-danger">When **not** to use</span> <span>Any client with deliveries that cannot be "averaged" **Cons:** If your average is wrong, later you will have made less money than you hope. Maybe the client says they have a simple and easily averaged need, but then ask for special or different deliveries in specific moment that should be more expensive, but the rule charges the "cheap" option. <span>
 
+**Configuration of the shop**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d67e80a2-56ef-4c39-b06b-91674db7ee02)
+
+**Price Rules**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/677cc645-fb40-4f85-9955-b2e229077703)
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/fa81824b-e925-4c92-831e-786f91f0c77c)
+
+**A Typical Delivery in Excel**
+![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/6d087faa-a476-447e-9385-f8713033c1e0)
+
+---
+
 ### Definitions of conditions
 Brief description on each condition.
 
-| CONDITIONS             | DEFINITION                                                                                                              |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Distance (km)**      | Determines the radius delivery area with the Business as the centre                                                     |
-| **Weight (kg)**        | Conditions the price depending on the inputted weight of the parcel                                                     |
-| **Bike type**          | Allows for a choice of "regular" or "cargo" bike                                                                        |
-| **Pickup address**     | Allows the selection of a Zone that contains the Pickup address                                                         |
-| **Dropoff address**    | Allows the selection of a Zone that contains the Dropoff address                                                        |
-| **Difference (hours)** | Allows inputting a number indicating how many hours ahead a Delivery has to be placed. It can also condition the price. |
-| **Difference (days)**  | Allows inputting a number indicating how many days ahead a Delivery has to be placed. It can also condition the price.  |
-| **Doorstep dropoff**   | Indicates if a delivery should be handed to the customer                                                                |
-| **Packages**           | Conditions the price depending on the type of package                                                                   |
-| **Items total**        | Conditions the price dependand on the total amount of money on an order                                                 |
+| CONDITIONS                   | DEFINITION                                                                                                              |
+| ----------------------       | ----------------------------------------------------------------------------------------------------------------------- |
+| **Distance (km)**            | Determines the radius delivery area with the Business as the centre                                                     |
+| **Weight (kg)**              | Conditions the price depending on the inputted weight of the parcel                                                     |
+| **Bike type**                | Allows for a choice of "regular" or "cargo" bike                                                                        |
+| **Pickup address**           | Allows the selection of a Zone that contains the Pickup address                                                         |
+| **Dropoff address**          | Allows the selection of a Zone that contains the Dropoff address                                                        |
+| **Difference (hours)**       | Allows inputting a number indicating how many hours ahead a Delivery has to be placed. It can also condition the price. |
+| **Difference (days)**        | Allows inputting a number indicating how many days ahead a Delivery has to be placed. It can also condition the price.  |
+| **Doorstep dropoff**         | Indicates if a delivery should be handed to the customer                                                                |
+| **Packages**                 | Conditions the price depending on the type of package                                                                   |
+| **Volume Units**             | Conditions the price depending on the inputted volume of the parcel                                                     |
+| **Pickup time range length** | Conditions the price depending on the length of time in which the pickup can be done                                    |
+| **Dropoff time range length**| Conditions the price depending on the length of time in which the dropoff can be done                                   |
+| **Type of Task**             | Conditions the price depending on the type of task, plus whatever other condition. **Must use for multidropoff**        |
+| **Items total**              | Conditions the price dependand on the total amount of money on an order                                                 |
