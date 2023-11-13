@@ -155,6 +155,7 @@ Once you have thought about these factors and created some zones, package lists,
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/6054e5b7-01e0-458f-a287-d226a8d3b734)
 
    Zones
+   
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/513d39fe-71ce-4f78-93e5-9a894b0d55e2)
 
    Package Set
@@ -163,7 +164,6 @@ Once you have thought about these factors and created some zones, package lists,
    Price Rules
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/0ead7512-8cd9-4577-8193-561045dbc02d)
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/c3c64d55-06b1-4eb2-98eb-ba372310277a)
-
    A Typical Delivery
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/32bcb683-6266-4d2f-8704-f1fa0cc3d923)
 
