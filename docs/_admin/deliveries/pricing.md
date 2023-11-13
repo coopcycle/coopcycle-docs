@@ -121,7 +121,7 @@ Once you have thought about these factors and created some zones, package lists,
    
    <span class="badge badge-success">When to use</span> <span>When you have clients who have deliveries that may go to any place in the city in unpredictable ways, so you must default to km-based pricing rules. **Pros:** Simple, can't accidentally give a wrong price, easy for clients to understand<span>
 
-    <span class="badge badge-danger">When **not** to use</span> <span>If you can avoid it, do. Do not use if you have any type of client other than that described above. **Cons:** This pricing rule is easy, but cannot be used for deliveries with multiple points since they will be charged more or less based on if they order the deliveries efficiently or not, which is not their concern. It also imagines you are only delivering their package, and not mixing with other clients in an effective way. Effectively, this is a pricing rule made for a type of delivery that is not longer common or strategically interesting for your business, creating unintended limitations long-term.<span>
+   <span class="badge badge-danger">When **not** to use</span> <span>If you can avoid it, do. Do not use if you have any type of client other than that described above. **Cons:** This pricing rule is easy, but cannot be used for deliveries with multiple points since they will be charged more or less based on if they order the deliveries efficiently or not, which is not their concern. It also imagines you are only delivering their package, and not mixing with other clients in an effective way. Effectively, this is a pricing rule made for a type of delivery that is not longer common or strategically interesting for your business, creating unintended limitations long-term.<span>
 
    Configuration of the shops
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/114d03e9-be37-440b-b0eb-a7fd82f254f2)
@@ -142,7 +142,7 @@ Once you have thought about these factors and created some zones, package lists,
    
    <span class="badge badge-success">When to use</span> <span>Clients who have many different types of deliveries, multiple pickup locations in different parts of the city. Bakeries, florists, other types of local commerce. **Pros:** Can be used to make a standard pricing rule that simplifies commercial capture and operations, is more "fair" and precise<span>
 
-     <span class="badge badge-danger">When **not** to use</span> <span>A simple client who wants a simple price they understand and will be put off by math and large tables **Cons:** Can confuse small business owners and make the commercial process harder. The more complex a rule gets, the harder it is to modify later.<span>
+   <span class="badge badge-danger">When **not** to use</span> <span>A simple client who wants a simple price they understand and will be put off by math and large tables **Cons:** Can confuse small business owners and make the commercial process harder. The more complex a rule gets, the harder it is to modify later.<span>
 
    Configuration of the shop
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d1e5aecc-6f68-497c-8e84-bc42e38d75e2)
@@ -171,7 +171,7 @@ Once you have thought about these factors and created some zones, package lists,
 
    <span class="badge badge-success">When to use</span> <span>When you have a client with a clear set of possible deliveries, but they may change or be arranged differently in each delivery. Any one order may be between 2 and 10 points, and there is not a huge variation between the types of packages you are carrying, or the time slots in which they are being delivered. Ex. notifications, fruit boxes, moving stock between stores. **Pros:** Avoids clients getting annoyed at slowly making orders one at a time, clean and simple pricing rule you can explain to a client that covers a wide range of use cases.<span>
 
-    <span class="badge badge-danger">When **not** to use</span> <span>If the client cannot use CoopCycle as they should, or if they have a very high volume of orders **Cons:** This pricing rule is still being developed and still cannot be used with pricing rules that are based on time like `Difference (hours)`, `Difference (days)` or `time range length (hours)` and in no circumstances can be used with rules based on kilometers of distance. <span>
+   <span class="badge badge-danger">When **not** to use</span> <span>If the client cannot use CoopCycle as they should, or if they have a very high volume of orders **Cons:** This pricing rule is still being developed and still cannot be used with pricing rules that are based on time like `Difference (hours)`, `Difference (days)` or `time range length (hours)` and in no circumstances can be used with rules based on kilometers of distance. <span>
 
    Configuration of the shop
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d995c0e1-2ccf-40d7-a612-c5f5004d2930)
@@ -193,7 +193,7 @@ Once you have thought about these factors and created some zones, package lists,
 
    <span class="badge badge-success">When to use</span> <span>For clients who give you a high volume of standarized packages such as magazines, small last mile pacakges from a provider like DHL, or any other delivery that can easily have an "average" price. **Pros:** Simple for client and invoicing. <span>
 
-    <span class="badge badge-danger">When **not** to use</span> <span>Any client with deliveries that cannot be "averaged" **Cons:** If your average is wrong, later you will have made less money than you hope. Maybe the client says they have a simple and easily averaged need, but then ask for special or different deliveries in specific moment that should be more expensive, but the rule charges the "cheap" option. <span>
+   <span class="badge badge-danger">When **not** to use</span> <span>Any client with deliveries that cannot be "averaged" **Cons:** If your average is wrong, later you will have made less money than you hope. Maybe the client says they have a simple and easily averaged need, but then ask for special or different deliveries in specific moment that should be more expensive, but the rule charges the "cheap" option. <span>
 
    Configuration of the shop
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d67e80a2-56ef-4c39-b06b-91674db7ee02)
