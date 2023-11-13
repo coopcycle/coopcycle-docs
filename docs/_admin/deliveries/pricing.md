@@ -117,7 +117,7 @@ Once you have thought about these factors and created some zones, package lists,
 ---
 ## Example Rules
 
-1. **Old School Bike Messenger Pricing**
+### 1. **Old School Bike Messenger Pricing**
    
    <span class="badge badge-success">When to use</span> <span>When you have clients who have deliveries that may go to any place in the city in unpredictable ways, so you must default to km-based pricing rules. **Pros:** Simple, can't accidentally give a wrong price, easy for clients to understand<span>
 
@@ -138,7 +138,7 @@ Once you have thought about these factors and created some zones, package lists,
    **A Typical Delivery**
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/7b47c7c7-6b23-4643-87b7-4f7bcad5894b)
 
-2. **Very Complete But Complex Pricing** <span class="badge badge-success">**Recommended if Possible**</span>
+### 2. **Very Complete But Complex Pricing** <span class="badge badge-success">**Recommended if Possible**</span>
    
    <span class="badge badge-success">When to use</span> <span>Clients who have many different types of deliveries, multiple pickup locations in different parts of the city. Bakeries, florists, other types of local commerce. **Pros:** Can be used to make a standard pricing rule that simplifies commercial capture and operations, is more "fair" and precise<span>
 
@@ -167,7 +167,7 @@ Once you have thought about these factors and created some zones, package lists,
    **A Typical Delivery**
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/32bcb683-6266-4d2f-8704-f1fa0cc3d923)
 
-3. **Multi-Dropoff Pricing** <span class="badge badge-success">**Recommended if Possible**</span>
+### 3. **Multi-Dropoff Pricing** <span class="badge badge-success">**Recommended if Possible**</span>
 
    <span class="badge badge-success">When to use</span> <span>When you have a client with a clear set of possible deliveries, but they may change or be arranged differently in each delivery. Any one order may be between 2 and 10 points, and there is not a huge variation between the types of packages you are carrying, or the time slots in which they are being delivered. Ex. notifications, fruit boxes, moving stock between stores. **Pros:** Avoids clients getting annoyed at slowly making orders one at a time, clean and simple pricing rule you can explain to a client that covers a wide range of use cases.<span>
 
@@ -189,7 +189,7 @@ Once you have thought about these factors and created some zones, package lists,
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/677cc645-fb40-4f85-9955-b2e229077703)
    ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/7a5e623f-9848-4bfb-a0aa-8a2c9c3bdec8)
 
-4. **Last Mile At Volume**
+### 4. **Last Mile At Volume**
 
    <span class="badge badge-success">When to use</span> <span>For clients who give you a high volume of standarized packages such as magazines, small last mile pacakges from a provider like DHL, or any other delivery that can easily have an "average" price. **Pros:** Simple for client and invoicing. <span>
 
