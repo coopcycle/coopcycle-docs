@@ -131,12 +131,12 @@ Once you have thought about these factors and created some zones, package lists,
 
 **Configuration of the shop**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d1e5aecc-6f68-497c-8e84-bc42e38d75e2)
-**Time Slot with small delivery windows**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/e2d59949-0a4b-4cf9-98b9-1410d23e48dc)
-**Time Slot with wide delivery windows**
+**Time Slot with small delivery windows**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/d58ea419-e57c-4ff9-822c-7f790631110d)
-**Zones**
+**Time Slot with wide delivery windows**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/6054e5b7-01e0-458f-a287-d226a8d3b734)
+**Zones**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/513d39fe-71ce-4f78-93e5-9a894b0d55e2)
 **Package Set**
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/fbb52a62-e4e5-4422-8684-1d42fea7b1c6)
