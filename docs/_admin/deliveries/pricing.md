@@ -42,6 +42,18 @@ CoopCycle's pricing rules are the result of many different people asking for man
    <span class="badge badge-primary">FORMAT:</span> <span>This often is a price that is a simple price per point that reflets an average that both sides agree is equitable. The client likely uses an excel to upload their large list of tasks. <span>
 
 ---
+## First Steps
+The first thing you need to do is think carefully about how you want to charge your client. As about their needs in detail so that you make a complete rule, and don't have to remake it a week after starting service in order to account for something they forgot to mention. Remember, a price rule really is made up of a series of rules in the `Pricing` page, rules that base themselves on characteristics like kilometers or time that are built off of the configurations you make of `Time slots`, `Packages` and `Zones`. 
+
+Given this, first think about the geographic realities of this delivery. Are there zones in your city that are easier to pass between than others? What natural barriers are there that impede delivery?
+
+Think about the types of packages they will be giving you. Should you differentiate between a 5kg box and a 10kg box or can you use an average of the two to make a standard price? 
+
+Think about the time requirements. Do you want to incentivize them economically to program deliveries for the next day instead of immedaitely? Or do you prefer immedaite and more expensive deliveries? How do their deliveries fit into your existing workflow? You can offer delivery windows of 15 minutes, or the entire morning, or you can offer both and charge differently. 
+
+Once you have thought about these factors and created some zones, package lists, and delivery time slots, **now** you are ready to make your first pricing rule.
+
+---
 
 ## Create a custom pricing
 1. From the top menu go to `Deliveries`
@@ -99,7 +111,7 @@ CoopCycle's pricing rules are the result of many different people asking for man
 
       - if the customer lives less then or up to 3km away from the **collection** address, they will pay `4`, because `Distance (km)` is more `>` than `0` and more `>` than `3` in **Rule 2**.
       - if the customer lives between 3.1 and 3.9 km from the **collection** address, they will pay `5` and if they live between 4 km and 4.1 km from the **collection** address they will pay `6` and so on, because `Distance (km)` is more `>` than `3` and they pay extra `1` for each `1 km` above `3 km`  
-  
+
 9.  After you've configured your custom pricing, click <span class="badge badge-primary">Save</span>
 
 
