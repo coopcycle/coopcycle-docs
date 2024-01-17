@@ -38,7 +38,8 @@ I am going to charge 7 euros + VAT tax per delivery normally because they don't 
 <img width="1089" alt="Screenshot 2024-01-16 at 14 45 50" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/184d5929-4b3f-425f-968c-dd2ecd56cf5f">
 
 #### The Store Profile
-I am going to go to the [Stores Dashboard](https://demo.coopcycle.org/admin/stores) and click on "Create a New Store" and fill out the basic information associated with the client and click "Save". Then, go to the Settings menu for that client, and associate the pricing rule to their profile. 
+I am going to go to the [Stores Dashboard](https://demo.coopcycle.org/admin/stores) and click on "Create a New Store" and fill out the basic information associated with the client and click "Save". Then, go to the Settings menu for that client, and associate the pricing rule to their profile.   
+
 Step 1
 <img width="1097" alt="Screenshot 2024-01-16 at 14 46 45" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/1ddc6f64-bd63-4aaf-bde9-786bb64bb448">
 Step 2
