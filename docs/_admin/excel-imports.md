@@ -68,6 +68,7 @@ Go to the [bottom of the page](#bottom) to see how errors work and we'll figure 
 
 ### A Complex Delivery Import
 #### Getting Everything Set Up
+
 1. Know my VAT tax (in this example, 20%)
 2. Make a Store
 3. Make a package set that reflects the client's needs
