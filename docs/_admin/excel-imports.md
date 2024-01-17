@@ -54,10 +54,11 @@ In this case you want to simply fill out the columns
 - dropoff.address: Copy and paste the address directly from Google maps
 - dropoff.timeslot: Add a date range in the format YYYY-MM-DD HH:MM - YYYY-MM-DD HH:MM
 
-<img width="1469" alt="Screenshot 2024-01-16 at 14 58 04" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/053b602f-b2fe-4d66-86bc-4acfb1a135ba">
+<img width="787" alt="Screenshot 2024-01-17 at 12 14 29" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/5e3589b4-0dad-45dc-9dc2-289609b958be">
+
 
 #### Simple Deliveries Example
-|pickup.address|pickup.timeslot|dropoff.address|dropoff.timeslot
+|pickup.address|pickup.timeslot|dropoff.address|dropoff.timeslot|
 |-|-|-|-|
 |24 rue de rivoli paris |	2019-12-12 10:00 - 2019-12-12 11:00 |	58 av parmentier paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
 |24 rue de rivoli paris	| 2019-12-12 10:00 - 2019-12-12 11:00	| 34 bd de magenta paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
