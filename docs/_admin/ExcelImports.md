@@ -50,7 +50,13 @@ In this case you want to simply fill out the columns
 - dropoff.address: Copy and paste the address directly from Google maps
 - dropoff.timeslot: Add a date range in the format YYYY-MM-DD HH:MM - YYYY-MM-DD HH:MM
 
-<img width="1469" alt="Screenshot 2024-01-16 at 14 58 04" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/053b602f-b2fe-4d66-86bc-4acfb1a135ba">
+![](<img width="1469" alt="Screenshot 2024-01-16 at 14 58 04" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/053b602f-b2fe-4d66-86bc-4acfb1a135ba">)
+
+**Simple Deliveries Example**
+|pickup.address|pickup.timeslot|dropoff.address|dropoff.timeslot
+|-|-|-|-|
+|24 rue de rivoli paris |	2019-12-12 10:00 - 2019-12-12 11:00 |	58 av parmentier paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
+|24 rue de rivoli paris	| 2019-12-12 10:00 - 2019-12-12 11:00	| 34 bd de magenta paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
 
 **Something went wrong?** 
 Go to the bottom of the page to see how errors work and we'll figure something out :) Get in contact with us through whatever channel you have or email us if you can't figure it out on your own. 
@@ -107,6 +113,16 @@ In this case you want to simply fill out the columns
 
 <img width="1469" alt="Screenshot 2024-01-16 at 14 58 04" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/053b602f-b2fe-4d66-86bc-4acfb1a135ba">
 
+**Complex Deliveries Example**
+| pickup.address | pickup.address.name	| pickup.address.description | pickup.address.telephone | pickup.comments | pickup.timeslot | pickup.tags |	dropoff.address |	dropoff.address.name | dropoff.address.description |	dropoff.address.telephone | dropoff.comments | dropoff.timeslot | dropoff.packages | dropoff.tags | weight
+| - | - | - | - |	- | - | - |	- | - | - |	- | - | - |	- | - | - |
+| 24 rue de rivoli paris | Awesome business | - | 33612345678 | Fragile | 2019-12-12 10:00 - 2019-12-12 11:00 | warn heavy	| 58 av parmentier paris | Awesome business | Buzzer AB12 | 33612345678 | 2019-12-12 12:00 - 2019-12-12 13:00 | small-box=1 big-box=2 | warn heavy | 5.5 |
+| 24 rue de rivoli paris | Awesome business | - | 33612345678 | Fragile	| 2019-12-12 10:00 - 2019-12-12 11:00	| warn | 34 bd de magenta paris | Awesome business | Buzzer AB12 | 33612345678 | 2019-12-12 12:00 - 2019-12-12 13:00 | small-box=1 big-box=2 | warn | 8.0 |
 
-**Something went wrong!**
-To be continued....     
+<img width="1827" alt="image" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/61e69f9f-e577-4080-ad0a-1017231efe9e">
+
+
+## Something went wrong!
+Historically there have been a large number of errors that were difficult to understand as users of CoopCycle when trying to use the excel upload. Good news! We have done a redesign of the upload system, and things are working properly! Now if you upload an excel it will load asynchronously to eliminate time-out errors, and if there is a problem with your excel the plaform uploads the lines of the file that it understands correctly, shows you which lines were not understood well, and can give back to you an excel with the lines of the file that did not upload correctly for you to modify and try again. 
+
+![telegram-cloud-photo-size-4-5830347650132722643-y](https://github.com/coopcycle/coopcycle-docs/assets/77277854/a5f7733f-ef53-45de-9401-2b28bd716e3a)
