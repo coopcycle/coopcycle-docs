@@ -128,8 +128,6 @@ In this case you want to simply fill out the columns
 | 24 rue de rivoli paris | Awesome business | - | 33612345678 | Fragile | 2019-12-12 10:00 - 2019-12-12 11:00 | warn heavy	| 58 av parmentier paris | Awesome business | Buzzer AB12 | 33612345678 | 2019-12-12 12:00 - 2019-12-12 13:00 | small-box=1 big-box=2 | warn heavy | 5.5 |
 | 24 rue de rivoli paris | Awesome business | - | 33612345678 | Fragile	| 2019-12-12 10:00 - 2019-12-12 11:00	| warn | 34 bd de magenta paris | Awesome business | Buzzer AB12 | 33612345678 | 2019-12-12 12:00 - 2019-12-12 13:00 | small-box=1 big-box=2 | warn | 8.0 |
 
-<img width="1827" alt="image" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/61e69f9f-e577-4080-ad0a-1017231efe9e">
-
 <div id="bottom"></div>
 
 ## Something went wrong! 
