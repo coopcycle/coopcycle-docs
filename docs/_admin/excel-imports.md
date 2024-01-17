@@ -129,7 +129,7 @@ In this case you want to simply fill out the columns
 
 <div id="bottom"></div>
 
-# Something went wrong! 
+## Something went wrong! 
 
 
 Historically there have been a large number of errors that were difficult to understand as users of CoopCycle when trying to use the excel upload. Good news! We have done a redesign of the upload system, and things are working properly! Now if you upload an excel it will load asynchronously to eliminate time-out errors, and if there is a problem with your excel the plaform uploads the lines of the file that it understands correctly, shows you which lines were not understood well, and can give back to you an excel with the lines of the file that did not upload correctly for you to modify and try again. 
