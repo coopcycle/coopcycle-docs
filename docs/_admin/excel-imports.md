@@ -99,16 +99,16 @@ Fill out the [Complex Delivery Example](https://demo.coopcycle.org/spreadsheets/
 
 In this case you want to simply fill out the columns 
 - pickup.address: Copy and paste the address directly from Google maps
-- pickup.address.name:
-- pickup.address.description: 
+- pickup.address.name: The public name of the business
+- pickup.address.description: Information relevant to the pickup (ex: "the door is hard to find, it's blue")
 - pickup.address.telephone: A valid phone number (ex: 666 666 666) (IMPORTANT: this will break if you use phone numbers with country codes that are not your country)
-- pickup.comments: Extra information that you would like to have in the comments section of the dropoff task
+- pickup.comments: Extra information that you would like to have in the comments section of the pickup task
 - pickup.tags: Names of tags that you want to use with a space between tags, and "-" to show a space between words in a single tag (ex: "VIP urgent-delivery")
 - pickup.timeslot: Add a date range in the format YYYY-MM-DD HH:MM - YYYY-MM-DD HH:MM
   
 - dropoff.address: Copy and paste the address directly from Google maps
-- dropoff.address.name: 
-- dropoff.address.description: 
+- dropoff.address.name: The name of the business or organization to which the package is being delivered
+- dropoff.address.description: Information relevant to the dropoff (ex: "the dog is friendly)
 - dropoff.address.telephone: A valid phone number (ex: 666 666 666) (IMPORTANT: this will break if you use phone numbers with country codes that are not your country)
 - dropoff.timeslot: Add a date range in the format YYYY-MM-DD HH:MM - YYYY-MM-DD HH:MM
 - dropoff.comments: Extra information that you would like to have in the comments section of the dropoff task
