@@ -57,6 +57,7 @@ In this case you want to simply fill out the columns
 ![image](https://github.com/coopcycle/coopcycle-docs/assets/77277854/82deabd5-6bb2-4c9d-be20-f619df181924)
 
 #### Simple Deliveries Example
+
 |pickup.address|pickup.timeslot|dropoff.address|dropoff.timeslot|
 |-|-|-|-|
 |24 rue de rivoli paris |	2019-12-12 10:00 - 2019-12-12 11:00 |	58 av parmentier paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
@@ -66,8 +67,8 @@ In this case you want to simply fill out the columns
 Go to the [bottom of the page](#bottom) to see how errors work and we'll figure something out :) Get in contact with us through whatever channel you have or email us if you can't figure it out on your own. 
 
 ### A Complex Delivery Import
-#### etting Everything Set Up
-1.Know my VAT tax (in this example, 20%)
+#### Getting Everything Set Up
+1. Know my VAT tax (in this example, 20%)
 2. Make a Store
 3. Make a package set that reflects the client's needs
 4. Make one or multiple time slot ranges that reflect your delivery options
