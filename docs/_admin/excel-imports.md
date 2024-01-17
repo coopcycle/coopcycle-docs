@@ -60,8 +60,8 @@ In this case you want to simply fill out the columns
 
 |pickup.address|pickup.timeslot|dropoff.address|dropoff.timeslot|
 |-|-|-|-|
-|24 rue de rivoli paris |	2019-12-12 10:00 - 2019-12-12 11:00 |	58 av parmentier paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
-|24 rue de rivoli paris	| 2019-12-12 10:00 - 2019-12-12 11:00	| 34 bd de magenta paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
+|24 rue de rivoli paris|2019-12-12 10:00 - 2019-12-12 11:00|58 av parmentier paris|2019-12-12 12:00 - 2019-12-12 13:00|
+|24 rue de rivoli paris|2019-12-12 10:00 - 2019-12-12 11:00|34 bd de magenta paris|2019-12-12 12:00 - 2019-12-12 13:00|
 
 #### Something went wrong? 
 Go to the [bottom of the page](#bottom) to see how errors work and we'll figure something out :) Get in contact with us through whatever channel you have or email us if you can't figure it out on your own. 
