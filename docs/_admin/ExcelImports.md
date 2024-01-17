@@ -42,7 +42,7 @@ Step 2
 <img width="1465" alt="Screenshot 2024-01-16 at 14 51 50" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/e441a669-89cc-4975-a6b4-221d62603896">
 
 **The Simple Excel Import**
-Fill out the [Simple Delivery Example](https://demo.coopcycle.org/spreadsheets/examples/coopcycle-deliveries-example.csv) and upload it in the delivery page of your client. 
+Fill out the [Simple Delivery Example](./coopcycle-deliveries-simple-example.csv) and upload it in the delivery page of your client. 
 
 In this case you want to simply fill out the columns 
 - pickup.address: Copy and paste the address directly from Google maps
