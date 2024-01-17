@@ -1,4 +1,4 @@
-[coopcycle-deliveries-simple-example.csv](https://github.com/coopcycle/coopcycle-docs/files/13951986/coopcycle-deliveries-simple-example.csv)---
+---
 layout: default
 title: Excel Imports
 ---
