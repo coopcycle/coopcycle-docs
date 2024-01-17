@@ -62,7 +62,7 @@ In this case you want to simply fill out the columns
 |24 rue de rivoli paris	| 2019-12-12 10:00 - 2019-12-12 11:00	| 34 bd de magenta paris	| 2019-12-12 12:00 - 2019-12-12 13:00 |
 
 #### Something went wrong? 
-Go to the bottom of the page to see how errors work and we'll figure something out :) Get in contact with us through whatever channel you have or email us if you can't figure it out on your own. 
+Go to the [bottom of the page](#bottom) to see how errors work and we'll figure something out :) Get in contact with us through whatever channel you have or email us if you can't figure it out on your own. 
 
 ### A Complex Delivery Import
 #### etting Everything Set Up
@@ -127,8 +127,8 @@ In this case you want to simply fill out the columns
 
 <img width="1827" alt="image" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/61e69f9f-e577-4080-ad0a-1017231efe9e">
 
-
-## Something went wrong!
+<div id="bottom"></div>
+## Something went wrong! 
 
 Historically there have been a large number of errors that were difficult to understand as users of CoopCycle when trying to use the excel upload. Good news! We have done a redesign of the upload system, and things are working properly! Now if you upload an excel it will load asynchronously to eliminate time-out errors, and if there is a problem with your excel the plaform uploads the lines of the file that it understands correctly, shows you which lines were not understood well, and can give back to you an excel with the lines of the file that did not upload correctly for you to modify and try again. 
 
