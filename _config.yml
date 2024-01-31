@@ -37,6 +37,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-relative-links
+  - jekyll-include-cache
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
