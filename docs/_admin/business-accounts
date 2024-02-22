@@ -1,0 +1,23 @@
+---
+layout: default
+title: Excel Imports
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+# Introduction
+CoopCycle identified that the food delivery platform was not set up to efficiently and effectively offer services to businesses that are looking to cater business meetings, have lunch delivered to their employees, or offer special deals to businesses who which to help pay for employee food costs. This is a common practice, especially in France, which goes hand in hand with EdenRed and other ("Ticket Restaurant")[https://frenchly.us/frances-ticket-restaurant-or-ticket-resto-program-explained/] platforms. We identified that by creating a Business Accounts feature and by integrating with EdenRed other French ticket restaurant providers, both French and non-French cooperatives can offer a service to businesses that can represent regular and well-paid work with stable clients (something hard to find in food delivery) during strategic times (weekday lunch). 
+
+# What is it?
+This feature exists to allow a business to have a private account with a CoopCycle instance so that its employees to make an order that comes from multiple restaurants and is delivered simultaneously. The local cooperative can associate specific restaurants to this business account and apply specific characteristics to these orders such as pricing rules, delivery time conditions, cutoff times, etc. This allows the local cooperative to only do multiple-pickup orders with restaurants that they know will have the orders prepared at the correct time, offer specialized prices and menus for these services that are different from the normal platform, and limit the service times to those that make sense for the business case.
+
+The goal is for a cooperative to be able to offer tailored agreements to different businesses. Maybe the cooperative wants to charge a flat fee per month and the business gets free deliveries for all its employees. Or maybe the business wants to make large catering orders regularly, so the cooperative decides to lower the percentage that they request from the restaurants. 
+
+# How to set up Business Accounts
+First, go to the (Restaurants page)[https://demo.coopcycle.org/admin/restaurants] represented by a cart icon in the top right menu and click on "More Options", then click on "Business Restaurant Groups". 
+
+### Business Restaurant Groups
+Here you can create a new restaurant group or edit an existing one. In the settings of each group you can change the name of the restaurant group and add restaurants and the menu they would like to offer to these clients. 
+
+Make sure the 
+
