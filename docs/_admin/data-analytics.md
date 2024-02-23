@@ -36,17 +36,20 @@ So far we have finished setting up the income side of this feature, which can be
 2. There are dropdown menus on the right hand side that change what data is shown in the visualization. We for example distinguish between food orders and non-food orders. In each tab there are different conditions to change based on how your cooperative functions.
 3. At the bottom there is a button to download any page with its information in multiple formats.
 4. We have the numbers in **net** not **gross** because we assume that the most important thing to know is how much money you will earn **after VAT tax**.
+5. If you don't know where you dashboard is, reach out to the team on Slack or by email!
 
 Right now the dashboard has the following features:
-**Income Overview:** Where you can see the total income per month separated between food and non-food orders, and some basic statistics at the bottom. This page exists to help cooperatives understand how their business is evolving globally.
-**Venues Overview:** An overview of the **number** of orders made per week with information about average income per order and total values. This page is meant to help understand the evolution of food orders over time, and especially to look at specific partners to see their demand fluxuation.
-**Commission:** A tab for analyizing the commisions that are charged to restaurants, and simulate what effects price changes could have on your profitability. This page is mean to allow a cooperative to try out new pricing concepts to see their impact based on historical data using simulations.
-**Delivery Fee:** A visulaization of the different delivery fee charges that are being charged to food order customers based on distance of the delivery. This page exists to help a cooperative understand which delivery fees are most frequent and how much more they are being paid the farther they extend deliveries.
-**Delivery Fee Map:** A map that visualizes where food order destinations are in your city, and the delivery fee paid by each one. Try drawing a circle on the map to look at areas of interest. This page exists to understand the geography of your deliveries and what zones your income is coming from.
-**Invoicing Table:** A pivot table that shows the income for each client on the platform for a certain month to facilitate invoicing. 
-**Performance:** A visualization of the average income generated during a particular hour and day of the week. Remember you can change the hours shown! This is meant to let a cooperative understand what times and days are more active, and with some basic math about number of messengers in the street, can give an idea about profitability.
-**Pickups and Dropoffs:** A visualization of in what time periods of the day are your pickups and dropoffs. The idea is to understand when to program shifts based on historical demand.
-**Pickups and Dropoffs Comparison:** A tab that allows you to compare pickups against dropoffs, or pickups from one time range to pickups from another time range. This allows you to understand when to have shifts, as well as compare you volume of work to past months or years. 
+
+
+- **Income Overview:** Where you can see the total income per month separated between food and non-food orders, and some basic statistics at the bottom. This page exists to help cooperatives understand how their business is evolving globally.
+- **Venues Overview:** An overview of the **number** of orders made per week with information about average income per order and total values. This page is meant to help understand the evolution of food orders over time, and especially to look at specific partners to see their demand fluxuation.
+- **Commission:** A tab for analyizing the commisions that are charged to restaurants, and simulate what effects price changes could have on your profitability. This page is mean to allow a cooperative to try out new pricing concepts to see their impact based on historical data using simulations.
+- **Delivery Fee:** A visulaization of the different delivery fee charges that are being charged to food order customers based on distance of the delivery. This page exists to help a cooperative understand which delivery fees are most frequent and how much more they are being paid the farther they extend deliveries.
+- **Delivery Fee Map:** A map that visualizes where food order destinations are in your city, and the delivery fee paid by each one. Try drawing a circle on the map to look at areas of interest. This page exists to understand the geography of your deliveries and what zones your income is coming from.
+- **Invoicing Table:** A pivot table that shows the income for each client on the platform for a certain month to facilitate invoicing.
+- **Performance:** A visualization of the average income generated during a particular hour and day of the week. Remember you can change the hours shown! This is meant to let a cooperative understand what times and days are more active, and with some basic math about number of messengers in the street, can give an idea about profitability.
+- **Pickups and Dropoffs:** A visualization of in what time periods of the day are your pickups and dropoffs. The idea is to understand when to program shifts based on historical demand.
+- **Pickups and Dropoffs Comparison:** A tab that allows you to compare pickups against dropoffs, or pickups from one time range to pickups from another time range. This allows you to understand when to have shifts, as well as compare you volume of work to past months or years. 
 
 What we have now is interested, but limited by its focus on income, the only data we have at the moment. As we develop the other parts of the system we will update this documentation page. 
 
