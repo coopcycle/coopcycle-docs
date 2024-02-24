@@ -51,15 +51,83 @@ Right now the dashboard has the following features:
 - **Pickups and Dropoffs:** A visualization of in what time periods of the day are your pickups and dropoffs. The idea is to understand when to program shifts based on historical demand.
 - **Pickups and Dropoffs Comparison:** A tab that allows you to compare pickups against dropoffs, or pickups from one time range to pickups from another time range. This allows you to understand when to have shifts, as well as compare you volume of work to past months or years. 
 
-What we have now is interested, but limited by its focus on income, the only data we have at the moment. As we develop the other parts of the system we will update this documentation page. 
+What we have now is interesting, but limited by its focus on income, the only data we have at the moment. As we develop the other parts of the system we will update this documentation page. 
+
+# Examples
+
+### Income Overview
+This is an example of a cooperative that is either primarily foodn tech based, or has not put its other activities on the CoopCycle platform. On the right a user can change the time periods shown, include or not both food and non-food orders, and include or exclude tips. Some cooperatives pay tips directly to the messengers individually, and some mutualize the tips. If tips are paid out by what was given in each order that a messenger has done, do not include them. If you mutualize the tips, include them. On the bottom right are aggregated averages for the data and totals.
 
 
+![F3765B78-CB24-4641-BF02-B0669CC90C02](https://github.com/coopcycle/coopcycle-docs/assets/77277854/1d096934-832f-460d-9951-020236eabfeb)
 
 
+Next we have a picture of a primarily last mile cooperative that began to input all their deliveries as orders in March of 2023, and their volume of business went up in September dramatically. In their case, there are so few food tech orders that they barely show up.
+
+![622FC7BB-9CED-4FFE-BB4F-EDD7B87B711E](https://github.com/coopcycle/coopcycle-docs/assets/77277854/5da52077-d498-4f41-9b86-1ad45fb99226)
+
+### Venus Overview
+Foodtech
+![11F05D5B-0926-41E0-9A47-D9CCAEA60532](https://github.com/coopcycle/coopcycle-docs/assets/77277854/1bfa28b3-f2a4-4ed0-a19a-e32ea5a179e9)
+
+Last Mile
+
+![88EEC863-362E-492E-99B4-8884828419C4](https://github.com/coopcycle/coopcycle-docs/assets/77277854/5f3ed8a0-9594-45ab-acda-a23fc2e1abf2)
 
 
+### Commission
+
+Without Simulation
+
+![1C671C38-A6EB-48A5-A90F-92EA994D4B8F](https://github.com/coopcycle/coopcycle-docs/assets/77277854/cc13ac77-fb53-45b9-b89c-836dbf69c54c)
+
+With Simulation
+![1135AC79-CA52-4281-BFC2-9C7C079C329A](https://github.com/coopcycle/coopcycle-docs/assets/77277854/3536148e-7787-4262-bb83-fb24c1ad2c08)
 
 
+### Delivery Fee
+Simple three tier system
+![2CAAAE05-C428-4F72-AE35-7A534EFBA0B1](https://github.com/coopcycle/coopcycle-docs/assets/77277854/33338fd0-45c2-458d-9196-109d929311cf)
 
+Complex delivery fee
+![A463C0C3-DABE-4BB5-A2B9-80FA59C2AF5C](https://github.com/coopcycle/coopcycle-docs/assets/77277854/8b404a5c-f8b7-4c55-985f-7d3c4a9039d8)
+
+
+### Delivery Fee Map
+Simple
+![84E46A31-4361-44C6-8F02-323E36905568](https://github.com/coopcycle/coopcycle-docs/assets/77277854/fb69f340-62c1-4c02-97b6-3b4deaa9bcff)
+
+Complex
+![C51BD4AE-0545-4240-B78D-D93466F2B8F6](https://github.com/coopcycle/coopcycle-docs/assets/77277854/26bce07a-44c9-495e-947a-dbe471e50491)
+
+### Invoicing Table
+![5DD9B0CD-D6C4-463C-AB16-296B82F55F1C](https://github.com/coopcycle/coopcycle-docs/assets/77277854/143ffbc0-7463-4b77-9199-439ca07e062f)
+
+
+### Performance
+Food Tech
+![7299F447-22AF-4893-A9E2-B1E77C7DA15D](https://github.com/coopcycle/coopcycle-docs/assets/77277854/80064bf8-40ca-4940-a1fd-d65b199a0023)
+
+Last Mile
+![E404E12D-A051-42CF-948A-B0E4276CAF1F](https://github.com/coopcycle/coopcycle-docs/assets/77277854/b68f31f4-e941-4e77-b9e6-defd16aa1e2a)
+
+
+### Pickups and Dropoffs
+Food Tech
+![15458739-6D90-4CB6-AD97-10A328CA8AD4](https://github.com/coopcycle/coopcycle-docs/assets/77277854/c9cd99a2-8684-478d-b0bc-a7116e6c9dc0)
+
+Last Mile
+![6CC0AE93-9D6D-4E51-A64A-B715580762A9](https://github.com/coopcycle/coopcycle-docs/assets/77277854/68a140b8-1832-41ab-99e0-4c535cfee5d2)
+
+
+### Pickups and Dropoffs Compared
+Food Tech pickups vs dropoffs
+![6E177E07-A27A-4725-9E8E-14B776E27CE1_1_201_a](https://github.com/coopcycle/coopcycle-docs/assets/77277854/4a099370-a7a7-47c9-afb0-1120b718798c)
+
+Last Mile pickups vs dropoffs
+![4BFEEE39-1DA3-45E4-B0C6-90BABBDFC7D5](https://github.com/coopcycle/coopcycle-docs/assets/77277854/8e2acf9b-e39f-4302-91a9-0dcde36e6617)
+
+Comparing one year to another
+![3A42A8D3-9E9C-4332-AB6E-37E7926BF7AC](https://github.com/coopcycle/coopcycle-docs/assets/77277854/4599d208-356f-4390-acf3-ec17daee80a7)
 
 
