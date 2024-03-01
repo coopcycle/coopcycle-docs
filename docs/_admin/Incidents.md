@@ -39,7 +39,7 @@ Example of the CARP method here: IN PROCESS\\
 Other [links](https://hiverhq.com/blog/b2c-customer-service) to [guides](https://blog.hubspot.com/service/customer-service) to customer service written by normal business people.
 
 # Design of CoopCycle Incident Management
-
+\
 Goals of the CoopCycle Incident Management System
 1. Allow cooperatives to track all the incidents that occur during service
 2. Create specific incident resolution paths that are not overly complex
@@ -56,7 +56,7 @@ In practice, this becomes a flowchart of decisions that represent ations inside 
 
 ![Admin Panel (1)](https://github.com/coopcycle/coopcycle-docs/assets/77277854/e9871050-9df5-4a50-9c2d-7a8a48a3b4a4)
 
-
+---
 ### In this workflow there are four possible conclusions to an Order:
 \
  <span class="badge badge-success">Completion without incident:</span>  <span> If an order is created, assigned, all of its tasks are completed without incidents, the order is completed. The original price will be charged to the customer with no modifications. <span> \
@@ -69,4 +69,37 @@ In practice, this becomes a flowchart of decisions that represent ations inside 
 
 <span class="badge badge-danger">Cancelation:</span>  <span> An order is created, then cancelled. You can either cancel the order from the Orders Dashboard, or cancel all of the related tasks. In this case, there will be no charge registered in CoopCycle and the price will have a strikethrough in the panel. <span> \
 
+Right now this workflow exists, but all of the management of the incidents must happen outside of the platform on your excels, emails and other communication tools. In the next versions of instances we will be progressing towards the goals outlined about using ticketing systems and preprogramed responses when useful, as well as finishing the development of the feature where an incident changes the price of an order. 
+
+<span class="badge badge-info">IMPORTANT!</span> \
+Right now the only incidents do not change the price of a task! Cancelling a task with change the total price of the order by subtracting the price associated with that task, but this is the only current way to modify the price. The feature where incidents modify the price of a task will be in Incidents V.2
+
+# Setting up CoopCycle Incident Management with current version
+
+### The Situation Right Now
+Currently we have finished CoopCycle Incident Management V.1 (link) which includes the following features:
+1. A messenger can flag an incident for a pickup or dropoff task and add a photo and comments to explain the situation.
+2. A last mile provider can automatically recieve incidents related to their packages based on the incidents that they have configured in their system.
+3. A dispatcher can reschedule a task after an incident has been created.
+4. An administrator can create customized sets of incidents that can be associated to specific stores and shops (ex. Food arrived cold would not need to be an incident for a flower shop)
+5. Shops can see that incidents have occurred during a delivery in their panel. 
+
+We are working on Incidents V.2 which will include:
+1. Specific types of incidents will change the price of a shop delivery to reflect the cooperative’s service agreement (ex: if the client has two boxes instead of one, the incident can propose to charge for two instead of one, and a dispatcher can approve this change).
+2. A ticket management system to facilitate best practices and information transparency between different dispatchers.
+3. Ability to automize certain customer service responses for frequent issues, especially for food tech services. 
+
+### How does Incidents V.1 work?
+
+**Setup**\
+First, an administrator must go to the deliveries page and click on the “Failure Reasons” tab on the left-side menu. Here the different incident rules can be managed and new rules can be created. After creating the appropriate incident rules, these can be associated to a shop or store in their configuration pages. 
+
+**During Service**\
+Once this is completed, when a messenger is completing a task they can slide the bar to the right to complete without problems, or slide to the left and click the yellow button to complete the task with an incident. They should they take a photo and provide comments if necessary to help the dispatcher or administrator manage the incident with the customer. 
+
+**Incident Resolution** \
+After this, a dispatcher or administrator can chose three options:
+1. Leave the incident as is (ex: the package was delivered, just late) and the incident remains as a register of the problem for future analytics
+2. Reschedule the delivery for a future date (ex: client not at home, try again)
+3. Cancel the delivery (ex: lost package). This option will make the price for this delivery go to zero, and should only be used when you do not want to charge the client for the service. 
 
