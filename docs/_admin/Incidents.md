@@ -58,11 +58,15 @@ In practice, this becomes a flowchart of decisions that represent ations inside 
 
 
 ### In this workflow there are four possible conclusions to an Order:
- <span class="badge badge-info">Completion without incident::</span>  <span> If an order is created, assigned, all of its tasks are completed without incidents, the order is completed. The original price will be charged to the customer with no modifications. <span>
+\
+ <span class="badge badge-success">Completion without incident:</span>  <span> If an order is created, assigned, all of its tasks are completed without incidents, the order is completed. The original price will be charged to the customer with no modifications. <span> \
 
-**Completion with incident:** An order is created, assigned, all of its tasks are completed but with an incident that is not critical (the package is delivered, but extra information must be recorded), and the order is completed. The original price will be charged with no modifications.
-**Completion with incidents:** An order is created, assigned, and something has happened that must change the order's price. This can be an increase or a decrease. For example, maybe you arrive and instead of one box, there are two. The incident report will allow the messenger to suggest a change of the package set from one box to two, which will recalculate the price if the price is based on how many boxes. On the other hand, maybe there is one box instead of two. 
-**Partial completion:** An order is created, but for one reason or another, one of the tasks should not be charged. Perhaps you arrive at the pickup and the delivery is for the next day and the customer put in the information wrong. In this case, you may want to charge for the pickup but not the dropoff, since you have gone out to the customer. You can complete the pickup with an incident, and the dispatcher can cancel the dropoff. This will eliminate the price of the elements related to the dropoff task, but keep the price related to the elements of the pickup task.
-**Cancelation:** An order is created, then cancelled. You can either cancel the order from the Orders Dashboard, or cancel all of the related tasks. In this case, there will be no charge registered in CoopCycle and the price will have a strikethrough in the panel.
+<span class="badge badge-success">Completion with incidents:</span>  <span> An order is created, assigned, all of its tasks are completed but with an incident that is not critical (the package is delivered, but extra information must be recorded), and the order is completed. The original price will be charged with no modifications. <span> \
+
+<span class="badge badge-warning">Completion with critical incident:</span>  <span> An order is created, assigned, and something has happened that must change the order's price. This can be an increase or a decrease. For example, maybe you arrive and instead of one box, there are two. The incident report will allow the messenger to suggest a change of the package set from one box to two, which will recalculate the price if the price is based on how many boxes. On the other hand, maybe there is one box instead of two. <span> \
+
+<span class="badge badge-warning">Parcial completion:</span>  <span>  An order is created, but for one reason or another, one of the tasks should not be charged. Perhaps you arrive at the pickup and the delivery is for the next day and the customer put in the information wrong. In this case, you may want to charge for the pickup but not the dropoff, since you have gone out to the customer. You can complete the pickup with an incident, and the dispatcher can cancel the dropoff. This will eliminate the price of the elements related to the dropoff task, but keep the price related to the elements of the pickup task. <span>\
+
+<span class="badge badge-danger">Cancelation:</span>  <span> An order is created, then cancelled. You can either cancel the order from the Orders Dashboard, or cancel all of the related tasks. In this case, there will be no charge registered in CoopCycle and the price will have a strikethrough in the panel. <span> \
 
 
