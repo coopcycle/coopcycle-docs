@@ -35,10 +35,10 @@ With this in mind, here we propose a few key guidelines that take into account o
  - Refocus the conversation towards clear solutions
  - Problem solve
 
-Example of the CARP method here: IN PROCESS
+Example of the CARP method here: IN PROCESS\\
 Other [links](https://hiverhq.com/blog/b2c-customer-service) to [guides](https://blog.hubspot.com/service/customer-service) to customer service written by normal business people.
 
-2. Design of CoopCycle Incident Management
+# Design of CoopCycle Incident Management
 
 Goals of the CoopCycle Incident Management System
 1. Allow cooperatives to track all the incidents that occur during service
@@ -57,7 +57,7 @@ In practice, this becomes a flowchart of decisions that represent ations inside 
 ![Admin Panel (1)](https://github.com/coopcycle/coopcycle-docs/assets/77277854/e9871050-9df5-4a50-9c2d-7a8a48a3b4a4)
 
 
-In this workflow there are four possible conclusions to an Order:
+### In this workflow there are four possible conclusions to an Order:
  <span class="badge badge-info">Completion without incident::</span>  <span> If an order is created, assigned, all of its tasks are completed without incidents, the order is completed. The original price will be charged to the customer with no modifications. <span>
 
 **Completion with incident:** An order is created, assigned, all of its tasks are completed but with an incident that is not critical (the package is delivered, but extra information must be recorded), and the order is completed. The original price will be charged with no modifications.
