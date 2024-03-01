@@ -84,18 +84,26 @@ Currently we have finished CoopCycle Incident Management V.1 (link) which includ
 4. An administrator can create customized sets of incidents that can be associated to specific stores and shops (ex. Food arrived cold would not need to be an incident for a flower shop)
 5. Shops can see that incidents have occurred during a delivery in their panel. 
 
+
+
 We are working on Incidents V.2 which will include:
 1. Specific types of incidents will change the price of a shop delivery to reflect the cooperative’s service agreement (ex: if the client has two boxes instead of one, the incident can propose to charge for two instead of one, and a dispatcher can approve this change).
 2. A ticket management system to facilitate best practices and information transparency between different dispatchers.
 3. Ability to automize certain customer service responses for frequent issues, especially for food tech services. 
 
 ### How does Incidents V.1 work?
-
+\
 **Setup**\
 First, an administrator must go to the deliveries page and click on the “Failure Reasons” tab on the left-side menu. Here the different incident rules can be managed and new rules can be created. After creating the appropriate incident rules, these can be associated to a shop or store in their configuration pages. 
 
+<img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">
+<img width="1057" alt="Screenshot 2024-03-01 at 13 50 09" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/70f75c04-d157-4a23-8251-cb2515b7da8f">
+
+
 **During Service**\
 Once this is completed, when a messenger is completing a task they can slide the bar to the right to complete without problems, or slide to the left and click the yellow button to complete the task with an incident. They should they take a photo and provide comments if necessary to help the dispatcher or administrator manage the incident with the customer. 
+
+
 
 **Incident Resolution** \
 After this, a dispatcher or administrator can chose three options:
