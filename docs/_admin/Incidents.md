@@ -25,17 +25,16 @@ With this in mind, here we propose a few key guidelines that take into account o
 
 ## Key tips:
 
-1. [80/20 rule or the Pareto Rule](https://en.wikipedia.org/wiki/Pareto_principle): Studies have shown that 80% of a business’s income and profits generally come from 20% of its most dedicated and motivated customers. Especially in B2C services like food delivery, it is key to identify who these customers are and find ways to keep them happy.
-2. 80/20 rule or the Pareto Rule again: The inverse is also true. 80% of your customer service costs, incidents, problems, and general frustration will likely come from 20% of your customers. In our businesses, unless you have an urgent need for turnover at any cost (you just started), a key factor for success is to find ways to limit the time you invest in these clients and create clear limitations. These relationships are often toxic and should be thought of inside that framework (insert how to deal with toxic relationships link to feminist literature)
-3. Systematize, but humanize: Making protocols and systems to deal with incidents is an important process to undertake as a business grows. If you have more than one dispatcher, having shared ways of dealing with customers and passing information between shifts will quickly become necessary. However, make sure these systems support human-focused and autonomous decision-making. An example of a robotic systematization would be to only allow dispatchers to cancel orders, never to modify their characteristics in order to reduce problematic and unprofitbale deliveries. An example of a human-focused system would be to have a set of suggested incident resolutions based on different possible situations and to make sure incidents are recorded so that others know they happened, so that others can better judge how to react in future situations and have a guide while making these subjective decisions.
-4. Be where your customer is: Remember that you are not your customers, and therefore what you think of as the best ways to interact with customers may not be the complete picture. For example, many cooperatives have artistic members who gravitate towards instagram as their main communication tool, without considering that facebook remains a highly used platform for the middle-aged and older demographic. As members of the social and solidarity economy we often have a wider customer base than other similar businesses, and should identify the ways that these clients look to interact with us. Other than whatsapp and instagram, consider facebook, email, and phone calls as communication tools. Doing a quick survey of your customers is never a bad idea either.
-5. Know how to deal with problems: This is a basic customer service concept. A customer with a problem will be upset and feel a lack of control. Frameworks such as the CARP method offer a simple series of steps: 
+1. **80/20 rule or the Pareto Rule:** [Studies have shown](https://en.wikipedia.org/wiki/Pareto_principle) that 80% of a business’s income and profits generally come from 20% of its most dedicated and motivated customers. Especially in B2C services like food delivery, it is key to identify who these customers are and find ways to keep them happy.
+2. **80/20 rule or the Pareto Rule again:** The inverse is also true. 80% of your customer service costs, incidents, problems, and general frustration will likely come from 20% of your customers. In our businesses, unless you have an urgent need for turnover at any cost (you just started), a key factor for success is to find ways to limit the time you invest in these clients and create clear limitations. These relationships are often toxic and should be thought of inside that framework (insert how to deal with toxic relationships link to feminist literature)
+3. **Systematize, but humanize:** Making protocols and systems to deal with incidents is an important process to undertake as a business grows. If you have more than one dispatcher, having shared ways of dealing with customers and passing information between shifts will quickly become necessary. However, make sure these systems support human-focused and autonomous decision-making. An example of a robotic systematization would be to only allow dispatchers to cancel orders, never to modify their characteristics in order to reduce problematic and unprofitbale deliveries. An example of a human-focused system would be to have a set of suggested incident resolutions based on different possible situations and to make sure incidents are recorded so that others know they happened, so that others can better judge how to react in future situations and have a guide while making these subjective decisions.
+4. **Be where your customer is:** Remember that you are not your customers, and therefore what you think of as the best ways to interact with customers may not be the complete picture. For example, many cooperatives have artistic members who gravitate towards instagram as their main communication tool, without considering that facebook remains a highly used platform for the middle-aged and older demographic. As members of the social and solidarity economy we often have a wider customer base than other similar businesses, and should identify the ways that these clients look to interact with us. Other than whatsapp and instagram, consider facebook, email, and phone calls as communication tools. Doing a quick survey of your customers is never a bad idea either.
+5. **Know how to deal with problems:** This is a basic customer service concept. A customer with a problem will be upset and feel a lack of control. Having a framework or step by step processcan offer a much-needed guide: 
  - Control the situation
  - Acknowledge the error or problem
  - Refocus the conversation towards clear solutions
  - Problem solve
 
-Example of the CARP method here: IN PROCESS\\
 Other [links](https://hiverhq.com/blog/b2c-customer-service) to [guides](https://blog.hubspot.com/service/customer-service) to customer service written by normal business people.
 
 # Design of CoopCycle Incident Management
@@ -59,15 +58,15 @@ In practice, this becomes a flowchart of decisions that represent ations inside 
 ---
 ## In this workflow there are four possible conclusions to an Order:
 \
- <span class="badge badge-success">Completion without incident:</span>  <span> If an order is created, assigned, all of its tasks are completed without incidents, the order is completed. The original price will be charged to the customer with no modifications. <span> \
+ <span class="badge badge-success">Completion without incident:</span>  <span> If an order is created, assigned, all of its tasks are completed without incidents, the order is completed. The original price will be charged to the customer with no modifications. <span> 
 
-<span class="badge badge-success">Completion with incidents:</span>  <span> An order is created, assigned, all of its tasks are completed but with an incident that is not critical (the package is delivered, but extra information must be recorded), and the order is completed. The original price will be charged with no modifications. <span> \
+<span class="badge badge-success">Completion with incidents:</span>  <span> An order is created, assigned, all of its tasks are completed but with an incident that is not critical (the package is delivered, but extra information must be recorded), and the order is completed. The original price will be charged with no modifications. <span> 
 
-<span class="badge badge-warning">Completion with critical incident:</span>  <span> An order is created, assigned, and something has happened that must change the order's price. This can be an increase or a decrease. For example, maybe you arrive and instead of one box, there are two. The incident report will allow the messenger to suggest a change of the package set from one box to two, which will recalculate the price if the price is based on how many boxes. On the other hand, maybe there is one box instead of two. <span> \
+<span class="badge badge-warning">Completion with critical incident:</span>  <span> An order is created, assigned, and something has happened that must change the order's price. This can be an increase or a decrease. For example, maybe you arrive and instead of one box, there are two. The incident report will allow the messenger to suggest a change of the package set from one box to two, which will recalculate the price if the price is based on how many boxes. On the other hand, maybe there is one box instead of two. <span> 
 
-<span class="badge badge-warning">Parcial completion:</span>  <span>  An order is created, but for one reason or another, one of the tasks should not be charged. Perhaps you arrive at the pickup and the delivery is for the next day and the customer put in the information wrong. In this case, you may want to charge for the pickup but not the dropoff, since you have gone out to the customer. You can complete the pickup with an incident, and the dispatcher can cancel the dropoff. This will eliminate the price of the elements related to the dropoff task, but keep the price related to the elements of the pickup task. <span>\
+<span class="badge badge-warning">Parcial completion:</span>  <span>  An order is created, but for one reason or another, one of the tasks should not be charged. Perhaps you arrive at the pickup and the delivery is for the next day and the customer put in the information wrong. In this case, you may want to charge for the pickup but not the dropoff, since you have gone out to the customer. You can complete the pickup with an incident, and the dispatcher can cancel the dropoff. This will eliminate the price of the elements related to the dropoff task, but keep the price related to the elements of the pickup task. <span>
 
-<span class="badge badge-danger">Cancelation:</span>  <span> An order is created, then cancelled. You can either cancel the order from the Orders Dashboard, or cancel all of the related tasks. In this case, there will be no charge registered in CoopCycle and the price will have a strikethrough in the panel. <span> \
+<span class="badge badge-danger">Cancelation:</span>  <span> An order is created, then cancelled. You can either cancel the order from the Orders Dashboard, or cancel all of the related tasks. In this case, there will be no charge registered in CoopCycle and the price will have a strikethrough in the panel. <span> 
 
 Right now this workflow exists, but all of the management of the incidents must happen outside of the platform on your excels, emails and other communication tools. In the next versions of instances we will be progressing towards the goals outlined about using ticketing systems and preprogramed responses when useful, as well as finishing the development of the feature where an incident changes the price of an order. 
 
@@ -77,7 +76,7 @@ Right now the only incidents do not change the price of a task! Cancelling a tas
 # Setting up CoopCycle Incident Management with current version
 
 ## The Situation Right Now
-### Currently we have finished CoopCycle Incident Management V.1 (link) which includes the following features:
+### Currently we have finished [CoopCycle Incident Management V.1](https://github.com/coopcycle/coopcycle/issues/9)  which includes the following features:
 1. A messenger can flag an incident for a pickup or dropoff task and add a photo and comments to explain the situation.
 2. A last mile provider can automatically recieve incidents related to their packages based on the incidents that they have configured in their system.
 3. A dispatcher can reschedule a task after an incident has been created.
@@ -92,17 +91,18 @@ We are working on Incidents V.2 which will include:
 3. Ability to automize certain customer service responses for frequent issues, especially for food tech services. 
 
 ## How does Incidents V.1 work?
-\
+
 ### Step 1 - Setup
 First, an administrator must go to the deliveries page and click on the “[Faliure Reasons](https://demo.coopcycle.org/admin/deliveries/failures)” tab on the left-side menu. Here the different incident rules can be managed and new rules can be created. After creating the appropriate incident rules, these can be associated to a shop or store in their configuration pages. 
 
 <img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">\
+---
 <img width="1057" alt="Screenshot 2024-03-01 at 13 50 09" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/70f75c04-d157-4a23-8251-cb2515b7da8f">
-
+---
 <span class="badge badge-info">Tip!</span> \
 Make sure you have used the settings in the Admin Panel to visualize incident-related tasks
 <img width="1469" alt="Screenshot 2024-03-02 at 09 57 24" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/5abf91d9-2700-4608-96dc-26492ecea2c6">
-
+---
 
 **During Service**\
 Once this is completed, when a messenger is completing a task they can slide the bar to the right to complete the task without issues, or slide to the left and click the yellow button to complete the task with an incident. They should they take a photo and provide comments if necessary to help the dispatcher or administrator manage the incident with the customer. 
