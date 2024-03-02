@@ -70,10 +70,15 @@ Next we have a picture of a primarily last mile cooperative that began to input 
 Foodtech
 ![11F05D5B-0926-41E0-9A47-D9CCAEA60532](https://github.com/coopcycle/coopcycle-docs/assets/77277854/1bfa28b3-f2a4-4ed0-a19a-e32ea5a179e9)
 
+
+Here we can see the fluctuation of the food deliveries and the pick-up/collection deliveries. On the bottom left there is an explanation of the average and total incomes for food deliveries, collections, and for last mile orders. on the right side the averages are shown in bar graph form in order to understand better where the revenues are coming from. On the right hand side you can select which shops and stores you would like to visualize and change the time period being analyzed. 
+
 Last Mile
 
 ![88EEC863-362E-492E-99B4-8884828419C4](https://github.com/coopcycle/coopcycle-docs/assets/77277854/5f3ed8a0-9594-45ab-acda-a23fc2e1abf2)
 
+
+Here we have the same information, but for a cooperative that works almost exclusively in last mile. 
 
 ### Commission
 
@@ -81,53 +86,83 @@ Without Simulation
 
 ![1C671C38-A6EB-48A5-A90F-92EA994D4B8F](https://github.com/coopcycle/coopcycle-docs/assets/77277854/cc13ac77-fb53-45b9-b89c-836dbf69c54c)
 
+
+Here a food tech cooperative can analyze the amount of commission that they earn on the deliveries. This only reflects the money taken from the basket of food purchased, **not** the delivery fee or tips. The first use of this page is to understand what amount of money your percentages and pricing rules turn into for different restaurants. Maybe for one restaurant you have a flat percentage fee, and another is using a percentage plus a €2,00 charge per order and you would like to know which is making more money. By changing the values of the restaurants and order values visualized you can better understand the way your pricing rules turn into actual €X,XX in income for your cooperative.
+
 With Simulation
 ![1135AC79-CA52-4281-BFC2-9C7C079C329A](https://github.com/coopcycle/coopcycle-docs/assets/77277854/3536148e-7787-4262-bb83-fb24c1ad2c08)
 
+
+The second use of this page is to simulate pricing modifications. Since many of our prices are not simply a flat percentage, we do not always understand clearly the impact of a pricing rule change. The change my act differently on a restaurant with a higher or lower average order value in ways we have difficulty imagining. By putting in a new price rule in the bottom right and pressing enter we will be shown on the left what this pricing rule **would have** earned us in the time period defined and for the restaurants chosen. In this way we can try out new prices before negotiating with our clients and come better prepared. 
 
 ### Delivery Fee
 Simple three tier system
 ![2CAAAE05-C428-4F72-AE35-7A534EFBA0B1](https://github.com/coopcycle/coopcycle-docs/assets/77277854/33338fd0-45c2-458d-9196-109d929311cf)
 
+
+Here we have the example of a food tech cooperative with a very simple delivery fee rule for clients. They have 3 types of delivery fees, apart from some outliers. The goal of this page is to understand the relationship between how far a messenger must go, and therefore how much work/time is being invested in a delivery, and the amount of money that is being earned. For example, there aree a few deliveries in orange towards the right that represent almost 5,5km in which the client is being charged the lowest possible delivery fee. Maybe this is due to a strategy by the cooperative to have cheap delivery for large orders, or maybe this is an indicator that the zone should be changed. Conversly, there are expensive fees for deliveries only going 500m. In general, there is a **very** wide range of distances travelled for each delivery fee, and perhaps the way the fees are structured should be reconsidered to make sure those who are farther away are paying more. 
+
 Complex delivery fee
 ![A463C0C3-DABE-4BB5-A2B9-80FA59C2AF5C](https://github.com/coopcycle/coopcycle-docs/assets/77277854/8b404a5c-f8b7-4c55-985f-7d3c4a9039d8)
 
+Here we have a food tech cooperative with a highly complex delivery fee structure. They have different rules for different types of services, with the blue line representing a catering service with large order sizes that have a low flat fee. 
 
 ### Delivery Fee Map
 Simple
 ![84E46A31-4361-44C6-8F02-323E36905568](https://github.com/coopcycle/coopcycle-docs/assets/77277854/fb69f340-62c1-4c02-97b6-3b4deaa9bcff)
 
+In this map we can see what appear to be three pricing rules based on zones, but by looking at different restaurants it is clear that in reality there are two zone configurations happening at once, one based on orders being picked up in the north and another for orders being picked up in the center. In the bottom there is a table that shows information about the averages and totales for the selected deliveries. \ Other than the options on the right as usual, by clicking and dragging on the map it is possible to select only certain geographic areas. This page also helps understand how much work we are investing to earn our delivery fees, as well as helps us understand where we might want to focus communication and marketing efforts. 
+
 Complex
 ![C51BD4AE-0545-4240-B78D-D93466F2B8F6](https://github.com/coopcycle/coopcycle-docs/assets/77277854/26bce07a-44c9-495e-947a-dbe471e50491)
+
+In a more complex delivery fee pricing rule we can see that there are many factors to consider. In this case the delivery fee is being calculated on the distance from the restaurant, something that makes the map much more diverse when there are restaurants all over the city. By selecting different delivery fee amounts it is possible to start undetstanding the geography of the pricing structure and understand which delivery fees make sense and which do not. 
 
 ### Invoicing Table
 ![5DD9B0CD-D6C4-463C-AB16-296B82F55F1C](https://github.com/coopcycle/coopcycle-docs/assets/77277854/143ffbc0-7463-4b77-9199-439ca07e062f)
 
 
+Here we have a simple pivot table which shows the Net, VAT, Gross, and Refunds for each customer. This is meant to facilitate invoicing. We still have a few issues to clean up in our [Pricing V.1 Epic](https://github.com/coopcycle/coopcycle/issues/31) such as allowing kilometer based prices to function for multi-dropoff deliveries, but if a cooperative has put all of its prices inside of their CoopCycle instance effectively it means that this page will show them how much to charge each client at the end of the month.  
+
 ### Performance
 Food Tech
 ![7299F447-22AF-4893-A9E2-B1E77C7DA15D](https://github.com/coopcycle/coopcycle-docs/assets/77277854/80064bf8-40ca-4940-a1fd-d65b199a0023)
 
+
+This page shows the average income in an hour/day of the week for a food-tech cooperative. While we are working on a second version of this portal that will reflect profitability, for now this only shows income. The use case for this page is to use the average income per hour shown in each bubble compared to your labor cost per hour in order to understand how many messengers should be working in any given hour on average. 
+
 Last Mile
 ![E404E12D-A051-42CF-948A-B0E4276CAF1F](https://github.com/coopcycle/coopcycle-docs/assets/77277854/b68f31f4-e941-4e77-b9e6-defd16aa1e2a)
 
+The same priciple and goals, but show for a Last Mile cooperative working principally weekdays during the mornings. 
 
 ### Pickups and Dropoffs
 Food Tech
 ![15458739-6D90-4CB6-AD97-10A328CA8AD4](https://github.com/coopcycle/coopcycle-docs/assets/77277854/c9cd99a2-8684-478d-b0bc-a7116e6c9dc0)
 
+
+This page is also designed to help a cooperative understand how many messengers they may want in a given hour of the day. It also can help understand the flow of orders over time. In this case, for a food-tech cooperative, most hours are similar in regards to pickups and dropoffs.
+
 Last Mile
 ![6CC0AE93-9D6D-4E51-A64A-B715580762A9](https://github.com/coopcycle/coopcycle-docs/assets/77277854/68a140b8-1832-41ab-99e0-4c535cfee5d2)
 
+
+Here we can see that a last mile cooperative is recieving many orders in the first hours of the day and then is delivering them throughout the morning and afternoon. This may have implications for shift planning, maybe the cooperative needs efficient pickers in the morning who then pass of organized routes to messengers for example. This then would help the cooperative understand at what hours should the shifts begin and end.
 
 ### Pickups and Dropoffs Compared
 Food Tech pickups vs dropoffs
 ![6E177E07-A27A-4725-9E8E-14B776E27CE1_1_201_a](https://github.com/coopcycle/coopcycle-docs/assets/77277854/4a099370-a7a7-47c9-afb0-1120b718798c)
 
+This page allows a cooperative to compare the pickups or dropoffs of any day or series of customers to the pickups or dropoffs of another day or another series of clients. This can be done to better understand the fluctuations between days of the week or clients, or to help with shift planning. In this case the coparison is between pickups and dropoffs for a food-tech cooperative.
+
 Last Mile pickups vs dropoffs
 ![4BFEEE39-1DA3-45E4-B0C6-90BABBDFC7D5](https://github.com/coopcycle/coopcycle-docs/assets/77277854/8e2acf9b-e39f-4302-91a9-0dcde36e6617)
+
+
+Here we have a similar comparison, but it is the last mile cooperative from the example above. 
 
 Comparing one year to another
 ![3A42A8D3-9E9C-4332-AB6E-37E7926BF7AC](https://github.com/coopcycle/coopcycle-docs/assets/77277854/4599d208-356f-4390-acf3-ec17daee80a7)
 
+Lastly, we can compare volume from one time period to another. In this case the comparison is between the pickups from fanuary 2024 and the dropoffs of 2023. This can help us understand why certain months are more or less profitable, or at least to understand how much of those differences can be attributed to changes in volume. 
 
