@@ -44,13 +44,13 @@ Goals of the CoopCycle Incident Management System
 1. Allow cooperatives to track all the incidents that occur during service
 2. Create specific incident resolution paths that are not overly complex
 3. Create specific incident resolution paths that address all use cases
-4. We want to charge more for an incident. Ex: customer made a mistake, we need to charge more due to the extra work involved.
-5. We want to take away the entire charge of an order. Ex: The customer called just after making the order to cancel, it didn’t require any work on our part, so we don’t mind canceling it and not charging for the service.
-6. We want to charge part of the order. Ex: We went to do a pickup but they forgot to prepare the delivery. We want to charge the cost for the pickup but not the dropoff, and we will create a new delivery for tomorrow.
-7. We don’t want to change the price, but we need to register the incident in case we need to address the issue in the future. Ex: The client was not at home and we have to deliver to a neighbor with permission from the client.
-8. Allow the rescheduling of deliveries without loosing traceability
-9. Facilitate effective, efficient, and human-focused management of incidents for both Business to Business clients and Business to Customer customers.
-10. Create a simplified process that is accessable and understandable to new dispatchers and administrators. 
+ - We want to charge more for an incident. Ex: customer made a mistake, we need to charge more due to the extra work involved.
+ - We want to take away the entire charge of an order. Ex: The customer called just after making the order to cancel, it didn’t require any work on our part, so we don’t mind canceling it and not charging for the service.
+ - We want to charge part of the order. Ex: We went to do a pickup but they forgot to prepare the delivery. We want to charge the cost for the pickup but not the dropoff, and we will create a new delivery for tomorrow.
+ - We don’t want to change the price, but we need to register the incident in case we need to address the issue in the future. Ex: The client was not at home and we have to deliver to a neighbor with permission from the client.
+4. Allow the rescheduling of deliveries without loosing traceability
+5. Facilitate effective, efficient, and human-focused management of incidents for both Business to Business clients and Business to Customer customers.
+6. Create a simplified process that is accessable and understandable to new dispatchers and administrators. 
 
 In practice, this becomes a flowchart of decisions that represent ations inside the CoopCycle platform that go from the creation of an order to its completion:
 
@@ -96,7 +96,7 @@ We are working on Incidents V.2 which will include:
 **Setup**\
 First, an administrator must go to the deliveries page and click on the “Failure Reasons” tab on the left-side menu. Here the different incident rules can be managed and new rules can be created. After creating the appropriate incident rules, these can be associated to a shop or store in their configuration pages. 
 
-<img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">
+<img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">\
 <img width="1057" alt="Screenshot 2024-03-01 at 13 50 09" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/70f75c04-d157-4a23-8251-cb2515b7da8f">
 
 
