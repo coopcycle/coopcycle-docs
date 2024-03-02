@@ -76,7 +76,7 @@ Right now the only incidents do not change the price of a task! Cancelling a tas
 # Setting up CoopCycle Incident Management with current version
 
 ## The Situation Right Now
-### Currently we have finished [CoopCycle Incident Management V.1](https://github.com/coopcycle/coopcycle/issues/9)  which includes the following features:
+**Currently we have finished [CoopCycle Incident Management V.1](https://github.com/coopcycle/coopcycle/issues/9)  which includes the following features:**
 1. A messenger can flag an incident for a pickup or dropoff task and add a photo and comments to explain the situation.
 2. A last mile provider can automatically recieve incidents related to their packages based on the incidents that they have configured in their system.
 3. A dispatcher can reschedule a task after an incident has been created.
@@ -85,7 +85,7 @@ Right now the only incidents do not change the price of a task! Cancelling a tas
 
 
 
-We are working on Incidents V.2 which will include:
+**We are working on Incidents V.2 which will include:**
 1. Specific types of incidents will change the price of a shop delivery to reflect the cooperative’s service agreement (ex: if the client has two boxes instead of one, the incident can propose to charge for two instead of one, and a dispatcher can approve this change).
 2. A ticket management system to facilitate best practices and information transparency between different dispatchers.
 3. Ability to automize certain customer service responses for frequent issues, especially for food tech services. 
@@ -96,20 +96,25 @@ We are working on Incidents V.2 which will include:
 First, an administrator must go to the deliveries page and click on the “[Faliure Reasons](https://demo.coopcycle.org/admin/deliveries/failures)” tab on the left-side menu. Here the different incident rules can be managed and new rules can be created. After creating the appropriate incident rules, these can be associated to a shop or store in their configuration pages. 
 
 <img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">\
+
 ---
+
 <img width="1057" alt="Screenshot 2024-03-01 at 13 50 09" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/70f75c04-d157-4a23-8251-cb2515b7da8f">
+
 ---
+
 <span class="badge badge-info">Tip!</span> \
 Make sure you have used the settings in the Admin Panel to visualize incident-related tasks
 <img width="1469" alt="Screenshot 2024-03-02 at 09 57 24" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/5abf91d9-2700-4608-96dc-26492ecea2c6">
+
 ---
+
 
 **During Service**\
 Once this is completed, when a messenger is completing a task they can slide the bar to the right to complete the task without issues, or slide to the left and click the yellow button to complete the task with an incident. They should they take a photo and provide comments if necessary to help the dispatcher or administrator manage the incident with the customer. 
 
 <span class="badge badge-info">Info</span> \
 Right now the button is red, it will be yellow next week ;)
-https://github.com/coopcycle/coopcycle-docs/assets/77277854/52dd1a95-5e79-44fe-8e79-2696804ed3f9
 
 
 **Incident Resolution** \
