@@ -95,7 +95,7 @@ Right now the only incidents do not change the price of a task! Cancelling a tas
 ### Step 1 - Setup
 First, an administrator must go to the deliveries page and click on the “[Faliure Reasons](https://demo.coopcycle.org/admin/deliveries/failures)” tab on the left-side menu. Here the different incident rules can be managed and new rules can be created. After creating the appropriate incident rules, these can be associated to a shop or store in their configuration pages. 
 
-<img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">\
+<img width="1058" alt="Screenshot 2024-03-01 at 13 49 12" src="https://github.com/coopcycle/coopcycle-docs/assets/77277854/083ce7ed-ddce-4c5d-bf0b-c0417f1560dd">
 
 ---
 
