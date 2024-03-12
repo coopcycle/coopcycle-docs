@@ -1,0 +1,42 @@
+---
+layout: default
+title: Excel Imports
+---
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
+
+# Introduction
+CoopCycle identified that the food delivery platform was not set up to efficiently and effectively offer services to businesses that are looking to cater business meetings, have lunch delivered to their employees, or offer special deals to businesses who which to help pay for employee food costs. This is a common practice, especially in France, which goes hand in hand with EdenRed and other ("Ticket Restaurant")[https://frenchly.us/frances-ticket-restaurant-or-ticket-resto-program-explained/] platforms. We identified that by creating a Business Accounts feature and by integrating with EdenRed other French ticket restaurant providers, both French and non-French cooperatives can offer a service to businesses that can represent regular and well-paid work with stable clients (something hard to find in food delivery) during strategic times (weekday lunch). 
+
+# What is it?
+This feature exists to allow a business to have a private account with a CoopCycle instance so that its employees to make an order that comes from multiple restaurants and is delivered simultaneously. The local cooperative can associate specific restaurants to this business account and apply specific characteristics to these orders such as pricing rules, delivery time conditions, cutoff times, etc. This allows the local cooperative to only do multiple-pickup orders with restaurants that they know will have the orders prepared at the correct time, offer specialized prices and menus for these services that are different from the normal platform, and limit the service times to those that make sense for the business case.
+
+The goal is for a cooperative to be able to offer tailored agreements to different businesses. Maybe the cooperative wants to charge a flat fee per month and the business gets free deliveries for all its employees. Or maybe the business wants to make large catering orders regularly, so the cooperative decides to lower the percentage that they request from the restaurants. 
+
+# How to set up Business Accounts
+First, go to the (Restaurants page)[https://demo.coopcycle.org/admin/restaurants] represented by a cart icon in the top right menu and click on "More Options", then click on "Business Restaurant Groups". 
+
+### Business Restaurant Groups
+Here you can create a new restaurant group or edit an existing one. In the general settings of each group you can change the name of the restaurant group and add restaurants and the menu they would like to offer to these clients. 
+
+Remember to make sure the restaurant has made a menu that works with this service model! If they have something that takes particularly long to prepare or can cause problems, they should make a new menu in their restaurant configuration that only has the products they wish to offer for this service. They can also modify the prices of their products for a specific restaurant group in the products configutaion page if they would like to offer special deals for business clients.
+
+*ADD IMAGE CHANGING PRICE FOR RESTAURANT GROUPS IN PRODUCT OPTIONS*
+
+In the Fulfilment page the Restaurant Group must have its own time range and other conditions just like a restaurant on the normal platform. This will only impact orders made through the business acconut portal, not other normal orders. 
+
+Finally, the Settlement page is where the cooperative must create the specific pricing they would like to apply to this use case. This way they can offer special deals to encourage restaurants to join the service, or offer deals to the business itself such as a lower delivery fee. Remember that this will globally impact all orders made in the Business Account associated to this Business Restaurant Group, overriding your normal pricing rules. If you don't want different rules, just add the same as you have for the restaurants normally. 
+
+After finishing this section, the administrators of the cooperative need to go back to the Restaurants page, click on the "More Options" and then "Business Accounts"
+
+### Business Accounts
+Here there are the options to create a new Business Group or edit existing ones. Here there only is the option to name the group, add an administrator email to give access to the account for an adminstraator of the business, and associate a Restaurant Group. The users that an administrator has associated to their account and the orders they have made throught the service appear in the other two tabs, which allows the busines to understand what impact the service has had. 
+
+The administrator from the client business who is connected to the Business Account will now have new optons in their "My Account" page where they can see this information and manage the users associated to the account. 
+
+### What are we still working on?
+1. Right now we have not made any changes to dispatch to facilitate these orders. The next step will be looking at a series of improvements that will facilitate the combination of orders from multiple restuarants. This will likely include a reworking of how order codes are generated, and a feature to "combine" pickups and pass packages from one messenger to another with tracking throughout the process.
+2. We will soon have the ability for a cooperative to upload invoices to the Business Account in pdf format so that a business can see their invoices in one place. This will also set the stage for when automated invoices can be generated directly through CoopCycle.
+3. Group orders are obviously a useful feature to combine with Business Accounts. We will be doing a trial run in the coming weeks (March 2024) in order to make sure it works correctly when combined with business accounts. Since things can often break when big changes are made, especially when two of them together, we want to tread carefully before making this feature public.
+
+ADD EXAMPLES
