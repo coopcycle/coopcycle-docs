@@ -27,3 +27,6 @@ When this option is checked ☑️ you will find a new setting under <strong>Mor
 ![](/assets/images/enableDepositMoreOptionsDepRefund.png)
 
 <!--Go here to read about the restaurant [Product Navigation Menu](admin.restaurants.productmenu).-->
+
+### **Automatically accept orders** (Coming soon) {#auto-accept-orders}
+When this option is checked ☑️ the restaurant does not need to accept orders manually.
