@@ -18,6 +18,7 @@ email: contact@coopcycle.org
 description:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://docs.coopcycle.org" # the base hostname & protocol for your site, e.g. http://example.com
+repository: coopcycle/coopcycle-docs
 twitter_username: coopcycle
 github_username:  coopcycle
 
