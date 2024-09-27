@@ -5,3 +5,5 @@ _site
 .dendron.port
 .dendron.ws
 debug.log
+
+.idea
