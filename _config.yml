@@ -77,6 +77,9 @@ collections:
   admin:
     permalink: "/en/:collection/:path/"
     output: true
+  dispatch:
+    permalink: "/en/:collection/:path/"
+    output: true
   app:
     permalink: "/en/:collection/:path/"
     output: true
@@ -91,6 +94,8 @@ just_the_docs:
   collections:
     admin:
       name: Admin
+    dispatch:
+      name: Dispatch
     app:
       name: App
     developer:

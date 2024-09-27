@@ -4,7 +4,7 @@ title: Dashboard
 nav_order: 2
 ---
 
-# Dispatch
+# Dispatch dashboard
 
 ---
 
