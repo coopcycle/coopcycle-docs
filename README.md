@@ -1,13 +1,18 @@
 This site is built using Jekyll and hosted on GitHub Pages.
 
 To install:
-```
+
+```sh
 gem install bundler jekyll
 ```
 
-To run it locally:
-```
+```sh
 bundle install
+```
+
+To run it locally:
+
+```sh
 bundle exec jekyll serve --safe
 ```
 
