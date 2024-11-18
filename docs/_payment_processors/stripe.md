@@ -26,7 +26,7 @@ Stripe has established itself as the "rolls-royce" of payment services. The serv
 ### What do you want to do?
 
 - [Set up a Coop Stripe account](#setting-up-the-cooperatives-stripe-account) and connect it with my CoopCycle instance.
-- [Create a Restaurant Stripe account](/en/admin/restaurants/creating-a-restaurant/#creating-a-stripe-account) and connect it with the CoopCycle Restaurant account.
+- [Create a Restaurant Stripe account](/en/food-tech/restaurants/creating-a-restaurant/#creating-a-stripe-account) and connect it with the CoopCycle Restaurant account.
 
 <div class="alert mt-3 alert-info">
     You can also ask you local coop to create a Stripe account on your behalf and they can seamlessly integrate with your e-commerce account. Then they will give you admin access to your Stripe account.

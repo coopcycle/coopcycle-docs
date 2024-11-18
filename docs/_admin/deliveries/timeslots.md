@@ -39,7 +39,7 @@ This setting allows orders to be delivered on the same day if orders are placed 
 <span> <strong>Mode simple</strong> will be deprecated. Instead use <strong>Mode avancé</strong></span>
 </div>
 
-See here on how to set up <a href="/en/admin/restaurants/general-settings/#delivery-time-slots">time slots</a>.
+See here on how to set up <a href="/en/food-tech/restaurants/general-settings/#delivery-time-slots">time slots</a>.
 
 Click <span class="badge badge-primary">Save</span> after you've set up the time slots.
 

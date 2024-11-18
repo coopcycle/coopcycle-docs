@@ -34,7 +34,7 @@ When making a refund of an order, the refunded amount is returned to the custome
    You cannot make a refund larger than the amount of the order.  
    
    ### Liable party
-   Selecting one of the two options here, all it does is keep a record of who is the liable party under [Statistics → Refunds](/en/admin/restaurants/product-settings/#refunds).
+   Selecting one of the two options here, all it does is keep a record of who is the liable party under [Statistics → Refunds](/en/food-tech/restaurants/product-settings/#refunds).
    
    <div class="shadow p-3 mb-5 bg-white rounded border border-danger">
    <span class="badge badge-danger">IMPORTANT:</span>
@@ -46,7 +46,7 @@ When making a refund of an order, the refunded amount is returned to the custome
 
 4. Click on <span class="badge badge-danger">Refund</span>
    
-Once a refund has been made you can check the refunded amount on the same page of the order under **Refunded Amount** or by going to [Statistics → Refunds](/en/admin/restaurants/product-settings/#refunds).
+Once a refund has been made you can check the refunded amount on the same page of the order under **Refunded Amount** or by going to [Statistics → Refunds](/en/food-tech/restaurants/product-settings/#refunds).
 
 
 

@@ -31,8 +31,8 @@ A hub allows grouping together Restaurants sharing one pickup address under one 
 
 6. Under **List of merchants** use the *Search* field to search and select the restaurants that will be part of the Hub.
 
-7. In the `Fulfillment` tab follow the same set up steps as for individual restaurants, see the guide [here](/en/admin/restaurants/general-settings/#fulfillment-methods).
+7. In the `Fulfillment` tab follow the same set up steps as for individual restaurants, see the guide [here](/en/food-tech/restaurants/general-settings/#fulfillment-methods).
 
-8. In the `Settlement` tab follow the same set up steps as for individual restaurants, see the guide [here](/en/admin/restaurants/general-settings/#settlement).
+8. In the `Settlement` tab follow the same set up steps as for individual restaurants, see the guide [here](/en/food-tech/restaurants/general-settings/#settlement).
 
     <span class="badge badge-danger">IMPORTANT:</span><span> The <strong>Stripe</strong> fees are always paid by the Coop in Hubs.</span>

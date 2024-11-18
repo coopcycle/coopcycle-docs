@@ -29,7 +29,7 @@ nav_order: 1
 
    [![](/assets/images/createrestaurant.png)](/assets/images/createrestaurant.png){:target="\_blank"}<br>
 
-<span class="badge badge-warning">ATTENTION:</span><span> After clicking on <span class="badge badge-success">+ Create a new restaurant</span> please go to <a href="/en/admin/restaurants/general-settings/">Restaurant general settings</a> and configure the Restaurant before continuing on this page.</span>
+<span class="badge badge-warning">ATTENTION:</span><span> After clicking on <span class="badge badge-success">+ Create a new restaurant</span> please go to <a href="/en/food-tech/restaurants/general-settings/">Restaurant general settings</a> and configure the Restaurant before continuing on this page.</span>
 
 ## Creating a Restaurant Stripe account
 
