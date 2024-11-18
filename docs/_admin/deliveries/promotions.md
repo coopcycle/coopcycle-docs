@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Promotions
-parent: Orders
+parent: Deliveries
 nav_exclude: true
 ---

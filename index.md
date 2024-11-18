@@ -52,15 +52,15 @@ redirect_from:
         <hr />
         <p>
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/admin/restaurants/creating-a-restaurant/#creating-a-restaurant-on-coopcycle">Set up the Account</a>
+          <a href="/en/food-tech/restaurants/creating-a-restaurant/#creating-a-restaurant-on-coopcycle">Set up the Account</a>
         </p>
         <p class="card-text">
           <i class="fa fa-arrow-right" aria-hidden="true"></i>
-          <a href="/en/admin/restaurants/product-settings/#product-settings">Set up the Products</a>
+          <a href="/en/food-tech/restaurants/product-settings/#product-settings">Set up the Products</a>
         </p>
         <p class="pt-3">
-          <a href="/en/admin/orders/promotions/" class="btn btn-primary" role="button">Promotions</a>
-          <a href="/en/admin/orders/refunds/" class="btn btn-light" role="button">Refunds</a>
+          <a href="/en/food-tech/promotions/" class="btn btn-primary" role="button">Promotions</a>
+          <a href="/en/food-tech/refunds/" class="btn btn-light" role="button">Refunds</a>
         </p>
       </div>
     </div>
@@ -151,4 +151,4 @@ redirect_from:
     </div>
   </div>
 </div>
--->
+-->

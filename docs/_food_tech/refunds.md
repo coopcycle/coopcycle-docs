@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Refunds
-parent: Orders
 ---
 
 # Refunds

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Promotions
-parent: Orders
 ---
 
 

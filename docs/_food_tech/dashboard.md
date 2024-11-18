@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Foodtech dashboard
-nav_order: 2
+title: Orders dashboard
+nav_order: 3
 ---
 
-# Foodtech dashboard
+# Orders dashboard
 
 ---
 
