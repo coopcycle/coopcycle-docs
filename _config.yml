@@ -75,13 +75,13 @@ collections_dir: docs
 
 collections:
   food_tech:
-    permalink: "/en/:collection/:path/"
+    permalink: "/en/food-tech/:path/"
     output: true
   local_commerce:
-    permalink: "/en/:collection/:path/"
+    permalink: "/en/local-commerce/:path/"
     output: true
   last_mile:
-    permalink: "/en/:collection/:path/"
+    permalink: "/en/last-mile/:path/"
     output: true
   admin:
     permalink: "/en/:collection/:path/"
