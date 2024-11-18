@@ -1,10 +1,20 @@
 ---
 layout: default
-title: Orders dashboard
-nav_order: 3
+title: Orders
 ---
 
-# Orders dashboard
+# Orders
+
+An order can have these following status :
+
+- New, the order was not accepted by the restaurant yet
+- Accepted, the order is in preparation
+- Refused, the order has been refused
+- Ready, the order is waiting a bike messenger or its delivery is underway
+- Done, the order was delivered
+- Cancelled, the order was cancelled by the client or the restaurant
+
+# Dashboard
 
 ---
 

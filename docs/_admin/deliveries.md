@@ -8,14 +8,14 @@ nav_order: 3
 # Deliveries
 
 <div class="alert mt-3 alert-info" role="alert">
-Here you will find all the settings related to last mile deliveries. 
+Here you will find all the settings related to local commerce and last mile deliveries. 
 </div>
 
 ---
 
 By clicking on <span><i class="fa fa-bicycle" aria-hidden="true"></i> Deliveries</span> the main screen will display all the deliveries from Stores and from the External Form.
 
-On the left-hand side are displayed settings related to both Deliveries and Orders.
+On the left-hand side are displayed settings related to Delivery orders.
 
 On the Deliveries main page you can do the following:
 

@@ -4,25 +4,7 @@ title: Orders
 nav_order: 2
 ---
 
-# Orders
-
-Orders page displays the orders engaged by clients on the platform. It enables to manage restaurant's orders.
-
-There are two types of orders :
-
-- Foodtech orders, engaged by end customers
-- Orders of deliveries, engaged with the integrated form for instance.
-
-An order can have these following status :
-
-- New, the order was not accepted by the restaurant yet
-- Accepted, the order is in preparation
-- Refused, the order has been refused
-- Ready, the order is waiting a bike messenger or its delivery is underway
-- Done, the order was delivered
-- Cancelled, the order was cancelled by the client or the restaurant
-
-## List of orders
+# List of orders
 
 ![Commandes](/assets/images/orders_fr.png)
 
