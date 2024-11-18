@@ -74,6 +74,15 @@ relative_links:
 collections_dir: docs
 
 collections:
+  food_tech:
+    permalink: "/en/:collection/:path/"
+    output: true
+  local_commerce:
+    permalink: "/en/:collection/:path/"
+    output: true
+  last_mile:
+    permalink: "/en/:collection/:path/"
+    output: true
   admin:
     permalink: "/en/:collection/:path/"
     output: true
@@ -92,6 +101,12 @@ collections:
 
 just_the_docs:
   collections:
+    food_tech:
+      name: "Activity: Food Tech"
+    local_commerce:
+      name: "Activity: Local Commerce"
+    last_mile:
+      name: "Activity: Last Mile"
     admin:
       name: Admin
     dispatch:

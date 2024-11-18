@@ -16,6 +16,33 @@ collection_fields: &COLLECTION_FIELDS
     widget: markdown
 
 collections:
+  - name: "food_tech"
+    label: "Food Tech"
+    folder: "docs/_food_tech"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
+  - name: "local_commerce"
+    label: "Local Commerce"
+    folder: "docs/_local_commerce"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
+  - name: "last_mile"
+    label: "Last Mile"
+    folder: "docs/_last_mile"
+    format: frontmatter
+    # nested:
+    #   depth: 4 # max depth to show in the collection tree
+    #   summary: '{{title}}' # optional summary for a tree node, defaults to the inferred title field
+    create: true
+    fields: *COLLECTION_FIELDS
   - name: "admin"
     label: "Admin"
     folder: "docs/_admin"
