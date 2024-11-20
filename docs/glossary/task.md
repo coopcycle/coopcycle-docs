@@ -6,23 +6,15 @@ parent: Glossary
 
 # Task
 
-A **task** is the smallest unit of work.
-
-A **task** is a To-Do unit under a specific address and a set timeframe.
+A **task** is the smallest unit of work. Pick or drop something (packages) at some place in a given time window.
 
 There are **two** types of tasks:
-- **Pickup** or Collection
-- **Dropoff** or Delivery
+- **Pickup**
+- **Dropoff**
 
-#### Pickup and Dropoff
+Tasks statuses are:
+- To-do 
+- Cancelled / cancellado / annulée
+- Finished / terminado / completado
 
-The following information must be completed by the dispatcher for each task:
-- Address
-- Time range
-- Commentary
-
-The following information is used to track the progress of a task in the delivery process:
-
-- Status
-- History
-  The courier must pick up merchandise at an address and bring it to another address.
+On the CoopCycle platform, tasks exists within a delivery (list of tasks to execute in order). Creating tasks as standalone units is deprecated.
