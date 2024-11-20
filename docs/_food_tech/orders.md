@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Orders
+title: Foodtech orders
 ---
 
-# Orders
+# Foodtech orders
 
 An order can have these following status :
 
@@ -14,9 +14,9 @@ An order can have these following status :
 - Done, the order was delivered
 - Cancelled, the order was cancelled by the client or the restaurant
 
-# Dashboard
+# Foodtech orders live management dashboard
 
----
+From the admin, go to the "Orders" page, then click on "Dashboard" icon. This will lead you to the "live order management" where foodtech dispatch can manage incoming orders.
 
 <span class="zoomable">![Dashboard](/assets/images/foodtech_dashboard.png)</span>
 
