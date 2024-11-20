@@ -13,7 +13,7 @@ Here you will find all the settings related to local commerce and last mile deli
 
 ---
 
-By clicking on <span><i class="fa fa-bicycle" aria-hidden="true"></i> Deliveries</span> the main screen will display all the deliveries from Stores and from the External Form.
+By clicking on <span><i class="fa fa-bicycle" aria-hidden="true"></i> Deliveries</span> the main screen will display all the deliveries from Stores and from the External Form. Each delivery is linked to a store.
 
 On the left-hand side are displayed settings related to Delivery orders.
 

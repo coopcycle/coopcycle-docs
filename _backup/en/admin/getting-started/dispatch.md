@@ -12,38 +12,11 @@ custom_scripts:
 
 # Dispatch
 
-The administration dashboard (called dashboard in this document) allows you to control all the functions for creating and managing tasks as well as to manage the dispatch of couriers manually. It is possible to display it in full screen by clicking on the button
+The dispatch panel enbables you to manage the dispatch to riders manually. It is possible to display it in full screen by clicking on the expand button.
 
-<span class="zoomable">![Dashboard](/assets/images/dashboard_fr.png)</span>
+## <s>Add / Create a task</s>
 
-## Create, assign and edit a task
-
-A task is created by clicking on the <i class = "fa fa-plus fa-lg" aria-hidden = "true"> </i> button in the `Unassigned` section of the dashboard. A popup opens and allows you to configure the task. Three actions are possible for a task:
-- Add, which allows you to create a task
-- Edit, which allows you to change or check the status and history of a task
-- Finish the task, which allows the status change of the task by:
-   - To Do
-   - Success
-   - Failure
-
-As long as a task is not assigned to a courier, the latter remains in the `Unassigned` section.
-
-## Add / Create a task
-
-   The following information is available to create a task:
-* Checkbox: type of task
-  - Pickup
-  - DropOff
-* Field: address of drop-off or pick-up point
-* `+`: more options
-  - Field: Postal code (automatic filling)
-  - Field: City (automatic filling)
-  - Field: Floor
-  - Field: instructions
-* Dropdown: niche of achievement
-  - Start date
-  - End date
-* Dropdown: choose a tag
+Creating standalone tasks is deprecated, create [deliveries](/en/admin/deliveries) instead.
 
 ## Edit a task
 
@@ -112,23 +85,9 @@ It is possible to combine the filters.
 
 To change the day, just use the drop-down calendar to the left of the top bar of the dashboard.
 
-## Import tasks from a CSV file
+## <s>Import tasks from a CSV file</s>
 
-To avoid manually creating a large number of tasks, it is possible to mass import them via a CSV file. On the dashboard, click on the `Import` button: a window opens to allow you to upload a file. You must at least specify an address for each task, the other columns are optional. To import a file, click on the `Import 'button located on the top bar of the dashboard.
-
-The before and after columns to specify the time slot accept values in different formats. Here are the values of the columns accompanied by an example:
-- type
-- address.name
-- address.telephone
-- address
-- adress.floor
-- address.description
-- after
-- before
-- comments
-- tags
-
-You can download a [sample file](https://demo.coopcycle.org/help/tasks_import.example.en.csv).
+Creating standalone tasks is deprecated, create [deliveries](/en/admin/deliveries) instead.
 
 ## Export tasks in a CSV file
 
