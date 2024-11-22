@@ -32,7 +32,7 @@ redirect_from:
           Connect Stripe to the Platform</a>
         </p>
         <p>
-          <i class="fa fa-arrow-right" aria-hidden="true"></i><a href="/en/payment_processors/stripe/#setting-up-the-cooperatives-stripe-account">
+          <i class="fa fa-arrow-right" aria-hidden="true"></i><a href="/en/food-tech/restaurants/creating-a-restaurant/#creating-a-restaurant-stripe-account">
           Connect Stripe to a Restaurant</a>
         </p>
         <p class="pt-3">
@@ -151,4 +151,4 @@ redirect_from:
     </div>
   </div>
 </div>
--->
+-->
