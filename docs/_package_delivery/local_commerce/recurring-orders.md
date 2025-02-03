@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Recurring orders
+parent: Local Commerce
 ---
 
 # Recurring orders

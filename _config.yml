@@ -77,11 +77,8 @@ collections:
   food_tech:
     permalink: "/en/food-tech/:path/"
     output: true
-  local_commerce:
-    permalink: "/en/local-commerce/:path/"
-    output: true
-  last_mile:
-    permalink: "/en/last-mile/:path/"
+  package_delivery:
+    permalink: "/en/package-delivery/:path/"
     output: true
   admin:
     permalink: "/en/:collection/:path/"
@@ -103,10 +100,8 @@ just_the_docs:
   collections:
     food_tech:
       name: "Activity: Food Tech"
-    local_commerce:
-      name: "Activity: Local Commerce"
-    last_mile:
-      name: "Activity: Last Mile"
+    package_delivery:
+      name: "Activity: Package Delivery"
     admin:
       name: Admin
     dispatch:
