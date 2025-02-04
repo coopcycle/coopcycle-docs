@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Users
-nav_order: 5
 ---
 
 # Management of users
