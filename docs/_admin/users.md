@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Users
+nav_order: 5
 ---
 
 # Management of users
 
-The list of administrators is available in the page `Users`. This list describes accounts which are inscribed on the platform and their associated informations. It also enables to add/create a new user.
+The list of administrators is available in the page <a href="/en/web/admin/users">Users</a>. This list describes accounts which are inscribed on the platform and their associated informations. It also enables to add/create a new user.
 
 ## User profil
 

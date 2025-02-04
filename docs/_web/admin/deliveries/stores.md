@@ -36,7 +36,7 @@ Stores, also known as <em>Backoffice</em>, are accounts without an e-commerce ou
    #### **Pricing**
    Choose a pricing that corresponds for each Store. As Stores don't handle payments, the Pricing is mostly used for record-keeping and invoicing (the latter is done outside the platform).
 
-   See here on how to [create a pricing](/en/admin/deliveries/pricing/).
+   See here on how to [create a pricing](/en/web/admin/deliveries/pricing/).
 
    #### **Additional settings**  
 <br>
@@ -52,19 +52,19 @@ Stores, also known as <em>Backoffice</em>, are accounts without an e-commerce ou
    #### **Time slot**
    Choose a time slot that corresponds for each Store. 
 
-   See here on how to [create a time slot](/en/admin/deliveries/timeslots/).
+   See here on how to [create a time slot](/en/web/admin/deliveries/timeslots/).
 
    #### **Package set**
 
    Choose a package that corresponds for each Store.
 
-   See here on how to [create a package](/en/admin/deliveries/packages/).
+   See here on how to [create a package](/en/web/admin/deliveries/packages/).
    
    #### **Tags**
 
    A store tag is different than a task tag. Choosing a tag for a Store will automatically place the tag to both tasks when a delivery is created.
 
-   See here on how to [create a tag](/en/admin/deliveries/tags/).  
+   See here on how to [create a tag](/en/web/admin/deliveries/tags/).  
 
 1. Click <span class="badge badge-success"> <i class="fa fa-plus"></i> Save</span>
    After saving settings new settings will be visible on the right-hand pane.

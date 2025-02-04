@@ -2,7 +2,6 @@
 layout: default
 title: Configuring Google Maps
 has_children: false
-nav_order: 4
 ---
 
 # Change the map suggestions provider

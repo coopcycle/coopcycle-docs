@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Statistics
-nav_exclude: true
+parent: Admin
+nav_order: 6
 ---
 
+# Statistics

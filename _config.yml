@@ -74,16 +74,16 @@ relative_links:
 collections_dir: docs
 
 collections:
+  admin:
+    permalink: "/en/:collection/:path/"
+    output: true
   food_tech:
     permalink: "/en/food-tech/:path/"
     output: true
   package_delivery:
     permalink: "/en/package-delivery/:path/"
     output: true
-  admin:
-    permalink: "/en/:collection/:path/"
-    output: true
-  dispatch:
+  web:
     permalink: "/en/:collection/:path/"
     output: true
   app:
@@ -98,14 +98,14 @@ collections:
 
 just_the_docs:
   collections:
+    admin:
+      name: "Admin guide"
     food_tech:
       name: "Activity: Food Tech"
     package_delivery:
       name: "Activity: Package Delivery"
-    admin:
-      name: Admin
-    dispatch:
-      name: Dispatch
+    web:
+      name: Web
     app:
       name: App
     developer:

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Orders
+parent: Admin
 nav_order: 2
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: Order Form
 parent: Deliveries
+nav_order: 5
 ---
 
 # External display (Order form)
@@ -19,18 +20,18 @@ The platform allows you to create multiple, independent delivery forms.
    ### **Pricing**
    Choose a pricing that corresponds for each Order form.
 
-   See here on how to [create a pricing](/en/admin/deliveries/pricing/).
+   See here on how to [create a pricing](/en/web/admin/deliveries/pricing/).
    ### **Time slot**
    Choose a time slot that corresponds for each Order form. 
 
    The default option `Choose a time slot` allows the user to select a custom time.
 
-   See here on how to [create a time slot](/en/admin/deliveries/timeslots/).
+   See here on how to [create a time slot](/en/web/admin/deliveries/timeslots/).
 
    ### **Package set**
    Choose a package that corresponds for each Order form.
 
-   See here on how to [create a package](/en/admin/deliveries/packages/)
+   See here on how to [create a package](/en/web/admin/deliveries/packages/)
 
    ### Add a vehicle choice
    Checking ☑️ this option will give the user a choice between a **regular bicycle** or a **cargo bike** to choose from dependant on their parcel size.

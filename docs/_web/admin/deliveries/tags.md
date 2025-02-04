@@ -2,6 +2,7 @@
 layout: default
 title: Tags
 parent: Deliveries
+nav_order: 10
 ---
 
 # Tags

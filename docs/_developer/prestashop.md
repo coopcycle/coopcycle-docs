@@ -6,7 +6,7 @@ parent: Plugins
 
 # Set up the CoopCycle plugin
 
-This requires that you've previously [set up a Store account](/en/admin/stores/) on your instance.
+This requires that you've previously [set up a Store account](/en/web/admin/deliveries/stores/) on your instance.
 
 1. Unfortunately, our PrestaShop plugin is not available on PrestaShop Addons. You will need to download [the latest version of the PrestaShop module from GitHub, as a .zip file](https://github.com/coopcycle/coopcycle-plugins/releases).
 

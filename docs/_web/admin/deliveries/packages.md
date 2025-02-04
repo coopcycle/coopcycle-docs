@@ -2,7 +2,7 @@
 layout: default
 title: Packages
 parent: Deliveries
-nav_exclude: true
+nav_order: 7
 ---
 
 # Packages

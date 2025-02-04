@@ -2,6 +2,7 @@
 layout: default
 title: Timeslots
 parent: Deliveries
+nav_order: 6
 ---
 
 # Time slots

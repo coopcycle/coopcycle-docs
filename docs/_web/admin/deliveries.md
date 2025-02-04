@@ -2,6 +2,7 @@
 layout: default
 title: Deliveries
 has_children: true
+parent: Admin
 nav_order: 3
 ---
 
@@ -15,7 +16,7 @@ Here you will find all the settings related to local commerce and last mile deli
 
 By clicking on <span><i class="fa fa-bicycle" aria-hidden="true"></i> Deliveries</span> the main screen will display all the deliveries from Stores and from the External Form. Each delivery is linked to a store.
 
-On the left-hand side are displayed settings related to "Delivery orders"/non-foodtech orders. Especially if you want deliveries to be priced (for invoicing for example), please read the [pricing section](en/admin/deliveries/pricing/).
+On the left-hand side are displayed settings related to "Delivery orders"/non-foodtech orders. Especially if you want deliveries to be priced (for invoicing for example), please read the [pricing section](/en/web/admin/deliveries/pricing/).
 
 On the Deliveries main page you can do the following:
 

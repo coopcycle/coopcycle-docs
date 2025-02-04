@@ -1,5 +1,8 @@
 ---
 layout: default
 title: Settings
-nav_exclude: true
+parent: Admin
+nav_order: 7
 ---
+
+# Settings

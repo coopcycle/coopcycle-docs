@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Promotions
+title: Invoicing
 parent: Deliveries
-nav_exclude: true
+nav_order: 3
 ---
+
+# Invoicing

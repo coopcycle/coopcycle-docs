@@ -39,7 +39,7 @@ If the **Amount charged by the platform** is higher than the **Amount paid by th
 
 ### Selecting `Yes`
 
-Selecting `yes` will allow you to use a custom delivery pricing. This can be configured [here](/en/admin/deliveries/pricing/).
+Selecting `yes` will allow you to use a custom delivery pricing. This can be configured [here](/en/web/admin/deliveries/pricing/).
 
 After you've configured the pricing use the dropdown menu to select it. *Make sure to select the same pricing* under both **Amount charged by the platform** and **Amount paid by the customer**.
 

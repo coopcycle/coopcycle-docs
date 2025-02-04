@@ -2,6 +2,7 @@
 layout: default
 title: Local Commerce
 has_children: true
+nav_order: 2
 ---
 
-# Local Commerce
+# Activity: Local Commerce

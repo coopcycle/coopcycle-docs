@@ -6,7 +6,7 @@ parent: Plugins
 
 # Set up the CoopCycle plugin
 
-This requires that you've previously [set up a Store account](/en/admin/stores/) on your instance.
+This requires that you've previously [set up a Store account](/en/web/admin/deliveries/stores/) on your instance.
 
 ## Set up the plugin on WordPress (WooCommerce)
 

@@ -2,6 +2,7 @@
 layout: default
 title: API
 parent: Deliveries
+nav_order: 11
 ---
 
 # API
@@ -26,7 +27,7 @@ These purchases (deliveries) will show up under your client's Store account.
 ## Create the API keys
 
 <div class="alert mt-3 alert-warning" role="alert">
-Before creating the <em>keys</em> (<strong>Identifier</strong> and <strong>Secret key</strong>) you need to <a href="/en/admin/stores/">create a Store</a> for that business. A pair of API keys are created for each individual Store.
+Before creating the <em>keys</em> (<strong>Identifier</strong> and <strong>Secret key</strong>) you need to <a href="/en/web/admin/deliveries/stores/">create a Store</a> for that business. A pair of API keys are created for each individual Store.
 </div>
 
 On the API main page a list of all create API keys will be displayed.

@@ -4,6 +4,7 @@ title: Zones
 parent: Deliveries
 redirect_from:
   - /en/tutorials/zones.html
+nav_order: 8
 ---
 
 # Zones

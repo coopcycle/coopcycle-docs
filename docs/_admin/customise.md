@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Customise
-parent: Deliveries
 ---
 
 # Customize

@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Dashboard
-nav_order: 2
+title: Dispatch dashboard
+parent: Admin
+nav_order: 1
 ---
 
 # Dispatch dashboard
@@ -14,7 +15,7 @@ The administration dashboard (called dashboard in this document) allows you to c
 
 ## <s>Add / Create a task</s>
 
-Creating standalone tasks is deprecated, create [deliveries](/en/admin/deliveries) instead.
+Creating standalone tasks is deprecated, create [deliveries](/en/web/admin/deliveries) instead.
 
 ## Edit a task
 
@@ -87,7 +88,7 @@ To change the day, just use the drop-down calendar to the left of the top bar of
 
 ## <s>Import tasks from a CSV file</s>
 
-Creating standalone tasks is deprecated, create [deliveries](/en/admin/deliveries) instead.
+Creating standalone tasks is deprecated, create [deliveries](/en/web/admin/deliveries) instead.
 
 ## Export tasks in a CSV file
 

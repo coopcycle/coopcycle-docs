@@ -1,18 +1,15 @@
 ---
 layout: default
 title: Pricing
-parent: Deliveries
 ---
 
 # Pricing
 
 <div class="alert mt-3 alert-info" role="alert">
-Here you can configure a custom pricing to use for Orders forms, Restaurants and Stores.<br>
-The custom pricing can contain multiple Rules and each Rule can be configured by combining the different Conditions. <!--See <a href="/en/admin/deliveries/pricing/#definitions-of-conditions">Definitions of Conditions</a> to know more.-->
+
+Pricing can be configured on the <a href="/en/web/admin/deliveries/pricing">Pricing page</a>
 
 </div>
-
----
 
 ## The Basics
 CoopCycle's pricing rules are the result of many different people asking for many different types of pricing rules over time. This means that pricing rules are highly complex, but if you understand how they work and have a bit of imagination, you can probably do most anything. Here we will talk exclusively about the pricing rules that apply to **non-platform deliveries** (i.e. restaurant food tech orders paid over Stripe). There are 4 main types of deliveries that are easily programmed in CoopCycle currently:
