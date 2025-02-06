@@ -44,7 +44,11 @@ title: Invoicing with Odoo
 
    Make sure that all prices are entered correctly and match the amount you are going to charge a client.   
 
-   If something is not correct click on the `View` button next to each order to go to the order details page and modify the data.
+   <div class="alert mt-3 alert-info" role="alert">
+
+   Only `Subtotal (excl. VAT)` prices are exported to Odoo. `Taxes` and `Total (incl. VAT)` columns are for information only. The actual tax calculation is done on Odoo side.
+
+   </div>
 
    <div class="alert mt-3 alert-warning" role="alert">
 
@@ -52,9 +56,11 @@ title: Invoicing with Odoo
 
    </div>
 
-   <span class="zoomable">![image6](/assets/images/invoicing_16.59.30.png)</span>
+   1. If something is not correct click on the `View` button next to each order to go to the order details page and modify the data.
 
-   3.1. On the order details page you can:
+      <span class="zoomable">![image6](/assets/images/invoicing_16.59.30.png)</span>
+
+   2. On the order details page you can:
 
       - Update a Description and/or an original price: click on the `Edit` button:
 
