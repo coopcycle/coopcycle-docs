@@ -24,15 +24,18 @@ In order to use Google Maps as a suggestions provider, you need to request a Goo
 ### Select your country.
 ### Accept **Terms of Service**
 ### Click **AGREE AND CONTINUE**.
-    <p class="shadow-sm p-1 mb-3 bg-white rounded"><a href="/assets/images/google1.png" target="\_blank" rel="noopener noreferrer"><img style="width: 800px" src="/assets/images/google1.png" alt=""></a></p>    
+
+<p class="shadow-sm p-1 mb-3 bg-white rounded"><a href="/assets/images/google1.png" target="\_blank" rel="noopener noreferrer"><img style="width: 800px" src="/assets/images/google1.png" alt=""></a></p>    
 
 ### Click on **Select a project** on the top bar.
-   <p><a href="/assets/images/google1b.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google1b.png" alt=""></a></p>
+
+<p><a href="/assets/images/google1b.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google1b.png" alt=""></a></p>
 
 ### On the pop-up, click on **New Project** on the top right
 
 ### Type a **Project name** and click <span class="badge badge-success"> <i class="fa fa-plus"></i> CREATE</span> at the bottom.
-    <p><a href="/assets/images/google2.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google2.png" alt=""></a></p>
+
+<p><a href="/assets/images/google2.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google2.png" alt=""></a></p>
 
 ### Go to the Billing settings
 <p><a href="/assets/images/google11.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google11.png" alt=""></a></p>
@@ -49,13 +52,15 @@ This means you have successfully enabled Billing for this google project.
 <p><a href="/assets/images/google12.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google12.png" alt=""></a></p>
 
 ### Select **API and Services**, then **Library** on the left sidebar.
-    <p ><a href="/assets/images/google3.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google3.png" alt=""></a></p>
+
+<p><a href="/assets/images/google3.png" target="\_blank" rel="noopener noreferrer"><img class="shadow-sm p-1 mb-3 bg-white rounded" style="width: 800px" src="/assets/images/google3.png" alt=""></a></p>
 
 ### Search for the following 3 settings and **Enable** them:
 
-    | Geocoding API                                     | Maps JavaScript API                               | **Places API (New)**                                        |
-    | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-    | <a href="/assets/images/google6.png" target="\_blank" rel="noopener noreferrer"><img style="width: 800px" src="/assets/images/google6.png" alt=""></a>|<a href="/assets/images/google7.png" target="\_blank" rel="noopener noreferrer"><img style="width: 800px" src="/assets/images/google7.png" alt=""></a>|<a href="/assets/images/google8.png" target="\_blank" rel="noopener noreferrer"><img style="width: 800px" src="/assets/images/google8.png" alt=""></a>|
+| Geocoding API                                     | Maps JavaScript API                               | **Places API (New)**                              |
+| ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
+|<img style="width: 800px" src="/assets/images/google6.png" alt="">|<img style="width: 800px" src="/assets/images/google7.png" alt="">|<img style="width: 800px" src="/assets/images/google8.png" alt="">|
+
 
 There is a Places service and Places (New) service you need Places (new)!
  
