@@ -62,7 +62,7 @@ This means you have successfully enabled Billing for this google project.
 |<img style="width: 800px" src="/assets/images/google6.png" alt="">|<img style="width: 800px" src="/assets/images/google7.png" alt="">|<img style="width: 800px" src="/assets/images/google8.png" alt="">|
 
 
-There is a Places service and Places (New) service you need Places (new)!
+There is a *Places* service and *Places (New)* service you need *Places (new)*.
  
 
 <div class="shadow p-3 mb-3 bg-white rounded border border-danger">
