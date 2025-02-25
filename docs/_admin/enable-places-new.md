@@ -25,4 +25,4 @@ This document describes how to enable the new places API for existing google acc
 OR
     * select "restict key" + in the selected APIs add "Places API (New)"
 
-<img style="width: 800px" src="/assets/images/restrictions.png" alt="">
+<img style="width: 800px" src="/assets/images/google-key-restrictions.png" alt="">
