@@ -12,7 +12,7 @@ This document describes how to enable the new places API for existing google acc
 - Click "API and services"
 - click "enable APIs and services"
 - in the search field write "place" and select "places API (new)"
-- click on the big "activate" button
+- click on the big "ENABLE" button
 
 ### Activate google places api new for your API key
 
