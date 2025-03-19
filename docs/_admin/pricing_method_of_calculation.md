@@ -8,7 +8,7 @@ nav_order: 1
 
 # Method of calculation
 
-<span class="badge badge-info">INFO: </span><span> <strong>A matching rule</strong> is a rule where <strong>all</strong> the [Conditions](/en/admin/pricing_conditions) are true </span>.
+<span class="badge badge-info">INFO: </span><span> <strong>A matching rule</strong> is a rule where <strong>all</strong> the [Conditions](/en/admin/pricing_rule) are true </span>.
 
 a. **The first rule that matches** works best with **Fixed price**.
 
