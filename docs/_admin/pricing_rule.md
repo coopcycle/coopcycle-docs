@@ -54,9 +54,9 @@ Price can be calculated using the following methods:
 
 <span class="badge badge-info">INFO:</span> Use only with the **[Method of calculation](/en/admin/pricing_method_of_calculation)**: All the matching rules.
 
-| DEFINITION | Type of rule: Rule per order                                | Type of rule: Rule per point        |
-|------------|-------------------------------------------------------------|-------------------------------------|
-| SUBTOTAL| Sum of all Rules per task and all preceding rules per order | Sum of all preceding Rules per task |
+| DEFINITION | Type of rule: Rule per order                                 | Type of rule: Rule per point         |
+|------------|--------------------------------------------------------------|--------------------------------------|
+| SUBTOTAL| Sum of all Rules per point and all preceding rules per order | Sum of all preceding Rules per point |
 
 
 - **Price by ranges** : A price per kilometer, kilogram, or volume unit
