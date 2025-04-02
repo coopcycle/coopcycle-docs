@@ -17,3 +17,4 @@ nav_order: 2
 7. Click on <span class="badge badge-warning"><i class="fa fa-plus"></i> Add condition</span> to add one or as many conditions as necessary (to know more see [**Definitions of conditions**](/en/admin/pricing_rule)).
 8. Write the price of the rule at the bottom
 9. After you've configured your custom pricing, click <span class="badge badge-primary">Save</span>
+10. Try your new pricing in action, see the [**Testing**](/en/admin/pricing_testing) section.
