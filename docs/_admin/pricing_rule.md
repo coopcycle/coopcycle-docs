@@ -52,7 +52,7 @@ Price can be calculated using the following methods:
 - **Fixed price**: A fixed price for the rule
 - <span class="badge badge-info">SOON</span> **Percentage**: A percentage to be added or subtracted from the current subtotal. 
 
-<span class="badge badge-info">INFO:</span> Use only with the **[Method of calculation](/en/admin/pricing_method_of_calculation)**: All the matching rules.
+<span class="badge badge-info">INFO:</span>In most use cases, the **[Method of calculation](/en/admin/pricing_method_of_calculation)**: "All the matching rules" is required for the percentage-based price.
 
 | DEFINITION | Type of rule: Rule per order                                 | Type of rule: Rule per point         |
 |------------|--------------------------------------------------------------|--------------------------------------|
