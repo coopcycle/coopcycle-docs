@@ -31,7 +31,7 @@ Brief description of each condition.
 | CONDITION                  | DEFINITION                                                                             | Type of rule: Rule per order | Type of rule: Rule per point |
 | ----------------------       |----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
 | **Distance (km)**          | Determines the radius delivery area with the Business as the centre                    | ✅                                                                             | ❌ - not supported                                                             |
-| **Items total**            | Conditions the price dependand on the total amount of money on an order                | ✅                                                                             | ❌ - not supported                                                             |
+| **Items total**            | Conditions the price depending on the total amount of money on an order                | ✅                                                                             | ❌ - not supported                                                             |
 | **Pickup address**         | Allows the selection of a Zone that contains the Pickup address                        | ✅ - evaluated on the first pickup task                                        | ✅ - evaluated on each Pickup task                                             |
 | **Dropoff address**        | Allows the selection of a Zone that contains the Dropoff address                       | ✅ - evaluated on the last dropoff task                                        | ✅ - evaluated on each Dropoff task                                            |
 | **Difference (hours)**     | Allows inputting a number indicating how many hours ahead a Delivery has to be placed. | ✅ - evaluated on the first pickup task                                        | ⛔️ - deprecated (evaluated on each Pickup task)                               |
@@ -40,8 +40,8 @@ Brief description of each condition.
 | **Dropoff time range length**| Conditions the price depending on the length of time in which the dropoff can be done  | ✅ - evaluated on the last dropoff task                                        | ✅ - evaluated on each Dropoff task                                            |
 | **Weight (kg)**            | Conditions the price depending on the inputted weight of the parcel                    | ✅ - Total weight of all tasks                                                 | ✅ - Weight of each task (use only with Type of task: Dropoff)                 |
 | **Packages**               | Conditions the price depending on the type of package                                  | ✅ - Total number of packages                                                  | ✅ - Number of packages for each task (use only with Type of task: Dropoff)    |
-| **Volume Units**           | Conditions the price depending on the inputted volume of the parcel                    | ✅ - Total volume of all tasks                                                 | ✅ - Volume of each task (use only with Type of task: Dropoff)                 |
-| **Type of Task**           | Conditions the price depending on the type of task, plus whatever other condition.     | ❌ - not supported                                                             | ✅                                                                             |
+| **Volume Units**           | Conditions the price depending on the input volume of the parcel                       | ✅ - Total volume of all tasks                                                 | ✅ - Volume of each task (use only with Type of task: Dropoff)                 |
+| **Type of Task**           | Conditions the price depending on the type of task, plus whatever other conditions.    | ❌ - not supported                                                             | ✅                                                                             |
 | **Bike type**              | Allows for a choice of "regular" or "cargo" bike                                       | ⛔️ - deprecated                                                               | ⛔️ - deprecated                                                               |
 | **Doorstep dropoff**       | Indicates if a delivery should be handed to the customer                               | ⛔️ - deprecated                                                               | ⛔️ - deprecated                                                               |
 
@@ -59,5 +59,5 @@ Price can be calculated using the following methods:
 | SUBTOTAL| Sum of all Rules per point and all preceding rules per order | Sum of all preceding Rules per point |
 
 
-- **Price by ranges** : A price per kilometer, kilogram, or volume unit
+- **Price by ranges**: A price per kilometre, kilogram, or volume unit
 - **Price per package**: A price per package
