@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Activities
-parent: Glossary
 ---
 
 # Activities/Businesses type

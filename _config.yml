@@ -74,6 +74,9 @@ relative_links:
 collections_dir: docs
 
 collections:
+  essentials:
+    permalink: "/en/:collection/:path/"
+    output: true
   admin:
     permalink: "/en/:collection/:path/"
     output: true
@@ -98,6 +101,8 @@ collections:
 
 just_the_docs:
   collections:
+    essentials:
+      name: "Essentials"
     admin:
       name: "Admin guide"
     food_tech:
