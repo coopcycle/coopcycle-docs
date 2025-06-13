@@ -24,10 +24,18 @@ The recurrence rule can be configured while creating a new Delivery order:
 
 ### How to set up a custom recurrence rule
 
-To set up a custom recurrence rule, select the **Override recurrence rule** option under **Advanced** section and define the recurrence rule using the iCal format. For example, to create an order every 2 weeks on Monday and Thursday, you can use the following rule:
+To set up a custom recurrence rule, select the **Override recurrence rule** option under **Advanced** section and define the recurrence rule using the iCal format. For example:
+
+* To create an order every 2 weeks on Monday and Thursday, you can use the following rule:
 
 ```
-RRULE:FREQ=WEEKLY;BYDAY=MO,TH;INTERVAL=2
+RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=MO,TH
+```
+
+* To temporarily pause a recurrence rule: add a `COUNT` element equal to 1. To resume: remove the `COUNT` element
+
+```
+RRULE:FREQ=WEEKLY;COUNT=1;BYDAY=MO,TH
 ```
 
 <span class="zoomable">![List](/assets/images/recurrenceRulesOverride.png)</span>
