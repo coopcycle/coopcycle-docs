@@ -55,3 +55,9 @@ Orders (and tasks) will be automatically created based on the Recurrence rules
 To modify a recurrence rule, you can edit the existing rule in the **Recurrence rules** page. Click on the **Edit** button next to the rule you want to modify:
 
 <span class="zoomable">![List](/assets/images/recurrenceRulesList.png)</span>
+
+## How to delete a recurrence rule
+
+To delete a recurrence rule, you can unselect all the days of the week and save the rule. This will remove the recurrence rule from the list and stop creating orders based on it.
+
+<span class="zoomable">![List](/assets/images/recurrenceRulesDelete.png)</span>
