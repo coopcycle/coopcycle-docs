@@ -3,7 +3,7 @@ layout: default
 title: Recurrence rules
 parent: Recurring orders
 redirect_from:
-  - /en/package-delivery/local_commerce/recurrence-rules
+  - /en/package-delivery/local_commerce/recurrence-rules/
 ---
 
 # Recurrence rules
