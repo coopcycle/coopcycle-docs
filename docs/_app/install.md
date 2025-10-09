@@ -2,6 +2,8 @@
 layout: default
 title: Begin here
 nav_order: 1
+redirect_from:
+  - /en/app/
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.css">
