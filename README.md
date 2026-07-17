@@ -13,7 +13,7 @@ bundle install
 To run it locally:
 
 ```sh
-bundle exec jekyll serve --safe
+bundle exec jekyll serve --safe --port 1313
 ```
 
 ### Documentation

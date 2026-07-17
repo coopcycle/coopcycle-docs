@@ -7,3 +7,4 @@ _site
 debug.log
 
 .idea
+.DS_Store
