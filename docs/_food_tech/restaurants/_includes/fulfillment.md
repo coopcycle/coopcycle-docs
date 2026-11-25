@@ -16,7 +16,7 @@ Make sure you scroll down too see the settings for each section.
 ## Delivery section
 
 <div class="alert mt-3 alert-info" role="alert">
-These settings apply for the Collection section as well.
+These settings apply for both Collection and Delivery sections.
 </div>
 
 <span class="badge badge-info">TIP:</span><span> By unchecking either <strong>Delivery</strong> or <strong>Collection</strong> the respective fulfillment method will be made unavailable.</span>
@@ -26,11 +26,11 @@ These settings apply for the Collection section as well.
 <div class="alert mt-3 alert-warning" role="alert">
 <ul>
 <li>Time slots will be displayed on the homepage of the business</li>
-<li>They will act as the Delivery Hours of the business.</li>
-<li>The overall opening hours of the business can be 09:00 to 18:00 but for deliveries they may only be open from 12:00 to 18:00.</li></ul>
+<li>They will act as the available service hours of the fulfillment method</li>
+<li>The overall opening hours of the business can be 09:00 to 18:00 but for deliveries they may only be open from 12:00 to 18:00</li></ul>
 </div>
 
-When you've just created a business/restaurant from <span class="badge badge-success">+ Create a new restaurant</span> the Delivery Time slot under Fulfillment will show no time slots.
+When you've just created a business/restaurant from <span class="badge badge-success">+ Create a new restaurant</span> there will be no time slots listed for either Fulfillment method.
 Click <span class="badge badge-success">Add</span> to create a new time slot.
 
 <p class="shadow-sm p-2 mb-3 bg-white rounded"><a href="/assets/images/deliveryTimeSlotsAdd.png" target="\_blank" rel="noopener noreferrer"><img src="/assets/images/deliveryTimeSlotsAdd.png" alt="Add a new timeslot"></a></p>
