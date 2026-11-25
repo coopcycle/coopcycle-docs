@@ -9,7 +9,8 @@ This section allows you to configure the Collection and Delivery schedule along 
 - **Delivery** - the orders placed by customers are delivered by the coop
 - **Collection** - the order placed by customers are collected by the customers
 
-Checking either option will enable editing the corresponding schedule section.
+Checking either option will enable that fulfillment method for the business.
+Editing the corresponding schedule section for a fulfillment method is only possible for fulfillment methods that have been enabled.
 Make sure you scroll down too see the settings for each section.
 
 ## Delivery section
@@ -18,7 +19,7 @@ Make sure you scroll down too see the settings for each section.
 These settings apply for the Collection section as well.
 </div>
 
-<span class="badge badge-info">TIP:</span><span> By unchecking either <strong>Delivery</strong> or <strong>Collection</strong> the business will have its products greyed out, respectively of each option, not allowing customers to order.</span>
+<span class="badge badge-info">TIP:</span><span> By unchecking either <strong>Delivery</strong> or <strong>Collection</strong> the respective fulfillment method will be made unavailable.</span>
 
 ## Delivery time slots
 
